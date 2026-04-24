@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор 8-канальный HiWatch DS-N308/2P(D)</name>
+  <model>DS-N308/2P(D)</model>
+  <article>323475</article>
+  <sku>303617709</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>IP-видеорегистратор 8-канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>12626.78</price>
+  <price_wholesale>11469.33</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323475/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 8-ми канальный с 8 РоЕ; камеры до 8 Мп; Битрейт вход/вых - 80/80 Мбит/с; H.265+/H.265/H.264+/H.264; HDMI 4К, VGA; 2 SATA 8 ТБ; Аудио вх/выход 1/1; Тревожные вход/выход 4/1; 2х USB; Сеть 10M/100M; POE бюджет 80Вт; интеллектуальная видеоаналитика: («человек», «ТС») до 4 каналов; DC 48В; -10°C ...+55°C; 385×315×52 мм.Облачный сервис HIK-Connekt.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1HDMI/1VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>3840х2160; 1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>160</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264+;H.264</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>2 SATA х 8 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>385х315х52</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>document.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>passport.pdf</passport>
+    <passport>document_5.pdf</passport>
+  </files>
+  <documents>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/E/AED4004EBA88E98E461FCE2E8C356F49.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/6/46BCD6FFB924EDB8A3BC176E3AE49179.pdf</document>
+    <document title="Схема подключения тревожного входа/выхода" size="177.18 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/5/E5B1CF8EAEB85A8C03D50D06CB26BDD7.jpg</document>
+    <document title="Паспорт" size="432.87 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/C/7CB483506FA1F42DC8BE87B58657CC9B.pdf</document>
+    <document title="Настройка облачного сервиса Hik Connect" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B7639D6FCE98CB51B61E960D239CC998.pdf</document>
+  </documents>
+</product>

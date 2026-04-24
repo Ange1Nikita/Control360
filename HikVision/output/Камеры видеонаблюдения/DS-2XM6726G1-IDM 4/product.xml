@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XM6726G1-IDM 4</name>
+  <model>DS-2XM6726G1-IDM 4</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6726g1-idm-4-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>ИК-подсветка 10 м</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+    <paragraph>–30 ºС… +75 ºС, IP66, IK10</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2 Мп</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк (F/1.6, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: –30° ~ +30°, наклон: 0° ~ 75°, вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66, IK10</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>лампа дневного света, накаливания, теплого света, естественное освещение; ручн., авторегулировка баланса белого</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>4 мм, по горизонтали: 87°, по вертикали: 44°, по диагонали: 104°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.25</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>вручную</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>10 м</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.264, H.265, H.264+, H.265+, дополнительный поток: H.264, H.265, MJPEG, третий поток: H.264, H.265</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>256 Кбит/с ~ 12 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>постоянный, переменный</value>
+    </spec>
+    <spec>
+      <name>Тип потока</name>
+      <value>основной, дополнительный, третий</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>основной поток: 1 областьдополнительный поток: 1 область</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G711U, G711A, G726, AAC, G722, PCM, AAC</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>16 кГц</value>
+    </spec>
+    <spec>
+      <name>Фильтр шума окружающей среды</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, Email, RTP, RTSP, RTCP, NTP, UPnP, SMTP, SNMP, ICMP 802.1X, QoS, IPv6, Bonjour, ISUP 5.0</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 8 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (профили S, G, T), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 16 пользователей, 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE 8+, Chrome 45+, Edge 41+, Firefox 45+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, яркость, контрастность, насыщенность и резкость можно настроить через браузер или клиентское ПО</value>
+    </spec>
+    <spec>
+      <name>Переключение режимов день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображение</name>
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>более 50 дБ</value>
+    </spec>
+    <spec>
+      <name>Обрезка изображения</name>
+      <value>поддерживается (третий поток)</value>
+    </spec>
+    <spec>
+      <name>Наложение изображения</name>
+      <value>наложение изображения, загрузка изображений, включение, координаты и т. д.</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>настройка и поддержка рисования до 4 областей</value>
+    </spec>
+    <spec>
+      <name>Компенсация засветки (BLC)</name>
+      <value>регулировка компенсации засветки: вверх, вниз, влево, вправо, по центру и по настройке</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>четырехъядерный авиационный разъем M12</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для microSD, SDHC, SDXC-карты, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>1 встроенный микрофон, моно</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Тип интерфейса</name>
+      <value>интерполяция</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, оставленного багажа, перемещения объекта, детекция лиц и загрузка изображений событий, обнаружение изменения сцены, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, уведомление центра мониторинга, отправка e-mail, запись по тревоге</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø110.0×57.4 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>452 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –30 °C... +75 °C, влажность: менее 95 % (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Anti-Flicker, Heartbeat, зеркалирование</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 9 ~ 36 V, PoE (802.3af, от 36 до 57 В)</value>
+    </spec>
+    <spec>
+      <name>Мощность</name>
+      <value>7.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Интерфейс питания</name>
+      <value>четырехъядерный авиационный разъем M12</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский, немецкий, французский и русский</value>
+    </spec>
+    <spec>
+      <name>Программный сброс</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Длина кабеля</name>
+      <value>50 см</value>
+    </spec>
+    <spec>
+      <name>PoE</name>
+      <value>PoE (802.3 af)</value>
+    </spec>
+    <spec>
+      <name>Класс</name>
+      <value>класс B</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IK10 (IEC 62262:2002)</value>
+    </spec>
+    <spec>
+      <name>Транспортные и ж/д стандарты</name>
+      <value>EN50155-2017(EN 50155:2017, EN 50121-3-2:2016, IEC 60068-2-1:2007, IEC 60068-2- 2:2007, IEC 60068-2-30:2005, IEC 61373:2010); EN 45545 (EN 45545-2:2013+A1:2015); E-MARK (ECE R10)</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпИК-подсветка 10 мВстроенный микрофон–30 ºС… +75 ºС, IP66, IK10H.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/718/140_140_1/DS_2XM6726G1_IMND-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6726g1-idm-4-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XM6726G1-IDM 4&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

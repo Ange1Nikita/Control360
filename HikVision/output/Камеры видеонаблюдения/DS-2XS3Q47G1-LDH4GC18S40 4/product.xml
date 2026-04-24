@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера HikVision DS-2XS3Q47G1-LDH/4G/C18S40 4</name>
+  <model>DS-2XS3Q47G1-LDH/4G/C18S40 4</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>146290</price>
+  <product_url>https://www.dssl.ru/products/ds-2xs3q47g1-ldh-4g-c18s40-4-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>LED-подсветка 30 м</paragraph>
+    <paragraph>–20 ºC… +50 ºC, IP67</paragraph>
+    <paragraph>Модуль 4G, PIR-сенсор</paragraph>
+    <paragraph>DWDR, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0005 лк (F/1.0, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 ~ 1/100000 с</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>солнечная панель: поворот: 0° ~ 358°, наклон: –40° ~ 0°; камера: поворот: 0° ~ 360°; наклон: –60° ~ 0°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.0</value>
+    </spec>
+    <spec>
+      <name>Глубина резкости</name>
+      <value>2.7 м ~ ∞</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>4 мм, по горизонтали: 75°, по вертикали: 40°, по диагонали: 89°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 82 м, O: 32 м, R: 16 м, I: 8 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>белым светом</value>
+    </spec>
+    <spec>
+      <name>Диапазон дополнительной подсветки</name>
+      <value>30 м, проактивный режим: 10 м</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 12.5 к/c (2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 12.5 к/с (1280×720, 640×480, 640×360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEG, H.264+ и H.265+: основной поток поддерживает режим производительности</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>фиксированная область для основного потока</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, базовая и дайджест-аутентификация для HTTP, TLS 1.1, 1.2, 1.3, WSSE и дайджест-аутентификация для ONVIF</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 6 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (профили S, G, T), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, DHCP, DNS, RTP, RTSP, RTCP, NTP, IGMP, QoS, UDP</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>автоматическая детекция сетевого статуса (ANR)</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE 10+, не требуется плагин для просмотра в режиме реального времени: Chrome 57.0+, Firefox 52.0+, локальные сервисы: Chrome 57.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи данных по интерфейсам Uplink и Downlink</name>
+      <value>Cat 4, Uplink: 50 Мбит/с, Downlink: 150 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Тип SIM-карты</name>
+      <value>Micro SIM</value>
+    </spec>
+    <spec>
+      <name>Частота</name>
+      <value>EU:LTE-TDD: B38, B40, B41LTE-FDD: B1, B3, B5, B7, B8, B20, B28WCDMA: B1, B5, B8; GSM: B3, B5, B8</value>
+    </spec>
+    <spec>
+      <name>Стандарты</name>
+      <value>LTE-TDD, LTE-FDD, WCDMA, GSM</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥ 52 дБ</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость, усиление и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Угол PIR-датчика</name>
+      <value>по горизонтали: 100°, вертикали: 80°</value>
+    </spec>
+    <spec>
+      <name>Дальность PIR-датчика</name>
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ-45 auto 10/100М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенное хранение eMMC до 64 Гбайтвстроенный слот для карты памяти, поддержка microSD, microSDHC, microSDXC до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Встроенный микрофон</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на карту памяти, FTP, NAS, уведомление центра мониторинга, звуковое предупреждение, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 % для отладки 40 Вт (отклонения: ±2 Вт), солнечные панелипотребляемая мощность: стандартные сценарии питания — 1.85 Вт (4 G вкл.), резервные — 40 мВт макс., потребляемая мощность 6 Втинтерфейс питания: коаксиальный разъем Ø5.5 мм, 4-контактный авиационный разъем панели</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>ADC 12</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>33 языка:английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, зеркалирование, журнал проверки безопасности</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –20 °C... +50 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>679×443×760 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>11.57 кг</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>трехэлементная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name>Емкость</name>
+      <value>2 × 8.4 А·ч</value>
+    </spec>
+    <spec>
+      <name>Максимальное напряжение при зарядке</name>
+      <value>12.6 В</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>зарядка: 0 °C... +40 °Cразрядка: –20 °C... +55 °C</value>
+    </spec>
+    <spec>
+      <name>Напряжение батареи</name>
+      <value>9 ~ 12.6 В</value>
+    </spec>
+    <spec>
+      <name>Продолжительность цикла</name>
+      <value>режим производительности: 3.6 днейпроактивный: 6 днейожидания: 30 дней</value>
+    </spec>
+    <spec>
+      <name>Срок службы батареи</name>
+      <value>500 циклов</value>
+    </spec>
+    <spec>
+      <name>Вес батареи</name>
+      <value>1400 г</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67: IEC 60529-2013, устойчивость к 12-балльным тайфунам</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпLED-подсветка 30 м–20 ºC… +50 ºC, IP67Модуль 4G, PIR-сенсорDWDR, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине146 290р.Узнать цену для партнеровУточнить наличие у менеджераВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/c60/140_140_1/DS_2XS3Q47G1_LDH4GC18S40-4-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xs3q47g1-ldh-4g-c18s40-4-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XS3Q47G1-LDH/4G/C18S40 4&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;146 290&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

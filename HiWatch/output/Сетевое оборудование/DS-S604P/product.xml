@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Коммутатор с питанием POE HiWatch DS-S604P</name>
+  <model>DS-S604P</model>
+  <article>294954</article>
+  <sku>301802013</sku>
+  <brand>HiWatch</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы с PoE</subcategory>
+  <functional_name>Коммутатор с питанием POE</functional_name>
+  <nomenclature>Коммутатор с PoE</nomenclature>
+  <price>3764.4</price>
+  <price_wholesale>3419.33</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/294954/</product_url>
+  <description>
+    <paragraph>Коммутатор сетевой неуправляемый 6 портовый; 4хRJ45 10/100M PoE(802.3af/at) до 30 Вт; 2хRJ45 10/100M; таблица MAC адресов на 16К записей; пропускная способность 1.6Гб/с; бюджет PoE 35Вт; поддержка режима передачи до 250м; DC 48В; 10 °C...+40°C; 145×68×25 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор Fast Ethernet неуправляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>6/0</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>8/35</value>
+    </spec>
+    <spec>
+      <name>Дополнительные порты</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Стандарт беспроводной связи</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Настольный</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>+10…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>145х68х25</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="881.94 КБ">https://www.tinko.ru/upload/exchange/public/documentation/F/8/F85608653E265ADBABC1C93B3D5B4DE0.pdf</document>
+  </documents>
+</product>

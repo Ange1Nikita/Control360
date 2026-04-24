@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Промышленные источники питания</name>
+  <article>PROMYSHLENNYE-ISTOCHNIKI-PITANIYA</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110003800</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/4cd/fe_s_5_12_2_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3bd/fe_s_5_12_2_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/bb7/fe_s_5_12_2_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/382/fe_s_5_12_2_250.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Ток нагрузки, не более</spec>
+    <spec name="1">1000</spec>
+    <spec name="3 800">руб.</spec>
+    <spec name="купить">FX-PS IP-60W-12/5</spec>
+    <spec name="2 300">руб.</spec>
+    <spec name="1 600">руб.</spec>
+    <spec name="1 200">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/bloki-pitaniya/promyshlennye-istochniki-pitaniya/</source_url>
+</product>

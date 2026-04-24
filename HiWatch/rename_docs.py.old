@@ -1,0 +1,180 @@
+# -*- coding: utf-8 -*-
+"""
+Переименование PDF-документов по реальным названиям с сайта.
+passport.pdf -> паспорт.pdf, passport_2.pdf -> сертификат.pdf и т.д.
+
+Запуск: python rename_docs.py
+"""
+
+import sys
+import io
+import os
+import re
+from pathlib import Path
+from xml.etree.ElementTree import parse as parse_xml
+
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', line_buffering=True)
+
+# Используем utils из проекта для HTTP
+from utils import post, Progress
+
+OUTPUT = Path(__file__).parent / 'output'
+
+# Нормализация названий документов
+TITLE_MAP = {
+    'паспорт': 'паспорт',
+    'passport': 'паспорт',
+    'инструкция': 'инструкция',
+    'instruction': 'инструкция',
+    'руководство': 'инструкция',
+    'manual': 'инструкция',
+    'guide': 'инструкция',
+    'сертификат': 'сертификат',
+    'certificate': 'сертификат',
+    'декларация': 'декларация',
+    'declaration': 'декларация',
+    'datasheet': 'даташит',
+    'спецификация': 'спецификация',
+}
+
+
+def normalize_title(title: str) -> str:
+    """Привести название документа к стандартному виду"""
+    t = title.strip().lower()
+    for key, value in TITLE_MAP.items():
+        if key in t:
+            return value
+    # Если не распознали — возвращаем оригинал, очищенный
+    safe = re.sub(r'[<>:"/\\|?*]', '', title).strip()
+    return safe if safe else 'документ'
+
+
+def get_doc_titles_from_site(product_url: str) -> list[str]:
+    """Получить список названий документов с сайта через AJAX"""
+    from bs4 import BeautifulSoup
+
+    r = post(product_url, data={'cr_documentation_action': 'load_list'})
+    if not r:
+        return []
+
+    try:
+        data = r.json()
+    except Exception:
+        return []
+
+    html = data.get('documentation', '')
+    if not html:
+        return []
+
+    soup = BeautifulSoup(html, 'lxml')
+    titles = []
+    for tr in soup.select('tr[data-documentation-id]'):
+        title_el = tr.select_one('.title')
+        title = title_el.get_text(strip=True) if title_el else 'документ'
+        titles.append(title)
+
+    return titles
+
+
+def find_product_dirs():
+    """Найти все папки товаров с product.xml"""
+    results = []
+    for xml_path in OUTPUT.rglob('product.xml'):
+        prod_dir = xml_path.parent
+        # Проверяем есть ли passport*.pdf
+        pdfs = sorted(prod_dir.glob('passport*.pdf'))
+        if pdfs:
+            # Читаем URL из product.xml
+            try:
+                tree = parse_xml(str(xml_path))
+                url_el = tree.find('product_url')
+                product_url = url_el.text if url_el is not None else ''
+                model_el = tree.find('model')
+                model = model_el.text if model_el is not None else prod_dir.name
+            except Exception:
+                product_url = ''
+                model = prod_dir.name
+
+            results.append({
+                'dir': prod_dir,
+                'pdfs': pdfs,
+                'url': product_url,
+                'model': model,
+            })
+    return results
+
+
+def main():
+    print('Переименование PDF-документов по реальным названиям')
+    print('=' * 50)
+    print()
+
+    products = find_product_dirs()
+    print(f'Найдено товаров с PDF: {len(products)}')
+    print()
+
+    if not products:
+        print('Нет файлов для переименования.')
+        return
+
+    progress = Progress(len(products), 'Rename  ')
+    renamed = 0
+    skipped = 0
+    errors = 0
+
+    for prod in products:
+        prod_dir = prod['dir']
+        pdfs = prod['pdfs']
+        product_url = prod['url']
+        model = prod['model']
+
+        # Проверяем — может уже переименовано
+        has_russian_names = any(
+            not f.name.startswith('passport') for f in pdfs
+        )
+        if has_russian_names:
+            skipped += len(pdfs)
+            progress.update(model[:18])
+            continue
+
+        # Получаем названия с сайта
+        if product_url:
+            titles = get_doc_titles_from_site(product_url)
+        else:
+            titles = []
+
+        # Переименовываем
+        for idx, pdf_path in enumerate(pdfs):
+            if idx < len(titles):
+                raw_title = titles[idx]
+            else:
+                raw_title = 'документ'
+
+            new_name = normalize_title(raw_title)
+
+            # Если несколько с одинаковым типом — добавляем номер
+            suffix = ''
+            target = prod_dir / f'{new_name}{suffix}.pdf'
+            counter = 2
+            while target.exists() and target != pdf_path:
+                suffix = f'_{counter}'
+                target = prod_dir / f'{new_name}{suffix}.pdf'
+                counter += 1
+
+            if target != pdf_path:
+                try:
+                    pdf_path.rename(target)
+                    renamed += 1
+                except Exception as e:
+                    errors += 1
+
+        progress.update(model[:18])
+
+    progress.done(f'{renamed} переименовано, {skipped} пропущено, {errors} ошибок')
+
+    print()
+    print(f'Готово!')
+
+
+if __name__ == '__main__':
+    main()

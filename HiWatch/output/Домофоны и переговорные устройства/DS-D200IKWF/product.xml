@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-D200IKWF</name>
+  <article>364339</article>
+  <sku>305305042</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Мониторы видеодомофонов</subcategory>
+  <functional_name>Комплект IP-видеодомофона</functional_name>
+  <nomenclature>Комплект IP-видеодомофона</nomenclature>
+  <price>13044</price>
+  <price_wholesale>11848.3</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/364339/</product_url>
+  <description>
+    <paragraph>Комплект домофона: Монитор VDP-H2111W. 4.3", сенсорный экран с 9 сенсорными кнопками/Разрешение: 480х272 пикс. Подключение до 10 вызывных панелей, до 16 мониторов домофона, до 16 IP камер. Ethernet; Wi-Fi 2.4GHz. Протокол: TCP/IP/RTSP/SIP. Питание 12В DC/PoE IEEE 802.3af 4W. -10°C...+50°C; 120х120х21 мм; 0.19кг. Цвет: Черный.&lt;br /&gt;</paragraph>
+    <paragraph>Вызывная панель VDP-D2211. 2Мп IP вызывная панель на одного абонента с ИК-подсветкой до 3м 2Мп, Web интерфейс; PoE/12В DC; Mifare считыватель (до 2000 пользователей, 10000 карт); WDR; BLC; DNR; ИК-подсветка до 3м; 10M/100M; работа с Hik-Connect, 1 реле для замка; IP65, -40…+53℃; пластик; накладной монтаж, 138х65х27 мм. &lt;br /&gt;</paragraph>
+    <paragraph>Козырек DS-KABV6113-RS. Для настенного монтажа вызывной панели серии DS-KV6103/6113 серии. Материал: пластик; -40°C...+60°C, влажность с 10% до 95%; 150х79.56х49 мм. Настенный монтаж.&lt;br /&gt;</paragraph>
+    <paragraph>Блок питания 2 шт, DS-KABV6113-RS козырек.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>4.3 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей/камер</name>
+      <value>16</value>
+    </spec>
+    <spec>
+      <name>Количество дополнительных видеокамер</name>
+      <value>до 16 IP камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>6. Полный интерком</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры монитора, мм</name>
+      <value>120х120х21</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Угол обзора, град</name>
+      <value>129° (г)/75° (в)</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>2 Мп (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С </name>
+      <value>-40…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры вызывной панели, мм</name>
+      <value>138х65х27</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="408.34 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/6/46DA734756F59F8F6F13B44010AB7C03.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера купольная HiWatch DS-I351</name>
+  <model>DS-I351</model>
+  <article>271808</article>
+  <sku>311303443</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>17363.3</price>
+  <price_wholesale>15771.66</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/271808/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 3Мп fisheye  1/2.8" Progressive Scan CMOS; 2048×1536; fisheye объектив 1.16мм; угол обзора по гор.:180°, по верт.:180°; механический ИК-фильтр; 0.005лк@F2.2; сжатие H.265/H.265+/H.264/H.264+/MJPEG; двойной поток; 2048×1536-25к/с; WDR 120дБ, 3D DNR, BLC, ROI; Smart видеоаналитика; слот для microSD до 128Гб; 1 RJ45 10M/100M Ethernet; DC 12В/PoE(802.3af); 6.4Вт макс; -10 °C...+50 °C; Ø 119.9× 41.2 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive CMOS 2МП</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2048х1536</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>1.16</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD/SDHC/SDXC 128 Гб</value>
+    </spec>
+    <spec>
+      <name>Сетевые протоколы</name>
+      <value>TCP/IP; ONVIF; RTSP; P2P</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100Base-TX</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>IRC (Мех ИК-фильтр)</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>PTZ управление</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6.4</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>119.9х41.2</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="715.01 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/F/4F44CF73C5520ACDD78ED623190A2DD4.pdf</document>
+  </documents>
+</product>

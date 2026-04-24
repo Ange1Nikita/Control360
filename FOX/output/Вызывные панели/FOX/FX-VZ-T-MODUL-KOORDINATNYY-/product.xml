@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>T Модуль Координатный</name>
+  <article>FX-VZ-T-MODUL-KOORDINATNYY-</article>
+  <brand>FOX</brand>
+  <category>Вызывные панели</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7e5/440_370_0/VZ-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7e5/38_24_2/VZ-900.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/7e5/440_370_0/VZ-900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Формат</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(0.719МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/call-panel/fx-vz-t-modul-koordinatnyy-/</source_url>
+</product>

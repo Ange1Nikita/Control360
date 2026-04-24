@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP компактная HiWatch DS-I414 (2.8мм)</name>
+  <model>DS-I414 (2.8мм)</model>
+  <article>360625</article>
+  <sku>311327381</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP корпусные</subcategory>
+  <functional_name>Бюджетная видеокамера IP компактная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>7680</price>
+  <price_wholesale>6976</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/360625/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера IP 4 Мп компактная; 1/3" Progressive scan CMOS; 2560х1440 - 20 к/с; H.264/H.265/H.264+/H.265+/MJPEG; объектив 2.8 мм; ИК подсветка до 10 м; 0.01 лк; встроенный микрофон, динамик; Micro SD до 256 Гб, WDR 120дБ, 3D DNR, BLC, ROI; P2P, RTSP, ONVIF; SMTP; DC 12В/PoE, 6 Вт; -10...+45°C; 103х65х33 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560х1440</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон/Динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+45</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>103х65х33</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

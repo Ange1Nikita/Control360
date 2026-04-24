@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM1-D</name>
+  <model>DS-PM1-D</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm1-d</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Совместимость с охранными панелями AX PRO</paragraph>
+    <paragraph>• Простая и удобная установка</paragraph>
+    <paragraph>• Широкий диапазон потребляемой мощности DC от 8 до 24 ВБлок питания панели AXPRO от 12В постоянного тока</paragraph>
+    <paragraph>Блок питания панели AXPRO от внешнего источника питания на 12 В, входное рабочее напряжения  - 8~24В , Выходной ток до 2А; индикатор состояния; Рабочая температура -10градусовC...+55градусовC; размер 80 90 15мм; Вес 35</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Совместимость с охранными панелями AX PRO</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Простая и удобная установка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Широкий диапазон потребляемой мощности DC от 8 до 24 ВБлок питания панели AXPRO от 12В постоянного тока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Блок питания панели AXPRO от внешнего источника питания на 12 В, входное рабочее напряжения  - 8~24В , Выходной ток до 2А</value>
+    </spec>
+    <spec>
+      <name />
+      <value>индикатор состояния</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура -10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 80 90 15мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес 35</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE406V3310</name>
+  <article>KN-CE406V3310</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/45e/440_370_0/kn_ce406.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/45e/38_24_2/kn_ce406.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 4.0 3.3-10 50 Короткое описание Профессиональная 4-х мегапиксельная вариофокальная IP видеокамера KN-СE406V3310, предназначенная для охранного видеонаблюдения вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Особенности IP видеокамеры Все технические параметры Модель KN-CE406V3310 Система Тип матрицы 1/3” OV4689 (4.0Mega) Эффективные    пиксели 2592(H)    × 1520(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 lux/F1.2, Ч/Б: 0.005 lux, 0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Авто    ICR ИК подсветка до 50 м Компенсация    засветки BLC    / HLC / DWDR Баланс белого Авто Усиление Авто/Ручной Шумоподавление 3DNR Приватные зоны До    4-х зон Оптика Объектив 5-и Мегапиксельная оптика 3.3-10 мм с ИК коррекцией Светосила F1.4 Угол обзора H:    105°(Wide)~35.5°(Tele) Видео Формат    кодирования H.264/H.265 HEVC Основной поток 4Mpx (1 ~ 20)/3Mpx/2Mpx/1,3Mpx (1 ~ 25) Второстепенный    поток D1/CIF(1    ~ 25) Поток 32K    ~ 8192Kbps, Авто, ROI, Coridor Сеть Порт RJ-45    (10/100Base-T) Протокол CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP ONVIF Onvif Profile-S (Motion, Alarm, MetaData) Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows Дополнительно Аудио G.711A, 1 Вх. / 1    Вых. Тревога 2    Вх. / 1 Вых. ePTZ RS485 Видеовыход 1    BNC(1.0Vp-p, 75 ) Memory Slot Micro    SD, Max 64GB Технические параметры Питание DC12В,    POE 48V DC Потребление &lt;10 Вт Рабочая    температура -40°C ... +50°C,    10% ... 90% Степень защиты IP66,  грозозащита до 4000В Габариты 96(Ш) х 98(В) х 265(Д) Вес 1.2кг Уличная 4.0 3.3-10 50 Разрешение 4.0 Мpx Вариофокальный 5-и мегапиксельный объектив  3.3-10.5мм Поддержка стандарта Onvif Активный ИК-фильтр для корректной цветопередачи Высокая чувствительность: Цвет: 0.01lux/F1.2, Ч/Б: 0.005 lux, 0lux ИК вкл. Грозозащита до 4000В Водоне</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/3” OV4689 (4.0Mega)</spec>
+    <spec name="Эффективные    пиксели">2592(H)    × 1520(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 lux/F1.2, Ч/Б: 0.005 lux, 0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">до 50 м</spec>
+    <spec name="Компенсация    засветки">BLC    / HLC / DWDR</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">5-и Мегапиксельная оптика 3.3-10 мм с ИК коррекцией</spec>
+    <spec name="Светосила">F1.4</spec>
+    <spec name="Угол обзора">H:    105°(Wide)~35.5°(Tele)</spec>
+    <spec name="Формат    кодирования">H.264/H.265 HEVC</spec>
+    <spec name="Основной поток">4Mpx (1 ~ 20)/3Mpx/2Mpx/1,3Mpx (1 ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто, ROI, Coridor</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP</spec>
+    <spec name="ONVIF">Onvif Profile-S (Motion, Alarm, MetaData)</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">G.711A, 1 Вх. / 1    Вых.</spec>
+    <spec name="Тревога">2    Вх. / 1 Вых.</spec>
+    <spec name="ePTZ">RS485</spec>
+    <spec name="Видеовыход">1    BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Memory Slot">Micro    SD, Max 64GB</spec>
+    <spec name="Питание">DC12В,    POE 48V DC</spec>
+    <spec name="Потребление">&lt;10 Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66,  грозозащита до 4000В</spec>
+    <spec name="Габариты">96(Ш) х 98(В) х 265(Д)</spec>
+    <spec name="Вес">1.2кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ce406v3310/</source_url>
+</product>

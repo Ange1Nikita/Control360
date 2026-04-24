@@ -1,0 +1,162 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Уличная 8 Мп TVI-камера Hikvision DS-2CE59U8T-VPIT3Z (2.8-12 мм)</name>
+  <model>DS-2CE59U8T-VPIT3Z (2.8-12 мм)</model>
+  <sku>19813</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2ce59u8t-vpit3z-2-8-12-mm-tvi-kamera/</product_url>
+  <description>
+    <paragraph>Уличная (-40…+60 ºС) вандалостойкая (IK10) HD-TVI камера Hikvision DS-2CE59U8T-VPIT3Z с разрешением 3840×2160, матрица 1/1.8 CMOS, 0.003 лк, объектив 2.8–12мм, режим «день/ночь», механический ИК-фильтр, OSD-меню, DWDR, BLC, 3D DNR, HLC, детекция движения, маскирование, антитуман, зеркалирование; HD-TVI, CVBS, Smart EXIR-подсветка до 60 м, IP67, питание: 12 В DC ± 25 %, макс. 9 Вт.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Количество эффективных пикселей</name>
+      <value>3840×2160</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.003 лк (F1/2, AGC вкл.), 0 лк с вкл ИК</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/25 с ~ 1/10 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8-12 мм</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Ф 14</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>108.1° ~ 45.6°</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0 ° — 355 °; наклон: 0 ° — 75 °; вращение: 0 ° — 355 °</value>
+    </spec>
+    <spec>
+      <name>Синхронизация</name>
+      <value>внутренняя</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>3840×2160 12.5 к/с</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>HD-TVI видеовыход</name>
+      <value>1 выход</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1 CVBS выход (75Ω/BNC)</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>цвет, ч/б, авто</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>ATW/MWB</value>
+    </spec>
+    <spec>
+      <name>Маскирование</name>
+      <value>4 области</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 области</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>DWDR</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR, уровни 1-10</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский, китайский</value>
+    </spec>
+    <spec>
+      <name>Особенности</name>
+      <value>яркость, резкость, зеркалирование, антитуман, HLC</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25%</value>
+    </spec>
+    <spec>
+      <name>Связь</name>
+      <value>коаксиальный кабель, протокол HIKVISION-C (TVI выход)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>9 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40°С...  +60°С, влажность не более 90%</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>до 60 м, Smart ИК</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>145.2×124.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.645 кг</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Уличная (-40…+60 ºС) вандалостойкая (IK10) HD-TVI камера Hikvision DS-2CE59U8T-VPIT3Z с разрешением 3840×2160, матрица 1/1.8 CMOS, 0.003 лк, объектив 2.8–12мм, режим «день/ночь», механический ИК-фильтр, OSD-меню, DWDR, BLC, 3D DNR, HLC, детекция движения, маскирование, антитуман, зеркалирование; HD-TVI, CVBS, Smart EXIR-подсветка до 60 м, IP67, питание: 12 В DC ± 25 %, макс. 9 Вт.ПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/83f/140_140_1/ds_2ce59u8t_vpit3z-_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ce59u8t-vpit3z-2-8-12-mm-tvi-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CE59U8T-VPIT3Z (2.8-12 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

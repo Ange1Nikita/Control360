@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2PT9A144MXS-D/T2 (1352/6)</name>
+  <model>iDS-2PT9A144MXS-D/T2 (1352/6)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2pt9a144mxs-d-t2-1352-6-povorotnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение до 8 Мп</paragraph>
+    <paragraph>–40 °C... +70 °C, IP66</paragraph>
+    <paragraph>Скорость поворота до 240 °/с</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC, 3D DNR</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>2 1/1.8″ Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>панорамный модуль: 0.002 лкPTZ-модуль: 0.0035 лк</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>панорамный модуль: 6 ммPTZ-модуль: 13 ~ 52 мм</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>панорамный модуль: F/1.0PTZ-модуль: F/1.6</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>панорамный модуль: по горизонтали — 54°, по вертикали — 29°, по диагонали — 63°PTZ-модуль: по горизонтали — 32 ~ 8°, по вертикали — 18 ~ 4.5°, по диагонали — 37 ~ 9°</value>
+    </spec>
+    <spec>
+      <name>Отношение сигнал, шум</name>
+      <value>≥ 55 дБ</value>
+    </spec>
+    <spec>
+      <name>3D DNR</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Подсветка</name>
+      <value>панорамный модуль: тёплый белый свет, до 15 м для ТСPTZ-модуль: ИК-подсветка, до 30 м для детекции лиц, до 40 м для детекции фигуры человека, регулируется автоматически в зависимости от сцены</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальное улучшение изображения</name>
+      <value>120 дБ WDR, антитуман, HLC, EIS, дополнительная интеллектуальная подсветка, BLC</value>
+    </spec>
+    <spec>
+      <name>Обнаружение события</name>
+      <value>обнаружение движения, детектор саботажа, разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя, тревожные входы, тревожные выходы</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265+, H.265, H.264+, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Basic Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Разрешение основного потока</name>
+      <value>25 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Разрешение дополнительного потока</name>
+      <value>25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Разрешение третьего потока</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Скорость зумирования</name>
+      <value>приблиз. 1.8 с</value>
+    </spec>
+    <spec>
+      <name>Мин. расстояние до объекта</name>
+      <value>10 ~ 1500 мм)</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота и наклона</name>
+      <value>Поворот: 0 ~ 210°, наклон: –15 ~ 22°</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота и наклона</name>
+      <value>поворота: настраиваемая — 0.1 °/с ~ 200 °/с, по предустановке — 300 °/снаклона: настраиваемая — 0.1 ~ 120 °/с, по предустановке — 120 °/с</value>
+    </spec>
+    <spec>
+      <name>Число предустановок</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Патруль</name>
+      <value>8 патрулей, до 32 предустановок в каждом</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, патрулирование</value>
+    </spec>
+    <spec>
+      <name>Задачи по расписанию</name>
+      <value>предустановка, патрулирование, перезагрузка, инициализация, вывод на дополнительный экран</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711alaw, G.711ulaw, G.722.1, G.726, MP2L2</value>
+    </spec>
+    <spec>
+      <name>Детекция и анализ нескольких целей</name>
+      <value>поддержка детекции и захвата изображений фигуры и лица человека с обоих модулей камерымодуль панорамной камеры обеспечивает дополнительное обнаружение и захват транспортных средств</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>фигура человека: 40 м, лицо: 30 м, ТС: 15 м</value>
+    </spec>
+    <spec>
+      <name>Калибровка</name>
+      <value>автоматич., ручн.</value>
+    </spec>
+    <spec>
+      <name>Захват лиц</name>
+      <value>поддержка детекции, слежения, захвата, оценки лиц и вывода наиболее качественного изображения лица; детекция до 30 лиц одновременно.</value>
+    </spec>
+    <spec>
+      <name>Сравнение лиц</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour, ISUP</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (Profile S, Profile G, Profile T), ISAPI, SDK, Ehome, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>До 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>Встроенный слот для карты памяти, поддержка microSD/SDHC/SDXC, до 256 Гбайт;</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя (ID и PW), аутентификация хоста (MAC-адрес), шифрование HTTPS, контроль доступа по стандарту IEEE 802.1x, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE 8-11, Firefox 30+, Chrome 41+, Safari 11+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>RJ45 auto 10/100/1000 М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход, выход</name>
+      <value>тревожный вход, тревожный выход и поддержка привязки тревог: запись на карту памяти, тревожный выход, уведомление центра мониторинга, выгрузка на, отправка email</value>
+    </spec>
+    <spec>
+      <name>Аудиоинтерфейс</name>
+      <value>1 канал, аудиовход, от 2.0 до 2.4 В [p-p], 1 кОм ± 10 %1 канал, аудиовыход, линейный, сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 36 В ± 25 %, двухъядерный терминальный блок</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 60 Вт (включая макс. 6 Вт для подсветки панорамного канала, макс. 7.8 Вт для подсветки PTZ-канала, макс. 10 Вт для обогрева)</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>–40 °C... +70 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>≤ 90 %</value>
+    </spec>
+    <spec>
+      <name>Защита от запотевания</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66; грозозащита, защита от импульсных и переходных перенапряжений, ± 6 кВ линия-земля, ± 3 кВ линия-линия, IEC61000-4-5</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>алюминиевый сплав ADC12, PC, PC + ABS, PC + 10 % gf</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>230×277×470 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>приблиз. 4.9 кг</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение до 8 Мп–40 °C... +70 °C, IP66Скорость поворота до 240 °/сH.265+, H.265, H.264+, H.264, MJPEGWDR 120 дБ, BLC, HLC, 3D DNRПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/3e6/140_140_1/iDS_2PT9A144MXS_DT2-_13526_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2pt9a144mxs-d-t2-1352-6-povorotnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2PT9A144MXS-D/T2 (1352/6)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

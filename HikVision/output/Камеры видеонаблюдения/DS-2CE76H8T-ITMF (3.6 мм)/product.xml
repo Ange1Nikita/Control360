@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Аналоговая камера Hikvision DS-2CE76H8T-ITMF (3.6 мм)</name>
+  <model>DS-2CE76H8T-ITMF (3.6 мм)</model>
+  <sku>55631</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2ce76h8t-itmf-3-6-mm-analogovaya-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 5 Мп</paragraph>
+    <paragraph>Детекция движения</paragraph>
+    <paragraph>EXIR-подсветка 60 м</paragraph>
+    <paragraph>WDR 130 дБ, BLC, DNR</paragraph>
+    <paragraph>IP67, –40 °C… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>5 Мп Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Система</name>
+      <value>PAL, NTSC</value>
+    </spec>
+    <spec>
+      <name>Количество эффективных пикселей</name>
+      <value>2560×1944</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.003 лк (F/1.2, AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>PAL: 1/25 ~ 1/50 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>фиксированный 3.6 мм</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>М12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>78°</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0° ~ 360°; наклон: 0° ~ 75°; вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Синхронизация</name>
+      <value>Внутренняя</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>TVI: 2 Мп — 25 к/с, 4 Мп — 25 к/с, 5 Мп — 20 к/сAHD: 4 Мп — 25 к/с, 5 Мп — 20 к/сCVI: 4 Мп — 25 к/сCVBS: PAL</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>130 дБ</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Переключение «день/ночь»</name>
+      <value>авто, цвет, ч/б</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>ATW, MWB</value>
+    </spec>
+    <spec>
+      <name>Маска конфиденциальности</name>
+      <value>4 программируемые маски</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 программируемые области</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR, уровни 1–9</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Особенности</name>
+      <value>яркость, резкость, зеркалирование, смарт-ИК</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 аналоговый HD-видеовыход</value>
+    </spec>
+    <spec>
+      <name>Кнопка переключения</name>
+      <value>TVI, AHD, CVI, CVBS</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 % , рекомендуется использовать один адаптер питания для одной камеры</value>
+    </spec>
+    <spec>
+      <name>Связь</name>
+      <value>коаксиальный кабель, протокол HIKVISION-C (TVI-выход)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>5.8 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C… +60 °C, влажность 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>60 м, Smart</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø90.00×79.37 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>300 г</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 5 МпДетекция движенияEXIR-подсветка 60 мWDR 130 дБ, BLC, DNRIP67, –40 °C… +60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/eb2/140_140_1/DS_2CE76H8T_ITMF-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ce76h8t-itmf-3-6-mm-analogovaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CE76H8T-ITMF (3.6 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

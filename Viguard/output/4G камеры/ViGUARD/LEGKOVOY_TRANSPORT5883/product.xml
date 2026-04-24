@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Legkovoy Transport5883</name>
+  <article>LEGKOVOY_TRANSPORT5883</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/450_450_1/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/legkovoy_transport5883/</source_url>
+</product>

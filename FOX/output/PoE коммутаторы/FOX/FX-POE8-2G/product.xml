@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-POE8.2G</name>
+  <article>FX-POE8-2G</article>
+  <brand>FOX</brand>
+  <category>PoE коммутаторы</category>
+  <price>1111000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/013/440_370_0/FX_POE8-G900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/013/38_24_2/FX_POE8-G900.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/013/440_370_0/FX_POE8-G900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-POE8.2G</spec>
+    <spec name="Тип">Неуправляемый POE Коммутатор</spec>
+    <spec name="Стандарт">IEEE802.3,802.3u,802.3x, 802.3af/at питания POE</spec>
+    <spec name="RJ45 порт (Автоматический режим)">Режим 1: 1-8 порт 10/100 Base-T (PoE) до 100 метров</spec>
+    <spec name="Uplink порт RJ45">2 порта 10/100/1000 Base-T до 100 метров</spec>
+    <spec name="Выходное напряжение">DC 52В (Диапазон 48~57В)</spec>
+    <spec name="Общий бюджет POE">120Вт (до 72Вт кратковременно)</spec>
+    <spec name="Бюджет POE на канал">15.4Вт (IEEE802.3af) / 30Вт (IEEE802.3at) из общего бюджета</spec>
+    <spec name="Максимальная дистанция питания">До 150м UTP Cat.5e / до 250м UTP Cat.6e</spec>
+    <spec name="Максимальная дистанция сети">До 150м UTP Cat.5e / до 250м UTP Cat.6e</spec>
+    <spec name="Коммутационная матрица">5,6 ГБит/с</spec>
+    <spec name="Скорость перенаправления пакетов">4.1664 Mpps@64byte</spec>
+    <spec name="Буфер памяти">4 Мб</spec>
+    <spec name="Таблица MAC-адресов">2Кб</spec>
+    <spec name="Сетевые инструменты">-</spec>
+    <spec name="Диапазон рабочих температур">-20 ~ +55 °C, 5 ~ 95% (без конденсата), IP30</spec>
+    <spec name="Электропитание">AC 11-240В, 50/60Гц, Грозозащита TVS 4000В</spec>
+    <spec name="Габариты, Ш × Г × В">199 x 136 x 45 мм</spec>
+    <spec name="Вес">500 г</spec>
+    <spec name="Модель">Общее количество портов</spec>
+    <spec name="FX-POE4.2">6</spec>
+    <spec name="FX-POE8.2">10</spec>
+    <spec name="FX-POE16.2">18</spec>
+    <spec name="FX-POE24.2">26</spec>
+    <spec name="FX-POE8.2G">10</spec>
+    <spec name="Особенности аксессуара">Все технические параметры</spec>
+    <spec name="Режим 2: 1-8 порт 10 Base-T (PoE) до 250 метров">Uplink порт RJ45</spec>
+    <spec name="2 порта 10/100/1000 Base-T до 100 метров">Выходное напряжение</spec>
+    <spec name="DC 52В (Диапазон 48~57В)">Общий бюджет POE</spec>
+    <spec name="120Вт (до 72Вт кратковременно)">Бюджет POE на канал</spec>
+    <spec name="15.4Вт (IEEE802.3af) / 30Вт (IEEE802.3at) из общего бюджета">Максимальная дистанция питания</spec>
+    <spec name="До 150м UTP Cat.5e / до 250м UTP Cat.6e">Коммутационная матрица</spec>
+    <spec name="5,6 ГБит/с">Скорость перенаправления пакетов</spec>
+    <spec name="4.1664 Mpps@64byte">Буфер памяти</spec>
+    <spec name="4 Мб">Таблица MAC-адресов</spec>
+    <spec name="2Кб">Сетевые инструменты</spec>
+    <spec name="-">Диапазон рабочих температур</spec>
+    <spec name="-20 ~ +55 °C, 5 ~ 95% (без конденсата), IP30">Электропитание</spec>
+    <spec name="AC 11-240В, 50/60Гц, Грозозащита TVS 4000В">Габариты, Ш × Г × В</spec>
+    <spec name="199 x 136 x 45 мм">Вес</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(0.434МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/poe-kommutatory/fx-poe8-2g/</source_url>
+</product>

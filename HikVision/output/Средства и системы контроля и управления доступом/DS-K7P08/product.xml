@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Кнопка выхода Hikvision DS-K7P08</name>
+  <model>DS-K7P08</model>
+  <article>364337</article>
+  <sku>302921219</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Кнопки выхода «Hikvision»</subcategory>
+  <functional_name>Кнопка выхода</functional_name>
+  <nomenclature>Кнопка</nomenclature>
+  <price>954</price>
+  <price_wholesale>866.55</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/364337/</product_url>
+  <description>
+    <paragraph>Сенсорная кнопка выхода. NO/NC/COM. Эффективная дистанция: 5...15см. Индикатор: LED светодиод статуса и событий/Синий/Зеленый. 12В...24В DC; -20°C...+55°C; 86х86х16мм. Материал: Нержавеющая сталь. Цвет: Серебристый. Врезной монтаж</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип установки</name>
+      <value>Врезной</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Нержавеющая сталь</value>
+    </spec>
+    <spec>
+      <name>Индикация</name>
+      <value>Да</value>
+    </spec>
+    <spec>
+      <name>Тип контактов</name>
+      <value>НЗ/НР</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания подсветки, В</name>
+      <value>12...24</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры, мм</name>
+      <value>86x86x16</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

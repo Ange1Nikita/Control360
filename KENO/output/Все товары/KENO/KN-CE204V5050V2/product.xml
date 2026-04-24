@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Проектные решения "Безопасный регион"/KN-CE204V5050BR</name>
+  <article>KN-CE204V5050V2</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>29990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5b9/440_370_0/kn_ce204v5050b1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/964/440_370_0/IMG_mini_format_768_125651_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5c3/440_370_0/IMG_mini_format_768_124800.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/955/440_370_0/IMG_mini_format_768_124447.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7f1/440_370_0/IMG_mini_format_768_124629_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9bb/440_370_0/IMG_mini_format_768_142313_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b46/440_370_0/IMG_mini_format_768_124638.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5cc/440_370_0/IMG_mini_format_768_093749_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5b9/38_24_2/kn_ce204v5050b1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/964/38_24_2/IMG_mini_format_768_125651_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5c3/38_24_2/IMG_mini_format_768_124800.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/955/38_24_2/IMG_mini_format_768_124447.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7f1/38_24_2/IMG_mini_format_768_124629_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9bb/38_24_2/IMG_mini_format_768_142313_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b46/38_24_2/IMG_mini_format_768_124638.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5cc/38_24_2/IMG_mini_format_768_093749_.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/fseye_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/fseye_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 5 6 7 8 9 Уличная 2.0 5.0-50 60 Ваша цена: 29 990 руб. Короткое описание Уличная IP видеокамера профессионального уровня KN-CE204V5050BR для охранного видеонаблюдения. Камера выполнена в компактном, надежном, пыле/влагозащитном металлическом корпусе, предназначенным для применения в температурном диапазоне от (-40+50), с классом защиты от пыли и влаги ip 67. Особенностью данной модели является вариофокальный объектив с моторизованным зумом 5-50 , это делает камеру KN-CE204V5050BR удобной в монтаже и настройке.
+Теперь настраивать и, при необходимости, изменять фокусное расстояние возможно удаленно, через веб-интерфейс камеры, при помощи компьютерной мышки/ клавиатуры. 
+Вам не потребуется стоя на лестнице подкручивать фокус и регулировать зумм отверткой, пытаясь найти идеальное соотношение, при этом постараться не сломать направляющие объектива, 
+случайно перекрутив винты, особенно если на дворе непогода, и отвертка периодически выскальзывает. Камера KN-CE204V5050BR оснащена матрицей Sony Starvis IMX 290 которая, благодаря технологии True WDR, обладает ультравысокой чувствительностью . Объектив 5.0-50 мм в связке с высокочувствительной матрицей SONY STARVIS IMX290, по результатам тестирования, показал отличное качество картинки при использовании камеры 
+в системах распознавания номерных знаков автомашин. Изображение получается очень качественным с исключительной четкостью и резкостью при любом перепаде уровней освещённости. KENO ПРОЕКТ : Оптимизация потоков для работы с системами СКОУ и ЕЦХД. Встроенный процессор I/O команд для обработки Meta данных. Особенности IP видеокамеры Все технические параметры Модель KN-CE204V5050BR Система Тип матрицы 1/2,8” SONY STARVIS IMX290 (2.13 Mpx) Эффективные    пиксели 1945(H)    × 1109(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.001 lux / F1.2, Ч/Б: 0.0001 lux, 0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Авто    ICR ИК подсветка ИК OSRAM LED III EXIR290 до 60м Компенсац</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8”SONY STARVIS IMX290(2.13 Mpx)</spec>
+    <spec name="Эффективные    пиксели">1945(H)    × 1109(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.001 lux / F1.2, Ч/Б: 0.0001 lux, 0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">ИК OSRAM LED III EXIR290 до 60м</spec>
+    <spec name="Компенсация    засветки">BLC    / HLC / DOL WDR (HDR) 140dB</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">5.0~50mm (2.0MP) F1.4 с ИК коррекцией и АРД DC DRIVE</spec>
+    <spec name="Светосила">F1.2</spec>
+    <spec name="Угол обзора">H:    58,5°(Wide)~6,5°(Tele)</spec>
+    <spec name="Формат    кодирования">H.264 / H.265 HEVC</spec>
+    <spec name="Основной поток">1080P/720P/D1(1    ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, RTP, SNMP v.1/v.2, SSL, QoS, IGMP, ICMP, UDP, DHCP, DNS, PPPOE, DDNS, FTP, NTP, RTSP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G (Motion, Alarm, MetaData)</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">1 вх./1вых.</spec>
+    <spec name="Тревога">2 вх./1вых.</spec>
+    <spec name="ePTZ">-</spec>
+    <spec name="Видеовыход">1    BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Memory Slot">Micro    SD, Max 128GB</spec>
+    <spec name="Питание">DC12В, POE 48V DC (802.3af)</spec>
+    <spec name="Потребление">Не более 8Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP67,    грозозащита до 8000В</spec>
+    <spec name="Габариты">263(Д) х 95(В) х 88(Ш)</spec>
+    <spec name="Вес">1.0 кг</spec>
+    <spec name="KN-CE204A2812BR">2.0</spec>
+    <spec name="KN-CE204A5050BR">2.0</spec>
+    <spec name="KENO KN-PVN1BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-SDE204X23BR">2Мп</spec>
+    <spec name="KN-SDE204X33BR">2Мп</spec>
+    <spec name="KN-FRT7FBR">1920*1080</spec>
+    <spec name="KN-FRT5WBR">1920*1080</spec>
+    <spec name="KN-FRT5FBR">1920*1080</spec>
+    <spec name="KN-CE505A2812BR">5.0</spec>
+    <spec name="KN-DE505A2812BR">5.0</spec>
+    <spec name="KN-DE508F28BR">5.0</spec>
+    <spec name="KN-CE203A2812BR">2.0</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/proektnye-resheniya/kn-ce204v5050v2/</source_url>
+</product>

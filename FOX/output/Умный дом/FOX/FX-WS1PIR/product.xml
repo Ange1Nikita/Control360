@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-WS1PIR</name>
+  <article>FX-WS1PIR</article>
+  <brand>FOX</brand>
+  <category>Умный дом</category>
+  <price>25101071890</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/13c/440_370_0/2-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/6aa/440_370_0/3-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/509/440_370_0/5-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/12d/440_370_0/1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8b1/440_370_0/4-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c4a/440_370_0/8-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/87f/440_370_0/6-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/9bb/440_370_0/7-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/13c/38_24_2/2-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/6aa/38_24_2/3-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/509/38_24_2/5-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/12d/38_24_2/1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8b1/38_24_2/4-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c4a/38_24_2/8-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/87f/38_24_2/6-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/9bb/38_24_2/7-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/13c/440_370_0/2-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-WS1PIR</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Подключение">WiFi: 802,11 b/g/n, 2,4 ГГц</spec>
+    <spec name="Питание">CR123 (CR123А) до 8-ми месяцев (не входит в комплект)</spec>
+    <spec name="Рабочая температура">-10°C … +50°C. IP20</spec>
+    <spec name="Габаритные размеры (мм)">50(Ш) х 50(В) х 40(Г)</spec>
+    <spec name="Вес">107г</spec>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-WS1Monitor">Датчик температуры и влажности</spec>
+    <spec name="FX-WS1Smoke">Датчик для обнаружения задымления</spec>
+    <spec name="FX-WS1Open">Датчик открытия/закрытия</spec>
+    <spec name="FX-WS1Water">Датчик протечки воды</spec>
+    <spec name="FX-WS1Socket">Управляемая розетка</spec>
+    <spec name="FX-WS1Relay">Управляемое реле</spec>
+    <spec name="FX-WS1IR">ИК-пульт дистанционного управления</spec>
+    <spec name="FX-WS1PIR">WiFi датчик движения</spec>
+    <spec name="Особенности замка">Все технические параметры</spec>
+    <spec name="или DC 5В/1А USB Type-c (50см в комплекте)">Подключение</spec>
+    <spec name="WiFi: 802,11 b/g/n, 2,4 ГГц">Питание</spec>
+    <spec name="Радиус действия: 120°, ≤ 7 м, установка 1.2-2.1м">Рабочая температура</spec>
+    <spec name="-10°C … +50°C. IP20">Габаритные размеры (мм)</spec>
+    <spec name="50(Ш) х 50(В) х 40(Г)">Вес</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/umnyy-dom/fx-ws1pir/</source_url>
+</product>

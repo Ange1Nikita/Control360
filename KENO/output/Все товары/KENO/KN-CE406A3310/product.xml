@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE406A3310</name>
+  <article>KN-CE406A3310</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>17490</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/iblock/045/kn_ce406.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5ae/440_370_0/IMG-mini-format-130315.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7b1/440_370_0/IMG-mini-format-105445.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/eb2/440_370_0/IMG-mini-format-105625.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/214/440_370_0/IMG-mini-format-105938.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a20/440_370_0/IMG-mini-format-110217.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b87/440_370_0/IMG-mini-format-130629.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/30b/440_370_0/IMG-mini-format-132440.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/98e/440_370_0/IMG-mini-format-133315.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f89/440_370_0/IMG-mini-format-101022.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/8bc/440_370_0/IMG-mini-format-100933.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/045/38_24_2/kn_ce406.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5ae/38_24_2/IMG-mini-format-130315.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7b1/38_24_2/IMG-mini-format-105445.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/eb2/38_24_2/IMG-mini-format-105625.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/214/38_24_2/IMG-mini-format-105938.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a20/38_24_2/IMG-mini-format-110217.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b87/38_24_2/IMG-mini-format-130629.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/30b/38_24_2/IMG-mini-format-132440.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/98e/38_24_2/IMG-mini-format-133315.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f89/38_24_2/IMG-mini-format-101022.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/8bc/38_24_2/IMG-mini-format-100933.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 4 5 6 7 8 9 10 11 Уличная 4.0 2.8-12 60 Ваша цена: 17 490 руб. Короткое описание Профессиональная 4-х мегапиксельная IP видеокамера с автозум объективом KN-СE406A3310 (2.8-12), предназначенная для охранного видеонаблюдения вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Особенности IP видеокамеры Все технические параметры Модель KN-CE406A3310 (2.8-12) Система Тип матрицы 1/3” OV4689 OmniBSI-2™ (4.1 Мегапикселей) Эффективные    пиксели 2592(H)    × 1520(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, 0 Лк (ИК вкл.) Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка Управляемый ИК прожектор OSRAM IR LED III (850нм) до 60м Компенсация    засветки BLC / WDR (120 Дб) / Slow Shutter / Антитуман Баланс белого Авто Усиление Авто/Ручной Приватные зоны До    4-х зон Оптика Объектив Моторизированный 2.8~12mm (4.0MP ZL) F1.4 с ИК коррекцией, автофокусировкой и панорамированием Светосила F1.2 Угол обзора H:    114°(Wide)~29.5°(Tele) Видео Видео режим ROI / “Коридор” / Стабилизация изображения Формат    кодирования HEVC H.265 / H.264 (H/M/B) / Mjpeg Основной поток 4MP (1 ~ 20 к/с), 3MP/1080P/960P/720P/D1 (1 ~ 25 к/с) Второстепенный    поток D1/CIF(1    ~ 25) Поток 32K    ~ 8192Kbps, Авто, ROI, Coridor Сеть Порт RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif Profile-S/G (Движение, Тревога, Metadata) CGI / API Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows Дополнительно Аудио Внешний 1 Вх. / 1 Вых. Аудио, G.711A/M/Mu / G.726 Тревога 2    Вх. / 1 Вых. Аналитика Система интеллектуальной видео аналитики (IVS) Детектор лиц, Периметр/Движение (10 режимов) Видеовыход 1    BNC(1.0Vp-p, 75 ) Memory Slot Micro    SD, Max 128GB Техническ</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/3” OV4689 OmniBSI-2™ (4.1 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">2592(H)    × 1520(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, 0 Лк (ИК вкл.)</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED III (850нм) до 60м</spec>
+    <spec name="Компенсация    засветки">BLC / WDR (120 Дб) / Slow Shutter / Антитуман</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">Моторизированный 2.8~12mm (4.0MP ZL) F1.4 с ИК коррекцией, автофокусировкой и панорамированием</spec>
+    <spec name="Светосила">F1.2</spec>
+    <spec name="Угол обзора">H:    114°(Wide)~29.5°(Tele)</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Формат    кодирования">HEVC H.265 / H.264 (H/M/B) / Mjpeg</spec>
+    <spec name="Основной поток">4MP (1 ~ 20 к/с), 3MP/1080P/960P/720P/D1 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто, ROI, Coridor</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">Внешний 1 Вх. / 1 Вых. Аудио, G.711A/M/Mu / G.726</spec>
+    <spec name="Тревога">2    Вх. / 1 Вых.</spec>
+    <spec name="Аналитика">Система интеллектуальной видео аналитики (IVS) Детектор лиц, Периметр/Движение (10 режимов)</spec>
+    <spec name="Видеовыход">1    BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Memory Slot">Micro    SD, Max 128GB</spec>
+    <spec name="Питание">DC 12 В ±10%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 10Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP67,  грозозащита до TVS8000В</spec>
+    <spec name="Габариты">98(Ш)*96(В)*265(Д) мм</spec>
+    <spec name="Вес">1.2кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ce406a3310/</source_url>
+</product>

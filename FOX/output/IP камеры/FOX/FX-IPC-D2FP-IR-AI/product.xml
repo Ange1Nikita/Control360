@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IPC-D2FP-IR AI</name>
+  <article>FX-IPC-D2FP-IR-AI</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110003390</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/934/440_370_0/FX_IPC_D2FP_IR.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/934/38_24_2/FX_IPC_D2FP_IR.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/934/440_370_0/FX_IPC_D2FP_IR.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">FX-IPC-D2FP-IR AI</spec>
+    <spec name="Система">Fullhan FH8852V201</spec>
+    <spec name="Мощность AI">Из ресурсов GPU, 0.5T AI</spec>
+    <spec name="Тип матрицы">1/3” GalaxyCore GC2083 (2.0 Мегапикселя)</spec>
+    <spec name="Эффективные    пиксели">1920(Г) × 1080(В), Размер пикселя 2.7 x 2.7 [μm]</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.002 Лк / F1.6, 0 Лк (ИК вкл.)</spec>
+    <spec name="Сигнал / шум">≥ 83 Дб (AGC выкл.), SNR ≥ 42 Дб</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">ИК прожектор (850нм) до 20-25м</spec>
+    <spec name="Режим работы ИК">Лицо / Номер автомобиля / Базовый режим</spec>
+    <spec name="Компенсация засветки">BLC / DWDR / Антитуман / Стробоскоп</spec>
+    <spec name="Шумоподавление">3DNR (Авто / Слабый / Средний / Сильный)</spec>
+    <spec name="Объектив">2.8mm YT1049 (4.0MP) F1.85 с ИК коррекцией</spec>
+    <spec name="Светосила">F1.85</spec>
+    <spec name="Угол обзора">H:    98°</spec>
+    <spec name="Формат    кодирования">H.265 / H.264</spec>
+    <spec name="Основной поток">4МП: 2560x1440* (1 ~ 20 к/с) / 2МП: 1920x1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / 800x448 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">256K ~ 12288Kbps, CBR±10%, VBR</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, DNS, DHCP, RTP, RTSP, UDP, NTP
+Third Party: HIKVISION protocol</spec>
+    <spec name="ONVIF 2.6">Profile S/G (Движение, Тревога, Metadata), API методом CGI</spec>
+    <spec name="P2P">P6S Lite / Easy VMS</spec>
+    <spec name="Видеовыход">-</spec>
+    <spec name="Memory Slot">-</spec>
+    <spec name="Тревога">-</spec>
+    <spec name="Аналитика">Детектор человека</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, G.711 (a-law, μ-law)</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Питание">DC 12 В ±25%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 5Вт</spec>
+    <spec name="Рабочая    температура">-10°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">Грозозащита до TVS4000В</spec>
+    <spec name="Материал корпуса">Пластик</spec>
+    <spec name="Габариты">⌀110 * 88 мм</spec>
+    <spec name="Вес">0.25 кг</spec>
+    <spec name="FX-IPC-E20WP-IR">2Мп</spec>
+    <spec name="FX-IPC-C20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-C40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-C40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-D40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-D2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-C450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-D450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-T20FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-T40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-H2C-WIR">2Мп</spec>
+    <spec name="FX-IPC-H2D-WIR">2Мп</spec>
+    <spec name="FX-IPC-H4C-WIR">4Мп</spec>
+    <spec name="FX-IPC-H4D-WIR">4Мп</spec>
+    <spec name="FX-IPEYE/2Q">2Мп</spec>
+    <spec name="Внутренняя">2Мп</spec>
+    <spec name="2.8 mm">25</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="КАМЕРА">Система</spec>
+    <spec name="Fullhan FH8852V201">Мощность AI</spec>
+    <spec name="Из ресурсов GPU, 0.5T AI">Тип матрицы</spec>
+    <spec name="1/3” GalaxyCore GC2083 (2.0 Мегапикселя)">Эффективные    пиксели</spec>
+    <spec name="1920(Г) × 1080(В), Размер пикселя 2.7 x 2.7 [μm]">Электронный    затвор</spec>
+    <spec name="Auto/    1/25s-1/10000s">Мин.    Освещенность</spec>
+    <spec name="Цвет: 0.002 Лк / F1.6, 0 Лк (ИК вкл.)">Сигнал / шум</spec>
+    <spec name="≥ 83 Дб (AGC выкл.), SNR ≥ 42 Дб">Переключение день/ночь</spec>
+    <spec name="Электромеханический ИК-фильтр">ИК подсветка</spec>
+    <spec name="ИК прожектор (850нм) до 20-25м">Режим работы ИК</spec>
+    <spec name="Лицо / Номер автомобиля / Базовый режим">Компенсация засветки</spec>
+    <spec name="BLC / DWDR / Антитуман / Стробоскоп">Шумоподавление</spec>
+    <spec name="3DNR (Авто / Слабый / Средний / Сильный)">ОПТИКА</spec>
+    <spec name="ВИДЕО">Формат    кодирования</spec>
+    <spec name="H.265 / H.264">Основной поток</spec>
+    <spec name="4МП: 2560x1440* (1 ~ 20 к/с) / 2МП: 1920x1080 (1 ~ 25 к/с)">Второстепенный    поток</spec>
+    <spec name="D1 / 800x448 (1 ~ 25 к/с)">Поток</spec>
+    <spec name="256K ~ 12288Kbps, CBR±10%, VBR">СЕТЬ</spec>
+    <spec name="ДОПОЛНИТЕЛЬНО">Видеовыход</spec>
+    <spec name="-">Аналитика</spec>
+    <spec name="Детектор человека">Аудио</spec>
+    <spec name="Микрофон с АРУ и ШП, G.711 (a-law, μ-law)">Язык интерфейса</spec>
+    <spec name="Русский / Английский">ТЕХНИЧЕСКИЕ ПАРАМЕТРЫ</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="(0.3МБ)">Release note (August 2024)</spec>
+    <spec name="(0.275МБ)">Прошивка V3.0.0</spec>
+    <spec name="Паспорт">(0.3МБ)</spec>
+    <spec name="Release note (August 2024)">(0.275МБ)</spec>
+    <spec name="Прошивка V3.0.0">(7.345МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ip-kamery/fx-ipc-d2fp-ir-ai/</source_url>
+</product>

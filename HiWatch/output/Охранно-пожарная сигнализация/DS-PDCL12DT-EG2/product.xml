@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDCL12DT-EG2</name>
+  <model>DS-PDCL12DT-EG2</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdcl12dt-eg2</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Цифровой ИК-датчик с функцией мониторинга четырех зон + СВЧ-датчик 24 ГГц</paragraph>
+    <paragraph>• Автоматическая чувствительность</paragraph>
+    <paragraph>• Адаптация напряжения и встроенный EOL-резисторПотолочный оптический извещатель ИК+СВЧ (24Ггц)</paragraph>
+    <paragraph>Область обнаружения - до 12м, 360 град.; технология подавления помех "Blue Wave"; температурная компенсация IFT; тампер; DC9-16В; -10градусовC...+70градусовC; размер 120 33мм; пластик ABS. Высота установки от 2.4м до 4м;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цифровой ИК-датчик с функцией мониторинга четырех зон + СВЧ-датчик 24 ГГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическая чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Адаптация напряжения и встроенный EOL-резисторПотолочный оптический извещатель ИК+СВЧ (24Ггц)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область обнаружения - до 12м, 360 град.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>технология подавления помех "Blue Wave"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>температурная компенсация IFT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 120 33мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS. Высота установки от 2.4м до 4м</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

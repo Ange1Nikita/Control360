@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Электромагнитные замки</name>
+  <article>ELECTROMAGNETIC-LOCKS</article>
+  <brand>FOX</brand>
+  <category>Замки</category>
+  <price>11145005490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/f47/Elektromagnitnye_zamki_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/20b/Elektromagnitnye-zamki-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/85f/Elektromagnitnye-zamki-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/bd7/Regilnye-zamki-250.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-M500">Внутренний</spec>
+    <spec name="FX-M280">Внутренний</spec>
+    <spec name="FX-M180">Внутренний</spec>
+    <spec name="FX-M100B">Внутренний</spec>
+    <spec name="1">1000</spec>
+    <spec name="5 490">руб.</spec>
+    <spec name="купить">FX-M100B</spec>
+    <spec name="2 190">руб.</spec>
+    <spec name="2 890">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/locks/electromagnetic-locks/</source_url>
+</product>

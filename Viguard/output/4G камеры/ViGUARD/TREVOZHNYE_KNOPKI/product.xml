@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Trevozhnye Knopki</name>
+  <article>TREVOZHNYE_KNOPKI</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/iblock/d06/d06105f1f0875b6671d370a88dd399aa.png</image>
+    <image>https://viguard.pro/upload/iblock/d33/d33449a72ab3f2f9a31205225aacca6c.png</image>
+    <image>https://viguard.pro/upload/iblock/095/0950651dd241ca76423cd5b8fe7450db.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/trevozhnye_knopki/</source_url>
+</product>

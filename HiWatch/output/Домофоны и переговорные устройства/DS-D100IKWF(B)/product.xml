@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-D100IKWF(B)</name>
+  <article>315792</article>
+  <sku>305303921</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Комплекты оборудования</subcategory>
+  <functional_name>Комплект IP-видеодомофона</functional_name>
+  <nomenclature>Комплект IP-видеодомофона</nomenclature>
+  <price>13200</price>
+  <price_wholesale>11990</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/315792/</product_url>
+  <description>
+    <paragraph>Комплект IP видеодомофона (вызывная панель + монитор) &lt;br /&gt;</paragraph>
+    <paragraph>2Мп IP вызывная панель на одного абонента с ИК-подсветкой до 3м и Wi-Fi угол обзора 129°, PoE/ 12В DC; Wi-Fi 2.4ГГц; Mifare считыватель (до 2000 пользователей, 10000 карт); WDR; BLC; DNR; 10M/100M Ethernet; 1 реле для замка; RS-485; IP65, -40℃ до 55℃; пластик; накладной монтаж; &lt;br /&gt;</paragraph>
+    <paragraph>7“ IP видеодомофон с WI-FI.Сенсорный 7" TFT LCD экран 1024*600; встроенные микрофон и динамик; слот для SD карты до 32Гб; Wi-Fi 2.4ГГц, тревожные входы/выходы 8/</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей/камер</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Количество дополнительных видеокамер</name>
+      <value>до 16 IP камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>6. Полный интерком</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры монитора, мм</name>
+      <value>200 × 140 x 15.1</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Угол обзора, град</name>
+      <value>129° (г)/75° (в)</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>2 Мп (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры вызывной панели, мм</name>
+      <value>138× 65x 27</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>instruction.pdf</passport>
+    <passport>instruction_3.pdf</passport>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="824.1 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/3/B356F751C6803912A10948F46E8A191D.pdf</document>
+    <document title="Инструкция" size="13.92 МБ">https://www.tinko.ru/upload/exchange/public/documentation/2/D/2D58E6099C66FB9FC12E4BA883029DE7.pdf</document>
+    <document title="Инструкция" size="454.17 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/4/147F90A36E4F6D0C43CD7953677B4A20.pdf</document>
+    <document title="Руководство по эксплуатации" size="2.59 МБ">https://www.tinko.ru/upload/exchange/public/documentation/E/E/EEBFF3C7457D87BF911235E9B1000E38.pdf</document>
+  </documents>
+</product>

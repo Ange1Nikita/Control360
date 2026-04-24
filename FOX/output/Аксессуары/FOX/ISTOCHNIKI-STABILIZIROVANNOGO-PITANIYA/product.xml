@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Источники стабилизированного питания</name>
+  <article>ISTOCHNIKI-STABILIZIROVANNOGO-PITANIYA</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110001560</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/9e7/foxfxpsdt60w125blokpitaniya360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/62a/FX_PS-DT_36W_12-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9ce/FX-PS-DT_24W_12-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/bba/FX-PS-DT12W-360.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Ток нагрузки, не более</spec>
+    <spec name="FX-PS DT-60W-12/5">5А</spec>
+    <spec name="FX-PS DT-36W-12/3">3А</spec>
+    <spec name="FX-PS DT-24W-12/2">2A</spec>
+    <spec name="FX-PS DT-12W-12/1">1А</spec>
+    <spec name="1">1000</spec>
+    <spec name="1 560">руб.</spec>
+    <spec name="купить">FX-PS DT-12W-12/1</spec>
+    <spec name="1 040">руб.</spec>
+    <spec name="780">руб.</spec>
+    <spec name="585">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/bloki-pitaniya/istochniki-stabilizirovannogo-pitaniya/</source_url>
+</product>

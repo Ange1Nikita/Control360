@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1276ZJ-SUS</name>
+  <model>DS-1276ZJ-SUS</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1276zj-sus</product_url>
+  <description>
+    <paragraph>Крепление на угол</paragraph>
+    <paragraph>Белое, сталь, 126105250 ммКрепление на угол, белое, сталь, 126 105 250мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Крепление на угол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Белое, сталь, 126105250 ммКрепление на угол, белое, сталь, 126 105 250мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

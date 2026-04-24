@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-K2801</name>
+  <article>266416</article>
+  <sku>302901271</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Сетевые контроллеры доступа</subcategory>
+  <functional_name>Сетевой контроллер</functional_name>
+  <nomenclature>Контроллер СКУД сетевой</nomenclature>
+  <price>7485.98</price>
+  <price_wholesale>6799.77</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/266416/</product_url>
+  <description>
+    <paragraph>Сетевой контроллер доступа на 1 дверь, 10 000 карт, 50 000 событий;  интерфейс связи: TCP/IP;  интерфейс считывателей: 2 входа Wiegand 26/34;  тревожные вход/выход 3/2;  DC 12 В (≤ 3.5 Вт);  встроенный БП ≤ 50 Вт;  -20...+65 °C;  размеры: 285×237×69 мм;  корпус: металл</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество пользователей/ключей, не более</name>
+      <value>10 000</value>
+    </spec>
+    <spec>
+      <name>Интерфейс линии связи для передачи данных</name>
+      <value>Ethernet</value>
+    </spec>
+    <spec>
+      <name>Количество событий, хранящихся в памяти контроллера, шт</name>
+      <value>50 000</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых считывателей</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Интерфейс подключаемых считывателей</name>
+      <value>Wiegand</value>
+    </spec>
+    <spec>
+      <name>Управление замком</name>
+      <value>1 Выход (Реле)</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Максимальный потребляемый ток, мА</name>
+      <value>1000</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>285х237х69</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1.61 МБ">https://www.tinko.ru/upload/exchange/public/documentation/4/B/4B1D4155CDF362FD2B9DC336E37F42BE.pdf</document>
+    <document title="Руководство пользователя" size="1.87 МБ">https://www.tinko.ru/upload/exchange/public/documentation/9/A/9A95F2C851AE36870569A9B996326D33.pdf</document>
+  </documents>
+</product>

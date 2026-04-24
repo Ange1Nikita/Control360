@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-KD-DIS</name>
+  <article>289279</article>
+  <sku>305301559</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Вызывные панели</subcategory>
+  <functional_name>Модуль дисплея</functional_name>
+  <nomenclature>Модуль дисплея</nomenclature>
+  <price>6367.74</price>
+  <price_wholesale>5784.03</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289279/</product_url>
+  <description>
+    <paragraph>Модуль дисплея 3,5 дюйма TFT LCD экран, 4 физических кнопки с подсветкой. До 2000 контактов на устройстве. Хранение и поиск контактов. Несколько языков.  -20°C – 60°C, влажность 10% – 95%. IP65. 98x100x33.7мм; Пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Тип экрана</name>
+      <value>3.5 цветной TFT LCD</value>
+    </spec>
+    <spec>
+      <name>Степень защиты</name>
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+60</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="698.03 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/A/0A1B81E2C74E2E1C703C66FBF2780ECC.pdf</document>
+  </documents>
+</product>

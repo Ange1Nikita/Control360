@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Уличные влагозащитные</name>
+  <article>ULICHNYE-VLAGOZASHCHITNYE</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110001590</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/410/IMG_581-2a-BP-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/922/IMG_581-3a-BP-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/ede/www_12_3_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d24/www_12_5_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/863/www_12_7_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/0d4/www_12_10_small.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Ток нагрузки, не более</spec>
+    <spec name="FX-WP12/2A">2А</spec>
+    <spec name="FX-WP12/3A">3А</spec>
+    <spec name="FX-PS WP-36W-12/3">3А / 2.5А при установке в плохо вентилируемом месте</spec>
+    <spec name="FX-PS WP-60W-12/5">5А / 4.5А при установке в плохо вентилируемом месте</spec>
+    <spec name="FX-PS WP-84W-12/7">7А / 6А при установке в плохо вентилируемом месте</spec>
+    <spec name="FX-PS WP-120W-12/10">10А / 8,5А при установке в плохо вентилируемом месте</spec>
+    <spec name="1">1000</spec>
+    <spec name="1 590">руб.</spec>
+    <spec name="купить">FX-PS WP-120W-12/10</spec>
+    <spec name="2 190">руб.</spec>
+    <spec name="2 990">руб.</spec>
+    <spec name="3 990">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/bloki-pitaniya/ulichnye-vlagozashchitnye/</source_url>
+</product>

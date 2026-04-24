@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Скоростная поворотная IP-видеокамера Hiwatch DS-I415(B)</name>
+  <model>DS-I415(B)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Скоростные поворотные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i415-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Точная классификация объектов и тревога на основе алгоритма глубокого обучения</paragraph>
+    <paragraph>Захват изображений лиц, захват до 5 изображений лиц одновременно</paragraph>
+    <paragraph>1/2.8 Progressive Scan CMOS</paragraph>
+    <paragraph>Разрешение до 2560  1440 @ 30 к/с</paragraph>
+    <paragraph>15х оптический зум, 16х цифровой зум</paragraph>
+    <paragraph>Дальность EXIR (ИК)-подсветки: до 100 м</paragraph>
+    <paragraph>WDR, HLC, BLC, 3D DNR, антитуман, экспозиция области, фокус на области</paragraph>
+    <paragraph>DC 12 В, POE (802.3 at)</paragraph>
+    <paragraph>Видеосжатие H.265+/H.265</paragraph>
+    <paragraph>Встроенный микрофон: нет</paragraph>
+    <paragraph>Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ4Мп уличная поворотная IP-камера с EXIR-подсветкой до 100м</paragraph>
+    <paragraph>1/2.8'' Progressive Scan CMOS матрица; объектив 5 - 75мм, 15x; угол обзора объектива 55градусов - 4градусов; механический ИК-фильтр; H.265+/H.265/H.264+/H.264/MJPEG, 0.005лк@F1.6; 2560   1440@25к/с; WDR 120дБ, 3D DNR; HLC; EIS; антитуман; BLC; аудио вход/выход: 1/1,  вход/выход тревоги 1/1, обнаружение движения, вторжения в область и пересечения линии  c MD2.0; захват изображения лица, аудиодетектор, встроенный слот для microSD карты до 256Гб; вращение 360градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с; наклон -15градусов - 90градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с; видеобитрейт 32кбит/с-16Мбит/с; защита от перенапряжений TVS, IP66; -40градусовC до +60градусовC; DC12В/PoE(IEEE 802.3at); 24Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Точная классификация объектов и тревога на основе алгоритма глубокого обучения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Захват изображений лиц, захват до 5 изображений лиц одновременно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение до 2560  1440 @ 30 к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>15х оптический зум, 16х цифровой зум</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность EXIR (ИК)-подсветки: до 100 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WDR, HLC, BLC, 3D DNR, антитуман, экспозиция области, фокус на области</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В, POE (802.3 at)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ4Мп уличная поворотная IP-камера с EXIR-подсветкой до 100м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 5 - 75мм, 15x</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора объектива 55градусов - 4градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, 0.005лк@F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2560   1440@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WDR 120дБ, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>антитуман</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудио вход/выход: 1/1,  вход/выход тревоги 1/1, обнаружение движения, вторжения в область и пересечения линии  c MD2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>захват изображения лица, аудиодетектор, встроенный слот для microSD карты до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение 360градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон -15градусов - 90градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-16Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS, IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В/PoE(IEEE 802.3at)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>24Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

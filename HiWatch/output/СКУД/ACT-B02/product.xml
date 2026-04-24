@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ACT-B02</name>
+  <model>ACT-B02</model>
+  <category>СКУД</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/act-b02</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Размеры: 90  35  28.9 мм (3.54  1.38  1.14)</paragraph>
+    <paragraph>• Конструкция: панель из алюминиевого сплава, металлическая кнопка</paragraph>
+    <paragraph>• Рабочий ток: 3 A @ DC 36 В макс</paragraph>
+    <paragraph>• Контакт выхода: контакт NO / NC / COM</paragraph>
+    <paragraph>• Испытание на износ: более 500 000 срабатываний</paragraph>
+    <paragraph>• Совместимый тип двери: дверная коробка с отверстиями для якорной части и встроенный электронный модуль</paragraph>
+    <paragraph>• Рабочая температура: от минус 10 до плюс 55 градусовC</paragraph>
+    <paragraph>• Рабочая влажность: от 0 до 95 % (относительная влажность)</paragraph>
+    <paragraph>• Панель: алюминий</paragraph>
+    <paragraph>• Масса изделия: 0.20 кгМеханическая кнопка выхода</paragraph>
+    <paragraph>3A@DC36В макс.; размер 90 35 28.9мм; панель - алюминиевый сплав, кнопка - металл.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Размеры: 90  35  28.9 мм (3.54  1.38  1.14)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Конструкция: панель из алюминиевого сплава, металлическая кнопка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Рабочий ток: 3 A @ DC 36 В макс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Контакт выхода: контакт NO / NC / COM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Испытание на износ: более 500 000 срабатываний</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Совместимый тип двери: дверная коробка с отверстиями для якорной части и встроенный электронный модуль</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Рабочая температура: от минус 10 до плюс 55 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Рабочая влажность: от 0 до 95 % (относительная влажность)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Панель: алюминий</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Масса изделия: 0.20 кгМеханическая кнопка выхода</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3A@DC36В макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 90 35 28.9мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>панель - алюминиевый сплав, кнопка - металл.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

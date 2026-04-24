@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T203(B)(2.8mm)</name>
+  <model>DS-T203(B)(2.8mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t203-b--2-8-mm-</product_url>
+  <description>
+    <paragraph>Видеокамера HiWatch DS-T203 – 2Мп сферическая модель с поддержкой стандарта передачи данных HD-TVI, позволяющего транслировать сигнал по коаксиальному кабелю с разрешением до FullHD на расстояние до 500 м. Излишние шумы в кадре коррелируются функцией цифрового шумоподавления DNR. «Умная» ИК-подсветка не дает пересвечивать объекты наблюдения в условиях недостаточной освещенности или полной темноте, автоматически корректируя яркость ИК-диодов. Диапазон рабочих температур устройства от -40градусов до +60градусовC, что в сумме с защищенностью корпуса от погодных воздействий по стандарту IP66 открывает возможности уличного использования камеры. Модель HiWatch DS-T203 является прекрасным выбором для перевода старых аналоговых систем CCTV на FullHD уровень за умеренные деньги.</paragraph>
+    <paragraph>2Мп уличная купольная HD-TVI камера с EXIR-подсветкой до 20м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 2.8мм; угол обзора 103градусов; механический ИК-фильтр; 0.01 Лк@F1.2; Smart ИК EXIR; OSD, BLC, DWDR, AGC, DNR; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная купольная HD-TVI камера с EXIR-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 103градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК EXIR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, BLC, DWDR, AGC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

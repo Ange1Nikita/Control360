@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T233(3.6mm)</name>
+  <model>DS-T233(3.6mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t233-3-6-mm-</product_url>
+  <description>
+    <paragraph>2Мп внутренняя купольная HD-TVI камера с EXIR-подсветкой до 40м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 3.6мм; угол обзора 80.7градусов; механический ИК-фильтр; 0.01 Лк@F1.2;  OSD, DNR; DWDR, BLC, Smart ИК EXIR; видеовыход: 1 х HD-TVI; -20градусовС до +45градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп внутренняя купольная HD-TVI камера с EXIR-подсветкой до 40м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 3.6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 80.7градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, BLC, Smart ИК EXIR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-20градусовС до +45градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

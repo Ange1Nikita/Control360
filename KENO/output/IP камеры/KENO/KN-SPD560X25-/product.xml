@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры Скоростные Поворотные/KN-SPD560X25</name>
+  <article>KN-SPD560X25-</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>110000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0a4/2hav2u0ds7yv96ndqbnyqhx3aoqmfd3p/440_370_0/KN_SPD880X25_1-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0a4/2hav2u0ds7yv96ndqbnyqhx3aoqmfd3p/38_24_2/KN_SPD880X25_1-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 5Мп Авто 5.5-137.5 mm (25х) до 120м Ваша цена: 110 000 руб. Короткое описание Сетевая скоростная поворотная 5Мп IP видеокамера профессионального уровня KN-SPD560X25 , во всепогодном исполнении, предназначена для использования  с целью охранного видеонаблюдения. Камера оснащена матрицей которая обладает ультравысокой чувствительностью, изображение получается очень качественным с исключительной четкостью и резкостью при любом перепаде уровней освещённости. Поворотная камера позволяет заменить несколько стандартных IP видеокамер за счет того, что может вращаться на °, имеет объектив с переменным фокусным расстоянием 5.5 ~ 137.5 мм и 25 кратным оптическим зумом, выход SD, встроенный MIC, POE, ИК-120м. Спектр применения данной камеры крайне широк, а наличие мощной ИК подсветки делает ее эффективной в любое время суток. Особенности IP видеокамеры Уличная 5Мп Авто 5.5-137.5 mm (25х) до 120м Поддержка стандарта Onvif Profile-S/G Матрица Разрешение 5Мп Вариофокальный объектив   5.5 ~ 137.5мм 25х кратный оптический зум Угол обзора 360° Мощная, интеллектуальная ИК подсветка OSRAM IR LED III (850нм) до 180м, SMART IR
+Автоматически в зависимости от кратности зума Грозозащита до 8000В Двусторонняя передача звука Запись видео на SD карту Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="KN-SPD880X25">8Мп</spec>
+    <spec name="KN-SPD560X25">5Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-skorostnye-povorotnye/kn-spd560x25-/</source_url>
+</product>

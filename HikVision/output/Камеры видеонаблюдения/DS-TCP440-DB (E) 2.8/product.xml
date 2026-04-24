@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера HikVision DS-TCP440-DB (E) 2.8</name>
+  <model>DS-TCP440-DB (E) 2.8</model>
+  <sku>22944</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-tcp440-db-e-2-8-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>–20 ºC… +50 ºC, IP54</paragraph>
+    <paragraph>WDR 140 дБ, BLC, 3D DNR</paragraph>
+    <paragraph>H.265, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.012 лк</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: –30° ~ 30°, наклон: 0° ~ 30°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.0</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 мм, по горизонтали: 98.0°, по вертикали: 53.1°, по диагонали: 114.7°</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/c (2560×1440)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/c (720×576)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Интерфейс</name>
+      <value>RJ45 auto 10/100М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 ~ 24 V, PoE, макс. 10 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>120×184×104 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>500 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –20 ºC… +50 ºC, влажность: 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP54: IEC 60529-2013</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 Мп–20 ºC… +50 ºC, IP54WDR 140 дБ, BLC, 3D DNRH.265, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/2f9/140_140_1/DS_TCP440_DB_E_2.8_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-tcp440-db-e-2-8-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-TCP440-DB (E) 2.8&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

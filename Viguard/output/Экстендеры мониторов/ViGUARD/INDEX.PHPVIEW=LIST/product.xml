@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?view=list</name>
+  <article>INDEX.PHP?VIEW=LIST</article>
+  <brand>ViGUARD</brand>
+  <category>Экстендеры мониторов</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/97a/450_450_1/97aa665f160c6733a70ddc8b0f04389c.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/200/450_450_1/200d1955d00701fc1725349a61bc09c2.png</image>
+    <image>https://viguard.pro/upload/iblock/a8a/a8a20c7271e836a2b22a208b53751fa5.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/ekstendery_dlya_monitorov/index.php?view=list</source_url>
+</product>

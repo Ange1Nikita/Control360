@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Узлы коммутации/KN-SWB-L08P-C(A)</name>
+  <article>KN-SWB-L08P-C-A</article>
+  <brand>KENO</brand>
+  <category>Узлы коммутации</category>
+  <price>85000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/07d/f75gnnfmu0t4pk0zthoh7h7fs7mbzl2u/440_370_0/C_A_-KN_SWB_L08P_C_A_-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/07d/f75gnnfmu0t4pk0zthoh7h7fs7mbzl2u/38_24_2/C_A_-KN_SWB_L08P_C_A_-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/uzly-kommutatsii.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Ваша цена: 85 000 руб. Короткое описание KN-SWB-L08P-C(A) - Узел коммутации серии Arctic, предназначен для обеспечения работы до 8-ми оконечных устройств компьютерной сети с питанием по технологии PoE и дальнейшей передачи данных через групповой канал по средствам волоконно-оптических или медных линий связи. Все технические параметры Модель KN-SWB-L08P-C(A) Порты 10/100/1000 Base-T RJ-45 PoE 8 Порты 1000 Base-X SFP 2 Консольный порт 1 PoE стандарты 802.3af/at/bt (1,2 порт) Общий бюджет PoE 240 Вт Питание изделия 180...264В АС, 50 Гц Максимальная потребляемая мощность 400 Вт Встроенная грозозащита 6 КВ Материал и толщина корпуса Сталь, 1мм Цвет (порошковая окраска) RAL 7035 Степень защиты (ГОСТ 14254-2015) IP55 Климатическое исполнение (ГОСТ 15150-69) УХЛ1, 5 Диапазон рабочих температур от -60ºС до +60ºС Габаритные размеры (без кабельных вводов) 400 х 300 х 200 мм Масса (с упаковкой) 13 кг Уличный узел коммутации управляемый L2+ 8 портов 10/100/1000Base-T с поддержкой PoE 802.3af/at/bt (1-2 порт); 2 порта Uplink 1000 Base-X; бюджет PoE 240 Вт; 4 АКБ 12В, 7Ач в комплекте; встроенный оптический кросс на 4 порта SC Simplex SM; встроенный вентилятор; грозозащита портов Ethernet 6кВА; АС 180...264В; корпус металл, IP55, IK10; -60°...+50°C; 400х300х200 мм Материалы и особенности ПО Паспорт KN-SWB-L08P-C(A) (0.32МБ)</description>
+  <specs>
+    <spec name="Модель">KN-SWB-L08P-C(A)</spec>
+    <spec name="Порты 10/100/1000 Base-T RJ-45 PoE">8</spec>
+    <spec name="Порты 1000 Base-X SFP">2</spec>
+    <spec name="Консольный порт">1</spec>
+    <spec name="PoE стандарты">802.3af/at/bt (1,2 порт)</spec>
+    <spec name="Общий бюджет PoE">240 Вт</spec>
+    <spec name="Питание изделия">180...264В АС, 50 Гц</spec>
+    <spec name="Максимальная потребляемая мощность">400 Вт</spec>
+    <spec name="Встроенная грозозащита">6 КВ</spec>
+    <spec name="Материал и толщина корпуса">Сталь, 1мм</spec>
+    <spec name="Цвет (порошковая окраска)">RAL 7035</spec>
+    <spec name="Степень защиты (ГОСТ 14254-2015)">IP55</spec>
+    <spec name="Климатическое исполнение (ГОСТ 15150-69)">УХЛ1, 5</spec>
+    <spec name="Диапазон рабочих температур">от -60ºС до +60ºС</spec>
+    <spec name="Габаритные размеры (без кабельных вводов)">400 х 300 х 200 мм</spec>
+    <spec name="Масса (с упаковкой)">13 кг</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/uzly-kommutatsii/kn-swb-l08p-c-a/</source_url>
+</product>

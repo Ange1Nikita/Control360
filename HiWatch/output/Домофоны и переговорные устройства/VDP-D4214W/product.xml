@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VDP-D4214W</name>
+  <article>301111</article>
+  <sku>305302693</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Вызывные панели</subcategory>
+  <functional_name>Вызывная панель IP-домофона</functional_name>
+  <nomenclature>Вызывная панель IP-домофона</nomenclature>
+  <price>10731.66</price>
+  <price_wholesale>9747.93</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/301111/</product_url>
+  <description>
+    <paragraph>IP вызывная панель на четыре абонента с ИК-подсветкой до 3м и Wi-Fi, 2Мп; Wi-Fi 2.4ГГц, Web интерфейс;PoE/ 12В DC, Mifare считыватель (до 2000 пользователей, 10000 карт);WDR; BLC; DNR; 10M/100M Ethernet, 2 реле для замка(No/NC); IP65, IK08, металл/пластик, накладной монтаж.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Размер матрицы</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>2 Мп (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора, град</name>
+      <value>129° (г)/75° (в)</value>
+    </spec>
+    <spec>
+      <name>Минимальная освещенность, лк</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Степень защиты</name>
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>IP|WI-FI|</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>174х91х29</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>document.pdf</passport>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Описание" size="2.21 МБ">https://www.tinko.ru/upload/exchange/public/documentation/9/8/98E5109F910A0B9F73F233208BC6B0C1.pdf</document>
+    <document title="Паспорт" size="282.41 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/E/8EF4F83A2E9BA78BFF6C94E73B5A6ACA.pdf</document>
+  </documents>
+</product>

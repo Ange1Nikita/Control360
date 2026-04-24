@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-K604W уличное исполнение</name>
+  <article>FX-K604-ULICHNOE-ISPOLNENIE</article>
+  <brand>FOX</brand>
+  <category>Замки</category>
+  <price>11110005490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/081/440_370_0/Pic-2-_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/4e3/440_370_0/Pic-3-_3_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/a75/440_370_0/Pic-3-_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/081/38_24_2/Pic-2-_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/4e3/38_24_2/Pic-3-_3_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/a75/38_24_2/Pic-3-_2_.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/081/440_370_0/Pic-2-_2_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-K604W</spec>
+    <spec name="Тип">Кодовая панель</spec>
+    <spec name="Исполнение">Уличное исполнение</spec>
+    <spec name="Обработка реакции">20 мс (с базой 2000 пользователей)</spec>
+    <spec name="Считыватель">Встроенный, 125кГц EM, зуммер, тампер</spec>
+    <spec name="Дальность считывания карт">30-60мм</spec>
+    <spec name="Выходы">NC, NO, звонок, кнопка выхода, интерфейс Wiegand 26</spec>
+    <spec name="Питание">DC 12В/30мА</spec>
+    <spec name="Степень защиты">IP68</spec>
+    <spec name="Рабочая температура">-40°C … +60°C</spec>
+    <spec name="Вес">0.2 кг</spec>
+    <spec name="Габаритные размеры (мм)">120мм(В) х 56мм(Д) х 20мм(Г)</spec>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-K605W Smart WiFi уличное исполнение">Уличная с WiFi</spec>
+    <spec name="FX-K604W уличное исполнение">Уличная</spec>
+    <spec name="FX-K603 внутреннее исполнение">Внутренняя</spec>
+    <spec name="Особенности замка">Все технические параметры</spec>
+    <spec name="Материалы и особенности ПО">Инструкция</spec>
+    <spec name="Инструкция">(2.581МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/locks/code-collecting-panels/fx-k604-ulichnoe-ispolnenie/</source_url>
+</product>

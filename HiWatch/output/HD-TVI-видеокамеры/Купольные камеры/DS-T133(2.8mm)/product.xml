@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T133(2.8mm)</name>
+  <model>DS-T133(2.8mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t133-2-8-mm-</product_url>
+  <description>
+    <paragraph>1Мп внутренняя купольная HD-TVI камера с EXIR-подсветкой до 20м</paragraph>
+    <paragraph>1/4" CMOS матрица; объектив 2.8мм; угол обзора 92градусов; механический ИК-фильтр; 0.1 Лк@F1.2; Smart ИК EXIR; OSD, BLC, DWDR, AGC, DNR, видеовыход: переключаемый HD-TVI/CVBS; -20градусовС до +45градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>1Мп внутренняя купольная HD-TVI камера с EXIR-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/4" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 92градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.1 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК EXIR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, BLC, DWDR, AGC, DNR, видеовыход: переключаемый HD-TVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-20градусовС до +45градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

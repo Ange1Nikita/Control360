@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор IP-домофона Hikvision DS-KH8350-WTE1</name>
+  <model>DS-KH8350-WTE1</model>
+  <article>283470</article>
+  <sku>305301214</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Абонентские устройства</subcategory>
+  <functional_name>Монитор IP-домофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>13141.2</price>
+  <price_wholesale>11936.59</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/283470/</product_url>
+  <description>
+    <paragraph>7“ IP видеодомофон с WI-FI 2.4 ГГц цветной IPS LCD экран с разрешением 1024*600; сенсорные кнопки; встроенные микрофон и динамик; слот для SD карты до 32 Гб; тревожные входы/выходы 8/2; 1 RS-485; 1 RJ-45 10M/100M Ethernet; DC 12 В/PoE; 10 Вт; -10...+55 °C; размер 195.8×132.8×17.5 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной IPS LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>9</value>
+    </spec>
+    <spec>
+      <name>Количество ip видеокамер</name>
+      <value>До 16 ip камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>до 6-ти мониторов</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>180х140х22.4</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>manual.pdf</passport>
+    <passport>manual_4.pdf</passport>
+    <passport>document_5.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="854.32 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/E/2E00A158552C31DB83D4AF511F318FFF.pdf</document>
+    <document title="Дополнение к руководству" size="124.13 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/D/EDFB4C806B969B6F9F83C3B58A808343.jpg</document>
+    <document title="Руководство по программированию" size="778.53 КБ">https://www.tinko.ru/upload/exchange/public/documentation/9/2/92E494E39CD01A8278EE23EDDCE9442A.pdf</document>
+    <document title="Руководство по программированию" size="999.52 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/A/CA92E755723E9B0621B33D4E404D0079.pdf</document>
+    <document title="Настройка подключения по WIFI" size="332.29 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/7/072E3F5BD12DDE915301E177CB267343.pdf</document>
+  </documents>
+</product>

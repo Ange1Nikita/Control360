@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDQP15AM-LM-WE</name>
+  <model>DS-PDQP15AM-LM-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdqp15am-lm-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Панорамное изображение на 180градусов</paragraph>
+    <paragraph>• Активное антимаскирование (ИК)</paragraph>
+    <paragraph>• Защита IP65 для использования снаружи помещений</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигнала</paragraph>
+    <paragraph>Метод детекции</paragraph>
+    <paragraph>PIR-датчик</paragraph>
+    <paragraph>Дальность обнаружения</paragraph>
+    <paragraph>15 м</paragraph>
+    <paragraph>Угол детекции</paragraph>
+    <paragraph>180°</paragraph>
+    <paragraph>Зоны детекции</paragraph>
+    <paragraph>40</paragraph>
+    <paragraph>Фильтр белого света</paragraph>
+    <paragraph>20000 лк</paragraph>
+    <paragraph>Скорость обнаружения</paragraph>
+    <paragraph>От 0.3 до 2 м/с</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Автоматич. / Низкая</paragraph>
+    <paragraph>Фильтрация срабатываний на домашних животных</paragraph>
+    <paragraph>До 40 кг</paragraph>
+    <paragraph>Переключатель питания</paragraph>
+    <paragraph>Включение</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>Синий (тревога), зеленый + оранжевый (маскирование области)</paragraph>
+    <paragraph>Технология передачи</paragraph>
+    <paragraph>Беспроводная технология Tri-X</paragraph>
+    <paragraph>Метод передачи</paragraph>
+    <paragraph>Беспроводная технология двойного РЧ-сигнала</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Безопасность передачи данных</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Дальность передачи данных (открытое пространство)</paragraph>
+    <paragraph>1.6 км</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>5 лет при нормальной эксплуатации (20 срабатываний в день) Со встроенной камерой: запуск и полная загрузка изображений один раз в день)</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>CR123A  2</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -25 до +60 °C</paragraph>
+    <paragraph>Стандартная потребляемая мощность</paragraph>
+    <paragraph>3 В</paragraph>
+    <paragraph>Температура хранения</paragraph>
+    <paragraph>От -25 до +60 °C</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Степень защиты IP</paragraph>
+    <paragraph>IP65</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>75  202  73 мм</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>512.5 г</paragraph>
+    <paragraph>Высота установки</paragraph>
+    <paragraph>От 0.8 до 1.2 м</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>На стену</paragraph>
+    <paragraph>Сценарии применения</paragraph>
+    <paragraph>Снаружи помещений</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Панорамное изображение на 180градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Активное антимаскирование (ИК)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита IP65 для использования снаружи помещений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIR-датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>180°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтр белого света</value>
+    </spec>
+    <spec>
+      <name />
+      <value>20000 лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / Низкая</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация срабатываний на домашних животных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 40 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключатель питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синий (тревога), зеленый + оранжевый (маскирование области)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность передачи данных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи данных (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1.6 км</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 лет при нормальной эксплуатации (20 срабатываний в день) Со встроенной камерой: запуск и полная загрузка изображений один раз в день)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A  2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартная потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Температура хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Степень защиты IP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>75  202  73 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>512.5 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0.8 до 1.2 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сценарии применения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Снаружи помещений</value>
+    </spec>
+    <spec>
+      <name>Метод детекции</name>
+      <value>PIR-датчик</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name>Угол детекции</name>
+      <value>180°</value>
+    </spec>
+    <spec>
+      <name>Зоны детекции</name>
+      <value>40</value>
+    </spec>
+    <spec>
+      <name>Фильтр белого света</name>
+      <value>20000 лк</value>
+    </spec>
+    <spec>
+      <name>Скорость обнаружения</name>
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Автоматич. / Низкая</value>
+    </spec>
+    <spec>
+      <name>Фильтрация срабатываний на домашних животных</name>
+      <value>До 40 кг</value>
+    </spec>
+    <spec>
+      <name>Переключатель питания</name>
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>Синий (тревога), зеленый + оранжевый (маскирование области)</value>
+    </spec>
+    <spec>
+      <name>Технология передачи</name>
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name>Метод передачи</name>
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Безопасность передачи данных</name>
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи данных (открытое пространство)</name>
+      <value>1.6 км</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>5 лет при нормальной эксплуатации (20 срабатываний в день) Со встроенной камерой: запуск и полная загрузка изображений один раз в день)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>CR123A  2</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Стандартная потребляемая мощность</name>
+      <value>3 В</value>
+    </spec>
+    <spec>
+      <name>Температура хранения</name>
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Степень защиты IP</name>
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>75  202  73 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>512.5 г</value>
+    </spec>
+    <spec>
+      <name>Высота установки</name>
+      <value>От 0.8 до 1.2 м</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name>Сценарии применения</name>
+      <value>Снаружи помещений</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

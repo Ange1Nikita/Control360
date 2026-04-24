@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/TVI видеорегистраторы/KN-2104AHD</name>
+  <article>KN-2104AHD</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>13990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2ab/440_370_0/kn_0808apoe.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f37/440_370_0/kn_0808apoe_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2ab/38_24_2/kn_0808apoe.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f37/38_24_2/kn_0808apoe_1_.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+  </images>
+  <description>1 2 4 1 1 Ваша цена: 13 990 руб. Короткое описание AHD 2.0 видеорегистратор с поддержкой одновременной записи до 4-x AHD 2.0 видеокамер с разрешением 1080p. Данное устройство является ключевым при построении небольшой системы видеонаблюдения с высоким 1080p качеством изображения. Особенности видеорегистратора Все технические параметры Модель KN-2104AHD Система Система Embedded    Linux OS Режим работы Пентаплекс Формат кодирования H.264 Управление Мышкой и по сети Видео Видео вход 4xBNC выход 1xBNC,    1xVGA, 1xHDMI Дисплей 1/4/9/Zoom Отображение 1920x1080, 1280x1024, 1280x720 Аудио Метод    кодирования 8кГц    × 16бит G.711 Аудио вход 1xBNC выход 1xBNC Двусторонняя связь вх/вых 1    / 1 BNC Запись Максимальный поток 24 Mbps Режимы работы AHD 2.0: 4х1080p (1920x1080) - 100 к/с Гибридный режим: AHD 2.0: 4х1080p (1920x1080) - 50 к/с + IP: 4x1080p (1920×1080) - 100 к/с - Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Одновременное воспроизведение AHD: 4x1080p / AHD+IPC: 1x1080p Жесткий диск 1xHDD    (до 4Тб) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, P2P, 3G, WiFi Сетевой интерфейс RJ45    10M/100M/1000M Сетевые функции Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры. Оповещение Запись, пересылка снимка на email пользователя, фокусировка PTZ камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др. Удаленный доступ KENO наблюдательный пост (с поддержкой камер Hikvision, Dahua, RVI, Falcon Eye, ONVIF), IE, с мобильного телефона, P2P сервер Дополнительные функции Управление    PTZ RS-485 Резервное копирование USB    - флешка, HDD (переносной) Технические параметры Блок    питания DC12V/3A Потребляемая мощность 10W Рабочая температура -20℃...+50℃ Диапазон влажности 10%~90% Габариты (мм) 300(Ш) x 209(Г) x 48.5(В), 1,5 Кг 4</description>
+  <specs>
+    <spec name="Модель">Кол-во каналов видео</spec>
+    <spec name="Система">Система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Формат кодирования">H.264</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1xBNC</spec>
+    <spec name="Дисплей">1/4/9/Zoom</spec>
+    <spec name="Отображение">1920x1080, 1280x1024, 1280x720</spec>
+    <spec name="Аудио">вход</spec>
+    <spec name="Двусторонняя связь вх/вых">1    / 1 BNC</spec>
+    <spec name="Запись">Максимальный поток</spec>
+    <spec name="Режимы работы">AHD 2.0: 4х1080p (1920x1080) - 100 к/с</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Одновременное воспроизведение">AHD: 4x1080p / AHD+IPC: 1x1080p</spec>
+    <spec name="Жесткий диск">1xHDD    (до 4Тб)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">RJ45    10M/100M/1000M</spec>
+    <spec name="Сетевые функции">Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">Запись, пересылка снимка на email пользователя, фокусировка PTZ камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др.</spec>
+    <spec name="Удаленный доступ">KENO наблюдательный пост (с поддержкой камер Hikvision, Dahua, RVI, Falcon Eye, ONVIF), IE, с мобильного телефона, P2P сервер</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной)</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">10W</spec>
+    <spec name="Рабочая температура">-20℃...+50℃</spec>
+    <spec name="Диапазон влажности">10%~90%</spec>
+    <spec name="Габариты (мм)">300(Ш) x 209(Г) x 48.5(В), 1,5 Кг</spec>
+    <spec name="KN-801AHD">8</spec>
+    <spec name="KN-161AHD">16</spec>
+    <spec name="KN-2104AHD">4</spec>
+    <spec name="KN-2108AHD">8</spec>
+    <spec name="KN-TVR4/1">4</spec>
+    <spec name="KN-TVR8/1">8</spec>
+    <spec name="KN-TVR16/2">16</spec>
+    <spec name="KN-TVR4/1-5М">4</spec>
+    <spec name="KN-TVR8/1-5М">8</spec>
+    <spec name="KN-TVR16/2-5М">16</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/tvi-videoregistratory/KN-2104AHD/</source_url>
+</product>

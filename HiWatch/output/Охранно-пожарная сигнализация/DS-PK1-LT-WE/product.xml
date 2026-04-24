@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PK1-LT-WE</name>
+  <model>DS-PK1-LT-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pk1-lt-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Двусторонняя беспроводная связь 868 МГц</paragraph>
+    <paragraph>ЖК-экран и светодиод для индикации состояния системы</paragraph>
+    <paragraph>Настройка системы с помощью ЖК-экрана</paragraph>
+    <paragraph>Несколько операций, таких как постановка на охрану, снятие с охраны, бесшумная сигнализация, управление выходом</paragraph>
+    <paragraph>Пожарная сигнализация, тревожная сигнализация и медицинская сигнализация одним нажатием</paragraph>
+    <paragraph>Полностью сенсорный дизайн клавиш со светодиодной подсветкой</paragraph>
+    <paragraph>Полностью удаленная настройка через приложениеБеспроводная LCD клавиатура AX PRO</paragraph>
+    <paragraph>Беспроводная клавиатура с обратной связью и LCD дисплеем + встроенный считыватель для постановки/снятия на охрану; 868МГц двухсторонная связь с TRI-X технологией; дальность передачи сигнала до 1200м. 4 AA батареи. Led подсветка.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя беспроводная связь 868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ЖК-экран и светодиод для индикации состояния системы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка системы с помощью ЖК-экрана</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Несколько операций, таких как постановка на охрану, снятие с охраны, бесшумная сигнализация, управление выходом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пожарная сигнализация, тревожная сигнализация и медицинская сигнализация одним нажатием</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полностью сенсорный дизайн клавиш со светодиодной подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полностью удаленная настройка через приложениеБеспроводная LCD клавиатура AX PRO</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная клавиатура с обратной связью и LCD дисплеем + встроенный считыватель для постановки/снятия на охрану</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность передачи сигнала до 1200м. 4 AA батареи. Led подсветка.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

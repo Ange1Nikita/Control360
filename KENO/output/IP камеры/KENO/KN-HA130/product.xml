@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-HA130</name>
+  <article>KN-HA130</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>2490</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/iblock/c42/11_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/da6/440_370_0/IMGmini-format-101427.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/930/440_370_0/IMGmini-format-101836.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/de3/440_370_0/IMGmini-format-131642.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/47e/440_370_0/IMG-mini-format-105217.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f8f/440_370_0/IMG-mini-format-105108.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a16/440_370_0/IMGmini-format-133315.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/50a/440_370_0/IMG-mini-format-101022.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/406/440_370_0/IMGmini-format-100755.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/c42/38_24_2/11_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/da6/38_24_2/IMGmini-format-101427.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/930/38_24_2/IMGmini-format-101836.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/de3/38_24_2/IMGmini-format-131642.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/47e/38_24_2/IMG-mini-format-105217.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f8f/38_24_2/IMG-mini-format-105108.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a16/38_24_2/IMGmini-format-133315.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/50a/38_24_2/IMG-mini-format-101022.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/406/38_24_2/IMGmini-format-100755.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 4 5 6 7 8 9 Уличная Ваша цена: 2 490 руб. Короткое описание Монтажная коробка KN-HA130 для размещения кабеля.
+Защищает соединения кабеля от воздействия климатического воздействия, в соответствии стандарту IP66 (пыле/ влага защита).
+Исполнена в металлическом корпусе. Прекрасно подходит для камер: KN-CX530F28-DL, KN-CS560F28-AI, KN-CS880F28-DK, KN-CS880A2713-DK Материалы и особенности ПО Паспорт (0.082МБ)</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ha130/</source_url>
+</product>

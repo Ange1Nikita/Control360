@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I253M(C)(2.8mm)</name>
+  <model>DS-I253M(C)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i253m-c-2-8mm-</product_url>
+  <description>
+    <paragraph>2Мп уличная IP-камера с гибридной Smart-подсветкой и встроенным микрофоном</paragraph>
+    <paragraph>1/2.9'' Progressive Scan CMOS матрица; объектив 2.8мм; угол обзора 103градусов; механический ИК-фильтр; 0.005Лк@F1.6; 19201080@25к/с; H.265/H.265+/H.264/H.264+/MJPEG, ROI, коридорный режим, DWDR; 3D DNR; BLC; EXIR-подсветка до 30м, подсветка белым светом до 20м; обнаружение движения 2.0; видеобитрейт 32кбит/с-8Мбит/с; G.711/G.722.1/G.726/MP2L2/PCM/AAC; встроенный микрофон; встроенный слот для microSD карты до 256Гб; IP67; защита от перенапряжений TVS, -40градусовC до +60градусовC; DC12В+-25%/PoE(IEEE 802.3af); 6,5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная IP-камера с гибридной Smart-подсветкой и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.9'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 103градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005Лк@F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>19201080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, ROI, коридорный режим, DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EXIR-подсветка до 30м, подсветка белым светом до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711/G.722.1/G.726/MP2L2/PCM/AAC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS, -40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6,5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

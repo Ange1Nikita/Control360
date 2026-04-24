@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DVR-104P-G(B)</name>
+  <model>DVR-104P-G(B)</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/dvr-104p-g-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• 4 видео входа;</paragraph>
+    <paragraph>• HDTVI/CVI/AHD/CVBS;</paragraph>
+    <paragraph>• H.265 Pro/H.265/H.265+/H.264/H.264+;</paragraph>
+    <paragraph>• Запись 1080p Lite/ 720p@25к/с;</paragraph>
+    <paragraph>• 1 аудио вход/ 1 выход;</paragraph>
+    <paragraph>• Запись 1 IP канала 1080p;</paragraph>
+    <paragraph>• 1 SATA до 4Тб;</paragraph>
+    <paragraph>• Работа через приложение Hik-Connect.4-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал</paragraph>
+    <paragraph>Видеовход: 4 канала BNC; Аудиовход: 1 канал RCA (до 4-х каналов AoC);  Видеовыход: 1 VGA и 1 HDMI до 1080p; Аудиовыход: 1 канал RCA; видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+; аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</paragraph>
+    <paragraph>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с;  аналоговые камеры: WD1@25к/с; IP: до 2Мп, 1 SATA для HDD до 4Тб; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0;  -10градусовC до +55градусовC;12В DC; 17Вт макс (без HDD).*</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 4 видео входа</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• HDTVI/CVI/AHD/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Запись 1080p Lite/ 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 аудио вход/ 1 выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Запись 1 IP канала 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 SATA до 4Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Работа через приложение Hik-Connect.4-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 канала BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA (до 4-х каналов AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 2Мп, 1 SATA для HDD до 4Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>17Вт макс (без HDD).*</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

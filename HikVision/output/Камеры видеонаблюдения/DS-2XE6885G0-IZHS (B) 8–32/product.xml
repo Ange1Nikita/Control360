@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XE6885G0-IZHS (B) 8–32</name>
+  <model>DS-2XE6885G0-IZHS (B) 8–32</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xe6885g0-izhs-b-8-32-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 8 Мп</paragraph>
+    <paragraph>ИК-подсветка 100 м</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264</paragraph>
+    <paragraph>–40 °C… +60 °C, IP68, ATEX</paragraph>
+    <paragraph>WDR 120 дБ, 3D DNR, BLC, ROI, EIS</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>3840×2160</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.009 лк (F/1.2, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручн.</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>моторизированный</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>8 ~ 32 мм, по горизонтали: 42° ~ 15°, по вертикали: 23° ~ 8°, по диагонали: 49° ~ 17°</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>автоматическая ирисовая диафрагма</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.7</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Диапазон</name>
+      <value>100 м</value>
+    </spec>
+    <spec>
+      <name>Фреймрейт</name>
+      <value>25 к/с</value>
+    </spec>
+    <spec>
+      <name>Потоки</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, H.265+, H.264+, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR/VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>H.265 и H.264</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>по 5 фиксированных областей для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM, AAC, MP3</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), 32 ~ 192 Кбит/с (MP2L2), 8 ~ 320 Кбит/с (MP3)</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс, ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, SRTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour, SSL/TLS, WebSocket, WebSockets</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, насыщенность, яркость, контрастность, резкость, баланс белого и AGC настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Переключение режима день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥50 дБ</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>8 настраиваемых многоугольных масок области</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 В p-p композитный выход (75 Ом/BNC)</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>RJ-45 auto 10/100M Ethernet, RS-485, волоконно-оптический порт (дальность передачи 20 км, 1310 нм (TX) и 1550 нм (RX), скорость передачи 155 Мбит/с)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты памяти, поддержка карт microSD, SDHC, SDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>1 вход (линейный), 1 выход (линейный)</value>
+    </spec>
+    <spec>
+      <name>Тревога</name>
+      <value>вход, выход</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, вибрации, расфокусировки, классификация объектов</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, тревожный сигнал, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 100 ~ 240 V, PoE, макс. 18 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>316L + защита от коррозии</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>352×200×214 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>14 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –40 °C... +60 °C, влажность: 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Метод привязки</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, тревожный сигнал, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>33 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский, украинский</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Дворник</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP68 (IEC 60529-2013), NEMA 4X</value>
+    </spec>
+    <spec>
+      <name>Взрывозащита</name>
+      <value>ATEX: II 2 G Ex db op is IIC T6 Gb, II 2D Ex tb op is IIIC T80°C Db IECEx: Ex db IIC T6 Gb, Ex tb IIIC T80°C Db, во взрывоопасных газовых средах максимальная температура поверхности составляет 85 °C; в воспламеняемых пылевых средах — 80 °C; IIC: для взрывоопасных газовых сред, подверженных воздействию огня, кроме подземных шахт; в среде взрывоопасных газовых смесей: зона 1, зона 2, зона 21, зона 22</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 8 МпИК-подсветка 100 мH.265+, H.265, H.264+, H.264–40 °C… +60 °C, IP68, ATEXWDR 120 дБ, 3D DNR, BLC, ROI, EISПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/d45/140_140_1/DS_2XE6885G0_IZHS-_B_-8_32-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xe6885g0-izhs-b-8-32-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XE6885G0-IZHS (B) 8–32&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

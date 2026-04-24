@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IPC-B020(B)(2.8mm)</name>
+  <model>IPC-B020(B)(2.8mm)</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ipc-b020-b--2-8mm-</product_url>
+  <description>
+    <paragraph>Уличная цилиндрическая IP-камера. Высокое качество изображения с разрешением 2 Мп. Механический ИК-фильтр. EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки. Технология эффективного сжатия H.265. Четкое изображение при яркой задней засветке благодаря технологии DWDR. Защита от влаги и пыли по стандарту IP67. Диапазон рабочих температур от -40 до +60 градусовC.2Мп уличная цилиндрическая IP-камера с EXIR-подсветкой до 25м</paragraph>
+    <paragraph>1/2.8'' Progressive Scan CMOS матрица; объектив 2.8мм; угол обзора 114.8градусов; механический ИК-фильтр; 0.028Лк@F2.0; H.265/H.265+/H.264/H.264+/MJPEG, DWDR; 3D DNR; BLC; Smart ИК; видеобитрейт 32кбит/с-8Мбит/с; IP67; -40градусовC до +60градусовC; DC12В+-25%/PoE(IEEE 802.3af); 4.5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>1/2.8'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 114.8градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.028Лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4.5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

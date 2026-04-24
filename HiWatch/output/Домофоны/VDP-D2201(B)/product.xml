@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VDP-D2201(B)</name>
+  <model>VDP-D2201(B)</model>
+  <category>Домофоны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/vdp-d2201-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Настройка через веб-интерфейс</paragraph>
+    <paragraph>• Надежная конструкция, IP65</paragraph>
+    <paragraph>• 1 канал, контроль доступа к видеодомофону</paragraph>
+    <paragraph>• Подавление шумов и эффекта эхо</paragraph>
+    <paragraph>• 2 Мп HD-камера с ИК-подсветкой</paragraph>
+    <paragraph>• PoE / DC 12 B2Мп IP вызывная панель на одного абонента с ИК-подсветкой до 3м</paragraph>
+    <paragraph>2Мп; Web интерфейс; PoE/ 12В DC; WDR; BLC; DNR; 10M/100M Ethernet; работа с Hik-Connect, 1 реле для замка; IP65, -40  до 53 ; пластик; накладной монтаж</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Настройка через веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Надежная конструкция, IP65</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 канал, контроль доступа к видеодомофону</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Подавление шумов и эффекта эхо</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 Мп HD-камера с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• PoE / DC 12 B2Мп IP вызывная панель на одного абонента с ИК-подсветкой до 3м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Web интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PoE/ 12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>работа с Hik-Connect, 1 реле для замка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP65, -40  до 53</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>накладной монтаж</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

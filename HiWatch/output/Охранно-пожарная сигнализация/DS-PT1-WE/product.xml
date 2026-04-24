@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PT1-WE</name>
+  <model>DS-PT1-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pt1-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Считыватель DS-PT1-WE является беспроводным считывателем с рабочим диапазоном 868 МГц</paragraph>
+    <paragraph>LED-дисплей отображает различные ответные данные для удобного восприятия</paragraph>
+    <paragraph>Операции: частичная охрана/полная охрана/снятие с охраны на заданных областях</paragraph>
+    <paragraph>Постановка на охрану с условием подтверждения неисправностей, более высокий уровень безопасности</paragraph>
+    <paragraph>Регистрация патрульной картыБеспроводный считыватель Axiom Hub PRO</paragraph>
+    <paragraph>Беспроводной считыватель для охранной панели AX PRO; для Постановления в охранну или снятии с охранны через TF карту; 868МГц двухсторонная связь с TRI-X технологией, дальность ло 1200м; 4 AA батарея, срок службы до 2 года (при 10 раза считывания в день);  -10градусовC...+55градусовC; размер 75 124 21мм; пластик. Настенная установка;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Считыватель DS-PT1-WE является беспроводным считывателем с рабочим диапазоном 868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-дисплей отображает различные ответные данные для удобного восприятия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Операции: частичная охрана/полная охрана/снятие с охраны на заданных областях</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Постановка на охрану с условием подтверждения неисправностей, более высокий уровень безопасности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регистрация патрульной картыБеспроводный считыватель Axiom Hub PRO</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной считыватель для охранной панели AX PRO</value>
+    </spec>
+    <spec>
+      <name />
+      <value>для Постановления в охранну или снятии с охранны через TF карту</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией, дальность ло 1200м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 AA батарея, срок службы до 2 года (при 10 раза считывания в день)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 75 124 21мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик. Настенная установка</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

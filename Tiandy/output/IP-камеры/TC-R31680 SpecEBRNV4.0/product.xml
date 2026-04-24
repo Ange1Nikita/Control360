@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор-IP TC-R31680 E/B/R/N/V4.0</name>
+  <model>TC-R31680 Spec:E/B/R/N/V4.0</model>
+  <sku>875</sku>
+  <brand>Tiandy</brand>
+  <category>IP-камеры</category>
+  <subcategory>Видеорегистраторы</subcategory>
+  <price>0</price>
+  <product_url>https://tiandy-russia.ru/ip-kamery-videonablyudeniya/ip-videoregistrator/videoregistrator-ip-tc-r31680-ebrnv40-875/</product_url>
+  <description>
+    <paragraph>80 - каналов, 640Mbps/320Mbps, поддержка разрешения до 16MP, Производительность декодирования 4*8MP, 16*1080p, 32*720p, видео выходы: 2 HDMI &amp; 2VGA неодновременного вывода, тревожный интерфейс I/O 16/4, USB интерфейс: 1xUSB 3.0 2xUSB 2.0, RAID: JBOD, RAID0/1/5/6/10, ANR, N+M, резервный блок питания</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>specification.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" original_url="https://drive.google.com/file/d/1rkuT5f85QL3wrvbTWuwjnWK2Uik-0oxN/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1rkuT5f85QL3wrvbTWuwjnWK2Uik-0oxN</document>
+    <document title="Спецификация" original_url="https://drive.google.com/file/d/1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir</document>
+    <document title="Программное обеспечение" original_url="https://drive.google.com/file/d/10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE</document>
+  </documents>
+</product>

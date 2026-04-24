@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDSMK-S-WE</name>
+  <model>DS-PDSMK-S-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdsmk-s-we</product_url>
+  <description>
+    <paragraph>Датчик DS-PDSMK-S-WE является беспроводным фотоэлектрическим датчиком дыма</paragraph>
+    <paragraph>Корпус высокого качества с фотоэлектрическим датчиком</paragraph>
+    <paragraph>Срок службы батареи составляет 10 летДатчик дыма беспроводной</paragraph>
+    <paragraph>868МГц двухсторонная связь, дальность передачи данных до 800м; защита от помех, температурная компенсация; срок службы батареи до 10 лет;  рабочая температура о -10 до 60 , размеры   102   35 мм, вес 125г; Установка на потолок, внутри помещений;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Датчик DS-PDSMK-S-WE является беспроводным фотоэлектрическим датчиком дыма</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус высокого качества с фотоэлектрическим датчиком</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Срок службы батареи составляет 10 летДатчик дыма беспроводной</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь, дальность передачи данных до 800м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи до 10 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>рабочая температура о -10 до 60 , размеры   102   35 мм, вес 125г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка на потолок, внутри помещений</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

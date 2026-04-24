@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ТСН-026</name>
+  <article>307955</article>
+  <sku />
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Комбинированные системы</subcategory>
+  <functional_name>Система видеонаблюдения для пунктов выдачи интернет-заказов</functional_name>
+  <nomenclature>Типовое решение ТСН</nomenclature>
+  <price>32628.36</price>
+  <price_wholesale />
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/307955/</product_url>
+  <description>
+    <paragraph>Типовое решение организации системы видеоконтроля в пунктах выдачи интернет-заказов реализовано на оборудовании HiWatch. Система позволяет удаленно просматривать видео как в архиве, так и в реальном времени (например, основному владельцу) подключившись через QR-код с логином и паролем с помощью приложения Hik-connect.</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

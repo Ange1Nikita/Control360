@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDC15-EG2-WE</name>
+  <model>DS-PDC15-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdc15-eg2-we</product_url>
+  <description>
+    <paragraph>DS-PDC15-EG2-WE является внутренним датчиком движения с узким углом обзора, предназначен для обнаружения движения штор шириной до 15 м и длиной до 3.6 м.ИК-датчик беспроводной типа "штора"</paragraph>
+    <paragraph>ИК-датчик беспроводной; 868МГц двухсторонная связь с TRI-X технологией; зона обнаружения 15х15м, 6,3градусов; Дальность до 1600м;  защита от помех, температурная компенсация; срок службы батареи - 5 лет;  -10градусовC...+55градусовC; размер 103 66 49мм; Пластик. Высота установки от 2.4м до 3.6м;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>DS-PDC15-EG2-WE является внутренним датчиком движения с узким углом обзора, предназначен для обнаружения движения штор шириной до 15 м и длиной до 3.6 м.ИК-датчик беспроводной типа "штора"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-датчик беспроводной</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>зона обнаружения 15х15м, 6,3градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность до 1600м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 5 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 103 66 49мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик. Высота установки от 2.4м до 3.6м</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

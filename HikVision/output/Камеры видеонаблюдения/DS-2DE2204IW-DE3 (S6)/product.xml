@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Поворотная IP-камера Hikvision DS-2DE2204IW-DE3 (S6)</name>
+  <model>DS-2DE2204IW-DE3 (S6)</model>
+  <sku>66703</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2de2204iw-de3-s6-povorotnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>ИК-подсветка 30 м</paragraph>
+    <paragraph>Динамик и микрофон</paragraph>
+    <paragraph>WDR 120 дБ, 3D DNR, BLC</paragraph>
+    <paragraph>H.265+, H.264+, H.265, H.264 и MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.05 лк (F/1.8, AGC вкл.)ч/б: 0.005 лк (F/1.8, AGC вкл.); 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость затвора</name>
+      <value>1/1 ~ 1/30 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Переключение режима день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ WDR</value>
+    </spec>
+    <spec>
+      <name>HLC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>3D DNR</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Антитуман</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Экспозиция области</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>авто, ручн., ATW, в помещении, на улице, лампа дневного света, лампа накаливания</value>
+    </spec>
+    <spec>
+      <name>Цифровой зум</name>
+      <value>16×</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>до 24 масок (по 8 масок на каждую сцену)</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>＞52 дБ</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>зеркалирование, защита паролем, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>2.8 ~ 12 мм</value>
+    </spec>
+    <spec>
+      <name>Скорость зумирования</name>
+      <value>2 с</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 96° ~ 46°по вертикали: 51° ~ 26°по диагонали: 112° ~ 55°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.8</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>350°</value>
+    </spec>
+    <spec>
+      <name>Наклон</name>
+      <value>0° ~ 90°</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>0.1 °/с ~ 60 °/с; по предустановке: 60 °/с</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>0.1 °/с ~ 50 °/с; по предустановке: 50°/с</value>
+    </spec>
+    <spec>
+      <name>Пропорциональное увеличение</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, патрулирование</value>
+    </spec>
+    <spec>
+      <name>3D-позиционирование</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ-позиции</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр при переходе на предустановку</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Задачи по расписанию</name>
+      <value>предустановка, перезагрузка, инициализация, вывод на дополнительный экран</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Тип потока</name>
+      <value>основной поток, дополнительный поток, третий поток</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>H.264+</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711alaw, G.711ulaw, G.722.1, G.726, MP2L2, AAC, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>AAC: 16 Кбит/с, 32 Кбит/с, 64 Кбит/с, MP2L2: 32 Кбит/с, 40 Кбит/с, 48 Кбит/с, 56 Кбит/с, 64 Кбит/с, 80 Кбит/с, 96 Кбит/с, 112 Кбит/с, 128 Кбит/с, 144 Кбит/с, 160 Кбит/с, 192 Кбит/с</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>AAC: 16 кГц, 32 кГц, 48 кГц; MP2L2: 16 кГц, 32 кГц, 48 кГц; PCM: 8 кГц, 16 кГц, 32 кГц, 64 кГц</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, тревожный вход, тревожный выход, исключения</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение вторжения, пересечения линии, входа и выхода из области, оставленного багажа, перемещения объекта, детекция звуковых событий</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальная запись</name>
+      <value>ANR, Dual-VCA</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальное кодирование</name>
+      <value>H.265 +, H.264 +, низкий битрейт, ROI, SVC</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ISAPI, Hikvision SDK, Hik-Connect, ISUP, открытый сетевой видеоинтерфейс (Profile S, Profile G, Profile T)</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей. 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Меры безопасности</name>
+      <value>аутентификация пользователя (ID и PW), аутентификация хоста (MAC-адрес), шифрование HTTPS, контроль доступа по стандарту IEEE 802.1x, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE10 +, Chrome57 +, Firefox52 +, Safari12 +</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>RJ45, 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>поддержка microSD, SDHC, SDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход</name>
+      <value>1 тревожный вход</value>
+    </spec>
+    <spec>
+      <name>Тревожный выход</name>
+      <value>1 тревожный выход</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 встроенный микрофон, 1 аудиовход, от 2.0 до 2.4 В [p-p], 1 кОм ±10 %</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 встроенный динамик, 1 аудиовыход, линейный, сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>30 м</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В, PoE: (802.3 at)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>14 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –10 °C... +50 °C, влажность: ≤90 %</value>
+    </spec>
+    <spec>
+      <name>Сброс настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø125.0×136.7 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>650 г</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>грозозащита 4000 В, защита от импульсных и переходных перенапряжений</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпИК-подсветка 30 мДинамик и микрофонWDR 120 дБ, 3D DNR, BLCH.265+, H.264+, H.265, H.264 и MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/5c2/140_140_1/DS_2DE2204IW_DE3-_S6_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2de2204iw-de3-s6-povorotnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DE2204IW-DE3 (S6)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

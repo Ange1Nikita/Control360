@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Биометрический терминал HiWatch ACT-T1331</name>
+  <model>ACT-T1331</model>
+  <article>301099</article>
+  <sku>302918074</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>СКУД «HiWatch Pro»</subcategory>
+  <functional_name>Биометрический терминал</functional_name>
+  <nomenclature>Биометрический терминал</nomenclature>
+  <price>11626.41</price>
+  <price_wholesale>10560.65</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/301099/</product_url>
+  <description>
+    <paragraph>Терминал доступа с распознаванием лиц,  3.97" цветной LCD сенсорный экран; 2Мп; WDR; дальность распознавания от 0.3 м до 1.5 м; скорость распознавания ≤0.2с, до 300 лиц; 150,000 событий; до 20,000 захваченных изображений; Ethernet 10/100; 1 RS-485; USB; замок; магнитный контакт; кнопка выхода; тампер; Web интерфейс; DC12В, 1.5А; -10 °C...+50°C, пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество шаблонов лиц</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Количество событий</name>
+      <value>150 000</value>
+    </spec>
+    <spec>
+      <name>Считыватель</name>
+      <value>Mifare</value>
+    </spec>
+    <spec>
+      <name>Время идентификации, с</name>
+      <value>менее 0.2</value>
+    </spec>
+    <spec>
+      <name>Выходной интерфейс</name>
+      <value>TCP/IP; USB</value>
+    </spec>
+    <spec>
+      <name>Дисплей</name>
+      <value>3.97" TFT цветной</value>
+    </spec>
+    <spec>
+      <name>Управление замком</name>
+      <value>1 Выход (Реле)</value>
+    </spec>
+    <spec>
+      <name>Напряжение, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность, %</name>
+      <value>10-90</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-30…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>120х110х23</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

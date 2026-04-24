@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Сетевая Dome-камера Hikvision DS-2CD4D16FWD-IZS с Motor-zoom и EXIR-подсветкой</name>
+  <model>DS-2CD4D16FWD-IZS</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd4d16fwd-izs/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ Сетевая Smart камера в купольном корпусе, матрица 1/3" CMOS с чувствительностью 0.005 Люкс при F1.2, видео H.265/H.265+, H.264/H.264+, MJPEG с разрешением 1280×960 (1.3Мп) 50 Fps, тройной поток, моторизованный объектив 2.8–12 мм, 3-axis, режим «день/ночь» с механическим ИК-фильтром, WDR 120 дБ, 3D DNR, BLC, HLC, EIS, Defog, ROI, EXIR-подсветка до 30 м, Smart видеоаналитика, слот для microSD объемом до 128 ГБ, RJ-45 с PoE, 1Vp-p композитный (75 Ω/BNC) видеовыход, аудиовход/выход (1/1), тревожный вход/выход (2/2), IP66, питание DC12В/PoE, габариты 145.96×133.5 мм, вес 1.2 кг.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.005 Лк @ (F1.2, AGC ВКЛ), 0.007 Лк @ (F1.4, AGC ВКЛ), 0 Лк с ИКЧ/б: 0.0005 Лк @ (F1.2, AGC ВКЛ), 0.0007 Лк @ (F1.4, AGC ВКЛ), 0 Лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1с ~ 1/100,000с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8-12 мм @F1.4, моторизированный вариобъектив</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Φ14</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>98.4°-30.2°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>Автофокус</value>
+    </spec>
+    <spec>
+      <name>Регулировка диафрагмы</name>
+      <value>DC drive</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>Поворот: 0 ° - 355 °; наклон: 0 ° - 70 °; вращение: 0° - 355 °</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>Основной поток: H.265/H.264/H.265+/H.264+Дополнительный поток: H.265/H.264/MJPEG/H.265+/H.264+Третий поток: H.265/H.264/MJPEG/H.265+/H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с – 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711/G.722.1/G.726/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с(G.711), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), 32-128 Кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1280×960</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 к/с (1280×960, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1280×960, 1280×720, 704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контраст, резкость, режим коридора настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 120 дБ WDR, 3D DNR, ROI, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>Авто/по расписанию/по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>Обнаружение пересечения линии, вторжения в область, входа/выхода из области, оставленных/пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>Обнаружение смены сцены съемки, превышения/принижения звукового порога, потери аудио, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>Обнаружение лиц</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (Поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя, водяные знаки, фильтрация IP-адресов, анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S, PROFILE G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, обнаружение несанкционированных действий, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>Запись на microSD/SDHC карту, активация реле, уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>48 кГц</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>2 входа/2 выхода (до DC 24 В 1A или AC 110 В 500 мA)</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1Vp-p композитный (75 Ω/BNC)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>Слот для microSD/SDHC/SDXC до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 20%/PoE (802.3af,class 4)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>10 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +60 °C</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name>Матриал корпуса</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø 145.96×133.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>1.2 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ Сетевая Smart камера в купольном корпусе, матрица 1/3" CMOS с чувствительностью 0.005 Люкс при F1.2, видео H.265/H.265+, H.264/H.264+, MJPEG с разрешением 1280×960 (1.3Мп) 50 Fps, тройной поток, моторизованный объектив 2.8–12 мм, 3-axis, режим «день/ночь» с механическим ИК-фильтром, WDR 120 дБ, 3D DNR, BLC, HLC, EIS, Defog, ROI, EXIR-подсветка до 30 м, Smart видеоаналитика, слот для microSD объемом до 128 ГБ, RJ-45 с PoE, 1Vp-p композитный (75 Ω/BNC) видеовыход, аудиовход/выход (1/1), тревожный вход/выход (2/2), IP66, питание DC12В/PoE, габариты 145.96×133.5 мм, вес 1.2 кг.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/eb1/140_140_1/eb1b24361a95a9489a8894bbb77cb025.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd4d16fwd-izs/?utm_source=comebackletter"&gt;Hikvision DS-2CD4D16FWD-IZS&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

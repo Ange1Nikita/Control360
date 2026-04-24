@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Поворотная мультиформатная камера Hikvision DS-2AE7232TI-A (C)</name>
+  <model>DS-2AE7232TI-A (C)</model>
+  <sku>55633</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2ae7232ti-a-c-povorotnaya-analogovaya-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>32-кратная оптика</paragraph>
+    <paragraph>HD-TVI, HD-CVI, AHD, CVBS</paragraph>
+    <paragraph>Smart ИК-подсветка до 150 м</paragraph>
+    <paragraph>⛅ ☔ ❄ IP66, –30 °C… +65 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.005 лк при F/1.6, AGC вкл.ч/б: 0.001 лк при F/1.6, AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>25 к/с при 1920×1080</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/1 с. ~ 1/10 000 с.</value>
+    </spec>
+    <spec>
+      <name>Цифровое увеличение</name>
+      <value>16-кратное</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>авто, вручную</value>
+    </spec>
+    <spec>
+      <name>День/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>авто, ручной, H-авто, ATW, в помещении, на улице</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшения изображения</name>
+      <value>HLC, BLC, EIS, фокус на области</value>
+    </spec>
+    <spec>
+      <name>Шумоподавление</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>Маска конфиденциальности</name>
+      <value>8 программируемых масок</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>.8 ~ 153 мм, 32-кратное оптическое увеличение</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>3.5 с.</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>54.2 ~ 1.97°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.2 ~ F/4.4</value>
+    </spec>
+    <spec>
+      <name>Режим фокусировки</name>
+      <value>авто, полуавтоматический, вручную</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Скорость вращения</name>
+      <value>вручную: 0.1 °/с — 160 °/с, по предустановке: 160 °/c</value>
+    </spec>
+    <spec>
+      <name>Диапазон наклона</name>
+      <value>–15°— +90° (автопереворот)</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>вручную: 0.1 °/с — 120 °/с, по предустановке: 120 °/c</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>256</value>
+    </spec>
+    <spec>
+      <name>Патрули</name>
+      <value>10, до 32 предустановок в каждом</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>5 шаблонов</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, патрулирование, шаблон, вертикальное сканирование, горизонтальное сканирование, случайное сканирование, сканирование кадра, панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>Действия по расписанию</name>
+      <value>предустановка, патрулирование, шаблон, вертикальное сканирование, горизонтальное сканирование, случайное сканирование, сканирование кадра, панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>Диагностика RS-485</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>до 150 м</value>
+    </spec>
+    <spec>
+      <name>Интенсивность ИК-подсветки</name>
+      <value>пвтоматически настраивается в зависимости от увеличения</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>переключаемый TVI/AHD/CVI/CVBS (NTSC или композитный PAL, BNC)</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>полудуплексный, с автоопределением, протоколы HIKVISION, Pelco-P, Pelco-D</value>
+    </spec>
+    <spec>
+      <name>UTC</name>
+      <value>протокол UTC (или протокол Hikvision-C в предыдущих DVR)</value>
+    </spec>
+    <spec>
+      <name>Язык меню</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>АС, 24 В ±10 %</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>40 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–30 ºС… +65 ºС, влажность не более 90 %</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66, грозозащита</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø220×353.4 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>4.5 кг</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 Мп32-кратная оптикаHD-TVI, HD-CVI, AHD, CVBSSmart ИК-подсветка до 150 м⛅ ☔ ❄ IP66, –30 °C… +65 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/df1/140_140_1/DS_2AE7232TI_A-_C_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ae7232ti-a-c-povorotnaya-analogovaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2AE7232TI-A (C)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

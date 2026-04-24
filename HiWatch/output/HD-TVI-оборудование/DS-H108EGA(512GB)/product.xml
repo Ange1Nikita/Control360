@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-H108EGA(512GB)</name>
+  <model>DS-H108EGA(512GB)</model>
+  <category>HD-TVI-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h108ega-512gb-</product_url>
+  <description>
+    <paragraph>8-и канальный гибридный HD-TVI регистратор с встроенным eSSD накопителем и технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала</paragraph>
+    <paragraph>Видеовход: 8 каналов BNC; Аудиовход: 8 по технологии AoC - аудио по коаксиальному кабелю;  Видеовыход: 1 VGA и 1 HDMI до 1080p; Аудиовыход: HDMI; видеосжатие H.265 Pro/H.265; аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</paragraph>
+    <paragraph>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с;  CVBS: WD1@25к/с; IP: до 5Мп - входящий битрейт 64Мбит/с., eSSD 480Gb; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0;  -10градусовC до +45градусовC;12В DC; 6.2Вт, размеры: 151  121 46 mm</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>8-и канальный гибридный HD-TVI регистратор с встроенным eSSD накопителем и технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 8 каналов BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 8 по технологии AoC - аудио по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: HDMI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CVBS: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 5Мп - входящий битрейт 64Мбит/с., eSSD 480Gb</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +45градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6.2Вт, размеры: 151  121 46 mm</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

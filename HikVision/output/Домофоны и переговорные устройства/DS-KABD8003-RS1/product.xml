@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Настенный козырек Hikvision DS-KABD8003-RS1</name>
+  <model>DS-KABD8003-RS1</model>
+  <article>288365</article>
+  <sku>305700587</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Дополнительное оборудование</subcategory>
+  <functional_name>Настенный козырек</functional_name>
+  <nomenclature>Козырёк</nomenclature>
+  <price>1365.98</price>
+  <price_wholesale>1240.77</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/288365/</product_url>
+  <description>
+    <paragraph>Настенный козырек на 1 модуль для защиты от солнца и дождя. Металл. Для DS-KD-ACW1</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>122х116.4х58</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="733.36 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/7/47C248B5DFE7A0EEEFA9CA40C5E743E3.pdf</document>
+  </documents>
+</product>

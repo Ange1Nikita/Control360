@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I450W (4.0мм)</name>
+  <article>360622</article>
+  <sku>311327385</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Бюджетная IP-видеокамера цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>6210</price>
+  <price_wholesale>5640.75</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/360622/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера IP 4 Мп компактная с W-Fi; 1/3" Progressive Scan CMOS; 2560х1440-20 к/с; сжатие H.265+/H.265/H.264+/H.264/MJPEG; объектив 4 мм; ИК подсветка до 30 м; 0.005лк; встроенные микрофон и динамик; слот для microSD до 512 Гб; WDR 120дБ, 3D DNR, BLC, ONVIF; PIR-датчик; 1xRJ45 10/100Мбит/с; DC 12В/PoE; 6 Вт; -30°C...+60°C; 175.6х73х89.1 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560х1440</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон/Динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-30…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>175.6х73х89.1</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

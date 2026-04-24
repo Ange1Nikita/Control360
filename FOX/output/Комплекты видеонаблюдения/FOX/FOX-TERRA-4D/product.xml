@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FOX TERRA-4D</name>
+  <article>FOX-TERRA-4D</article>
+  <brand>FOX</brand>
+  <category>Комплекты видеонаблюдения</category>
+  <price>1116000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ae5/440_370_0/komplekt_nthhf.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/bbc/komplekt_terra4d.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ae5/38_24_2/komplekt_nthhf.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bbc/38_24_2/komplekt_terra4d.png</image>
+    <image>https://www.fox-cctv.ru/upload/Guarding Vision apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/Guarding Vision android 1.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/ae5/440_370_0/komplekt_nthhf.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеокамера">FX-M2D</spec>
+    <spec name="Тип матрицы">1/2.7"  HD APTINA</spec>
+    <spec name="DSP">AR0237</spec>
+    <spec name="Разрешение,    пикс">1920х1080</spec>
+    <spec name="Разрешение,    Mpx">2.0</spec>
+    <spec name="Объектив,    мм">5-и Мегапиксельная оптика HD 2.8мм с ИК коррекцией</spec>
+    <spec name="Тип    синхронизации">Внутренняя</spec>
+    <spec name="ИК-диоды,    шт">2</spec>
+    <spec name="Дальность    подсветки, м">15 - 20 м</spec>
+    <spec name="Соотношение    &quot;сигнал/шум&quot;, дБ">&gt;50 дБ</spec>
+    <spec name="Минимальная    чувствительность, люкс">цвет 0,01 лк / F1.2;  ч/б 0,001 лк / F1.2; 0 лк (ИК вкл)</spec>
+    <spec name="Сигнал    видеовыхода">1Vp-p    композитный (75Ω)</spec>
+    <spec name="Режим День/Ночь">Авто</spec>
+    <spec name="Электронный    затвор, сек">от 1/50 до 1/100 000</spec>
+    <spec name="Компенсация    встречной засветки">Авто</spec>
+    <spec name="АРУ">Авто</spec>
+    <spec name="Баланс    белого">Авто</spec>
+    <spec name="Источник    питания, B">DC 12В ±5%</spec>
+    <spec name="Энергопотребление    с ИК">4,8 Вт</spec>
+    <spec name="Степень    защиты">IP66</spec>
+    <spec name="Рабочая температура,    °C">-40 C … +50 C</spec>
+    <spec name="Размеры">⌀ 93*76мм(В)</spec>
+    <spec name="Видеорегистратор">FX-4GTA</spec>
+    <spec name="Система">Система</spec>
+    <spec name="Процессор">RM Cortex A7 Family</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Формат кодирования">H.265 Pro+/H.265 Pro/H.265/H.264+/H.264</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Видео">вход</spec>
+    <spec name="выход">1xRCA</spec>
+    <spec name="Дисплей">1/4/Zoom</spec>
+    <spec name="Отображение">1920 x 1080, 1280 x 1024, 1280 x 720, 1024 x 768, 800 x 600</spec>
+    <spec name="Аудио">вход</spec>
+    <spec name="Битрейт аудио">64 кб/с</spec>
+    <spec name="Сигнализация">Тревожные вх/вых</spec>
+    <spec name="Запись">Режим работы</spec>
+    <spec name="Битрейт видео (TVI, AHD, CVI)">32 кб/с – 4 Мб/с</spec>
+    <spec name="Максимальный поток">64 Мб/с, в режиме NVR входящий поток 20 Мб/с</spec>
+    <spec name="Режим записи">Ручной / По расписанию / По детекции движения / Смешанный</spec>
+    <spec name="Режим поиска">По времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">TVI/CVI/AHD: Одновременно до 4 каналов</spec>
+    <spec name="Жесткий диск">1 × 3,5” HDD (SATA3 до 8 Тб) в комплект не входит</spec>
+    <spec name="Сеть">Сетевой протокол</spec>
+    <spec name="Сетевой интерфейс">10Base-T/100Base-TX Ethernet порт</spec>
+    <spec name="Совместимость">ONVIF (PROFILE S,PROFILE G), ISAPI</spec>
+    <spec name="Сетевые инструменты">WEB интерфейс (IE, Google Сhrome, Firefox, Mozilla, Opera) Сетевой клиент для Windows XP/7/8/10, MAC OS; Оператор для Windows 7/8/10. Мобильные устройства: ОS Android, iОS</spec>
+    <spec name="Аналитика">IVS аналитика с IP камер</spec>
+    <spec name="Тип и количество USB интерфейсов">2 × USB 2.0</spec>
+    <spec name="Технические параметры">Блок питания</spec>
+    <spec name="Потребляемая мощность">12В DC, до 7.5 Вт без HDD</spec>
+    <spec name="Рабочая температура">-10°C...+55°C</spec>
+    <spec name="Диапазон влажности">0%...90%</spec>
+    <spec name="Габариты (мм)">200x200x45 мм</spec>
+    <spec name="Вес">800 г без HDD</spec>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FOX FX-KIT4.2 VID">2 Мп</spec>
+    <spec name="FOX FX-KIT4.4 VID">2 Мп</spec>
+    <spec name="FOX TERRA-4С">2 Мп</spec>
+    <spec name="FOX FLORA-4С">4 Мп</spec>
+    <spec name="FOX TERRA-4D">2 Мп</spec>
+    <spec name="FOX TERRA-4M">2 Мп</spec>
+    <spec name="FOX STORE-4W">2 Мп</spec>
+    <spec name="FOX NEO-4D">2 Мп</spec>
+    <spec name="FX IP SET#1">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.2C">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.4C">2 Мп</spec>
+    <spec name="FOX FX-iKIT 8.4C">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.2D">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.4D">2 Мп</spec>
+    <spec name="В комплекте Видеокамер 4шт Купол до t-40°">2 Мп</spec>
+    <spec name="2.8">20м</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="Embedded Linux OS">Процессор</spec>
+    <spec name="RM Cortex A7 Family">Режим работы</spec>
+    <spec name="Пентаплекс">Формат кодирования</spec>
+    <spec name="H.265 Pro+/H.265 Pro/H.265/H.264+/H.264">Управление</spec>
+    <spec name="Мышкой и по сети">Видео</spec>
+    <spec name="4 × BNC + 1 х IPC">выход</spec>
+    <spec name="1xVGA, 1xHDMI">Дисплей</spec>
+    <spec name="1/4/Zoom">Отображение</spec>
+    <spec name="1920 x 1080, 1280 x 1024, 1280 x 720, 1024 x 768, 800 x 600">Аудио</spec>
+    <spec name="Метод кодирования">8кГц × 16бит G.711</spec>
+    <spec name="1 вх. (RCA) до 4-х по технологии AoC (аудио по коаксиальному кабелю)">выход</spec>
+    <spec name="1xRCA">Битрейт аудио</spec>
+    <spec name="64 кб/с">Сигнализация</spec>
+    <spec name="Тревожные вх/вых">-</spec>
+    <spec name="TVI/CVI/AHD 2.0: 1080P Lite (960 × 1080) – 25 к/с;">720P (1280 × 720) – 25 к/c</spec>
+    <spec name="Аналог: WD1 (960 × 576) – 25 к/с">NVR: 5 IP камер с разрешением до 2МП (1920x1080) при полном замещении аналоговых видеовходов – 25 к/с (4Mbps)</spec>
+    <spec name="10Base-T/100Base-TX Ethernet порт">Совместимость</spec>
+    <spec name="ONVIF (PROFILE S,PROFILE G), ISAPI">Сетевые инструменты</spec>
+    <spec name="IVS аналитика с IP камер">Тип и количество USB интерфейсов</spec>
+    <spec name="2 × USB 2.0">Технические параметры</spec>
+    <spec name="Блок питания">DC12V/1.5A</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">ПАСПОРТ FX-TERRA D.pdf (0.358МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/video-komplekty/mhd-komplekty/fox-terra-4d/</source_url>
+</product>

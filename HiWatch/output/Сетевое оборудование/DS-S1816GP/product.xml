@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Коммутатор с питанием PoE HiWatch DS-S1816GP</name>
+  <model>DS-S1816GP</model>
+  <article>312960</article>
+  <sku>301802375</sku>
+  <brand>HiWatch</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы с PoE</subcategory>
+  <functional_name>Коммутатор с питанием PoE</functional_name>
+  <nomenclature>Коммутатор с PoE</nomenclature>
+  <price>12307.68</price>
+  <price_wholesale>11179.48</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/312960/</product_url>
+  <description>
+    <paragraph>Сетевой неуправляемый коммутатор, 16хRJ45 1000Mб с PoE; 1 Uplink порт 1000 Мб Ethernet; 2 SFP порта 1G порт, PoE: IEEE802.3af, IEEE802.3at; бюджет PoE 125Вт; поддержка режима передачи до 250м,10Мбит/с, CAT5e; защита от перенапряжения, AC220В, 2.5A; 150Вт; -10 °C...+55°C; 440x285x43 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор гигабитный неуправляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>0/16</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>16</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>7.5/125</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Стойка 19"</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>100-240 AC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>150</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>0…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>440х285х43</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="477.02 КБ">https://www.tinko.ru/upload/exchange/public/documentation/F/B/FBB643AFFD875EA8185E975D14E7DA68.pdf</document>
+  </documents>
+</product>

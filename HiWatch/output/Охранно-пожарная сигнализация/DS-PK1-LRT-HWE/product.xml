@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PK1-LRT-HWE</name>
+  <model>DS-PK1-LRT-HWE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pk1-lrt-hwe</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• LCD-экран</paragraph>
+    <paragraph>• Постановка на охрану в одно касание (постановка на охрану без пароля)</paragraph>
+    <paragraph>• Кнопка пожарной тревоги / тревоги экстренного вызова / тревоги вызова экстренной медицинской помощи</paragraph>
+    <paragraph>• Отображение названия компании, номера телефона, времени</paragraph>
+    <paragraph>• 2 встроенных тревожных входа и 1 встроенный тревожный выход</paragraph>
+    <paragraph>• Поддерживает до 64 брелоковПроводная клавиатура c LСD идикатором (AX Hybrid Pro)</paragraph>
+    <paragraph>LCD-экран 80   25 мм, RS-485, 868МГц (для связи с беспроводныс брелоком)</paragraph>
+    <paragraph>Поддерживает постановку и снятие с охраны с помощью считывания карт</paragraph>
+    <paragraph>Поддерживает дистанционную постановку и снятие с охраны с помощью брелока (до 64)</paragraph>
+    <paragraph>Поддерживает 2 встроенных тревожных входа и 1 встроенный тревожный выход</paragraph>
+    <paragraph>Поддерживает отображение состояния системы в реальном времени с помощью светодиодного индикатора</paragraph>
+    <paragraph>12В DC; Рабочая температура: -10градусовC до +55градусовC; Размер 150 х 115 х 28мм</paragraph>
+    <paragraph>Совместимость: Охранная панель Hikvision DS-PHA48-EP и DS-PHA64-LP</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• LCD-экран</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Постановка на охрану в одно касание (постановка на охрану без пароля)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Кнопка пожарной тревоги / тревоги экстренного вызова / тревоги вызова экстренной медицинской помощи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Отображение названия компании, номера телефона, времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 встроенных тревожных входа и 1 встроенный тревожный выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддерживает до 64 брелоковПроводная клавиатура c LСD идикатором (AX Hybrid Pro)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LCD-экран 80   25 мм, RS-485, 868МГц (для связи с беспроводныс брелоком)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживает постановку и снятие с охраны с помощью считывания карт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживает дистанционную постановку и снятие с охраны с помощью брелока (до 64)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживает 2 встроенных тревожных входа и 1 встроенный тревожный выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживает отображение состояния системы в реальном времени с помощью светодиодного индикатора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура: -10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер 150 х 115 х 28мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Совместимость: Охранная панель Hikvision DS-PHA48-EP и DS-PHA64-LP</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

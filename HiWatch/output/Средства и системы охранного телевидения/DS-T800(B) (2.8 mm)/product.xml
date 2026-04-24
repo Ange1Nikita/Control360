@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная цилиндрическая HiWatch DS-T800(B) (2.8 mm)</name>
+  <model>DS-T800(B) (2.8 mm)</model>
+  <article>301016</article>
+  <sku>300513343</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>3731.61</price>
+  <price_wholesale>3389.54</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/301016/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная уличная со встроенной ИК подсветкой (механический ИК-фильтр), ДЕНЬ/НОЧЬ; 1/2" CMOS, 8МП 3840 х 2160 х12,5к/с, 4МП 2560x1440/ 2МП 1920x1080х25к/с; 0.01лк/0лк с вкл ИК; f=2.8мм ; S/N: более 62dB; OSD, DWDR, BLC, DNR; HLC, EXIR Smart ИК; Дальность ИК подсветки до 30 м;  DC12В/250мА; –40°...+60°C; IP67; 58 × 61 × 158.6 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2" CMOS 8 МП</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>3840х2160/2560х1440/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>58х61х158.6</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="917.71 КБ">https://www.tinko.ru/upload/exchange/public/documentation/F/D/FD2AAD44C6967DBD307D4CFD63220BCA.pdf</document>
+    <document title="Дополнение к руководству" size="64.17 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/7/27FF9DB92E6D8A9AA417E54629017C55.jpg</document>
+  </documents>
+</product>

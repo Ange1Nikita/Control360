@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H304QA(B)</name>
+  <model>DS-H304QA(B)</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h304qa-b-</product_url>
+  <description>
+    <paragraph>Описание:</paragraph>
+    <paragraph>4 канала</paragraph>
+    <paragraph>H.265 Pro+/H.265 Pro/H.265</paragraph>
+    <paragraph>Запись HD-TVI камер c разрешением до 4MP Lite</paragraph>
+    <paragraph>Запись IP-камер с разрешением до 6 Мп</paragraph>
+    <paragraph>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</paragraph>
+    <paragraph>1 SATA для HDD до 10 ТБ</paragraph>
+    <paragraph>Видео аналитика AcuSense (фильтрация тревог человек/транспортное средство, видеодетектор MD 2.0)</paragraph>
+    <paragraph>Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet4-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю) для  аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал (до 6 с замещением аналоговых в Enhanced IP mode)*</paragraph>
+    <paragraph>Видеовход: 4 канала BNC; Аудиовход: 4 канала (до 4-х каналов AoC); Видеовыход: 1 VGA, 1 CVBS и 1 HDMI до 1080Р; Аудиовыход; 1 канал RCA; видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+; аудиосжатие G.711u. motion detection 2.0, обнаружение движения, вторжения в область и пересечения линии c технологией AcuSense (2 канала)</paragraph>
+    <paragraph>Разрешение записи на канал: TVI: 3Мп@15к/с (1й канал), 1080p, 4Мп Lite@15к/с, 1080p Lite /720p Lite /720p@25к/с; AHD и CVI: 1080p@15к/с, 1080p Lite /720p@25к/с; аналоговые камеры WD1@25к/с; IP: до 6Мп - входящий битрейт 72Мбит/с, 1 SATA для HDD до 10Тб; 1 RS-485; Трев. вход/выход 4/1,1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0;  -10 градусовC до +55градусовC; 12В DC; 6Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Описание:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 Pro+/H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись HD-TVI камер c разрешением до 4MP Lite</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись IP-камер с разрешением до 6 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 10 ТБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео аналитика AcuSense (фильтрация тревог человек/транспортное средство, видеодетектор MD 2.0)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet4-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю) для  аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал (до 6 с замещением аналоговых в Enhanced IP mode)*</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 канала BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 4 канала (до 4-х каналов AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA, 1 CVBS и 1 HDMI до 1080Р</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u. motion detection 2.0, обнаружение движения, вторжения в область и пересечения линии c технологией AcuSense (2 канала)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI: 3Мп@15к/с (1й канал), 1080p, 4Мп Lite@15к/с, 1080p Lite /720p Lite /720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AHD и CVI: 1080p@15к/с, 1080p Lite /720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 6Мп - входящий битрейт 72Мбит/с, 1 SATA для HDD до 10Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RS-485</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Трев. вход/выход 4/1,1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10 градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

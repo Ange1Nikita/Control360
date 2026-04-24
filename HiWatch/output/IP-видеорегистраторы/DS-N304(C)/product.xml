@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch DS-N304(C)</name>
+  <model>DS-N304(C)</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n304-c-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• IP-видеовходы: до 4 канала</paragraph>
+    <paragraph>• Форматы видео: H.265+/H.265/H.264/H.264+</paragraph>
+    <paragraph>• Декодирующая способность до 1 канала @ 8 Мп / 5 каналов @ 1080p</paragraph>
+    <paragraph>• Входная пропускная способность до 40 Мбит/с4-х канальный IP-регистратор</paragraph>
+    <paragraph>Видеовход: 4 IP@8Мп; Аудиовход: 1 канал RCA;  Видеовыход: 1 VGA и 1 HDMI до 4К; Аудиовыход; 1 канал RCA;  Видеосжатие H.265+/H.265/H.264+/H.264; Входящий поток 40 Мбит/с; Исходящий поток 80 Мбит/с. Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 4 канала@1080P; 1 SATA для HDD до 8Тб, 1 10M/100M/1000M Ethernet интерфейс; тревожные вход/выход 4/1, 2 х USB 2.0; -10градусовC до +55градусовC;  12В DC; 10Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP-видеовходы: до 4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Форматы видео: H.265+/H.265/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Декодирующая способность до 1 канала @ 8 Мп / 5 каналов @ 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Входная пропускная способность до 40 Мбит/с4-х канальный IP-регистратор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 IP@8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 4К</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 40 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исходящий поток 80 Мбит/с. Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 4 канала@1080P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 8Тб, 1 10M/100M/1000M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные вход/выход 4/1, 2 х USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

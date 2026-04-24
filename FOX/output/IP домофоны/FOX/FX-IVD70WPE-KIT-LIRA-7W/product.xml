@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IVD70WPE - KIT (ЛИРА 7W)</name>
+  <article>FX-IVD70WPE-KIT-LIRA-7W</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100029990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/a94/440_370_0/FX_IVD70WPE-LIRA-7W-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ce7/440_370_0/01_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/638/440_370_0/02_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/fb6/440_370_0/04_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/a94/38_24_2/FX_IVD70WPE-LIRA-7W-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ce7/38_24_2/01_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/638/38_24_2/02_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/fb6/38_24_2/04_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/a94/440_370_0/FX_IVD70WPE-LIRA-7W-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-IVD70WPE ЛИРА 7</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Операционная система</spec>
+    <spec name="Разрешение">2Мп</spec>
+    <spec name="Стандарт видео">1080P</spec>
+    <spec name="Интерфейс">До 8ми IP устройств до 5Мп</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть. До 10-ти устройств</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Class 10, до 512 Гб</spec>
+    <spec name="Формат видео">H.264/H.265</spec>
+    <spec name="Функции">Управление замком</spec>
+    <spec name="Управление замком">Панель/ Ворота (Управление вторым замком через панель)</spec>
+    <spec name="Тип замка">электромагнитный/электромеханический</spec>
+    <spec name="Детектор движения / Детектор человека">Да (с панели)</spec>
+    <spec name="Режим «Монитор»">Да. 3 стиля меню + 1 свой</spec>
+    <spec name="Часы/Фоторамка">Да</spec>
+    <spec name="Автоответчик">Да</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN</spec>
+    <spec name="Питание">POE IEEE 802.3af / DC12-15В</spec>
+    <spec name="Рабочая температура">-30°C … +60°C</spec>
+    <spec name="Габаритные размеры (мм)">134 (В) x 63 (Ш) х 27 (Г)</spec>
+    <spec name="Вызывная панель">FX-ICP138B</spec>
+    <spec name="ИК подсветка">ИК прожектор до 5м с компенсацией засветки лица в ближней зоне</spec>
+    <spec name="Угол обзора">По горизонтали: 125° / По вертикали: 72°</spec>
+    <spec name="Формат кодирования">H.264/H265</spec>
+    <spec name="Основной поток">1920 x 1080 / 1280 x 720 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный поток">640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Шумоподавление">3DNR с автоподстройкой</spec>
+    <spec name="Аудиосвязь">Двухсторонняя</spec>
+    <spec name="SD карта">-</spec>
+    <spec name="LAN">LAN</spec>
+    <spec name="Сетевой Протокол">TCP/IP, RTSP, ONVIF</spec>
+    <spec name="Реле">Сухой контакт для управления замком двери NO/NC</spec>
+    <spec name="Контроллер">Встроенный до 1000 Mifare карт</spec>
+    <spec name="Степень защиты">IK07; IP65</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-IVD70WP черный">8”</spec>
+    <spec name="FX-IVD70WP белый">8”</spec>
+    <spec name="Комплект IP видеодомофона белый">7”</spec>
+    <spec name="Комплект IP видеодомофона черный">7”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8B">8”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8W">8”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10B)">10”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10W)">10”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8B)">8”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8W)">8”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10W">10”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10B">10”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7W">7”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7B">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7W)">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7B)">7”</spec>
+    <spec name="7”">512 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Акрил / Пластик">Видео</spec>
+    <spec name="Размер экрана">7" IPC LCD</spec>
+    <spec name="Встроенные микрофон и динамик, Голосовой автоответчик">Интерком</spec>
+    <spec name="Есть. До 10-ти устройств">Запись</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Сенсорные">Управление замком</spec>
+    <spec name="Панель/ Ворота (Управление вторым замком через панель)">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="LAN 10M/100M Ethernet / WiFi 2.4ГГц /  POE / SIP 2.0">Питание</spec>
+    <spec name="Постоянное питание DC 12В">Рабочая температура</spec>
+    <spec name="0°C … +55°C">Габаритные размеры (мм)</spec>
+    <spec name="188(Ш) х 136(В) х 22(Г)">Вызывная панель</spec>
+    <spec name="FX-ICP138B">Видео</spec>
+    <spec name="Операционная система">Linux</spec>
+    <spec name="НО / НЗ ( с врем. открытия)">Тип замка</spec>
+    <spec name="10 / 100 Mbps адаптивный интерфейс Ethernet">Сетевой Протокол</spec>
+    <spec name="TCP/IP, RTSP, ONVIF">Реле</spec>
+    <spec name="Сухой контакт для управления замком двери NO/NC">Контроллер</spec>
+    <spec name="Встроенный до 1000 Mifare карт">Питание</spec>
+    <spec name="POE IEEE 802.3af / DC12-15В">Степень защиты</spec>
+    <spec name="IK07; IP65">Рабочая температура</spec>
+    <spec name="-30°C … +60°C">Габаритные размеры (мм)</spec>
+    <spec name="134 (В) x 63 (Ш) х 27 (Г)">Вес</spec>
+    <spec name="Материалы и особенности ПО">Инструкция на монитор</spec>
+    <spec name="(23.975МБ)">Инструкция на панель</spec>
+    <spec name="Инструкция на монитор">(23.975МБ)</spec>
+    <spec name="Инструкция на панель">(3.18МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-ivd70wpe-kit-lira-7w/</source_url>
+</product>

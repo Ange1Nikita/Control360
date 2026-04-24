@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T513(B) (3.6 mm)</name>
+  <model>DS-T513(B) (3.6 mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t513-b--3-6-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Разрешение 5Мп</paragraph>
+    <paragraph>EXIR-подсветка до 20м</paragraph>
+    <paragraph>IP67</paragraph>
+    <paragraph>HD-TVI видеовыход</paragraph>
+    <paragraph>PIR-датчик (функция тревоги совместима с регистраторами Q, U и T-серии)</paragraph>
+    <paragraph>Тревожный выход, строб-лампа5Мп уличная купольная HD-TVI камера с EXIR-подсветкой до 20м и PIR                                                                      1/2,5'' CMOS матрица; объектив 3.6мм; угол обзора 80.1градусов; механический ИК-фильтр; 0.01лк @F1.2; OSD-меню, DWDR, 2D DNR, HLC, BLC, Smart ИК, PIR-датчик (110градусов x 11м)*; световая сигнализация, выход "сухой контакт"; видеовыход: 1 х HD-TVI; IP67, -40градусовС до +60градусовС; 12В DC+-25%, 3,5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение 5Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EXIR-подсветка до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HD-TVI видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIR-датчик (функция тревоги совместима с регистраторами Q, U и T-серии)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожный выход, строб-лампа5Мп уличная купольная HD-TVI камера с EXIR-подсветкой до 20м и PIR                                                                      1/2,5'' CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 3.6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 80.1градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01лк @F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD-меню, DWDR, 2D DNR, HLC, BLC, Smart ИК, PIR-датчик (110градусов x 11м)*</value>
+    </spec>
+    <spec>
+      <name />
+      <value>световая сигнализация, выход "сухой контакт"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67, -40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 3,5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

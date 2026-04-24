@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDTPH-E-WE</name>
+  <model>DS-PDTPH-E-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdtph-e-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Большой экран, модульная конструкция для многоцелевого использования</paragraph>
+    <paragraph>• Удаленная настройка через приложение</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигналаДатчик температуры и влажности беспроводной</paragraph>
+    <paragraph>868МГц двухсторонная связь с TRI-X технологией; дальность передачи данных до 1200м; защита от помех, большой экран TFT (2,7"); срок службы батареи - 2 года (тип AAA);  -10градусовC...+55градусовC; размер 62 62 18мм; Вес: 74г.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Большой экран, модульная конструкция для многоцелевого использования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигналаДатчик температуры и влажности беспроводной</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность передачи данных до 1200м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, большой экран TFT (2,7")</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 2 года (тип AAA)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 62 62 18мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес: 74г.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

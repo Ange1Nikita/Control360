@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?view=list</name>
+  <article>INDEX.PHP?VIEW=LIST</article>
+  <brand>ViGUARD</brand>
+  <category>Доп.оборудование</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bad/450_450_1/badd6d0a1f16bec3de8033f4d38bda61.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/217/450_450_1/5271932310301379757.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/409/450_450_1/40947e790454257a2633f7357b205771.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/336/450_450_1/33660ded38d037b232c5b507a180aea4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d571774ac51ff1b2ab8fa7d6c1212193.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8a4/450_450_1/8a44298e7309f0860a536448b0abe3bc.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/072/450_450_1/072a5069486813da7e22a4e474fa7e56.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/516/450_450_1/51695c65bb5d8cf4d17d95c1f5ec7984.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/9fa/450_450_1/9fac35dcedbe20c3086cecdb473cbeed.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ebc/450_450_1/ebc5eb6674d8135ea5fe3d29535005d1.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/dopolnitelnoe_oborudovanie/index.php?view=list</source_url>
+</product>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор NVR Tiandy TC-R3840 Spec:I/B/N/V4.0</name>
+  <model>TC-R3840 Spec:I/B/N/V4.0</model>
+  <article>354295</article>
+  <sku>1D.20030.020020</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>Видеорегистратор NVR</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>108290</price>
+  <price_wholesale>43207.71</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354295/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 40 канальный; 2xHDMI до 4K, 2xVGA до 1080Р 2 пары независимые; битрейт вход/выход- 640/320 Мбит/с; разрешение камер до 16 Мп; H.265/H.264; 8 SATA до 24 Тб; тревожный вход/выход- 16/4, аудиовход/выход -1/1; P2P, RTSP, ONVIF (S/G/T); 1×RS-232, 1×RS-485, 2×USB2.0, 1×USB3.0; 2xRJ45 10/100/1000 Мбит/с; аналитика: пересечение линии, периметр, оставленные предметы, пропавшие предметы, детекция человека/ТС, захват и распознавание лиц, поддержка RAID; АС 100-240В 18Вт(без HDD); -10°C...+55°C; 440х455х94 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>40</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>2 HDMI; 2 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>3840х2160; 1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>960</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>16/4</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>8 SATA х24 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>100-240 AC</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>440х455х94</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1.03 МБ">https://www.tinko.ru/upload/exchange/public/documentation/4/A/4A6093272487868224C6A1340B0559DA.pdf</document>
+  </documents>
+</product>

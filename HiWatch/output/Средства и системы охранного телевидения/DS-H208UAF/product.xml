@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-H208UAF</name>
+  <article>354089</article>
+  <sku>300229422</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 8-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>11580</price>
+  <price_wholesale>10518.5</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354089/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI/AHD/CVI/CVBS 8 каналов видео + 8 IP 8Мп (до 16 с замещением аналоговых в Enhanced IP mode) + 4 аудио или до 8 каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro/H.265/H.265+/H.264/H.264+; Скорость записи TVI: 8Мп х8к/с, 5Мп х12к/с, 4Мп х15к/с, 3Мп х18к/с, 1080p/720p х25к/с; AHD и CVI: 5Мп х12к/с, 4Мп х15к/с, 3Мп х18к/с, 1080p/720p х25к/; аналоговые камеры: WD1х25к/с; IP: доп. 8 каналов 8Мп х25к/с; Видеовыходы: 1 VGA до 2К, 1 HDMI до 4К, 1 CVBS ; 1 USB2.0, 1 USB3.0; 1 RS-485; Трев. вход/выход 8/4; Протоколы сетиТСР/IP, PPPoE, DHCP, Hik-connect Cloud P2P, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF; сетевой (10/100/1000М Ethernet); 1х HDD SATA до 12Тб; DC12 В/2000 мА (адаптер питания в комплекте); -10°...+55°C; 315х242х45 мм; ПО CMS в комплекте; Motion detection 2.0, обнаружение движения, вторжения в область и пересечения линии c технологией AcuSense (фильтрация тревог человек/транспортное средство) 4 канала; 1 канал для захвата лиц</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>8xTVI или 8х AHD или 8x CVI или 8х960H+8 IP (до 16 IP каналов с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 BNC/1 VGA/1 HDMI (4K/до 3840х2160)</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro+;H.265 Pro; H.265; H.264; H.264+</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>8/4</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>8МП 8к/сек; 5МП12 к/сек на канал; 4МП 15 к/сек на канал; 3МП 18 к/сек на канал; 25 к/сек на канал (1920х1080 пикс.); (1280х720 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Ручная установка/по датчику движения/по тревоге/по расписанию</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100/1000 Ethernet</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; PPPoE; DHCP; Hik-connect Cloud P2P; DNS; DDNS; NTP; SADP; NFS; iSCSI; UPnP™; HTTPS; ONVIF</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB; 1 RS-485</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

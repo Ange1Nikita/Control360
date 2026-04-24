@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?view=list</name>
+  <article>INDEX.PHP?VIEW=LIST</article>
+  <brand>ViGUARD</brand>
+  <category>Classic Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/272/450_450_1/2723dcf078fab956cc33f6fa605d4a0a.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fa/450_450_1/3fa454f25ca6f86de1a271773ab4ce9b.png</image>
+    <image>https://viguard.pro/upload/iblock/fe8/fe8a62affc432e5fcad7c6b8a3bfab38.png</image>
+    <image>https://viguard.pro/upload/iblock/066/066660cb6e37511e295395ea34964132.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ddf/450_450_1/viguard-veil-f-ik-datchik-dvizheniya-tipa-shtora-besprovodnoy-5-ot-proizvoditelya-otlichnoe-kachestv.png</image>
+    <image>https://viguard.pro/upload/iblock/5f2/5f2d2ff690aeb1eca138ed221fb566a9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/da0/450_450_1/viguard-plafond-f-potolochnyy-ik-datchik-dvizheniya-360-besprovodnoy-ot-proizvoditelya-otlichnoe-kach.jpg</image>
+    <image>https://viguard.pro/upload/iblock/661/661cbbd6ae95006a7ab0ca92d54ad98a.png</image>
+    <image>https://viguard.pro/upload/iblock/ee2/ee2f944bee1896fd1bca1c005ceb216f.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fe/450_450_1/viguard-door-f-rev-2-magnitokontaktnyy-datchik-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo-po.jpg</image>
+    <image>https://viguard.pro/upload/iblock/9bb/9bb30f9d97c781fca62ad745c286f861.png</image>
+    <image>https://viguard.pro/upload/iblock/8ff/8ff45b5dd249ab9c54f3804a6090171e.jpg</image>
+    <image>https://viguard.pro/upload/iblock/d06/d06105f1f0875b6671d370a88dd399aa.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/6c4/450_450_1/6c46817f5dc7ede46f3e91acf27d96a8.png</image>
+    <image>https://viguard.pro/upload/iblock/742/742960a493b97fe7debd31268ba4379b.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/02b/450_450_1/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/iblock/d33/d33449a72ab3f2f9a31205225aacca6c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/22e/450_450_1/viguard-water-f-datchik-obnaruzheniya-protechki-vody-besprovodnoy-ot-proizvoditelya-otlichnoe-kaches.png</image>
+    <image>https://viguard.pro/upload/iblock/095/0950651dd241ca76423cd5b8fe7450db.jpg</image>
+    <image>https://viguard.pro/upload/iblock/989/98988a0aadd5fa78024f5f164cde5bb1.png</image>
+    <image>https://viguard.pro/upload/iblock/969/969a34cc84ef75b82e711e357cb594b3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b3e/450_450_1/b3e320cb8483a94730e78f2d5907badd.png</image>
+    <image>https://viguard.pro/upload/iblock/db2/db288ee537f44102cf349bd52c6e87ae.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/809/450_450_1/8098d0a61726e5e1c3e223f19396b4cb.jpg</image>
+    <image>https://viguard.pro/upload/iblock/d9d/d9ddddfd5a68f83f77cb3d4b68b4301e.png</image>
+    <image>https://viguard.pro/upload/iblock/2ef/2ef8648ea0bf3c52a0b857ee8115fb88.png</image>
+    <image>https://viguard.pro/upload/iblock/9bc/9bcc3180ec9b373bcfdac523d048fd6c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/df3/450_450_1/df33ee9d916f948f34d01569fcbc0072.png</image>
+    <image>https://viguard.pro/upload/iblock/2ec/2ec1d20ebb5e40291162c997ae26d20c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ef5/450_450_1/ef5c3b3d0815f16f7561c12eb3fd5eab.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/index.php?view=list</source_url>
+</product>

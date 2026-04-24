@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VIGUARD SMOKE F беспроводный дымовой детектор</name>
+  <article>VIGUARD_SMOKE_F_BESPROVODNYY_DYMOVOY_DETEKTOR</article>
+  <brand>ViGUARD</brand>
+  <category>Аварийные датчики</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/02b/450_450_1/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79c/120_120_0/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79c/500_500_1/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/79c/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>VIGUARD SMOKE F беспроводный дымовой детектор</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/viguard_smoke_f_besprovodnyy_dymovoy_detektor/</source_url>
+</product>

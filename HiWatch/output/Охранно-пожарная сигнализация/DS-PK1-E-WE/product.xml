@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PK1-E-WE</name>
+  <model>DS-PK1-E-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pk1-e-we</product_url>
+  <description>
+    <paragraph>DS-PK1-E-WE является клавиатурой охранной панели, которая может быть подключена к AX PRO для контроля и управления тревожными событиями. Поддерживается извещение о тревоге при помощи индикатора и бипера.Беспроводная клавиатура Axiom Hub PRO</paragraph>
+    <paragraph>Беспроводная клавиатура с обратной связью, для постановки/снятия на охрану; дальность передачи сигнала до 1200м. 4 AA батареи. Led подсветка.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>DS-PK1-E-WE является клавиатурой охранной панели, которая может быть подключена к AX PRO для контроля и управления тревожными событиями. Поддерживается извещение о тревоге при помощи индикатора и бипера.Беспроводная клавиатура Axiom Hub PRO</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная клавиатура с обратной связью, для постановки/снятия на охрану</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность передачи сигнала до 1200м. 4 AA батареи. Led подсветка.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

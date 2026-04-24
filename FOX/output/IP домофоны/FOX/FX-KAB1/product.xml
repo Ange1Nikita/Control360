@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-KAB1</name>
+  <article>FX-KAB1</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>1111000990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7cd/440_370_0/PIC3.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7cd/38_24_2/PIC3.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/7cd/440_370_0/PIC3.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Козырек">FX-KAB1</spec>
+    <spec name="Технические параметры">Материал</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Габаритные размеры (мм)">138 (В) x 65 (Ш) х 27 (Г)</spec>
+    <spec name="Вес">0,10кг</spec>
+    <spec name="Модель">Формат</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик">Монтаж</spec>
+    <spec name="Накладной">Габаритные размеры (мм)</spec>
+    <spec name="138 (В) x 65 (Ш) х 27 (Г)">Вес</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony/fx-kab1/</source_url>
+</product>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IPC-C450FP-OC AI</name>
+  <article>FX-IPC-C450FP-OC-AI</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110009990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/52e/440_370_0/FX_IPC_C40AP_IR_MIC_645.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/52e/38_24_2/FX_IPC_C40AP_IR_MIC_645.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/52e/440_370_0/FX_IPC_C40AP_IR_MIC_645.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">FX-IPC-C450FP-OC AI</spec>
+    <spec name="Система">Ingenic T41X</spec>
+    <spec name="Мощность AI">NPU 1.2Tops</spec>
+    <spec name="Тип матрицы">1/1.8” SmartSens SC450AI (4.0 Мегапикселя)</spec>
+    <spec name="Эффективные    пиксели">2704(Г) × 1536(В), Размер пикселя 2.9 x 2.9 [μm]</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.0001 Лк / F1.0</spec>
+    <spec name="Сигнал / шум">&gt;100 Дб (AGC выкл.), SNR ≥ 42 Дб</spec>
+    <spec name="Переключение день/ночь">Всегда в цвете</spec>
+    <spec name="ИК подсветка">WARM LED прожектор (3000К) до 15м</spec>
+    <spec name="Компенсация засветки">BLC / DWDR / Антитуман / Стробоскоп</spec>
+    <spec name="Шумоподавление">3DNR (Авто / Слабый / Средний / Сильный)</spec>
+    <spec name="Объектив">Светосильный объектив серии SUPER STARLIGHT FC,
+Фокус 4.0mm (8.0MP), Апертура F1.0</spec>
+    <spec name="Угол обзора">H: 93.1°(Широкий)</spec>
+    <spec name="Формат    кодирования">H.265 / H.264</spec>
+    <spec name="Основной поток">4МП: 2560x1440 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / 800x448 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K ~ 6144Kbps, CBR±10%, VBR</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, DNS, DHCP, RTP, RTSP, UDP, NTP
+Third Party: HIKVISION protocol</spec>
+    <spec name="ONVIF 2.6">Onvif Profile-S, АПИ методом CGI</spec>
+    <spec name="P2P">P6S Lite / Easy VMS</spec>
+    <spec name="Видеовыход">-</spec>
+    <spec name="Memory Slot">-</spec>
+    <spec name="Тревога">-</spec>
+    <spec name="Аналитика">Детектор человека / автомобиля, Нахождение на рабочем месте, Подсчет, Пересечение линии и др.</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, G.711 (a-law, μ-law)</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Питание">DC 12 В ±25%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 8Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66, Грозозащита до TVS4000В</spec>
+    <spec name="Материал корпуса">Полностью металлический корпус</spec>
+    <spec name="Габариты">81(Ш) * 73.2(В) * 171(Д) мм</spec>
+    <spec name="Вес">0.9 кг</spec>
+    <spec name="FX-IPC-E20WP-IR">2Мп</spec>
+    <spec name="FX-IPC-C20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-C40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-C40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-D40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-D2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-C450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-D450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-T20FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-T40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-H2C-WIR">2Мп</spec>
+    <spec name="FX-IPC-H2D-WIR">2Мп</spec>
+    <spec name="FX-IPC-H4C-WIR">4Мп</spec>
+    <spec name="FX-IPC-H4D-WIR">4Мп</spec>
+    <spec name="FX-IPEYE/2Q">2Мп</spec>
+    <spec name="Уличная">4Мп</spec>
+    <spec name="4.0 mm">15</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="КАМЕРА">Система</spec>
+    <spec name="Ingenic T41X">Мощность AI</spec>
+    <spec name="NPU 1.2Tops">Тип матрицы</spec>
+    <spec name="1/1.8” SmartSens SC450AI (4.0 Мегапикселя)">Эффективные    пиксели</spec>
+    <spec name="2704(Г) × 1536(В), Размер пикселя 2.9 x 2.9 [μm]">Электронный    затвор</spec>
+    <spec name="Auto/    1/25s-1/10000s">Мин.    Освещенность</spec>
+    <spec name="Цвет: 0.0001 Лк / F1.0">Сигнал / шум</spec>
+    <spec name="&gt;100 Дб (AGC выкл.), SNR ≥ 42 Дб">Переключение день/ночь</spec>
+    <spec name="Всегда в цвете">ИК подсветка</spec>
+    <spec name="WARM LED прожектор (3000К) до 15м">Компенсация засветки</spec>
+    <spec name="BLC / DWDR / Антитуман / Стробоскоп">Шумоподавление</spec>
+    <spec name="3DNR (Авто / Слабый / Средний / Сильный)">ОПТИКА</spec>
+    <spec name="ВИДЕО">Формат    кодирования</spec>
+    <spec name="H.265 / H.264">Основной поток</spec>
+    <spec name="4МП: 2560x1440 (1 ~ 25 к/с)">Второстепенный    поток</spec>
+    <spec name="D1 / 800x448 (1 ~ 25 к/с)">Поток</spec>
+    <spec name="32K ~ 6144Kbps, CBR±10%, VBR">СЕТЬ</spec>
+    <spec name="ДОПОЛНИТЕЛЬНО">Видеовыход</spec>
+    <spec name="-">Аналитика</spec>
+    <spec name="Микрофон с АРУ и ШП, G.711 (a-law, μ-law)">Язык интерфейса</spec>
+    <spec name="Русский / Английский">ТЕХНИЧЕСКИЕ ПАРАМЕТРЫ</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(0.31МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ip-kamery/fx-ipc-c450fp-oc-ai/</source_url>
+</product>

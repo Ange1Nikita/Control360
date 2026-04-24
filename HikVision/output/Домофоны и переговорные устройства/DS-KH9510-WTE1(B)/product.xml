@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-KH9510-WTE1(B)</name>
+  <article>326228</article>
+  <sku>305303100</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Абонентские устройства</subcategory>
+  <functional_name>Монитор IP-домофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>18306.14</price>
+  <price_wholesale>16628.08</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/326228/</product_url>
+  <description>
+    <paragraph>10.1″ цветной сенсорный  IPS экран  (1024×600);  ОС Android;  Ethernet, Wi-Fi 802.11 b/g/n;  TCP/IP, SIP, RTSP;  до 8 IP-вызывных панелей;  до 5 мониторов;  до 16 IP-камер;  8 тревожных входов;  2 тревожных выхода;  1 реле;  разъём под TF-карту до 32 ГБ;  запись видео длительностью 7 сек. при тревожном событии;  поддержка управления охранной панелью AX PRO через домофон;  возможность установки приложений.  DC 12В (1А)/PoE (12Вт);  -10...+50°C;  254×166×27 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>10 цветной IPS; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Количество ip видеокамер</name>
+      <value>До 16 ip камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP|Wi-Fi|</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры, мм</name>
+      <value>254х166х27</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Руководство пользователя" size="900.74 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/D/7DB255D5C680D931B9DFD2EE21FBC8E0.pdf</document>
+  </documents>
+</product>

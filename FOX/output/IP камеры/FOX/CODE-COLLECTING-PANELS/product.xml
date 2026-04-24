@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Кодонаборные панели</name>
+  <article>CODE-COLLECTING-PANELS</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110006490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/e00/Bez-imeni_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/fca/Codecollectingpanels.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/ab9/Codecollectingpanels.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-K605W Smart WiFi уличное исполнение">Уличная с WiFi</spec>
+    <spec name="FX-K604W уличное исполнение">Уличная</spec>
+    <spec name="FX-K603 внутреннее исполнение">Внутренняя</spec>
+    <spec name="1">1000</spec>
+    <spec name="6 490">руб.</spec>
+    <spec name="купить">FX-K603 внутреннее исполнение</spec>
+    <spec name="5 490">руб.</spec>
+    <spec name="4 490">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/locks/code-collecting-panels/</source_url>
+</product>

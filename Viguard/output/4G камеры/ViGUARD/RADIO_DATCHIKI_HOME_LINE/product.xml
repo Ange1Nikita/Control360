@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Radio Datchiki Home Line</name>
+  <article>RADIO_DATCHIKI_HOME_LINE</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/df7/450_450_1/viguard-pir-f-rev-2-besprovodnyy-ik-detektor-dvizheniya-ot-proizvoditelya-otlichnoe-kachestvo-po-sup.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/4d2/450_450_1/4d2bea0a9b3d885c7b88701b729bf524.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ddf/450_450_1/viguard-veil-f-ik-datchik-dvizheniya-tipa-shtora-besprovodnoy-5-ot-proizvoditelya-otlichnoe-kachestv.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/da0/450_450_1/viguard-plafond-f-potolochnyy-ik-datchik-dvizheniya-360-besprovodnoy-ot-proizvoditelya-otlichnoe-kach.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/c77/450_450_1/c77fffcb7cec6e6c60d9097b134c540e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fe/450_450_1/viguard-door-f-rev-2-magnitokontaktnyy-datchik-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo-po.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ff5/450_450_1/viguard-button-f-rev-2-besprovodnaya-nosimaya-trevozhnaya-knopka-ot-proizvoditelya-otlichnoe-kachest.jpg</image>
+    <image>https://viguard.pro/upload/iblock/d06/d06105f1f0875b6671d370a88dd399aa.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/02b/450_450_1/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/165/450_450_1/165d66d41ae0f24b074f279633b29a4a.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/22e/450_450_1/viguard-water-f-datchik-obnaruzheniya-protechki-vody-besprovodnoy-ot-proizvoditelya-otlichnoe-kaches.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8b0/450_450_1/viguard-climat-f-datchik-temperatury-i-vlazhnosti-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/radio_datchiki_home_line/</source_url>
+</product>

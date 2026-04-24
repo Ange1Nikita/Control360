@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор NVR Tiandy TC-R3105 Spec:I/B/P/V3.0</name>
+  <model>TC-R3105 Spec:I/B/P/V3.0</model>
+  <article>354277</article>
+  <sku>1D.20030.000828</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>Видеорегистратор NVR</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>14190</price>
+  <price_wholesale>5661.81</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354277/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 5 канальный с PoE; 1xHDMI до 4K, 1xVGA до 1080Р; битрейт вход/выход- 60/40 Мбит/с; разрешение камер до 6 Мп; H.265/H.264; 1 SATA до 10 Тб; тревожный выход- 1, аудиовход/выход -1/1; P2P, RTSP, ONVIF (S/T); 2×USB2.0; 1xRJ45 10/100 Мбит/с; 4хRJ45 10/100 Мбит/с PоE (af/at), PоE бюджет 45 Вт; аналитика: пересечение линии, периметр, оставленные предметы, пропавшие предметы, детекция человека/ТС, захват лиц, DC 48В; 10Вт(без HDD); -10°C...+55°C; 255х238х45 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>3840х2160; 1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>1 SATA х 10 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>255х238х45</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="792.24 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/C/7C10F66E6A44225CDFC31155E9C8C3D5.pdf</document>
+  </documents>
+</product>

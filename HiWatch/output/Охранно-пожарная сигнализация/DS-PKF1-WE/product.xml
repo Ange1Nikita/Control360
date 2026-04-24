@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PKF1-WE</name>
+  <model>DS-PKF1-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pkf1-we</product_url>
+  <description>
+    <paragraph>DS-PKF1-WE поддерживает мгновенную постановку на охрану и снятие с охраны. Брелок является компонентом системы управления безопасностью.Беспроводной брелок</paragraph>
+    <paragraph>Беспроводной брелок с обратной связью; 868МГц двухсторонная связь с TRI-X технологией; дальность до 900м; защита от помех; срок службы батареи - 3 года;  -10градусовC...+55градусовC; размер 63 35 11мм; пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>DS-PKF1-WE поддерживает мгновенную постановку на охрану и снятие с охраны. Брелок является компонентом системы управления безопасностью.Беспроводной брелок</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной брелок с обратной связью</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность до 900м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 3 года</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 63 35 11мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

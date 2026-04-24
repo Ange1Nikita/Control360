@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FOX STORE-4W</name>
+  <article>FOX-STORE-4W</article>
+  <brand>FOX</brand>
+  <category>Комплекты видеонаблюдения</category>
+  <price>1115000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3de/440_370_0/komplekt_4w-_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3de/38_24_2/komplekt_4w-_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/Guarding Vision apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/Guarding Vision android 1.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/3de/440_370_0/komplekt_4w-_2_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="IP Видеокамера">FX-IPC-E20WP-IR</spec>
+    <spec name="Тип матрицы">1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">1920(H) × 1080 (V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">цвет: 0 Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, 0 Лк (ИК вкл.)</spec>
+    <spec name="Сигнал / шум">≥ 50db (AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">ИК прожектор OSRAM IR LED III (850нм) до 20м (SMART IR)</spec>
+    <spec name="Шумоподавление">2DNR (1 – 100%) / 3DNR (6 уровней)</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Компенсация засветки">HLC / BLC / TWDR 120дБ / 3D компенсация засветки лица</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Объектив">2.8mm (4.0MP) F1.8</spec>
+    <spec name="Светосила">1/2.9" F1.2</spec>
+    <spec name="Угол обзора">H:    110°</spec>
+    <spec name="Формат    кодирования">H.265+ / H.264+ / H.264 (H/M/B)/ Mjpeg</spec>
+    <spec name="Основной поток">1920х1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">960x540 / 720x480 / 640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K ~ 8192Kbps, CBR±10%, VBR</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF 2.6">Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">Кодирования    аудио</spec>
+    <spec name="Memory Slot">Микро SD, Макс 128GB (Карта приобретается отдельно)</spec>
+    <spec name="Питание">DC 12 В ±10%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 5Вт</spec>
+    <spec name="Рабочая    температура">0°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP65, Грозозащита до TVS4000В</spec>
+    <spec name="Габариты">73(Ш)*128(В)*85(Г) мм</spec>
+    <spec name="Вес">1 Кг без HDD</spec>
+    <spec name="IP Видеорегистратор">FX-INVR4/1-4P</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Сжатие">H.265+/ H.265/ H.264+/ H.264</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1xHDMI, 1xVGA</spec>
+    <spec name="Дисплей">1/4/Zoom</spec>
+    <spec name="Отображение">1920x1080,    1280x1024, 1280x720, 1024x768, 800х600</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Запись">Битрейт видео</spec>
+    <spec name="Доп.поток">4 IP камер:</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">IP: 2*4Мп (25 к/с) / 4*1080p (25 к/с)</spec>
+    <spec name="Жесткий диск">1х3,5" x HDD (SATA3 до 6 Тб) в комплект не входит</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">10Base-T/100Base-TX Ethernet порт</spec>
+    <spec name="Интеграция">Подключения цифровых видеорегистраторов и IP-серверов</spec>
+    <spec name="Сетевые инструменты">WEB интерфейс (IE, Google Сhrome, Firefox, Mozilla, Opera) Сетевой клиент для Windows XP/7/8/10, MAC OS; Оператор для Windows 7/8/10. Мобильные устройства: ОS Android, iОS</spec>
+    <spec name="Дополнительные функции">Аналитика</spec>
+    <spec name="Резервное копирование">2 × USB 2.0 - флешка</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">48V DC/1A, до 10 Вт без HDD и камер.
+До 50Вт при полной нагрузке</spec>
+    <spec name="Рабочий диапазон температуры">-10°C...+55°C</spec>
+    <spec name="Рабочий диапазон влажности">0%...90%</spec>
+    <spec name="Габариты (мм)">200(Ш) х 200(Д) х 48(В)</spec>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FOX FX-KIT4.2 VID">2 Мп</spec>
+    <spec name="FOX FX-KIT4.4 VID">2 Мп</spec>
+    <spec name="FOX TERRA-4С">2 Мп</spec>
+    <spec name="FOX FLORA-4С">4 Мп</spec>
+    <spec name="FOX TERRA-4D">2 Мп</spec>
+    <spec name="FOX TERRA-4M">2 Мп</spec>
+    <spec name="FOX STORE-4W">2 Мп</spec>
+    <spec name="FOX NEO-4D">2 Мп</spec>
+    <spec name="FX IP SET#1">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.2C">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.4C">2 Мп</spec>
+    <spec name="FOX FX-iKIT 8.4C">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.2D">2 Мп</spec>
+    <spec name="FOX FX-iKIT 4.4D">2 Мп</spec>
+    <spec name="Внутренняя видеокамера">2 Мп</spec>
+    <spec name="2.8">20м</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="СИСТЕМА">Тип матрицы</spec>
+    <spec name="1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей)">Эффективные    пиксели</spec>
+    <spec name="1920(H) × 1080 (V)">Электронный    затвор</spec>
+    <spec name="Auto/    1/25s-1/10000s">Мин.    Освещенность</spec>
+    <spec name="цвет: 0 Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, 0 Лк (ИК вкл.)">Сигнал / шум</spec>
+    <spec name="≥ 50db (AGC    OFF)">КАМЕРА</spec>
+    <spec name="ОПТИКА">Объектив</spec>
+    <spec name="2.8mm (4.0MP) F1.8">Светосила</spec>
+    <spec name="1/2.9&quot; F1.2">Угол обзора</spec>
+    <spec name="H:    110°">ВИДЕО</spec>
+    <spec name="СЕТЬ">Порт</spec>
+    <spec name="RJ-45    (10/100Base-T)">Протокол</spec>
+    <spec name="Profile S/G (Движение, Тревога, Metadata) CGI / API">Кол-во    пользователей</spec>
+    <spec name="До    10 пользователей">Мобильные    устройства</spec>
+    <spec name="iPhone,    iPad, Android, Windows">ДОПОЛНИТЕЛЬНО</spec>
+    <spec name="ТЕХНИЧЕСКИЕ ПАРАМЕТРЫ">Питание</spec>
+    <spec name="DC 12 В ±10%, PoE (802.3af)">Потребление</spec>
+    <spec name="Не более 5Вт">Рабочая    температура</spec>
+    <spec name="0°C ... +50°C,    10% ... 90%">Степень защиты</spec>
+    <spec name="IP65, Грозозащита до TVS4000В">Габариты</spec>
+    <spec name="73(Ш)*128(В)*85(Г) мм">Вес</spec>
+    <spec name="0.15 кг">IP Видеорегистратор</spec>
+    <spec name="FX-INVR4/1-4P">Система</spec>
+    <spec name="Операционная    система">Embedded Linux OS</spec>
+    <spec name="Процессор">ARM Cortex A7 Family</spec>
+    <spec name="вход">4 × RJ45 с питанием PoE (802.3af), общий бюджет до 36Вт</spec>
+    <spec name="G.711A / G.711U.">Битрейт аудио 64 кб/с</spec>
+    <spec name="1 x RCA">Запись</spec>
+    <spec name="Битрейт видео">32 кб/с – 8 Мб/с</spec>
+    <spec name="Максимальный поток">Входящий 40 Мб/с,</spec>
+    <spec name="Исходящий 60 Мб/с">Основной поток</spec>
+    <spec name="4 IP:">4 Mpx(2560×1440), 3 Mpx(2048×1536),</spec>
+    <spec name="2 Mpx(1920×1080),">1.3 Mpx(1280×960),</spec>
+    <spec name="1Mpx(1280×720)">- 100 к/с</spec>
+    <spec name="1Мп (1280х720),">D1 (704х576)</spec>
+    <spec name="- 100 к/с">Режим записи</spec>
+    <spec name="Ручной    / По расписанию  / По детекции движения    / Смешанный">Режим поиска</spec>
+    <spec name="По    времени / По событию / По файлово">Воспроизведение</spec>
+    <spec name="IP: 2*4Мп (25 к/с) / 4*1080p (25 к/с)">Жесткий диск</spec>
+    <spec name="1х3,5&quot; x HDD (SATA3 до 6 Тб) в комплект не входит">Сеть</spec>
+    <spec name="Сетевой    протокол">TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS, iSCSI, UPnP™, HTTPS)</spec>
+    <spec name="IVS аналитика с IP камер">Резервное копирование</spec>
+    <spec name="2 × USB 2.0 - флешка">Технические параметры</spec>
+    <spec name="Блок    питания">DC48V/1A</spec>
+    <spec name="Материалы и особенности ПО">Паспорт FX_NVR4_1_4P_2022</spec>
+    <spec name="FX_NVR4_1_4P_2022.pdf (0.379МБ)">Паспорт FX_IPC_E20WP_IR</spec>
+    <spec name="Pasport_FX_IPC_E20WP_IR.pdf (1.076МБ)">Guarding_Vision_Client_User_Manual_v1.01</spec>
+    <spec name="Паспорт FX_NVR4_1_4P_2022">FX_NVR4_1_4P_2022.pdf (0.379МБ)</spec>
+    <spec name="Паспорт FX_IPC_E20WP_IR">Pasport_FX_IPC_E20WP_IR.pdf (1.076МБ)</spec>
+    <spec name="Guarding_Vision_Client_User_Manual_v1.01">Guarding_Vision_Client_User_Manual_v1.01.pdf (1.924МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/video-komplekty/ip-komplekty/fox-store-4w/</source_url>
+</product>

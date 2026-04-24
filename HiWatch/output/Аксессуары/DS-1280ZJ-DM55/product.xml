@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1280ZJ-DM55</name>
+  <model>DS-1280ZJ-DM55</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1280zj-dm55</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Корпус из алюминиевого сплава, поверхность обработана напылением</paragraph>
+    <paragraph>Оснащена выходами на нижней и боковой сторонах</paragraph>
+    <paragraph>Подходит для установки в помещении и на улицеМонтажная коробка, белая, для купольных камер IPC-D6XX, алюминий</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус из алюминиевого сплава, поверхность обработана напылением</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Оснащена выходами на нижней и боковой сторонах</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подходит для установки в помещении и на улицеМонтажная коробка, белая, для купольных камер IPC-D6XX, алюминий</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>отсутствует</passport>
+  </files>
+</product>

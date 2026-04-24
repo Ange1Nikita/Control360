@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-N308/2(D)</name>
+  <article>322847</article>
+  <sku>303617707</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>Бюджетный IP-видеорегистратор 8-канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>7835.44</price>
+  <price_wholesale>7117.19</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/322847/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 8 канальный; камеры до 8 Мп; битрейт вход/вых - 80/80 Мбит/с; H.265+/H.265/H.264+/H.264; 1хHDMI, 1хVGA; 2 SATA 8 ТБ; видеоаналитика: «Человек»/«ТС» до 4 каналов; поддержка нескольких VCA-событий; аудио вход/выход - 1/1; тревожные входы/выходы -4/1; 2хUSB; DC 12В, 15 Вт (без HDD), адаптер питания в комплекте; -10°C ...+55°C; 385х315х52 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>4096х2160; 3840х2160; 1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>160</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>2 SATA х 8 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>385х315х52</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="440.32 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/4/8421C8C503C292C8ADCE2C7274143AE8.pdf</document>
+  </documents>
+</product>

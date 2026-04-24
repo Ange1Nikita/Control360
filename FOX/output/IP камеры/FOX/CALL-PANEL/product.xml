@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ВЫЗЫВНЫЕ ПАНЕЛИ</name>
+  <article>CALL-PANEL</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110009990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/b5c/Bez-nazvaniya-4KN-250_-.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/e3c/Bez-nazvaniya-2KN-250_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d15/Bez_nazvaniya_29_3_5_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/b12/29paneli_250_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d8d/FX_49S-250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/907/FX_48S-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/73c/IMG_5101-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/769/CP10S.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/f7b/XL-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/753/VZ-250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d7c/1015190651.jpg</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/1e4/250-FX.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Формат</spec>
+    <spec name="FX-CP80 (Серебро) 4КН">AHD</spec>
+    <spec name="FX-CP80 (Серебро) 2КН">AHD</spec>
+    <spec name="FX-CP29 Черная">AHD</spec>
+    <spec name="FX-CP29 Белая">AHD</spec>
+    <spec name="FX-CP49S">AHD</spec>
+    <spec name="FX-CP48S">AHD</spec>
+    <spec name="FX-CP23G Золото">AHD</spec>
+    <spec name="FX-CP26S Серебро">AHD</spec>
+    <spec name="FX-CP8 Медь">Аналог</spec>
+    <spec name="FX-CP7 Медь">Аналог</spec>
+    <spec name="1">1000</spec>
+    <spec name="9 990">руб.</spec>
+    <spec name="купить">FX-XL Модуль Цифровой</spec>
+    <spec name="AHD">95°</spec>
+    <spec name="8 990">руб.</spec>
+    <spec name="10 990">руб.</spec>
+    <spec name="10 290">руб.</spec>
+    <spec name="8 290">руб.</spec>
+    <spec name="7 990">руб.</spec>
+    <spec name="4 490">руб.</spec>
+    <spec name="Аналог">75°</spec>
+    <spec name="3 990">руб.</spec>
+    <spec name="по запросу">руб.</spec>
+    <spec name="По запросу">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/call-panel/</source_url>
+</product>

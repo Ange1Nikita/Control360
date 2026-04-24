@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1272ZJ-110</name>
+  <model>DS-1272ZJ-110</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1272zj-110</product_url>
+  <description>
+    <paragraph>Настенный кронштейн, белый, для купольных камер, алюминий, 120 122 169мм</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Алюминиевый сплав</paragraph>
+    <paragraph>Монтаж</paragraph>
+    <paragraph>Крепление на стену</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>480 гр.</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>122120х169мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Настенный кронштейн, белый, для купольных камер, алюминий, 120 122 169мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Монтаж</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление на стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>480 гр.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>122120х169мм</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Крепление на стену</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>480 гр.</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>122120х169мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

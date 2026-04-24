@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная цилиндрическая HiWatch DS-T500L(B)(2.8мм)</name>
+  <model>DS-T500L(B)(2.8мм)</model>
+  <article>353220</article>
+  <sku>327801195</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>3666.35</price>
+  <price_wholesale>3330.26</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/353220/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная уличная со встроенной LED подсветкой и встроенным микрофоном (AoC аудио по коаксиальному кабелю), ДЕНЬ/НОЧЬ; 3К CMOS, TVI 5 МП(16:9)CVI/AHD 2592х1944х20к/с, 4 МП 2560х1440/2 МП 1920х1080х25к/с; 0.001лк/0лк с вкл ИК; f=2.8мм ; S/N: более 62dB; Дальность подсветки ИК до 20 м, LED до 20 м; OSD, DWDR, BLC, DNR; Smart ИК ; DC12В/300мА; -40°...+60°C; IP67; 161.1х70х70мм, Пластик/Металл</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.5" 5 МП CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>2960х1665/2560х1440/1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.001</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>LED подсветка, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>161.1х70х70</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-C6SDE(Cплюшка)</name>
+  <article>FX-C6SDE-CPLYUSHKA</article>
+  <brand>FOX</brand>
+  <category>WiFi/4G камеры</category>
+  <price>1117008290</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/69d/440_370_0/1-768-_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c13/440_370_0/2-768-_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/69d/38_24_2/1-768-_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c13/38_24_2/2-768-_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/IMG_0369.jpg.jpeg</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/tariffs2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/69d/440_370_0/1-768-_1_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpeg</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-C6SDE (Cплюшка)</spec>
+    <spec name="Тип корпуса">WIFI камера уличного исполнения</spec>
+    <spec name="Тип матрицы">Две матрицы 1/2.8” 3Мп CMOS</spec>
+    <spec name="Видеокодек">H.265</spec>
+    <spec name="Эффективные пиксели">2304(H) x 1296(V)</spec>
+    <spec name="Количество кадров в секунду">20 К/с</spec>
+    <spec name="Разрешение">2304х1296, 3Мп</spec>
+    <spec name="Объектив">4mm + 6mm</spec>
+    <spec name="Угол обзора">(гор.)98°/ (гор.)85°</spec>
+    <spec name="ИК подсветка">ИК + WLED до 20м</spec>
+    <spec name="ИК-фильтр">Есть</spec>
+    <spec name="Минимальная    чувствительность, люкс">(ИК выкл.)</spec>
+    <spec name="Битрейт">32 Кбит/с – 3.5 Мбит/с</spec>
+    <spec name="Сетевой интерфейс:">Беспроводный + Проводной</spec>
+    <spec name="Стандарт беспроводной связи">Wi-Fi (IEEE802.11b/g/n)</spec>
+    <spec name="Диапазон частот Wi-Fi">2,4 ГГц (5 ГГц не поддерживается)</spec>
+    <spec name="Ширина канала связи:">20/40 МГц</spec>
+    <spec name="Протокол шифрования:">Wi-Fi: WEP/WPA/WPA2</spec>
+    <spec name="Поддерживаемые клиенты">Мобильные устройства Android и iOS</spec>
+    <spec name="Приложение">FOX Smart</spec>
+    <spec name="Облачное хранилище:">Есть (Платная услуга)</spec>
+    <spec name="Аудио">Встроенный микрофон, динамик</spec>
+    <spec name="Аудиокодек">PCM</spec>
+    <spec name="Динамик">1Вт, 8Ом</spec>
+    <spec name="Карта памяти">MicroSD, Class 10 и выше, до 256 ГБ включительно</spec>
+    <spec name="Onvif 2.6 Profile-S">Есть</spec>
+    <spec name="Встроенная сирена">Есть</spec>
+    <spec name="Детектор движения">Есть</spec>
+    <spec name="Детектор человека">Есть</spec>
+    <spec name="Слежение">Есть</spec>
+    <spec name="Питание">12В DC, 1,0 A</spec>
+    <spec name="Степень    защиты">IP65</spec>
+    <spec name="Материал корпуса">ABS пластик</spec>
+    <spec name="Рабочая температура,    °C">-30° C … +50° C</spec>
+    <spec name="Допустимая относ. влажность">10% …  90 % при температуре 25 °С</spec>
+    <spec name="Габариты">150(Ш)*90(В)*161(Д) мм.</spec>
+    <spec name="Вес">0,686 кг</spec>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FX-C3SE (Сова)">3Мп</spec>
+    <spec name="FX-C3BE (Cтриж)">3Мп</spec>
+    <spec name="FX-C2BL (Гриф)">2Мп</spec>
+    <spec name="FX-C2SL (Филин)">2Мп</spec>
+    <spec name="FX-C3M (Лунь)">3Мп</spec>
+    <spec name="FX-C3S (Сыч)">3Мп</spec>
+    <spec name="FX-C4BL (Коршун)">4Мп</spec>
+    <spec name="FX-C4SL (Сипуха)">4Мп</spec>
+    <spec name="FX-C5BE (Сапсан)">5Мп</spec>
+    <spec name="FX-C5SE (Неясыть)">5Мп</spec>
+    <spec name="FX-C4MB (Чеглок)">4Мп</spec>
+    <spec name="FX-C4MW (Чеглок)">4Мп</spec>
+    <spec name="FX-C6SDE(Cплюшка)">3Мп + 3Мп</spec>
+    <spec name="Уличная">3Мп + 3Мп</spec>
+    <spec name="4мм + 6мм">до 20м</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="Сетевые протоколы">Протокол шифрования:</spec>
+    <spec name="Wi-Fi: WEP/WPA/WPA2">Поддерживаемые клиенты</spec>
+    <spec name="Мобильные устройства Android и iOS">Приложение</spec>
+    <spec name="FOX Smart">Облачное хранилище:</spec>
+    <spec name="Есть (Платная услуга)">Аудио</spec>
+    <spec name="Встроенный микрофон, динамик">Аудиокодек</spec>
+    <spec name="PCM">Динамик</spec>
+    <spec name="1Вт, 8Ом">Карта памяти</spec>
+    <spec name="MicroSD, Class 10 и выше, до 256 ГБ включительно">Onvif 2.6 Profile-S</spec>
+    <spec name="Есть">Питание</spec>
+    <spec name="12В DC, 1,0 A">Энергопотребление</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/wifi-4g-kamery/fox-umnye-wifi-kamery/fx-c6sde-cplyushka/</source_url>
+</product>

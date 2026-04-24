@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I253L(C)(2.8mm)</name>
+  <model>DS-I253L(C)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i253l-c-2-8mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп</paragraph>
+    <paragraph>• Цветное изображение 24/7</paragraph>
+    <paragraph>• Обнаружение цели по типу «Человек» / «ТС»</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP67</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>• Встроенный слот для microSD / microSDHC / microSDXC: есть, до 256 ГБ</paragraph>
+    <paragraph>• Встроенный микрофон, аудиосвязь в режиме реального времени</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/2.8 Progressive Scan CMOS</paragraph>
+    <paragraph>Максимальное разрешение</paragraph>
+    <paragraph>1920  1080</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Цвет: 0.001 лк @ (F1.0, AGC вкл.), 0 лк с подсветкой</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>От 1/3 до 1/100000 с</paragraph>
+    <paragraph>Режим «день / ночь»</paragraph>
+    <paragraph>Цветное изображение в любое время суток</paragraph>
+    <paragraph>Регулировка угла наблюдения</paragraph>
+    <paragraph>Поворот: от 0 до 360°, наклон: от 0 до 75°, вращение: от 0 до 360°</paragraph>
+    <paragraph>Тип объектива</paragraph>
+    <paragraph>Фиксированный объектив 2.8 мм (опционально)</paragraph>
+    <paragraph>Фокусное расстояние и угол обзора</paragraph>
+    <paragraph>по горизонтали: 106°, по вертикали: 57°, по диагонали: 126°</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>M12</paragraph>
+    <paragraph>Тип диафрагмы</paragraph>
+    <paragraph>Фиксированная</paragraph>
+    <paragraph>Апертура</paragraph>
+    <paragraph>F1.0</paragraph>
+    <paragraph>Глубина фокуса</paragraph>
+    <paragraph>от 1.5 м до</paragraph>
+    <paragraph>DORI</paragraph>
+    <paragraph>D: 44 м, O: 17 м, R: 8 м, I: 4 м</paragraph>
+    <paragraph>Тип подсветки</paragraph>
+    <paragraph>Подсветка белым светом</paragraph>
+    <paragraph>Дальность дополнительной подсветки</paragraph>
+    <paragraph>До 30 м</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</paragraph>
+    <paragraph>Дополнительный поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>Основной поток: H.265+/H.265/H.264+/H.264 Дополнительный поток: H.265/H.264/MJPEG</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>От 32 Кбит/с до 8 Мбит/с</paragraph>
+    <paragraph>Профиль H.264</paragraph>
+    <paragraph>BaseLine Profile/Main Profile/High Profile</paragraph>
+    <paragraph>Профиль H.265</paragraph>
+    <paragraph>Main Profile</paragraph>
+    <paragraph>Битрейт</paragraph>
+    <paragraph>CBR, VBR</paragraph>
+    <paragraph>Область интереса (ROI)</paragraph>
+    <paragraph>1 фиксированная область для основного потока</paragraph>
+    <paragraph>Тип аудио</paragraph>
+    <paragraph>Моно</paragraph>
+    <paragraph>Фильтрация шумов окружающей среды</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Частота дискретизации</paragraph>
+    <paragraph>8 / 16 кГц</paragraph>
+    <paragraph>Аудиосжатие</paragraph>
+    <paragraph>G.711ulaw / G.711alaw / G.722.1 / G.726 / MP2L2 / PCM / AAC-LC</paragraph>
+    <paragraph>Битрейт аудио</paragraph>
+    <paragraph>64 Кбит/с (G.711 ulaw) / 64 Кбит/с (G.711 alaw) / 16 Кбит/с (G.722.1) / 16 Кбит/с (G.726) / от 32 до 160 Кбит/с (MP2L2) / от 16 до 64 Кбит/с (AAC-LC)</paragraph>
+    <paragraph>Протоколы</paragraph>
+    <paragraph>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</paragraph>
+    <paragraph>Одновременный просмотр в режиме реального времени</paragraph>
+    <paragraph>До 6 каналов</paragraph>
+    <paragraph>Широкий динамический диапазон (WDR)</paragraph>
+    <paragraph>Цифровой WDR</paragraph>
+    <paragraph>SNR</paragraph>
+    <paragraph>52 дБ</paragraph>
+    <paragraph>Переключение «День/ночь»</paragraph>
+    <paragraph>День / Ночь / Автоматич. / По расписанию</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>BLC, HLC, 3D DNR</paragraph>
+    <paragraph>Интерфейс Ethernet</paragraph>
+    <paragraph>1 RJ45 auto 10 / 100 М Ethernet</paragraph>
+    <paragraph>Локальное хранение</paragraph>
+    <paragraph>Встроенный слот для карты памяти, поддержка microSD / microSDHC / microSDXC, до 256 ГБ</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл и пластик</paragraph>
+    <paragraph>Размер камеры</paragraph>
+    <paragraph>109.9  103.6 мм ( 4.3  4.1)</paragraph>
+    <paragraph>Размер упаковки</paragraph>
+    <paragraph>150  150  141 мм (5.9  5.9  5.9)</paragraph>
+    <paragraph>Масса камеры</paragraph>
+    <paragraph>Приблиз. 380 г</paragraph>
+    <paragraph>Масса с упаковкой</paragraph>
+    <paragraph>Приблиз. 620 г</paragraph>
+    <paragraph>Условия хранения</paragraph>
+    <paragraph>От -30 до +60 °C. Влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Язык</paragraph>
+    <paragraph>Английский, русский</paragraph>
+    <paragraph>Основные функции</paragraph>
+    <paragraph>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цветное изображение 24/7</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Обнаружение цели по типу «Человек» / «ТС»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD / microSDHC / microSDXC: есть, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон, аудиосвязь в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Максимальное разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: 0.001 лк @ (F1.0, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1/3 до 1/100000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «день / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цветное изображение в любое время суток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла наблюдения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: от 0 до 360°, наклон: от 0 до 75°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный объектив 2.8 мм (опционально)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние и угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>по горизонтали: 106°, по вертикали: 57°, по диагонали: 126°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип диафрагмы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Апертура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>F1.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Глубина фокуса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>от 1.5 м до</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DORI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>D: 44 м, O: 17 м, R: 8 м, I: 4 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность дополнительной подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительный поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток: H.265+/H.265/H.264+/H.264 Дополнительный поток: H.265/H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Профиль H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BaseLine Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Профиль H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область интереса (ROI)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 фиксированная область для основного потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Моно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация шумов окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота дискретизации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 / 16 кГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711ulaw / G.711alaw / G.722.1 / G.726 / MP2L2 / PCM / AAC-LC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>64 Кбит/с (G.711 ulaw) / 64 Кбит/с (G.711 alaw) / 16 Кбит/с (G.722.1) / 16 Кбит/с (G.726) / от 32 до 160 Кбит/с (MP2L2) / от 16 до 64 Кбит/с (AAC-LC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протоколы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный просмотр в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Широкий динамический диапазон (WDR)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>52 дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключение «День/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>День / Ночь / Автоматич. / По расписанию</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 auto 10 / 100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Локальное хранение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для карты памяти, поддержка microSD / microSDHC / microSDXC, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл и пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>109.9  103.6 мм ( 4.3  4.1)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер упаковки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>150  150  141 мм (5.9  5.9  5.9)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 380 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса с упаковкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 620 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Условия хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -30 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Язык</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Английский, русский</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основные функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.001 лк @ (F1.0, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>От 1/3 до 1/100000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «день / ночь»</name>
+      <value>Цветное изображение в любое время суток</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>Поворот: от 0 до 360°, наклон: от 0 до 75°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Фиксированный объектив 2.8 мм (опционально)</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>по горизонтали: 106°, по вертикали: 57°, по диагонали: 126°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F1.0</value>
+    </spec>
+    <spec>
+      <name>Глубина фокуса</name>
+      <value>от 1.5 м до</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 44 м, O: 17 м, R: 8 м, I: 4 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name>Дальность дополнительной подсветки</name>
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>Основной поток: H.265+/H.265/H.264+/H.264 Дополнительный поток: H.265/H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>1 фиксированная область для основного потока</value>
+    </spec>
+    <spec>
+      <name>Тип аудио</name>
+      <value>Моно</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 / 16 кГц</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711ulaw / G.711alaw / G.722.1 / G.726 / MP2L2 / PCM / AAC-LC</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711 ulaw) / 64 Кбит/с (G.711 alaw) / 16 Кбит/с (G.722.1) / 16 Кбит/с (G.726) / от 32 до 160 Кбит/с (MP2L2) / от 16 до 64 Кбит/с (AAC-LC)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>52 дБ</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>День / Ночь / Автоматич. / По расписанию</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10 / 100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>Встроенный слот для карты памяти, поддержка microSD / microSDHC / microSDXC, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл и пластик</value>
+    </spec>
+    <spec>
+      <name>Размер камеры</name>
+      <value>109.9  103.6 мм ( 4.3  4.1)</value>
+    </spec>
+    <spec>
+      <name>Размер упаковки</name>
+      <value>150  150  141 мм (5.9  5.9  5.9)</value>
+    </spec>
+    <spec>
+      <name>Масса камеры</name>
+      <value>Приблиз. 380 г</value>
+    </spec>
+    <spec>
+      <name>Масса с упаковкой</name>
+      <value>Приблиз. 620 г</value>
+    </spec>
+    <spec>
+      <name>Условия хранения</name>
+      <value>От -30 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>Английский, русский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

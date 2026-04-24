@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Поворотная IP-камера Hikvision DS-2DE7430IW-AE</name>
+  <model>DS-2DE7430IW-AE</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2de7430iw-ae/</product_url>
+  <description>
+    <paragraph>Уличная (-40… +65) сферическая сетевая PTZ-камера, матрица 1/1.9" CMOS с чувствительностью 0.005 Люкс при F1.5, объектив 5.9–177 мм (×30), видео H.265/H.265+, H.264/H.264+ с разрешением 2560×1536 (4Мп) 25 Fps, тройной поток, режим «день/ночь» с ICR, ИК-подсветка до 150 м, скорость поворота 240°/с, наклона — 200°/с, DWDR, 3D DNR, BLC, Defog, EIS, ROI, microSD до 128 ГБ, аппаратная аналитика, RS-485, RJ-45 (с PoE), аудиовход/выход (1/1), тревожный вход/выход (2/1), IP66, грозозащита, питание AC 24 В/PoE, габариты Ø 220×353.4 мм, вес 4.5 кг.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.9" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.005 Лк @(F1.5, AGC вкл)Ч/Б: 0.002 Лк @(F1.5, AGC вкл)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 ~ 1/30,000с</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>5.9-177 мм, 30х</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>4.8 с (Оптич. Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>48.8°-2.3°</value>
+    </spec>
+    <spec>
+      <name>Минимальное рабочее расстояние</name>
+      <value>10-1.500 мм (Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Диафрагма</name>
+      <value>F1.5 - F2.3</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>Авто/полуавтоматическая/вручную</value>
+    </spec>
+    <spec>
+      <name>Цифровое увеличение</name>
+      <value>16x</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>Вручную: 0.1° - 160°/с, по предустановке: 240°/с</value>
+    </spec>
+    <spec>
+      <name>Диапазон наклона</name>
+      <value>-15°-90° (автопереворот )</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>Вручную: 0.1°-120°/с, по предустановке: 200°/с</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Патрули</name>
+      <value>8 зон, по 32 предустановки каждая</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ позиции</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр при переходе на предустановку</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>Предустановка, патрулирование, автосканирование, вертикальное сканирование, панорамное сканирование, случайное сканирование, сканирование кадра</value>
+    </spec>
+    <spec>
+      <name>Действия по расписанию</name>
+      <value>Предустановка, патрулирование, автосканирование, вертикальное сканирование, панорамное сканирование, случайное сканирование, сканирование кадра,перезагрузка, инициализация, AUX выход</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart видеоаналитика, обнаружение несанкционированных действий, рарыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>Предустановка, патрулирование, вызов шаблона, запись на microSD/SDHC карту, активация реле,E-Map, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711alaw/G.711ulaw/G.722.1/G.726/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1536</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/c (2560×1536, 2048×1536, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контраст, резкость и режим поворота, наложение изображения настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>DWDR, 3D DNR, BLC, антитуман, ROI, EIS</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>Авто/по расписанию/по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>Обнаружение пересечения линии, вторжения в область</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (Поддержка NFS, SMB/CIFS)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, DHCP, PPPoE, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя (ID и PW), аутентификация хоста (Mac), фильтрация IP-адресов, шифрование HTTPS, управление доступом IEEE 802.1x</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>API, ONVIF, PSIA, CGI</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>2 входа/1 выход</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>Слот для microSD/SDHC до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>40 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +65 °C, влажность 90% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66, Подавитель напряжения переходных процессов TVS 4000 В для грозозащиты</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>До 150 м</value>
+    </spec>
+    <spec>
+      <name>Мощность ИК-подсветки</name>
+      <value>Автоматически настраивается в зависимости от кратности зума</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø 220×353.4 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>4.5 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Уличная (-40… +65) сферическая сетевая PTZ-камера, матрица 1/1.9" CMOS с чувствительностью 0.005 Люкс при F1.5, объектив 5.9–177 мм (×30), видео H.265/H.265+, H.264/H.264+ с разрешением 2560×1536 (4Мп) 25 Fps, тройной поток, режим «день/ночь» с ICR, ИК-подсветка до 150 м, скорость поворота 240°/с, наклона — 200°/с, DWDR, 3D DNR, BLC, Defog, EIS, ROI, microSD до 128 ГБ, аппаратная аналитика, RS-485, RJ-45 (с PoE), аудиовход/выход (1/1), тревожный вход/выход (2/1), IP66, грозозащита, питание AC 24 В/PoE, габариты Ø 220×353.4 мм, вес 4.5 кг.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f0e/140_140_1/f0efb1d0097a2d8079e2b8982ca1aaf0.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2de7430iw-ae/?utm_source=comebackletter"&gt;Hikvision DS-2DE7430IW-AE&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

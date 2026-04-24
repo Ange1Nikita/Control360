@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VIGUARD SOLAR 100-12/10 автономный блок питания на солнечной панели</name>
+  <article>VIGUARD_SOLAR_100_12_10_AVTONOMNYY_BLOK_PITANIYA_NA_SOLNECHNOY_PANELI</article>
+  <brand>ViGUARD</brand>
+  <category>4G Wi-Fi камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/403/450_450_1/40361080e33cd1bf7782624d256b5174.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/403/120_120_0/40361080e33cd1bf7782624d256b5174.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/403/500_500_1/40361080e33cd1bf7782624d256b5174.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f82/500_500_1/f823419584e7c74dcee10bb2d9b7a20e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/403/120_120_1/40361080e33cd1bf7782624d256b5174.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f82/120_120_1/f823419584e7c74dcee10bb2d9b7a20e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/403/40361080e33cd1bf7782624d256b5174.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>VIGUARD SOLAR 100-12/10 автономный блок питания на солнечной панели</description>
+  <specs>
+    <spec name="Название параметра">Значение параметра</spec>
+    <spec name="Мощность солнечной панели, Вт">100</spec>
+    <spec name="Напряжение выхода, В">12</spec>
+    <spec name="Ток выхода максимальный, А">10</spec>
+    <spec name="Емкость АКБ, Ач (зависит от требуемого времени резерва)">7, 9, 12, 17</spec>
+    <spec name="Количество АКБ, шт">1</spec>
+    <spec name="Ток заряда максимальный, А">2,7</spec>
+    <spec name="Угол установки солнечной панели, град">45</spec>
+    <spec name="Степень защиты оболочки по ГОСТ 14254-2015">IP54</spec>
+    <spec name="Габаритные размеры (ШхГхВ), мм, не более">670 х 580 х 720</spec>
+    <spec name="Масса нетто (брутто), кг, не более">20 (22)</spec>
+    <spec name="Солнечная панель 100 Вт">1 шт.</spec>
+    <spec name="Щит с монтажной панелью ЩМПг-25х30х15 IP54">1 шт.</spec>
+    <spec name="Контроллер заряда">1 шт.</spec>
+    <spec name="Перемычка АКБ комплект">1 шт.</spec>
+    <spec name="Комплект крепежа">1 шт.</spec>
+    <spec name="Руководство по эксплуатации">1 экз.</spec>
+    <spec name="Индикатор">Состояние</spec>
+    <spec name="Не светится">Нагрузка выключена</spec>
+    <spec name="Быстрое мигание">Короткое замыкание в нагрузке или перегрузка</spec>
+    <spec name="Мигает контур">Аккумулятор разряжен</spec>
+    <spec name="Мигают три деления">Перезаряд</spec>
+    <spec name="E0">Нет ошибок</spec>
+    <spec name="E1">Аккумулятор сильно разряжен</spec>
+    <spec name="E2">Превышение напряжения на аккумуляторе</spec>
+    <spec name="E4">Короткое замыкание в цепи нагрузки</spec>
+    <spec name="E5">Перегрузка</spec>
+    <spec name="E6">Перегрев контроллера</spec>
+  </specs>
+  <source_url>https://viguard.pro/catalog/kamery_dlya_ulitsy/viguard_solar_100_12_10_avtonomnyy_blok_pitaniya_na_solnechnoy_paneli/</source_url>
+</product>

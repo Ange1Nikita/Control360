@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор 32 канальный Hikvision DS-8632NXI-K8</name>
+  <model>DS-8632NXI-K8</model>
+  <article>326965</article>
+  <sku>303615954</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>IP-видеорегистратор 32 канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>53046</price>
+  <price_wholesale>48183.45</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/326965/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 32-х канальный; 2 VGA до 1080Р и 2 HDMI (до 4К+1080P) (HDMI2/VGA2 независимые); входящий поток 256Мб/с; исходящий поток 160Мб/с; разрешение записи до 12Мп 30 к/с; 8 SATA для HDD до 10Тб + eSata ; тревожные вход/выход- 16/9(9-й управляемый тревожный интерфейс поддерживает выход 12 В), аудиовход/выход -1/1; обнаружение и захват лиц на 1 канале, сравнение лиц на 4 каналах, поиск по изображению лица, 16 библиотек лиц; обнаружение движения 2.0 на 16 каналах; защита периметра на 2 каналах до 4Мп,  2хRJ45 10/100/1000 Мбит/с; 3хUSB; 3хUSB; 1хRS-485, 1хRS-232; AC100В-240В; 40Вт;  -10°C...+55°C; 445×476×95 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>32</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>2 HDMI; 2 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>3840х2160; 1920х1080; 1280х1024; 1280х720; 1024х768</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>320</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>16/9</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>8 SATA х10 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>100-240 AC</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>445х476х95</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>document.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+  </files>
+  <documents>
+    <document title="Облачный сервис приложение" size="90.98 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/8/784AB4517CC1B9ACB23B575AFD4165B2.jpg</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/E/3EC8D3ECC798A47F9B702C6CADB8BB8C.pdf</document>
+    <document title="Настройка облачного сервиса" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/3/E30475F80B63480261CC8976CD654460.pdf</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/E/CECCE7A1BEA2A5254C9FB87F4A8A1014.pdf</document>
+  </documents>
+</product>

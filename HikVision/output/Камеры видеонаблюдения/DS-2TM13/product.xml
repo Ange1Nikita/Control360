@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Портативная тепловизионная камера Hikvision DS-2TM13</name>
+  <model>DS-2TM13</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2tm13-teplovizionnaya-kamera/</product_url>
+  <description>
+    <paragraph>Hikvision DS-2TM13</paragraph>
+    <paragraph>Камера</paragraph>
+    <paragraph>Тепловизионная матрица</paragraph>
+    <paragraph>неохлаждаемый микроболометрический сенсор</paragraph>
+    <paragraph>Спектральный диапазон</paragraph>
+    <paragraph>8 ~ 14 мкм</paragraph>
+    <paragraph>Температурная чувствительность</paragraph>
+    <paragraph>40 мк (25 °C,F#=1/0)</paragraph>
+    <paragraph>Разрешение</paragraph>
+    <paragraph>384х288</paragraph>
+    <paragraph>Шаг пикселя</paragraph>
+    <paragraph>17 мкм</paragraph>
+    <paragraph>Диапазон измерения температуры</paragraph>
+    <paragraph>от -20 °С до +120 °С</paragraph>
+    <paragraph>Условия хранения</paragraph>
+    <paragraph>от -55 °С до +70 °С</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 9 В —12 В</paragraph>
+    <paragraph>Время активации</paragraph>
+    <paragraph>менее 5 с</paragraph>
+    <paragraph>Потребление энергии</paragraph>
+    <paragraph>не более 0.8 Вт (TYP)</paragraph>
+    <paragraph>Видеовыход</paragraph>
+    <paragraph>цифровое видео LVTTL</paragraph>
+    <paragraph>Тип взаимодействия</paragraph>
+    <paragraph>серийный порт RS-232</paragraph>
+    <paragraph>Ресурс затвора</paragraph>
+    <paragraph>300 000 циклов</paragraph>
+    <paragraph>Габариты</paragraph>
+    <paragraph>28х28х24.5 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тепловизионная матрица</name>
+      <value>неохлаждаемый микроболометрический сенсор</value>
+    </spec>
+    <spec>
+      <name>Спектральный диапазон</name>
+      <value>8 ~ 14 мкм</value>
+    </spec>
+    <spec>
+      <name>Температурная чувствительность</name>
+      <value>40 мк (25 °C,F#=1/0)</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>384х288</value>
+    </spec>
+    <spec>
+      <name>Шаг пикселя</name>
+      <value>17 мкм</value>
+    </spec>
+    <spec>
+      <name>Диапазон измерения температуры</name>
+      <value>от -20 °С до +120 °С</value>
+    </spec>
+    <spec>
+      <name>Условия хранения</name>
+      <value>от -55 °С до +70 °С</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 9 В —12 В</value>
+    </spec>
+    <spec>
+      <name>Время активации</name>
+      <value>менее 5 с</value>
+    </spec>
+    <spec>
+      <name>Потребление энергии</name>
+      <value>не более 0.8 Вт (TYP)</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>цифровое видео LVTTL</value>
+    </spec>
+    <spec>
+      <name>Тип взаимодействия</name>
+      <value>серийный порт RS-232</value>
+    </spec>
+    <spec>
+      <name>Ресурс затвора</name>
+      <value>300 000 циклов</value>
+    </spec>
+    <spec>
+      <name>Габариты</name>
+      <value>28х28х24.5 мм</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Лицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/7ec/140_140_1/DS_2TM13_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2tm13-teplovizionnaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2TM13&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=name&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=NAME&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Автоматика Classic</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/iblock/e85/e85f5760fea5e5767f7499190bb088ac.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/90f/450_450_1/90f4557e2efc45fad177aa629ee9d936.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/5dd/450_450_1/5dd719389b3c7b733ddcba024cb3e75e.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/besprovodnaya_avtomatika_classic_line/index.php?sort=name&amp;order=asc</source_url>
+</product>

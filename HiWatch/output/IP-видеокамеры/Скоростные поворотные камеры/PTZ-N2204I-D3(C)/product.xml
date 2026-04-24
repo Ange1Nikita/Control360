@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Скоростная поворотная IP-видеокамера Hiwatch PTZ-N2204I-D3(C)</name>
+  <model>PTZ-N2204I-D3(C)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Скоростные поворотные камеры</subcategory>
+  <product_url>https://hiwatch.net/ptz-n2204i-d3-c-</product_url>
+  <description>
+    <paragraph>2Мп поворотная IP-камера c EXIR-подсветкой до 20м</paragraph>
+    <paragraph>1/2.8’’ Progressive Scan CMOS; объектив 2.8 - 12мм, 4x; угол обзора объектива 100градусов - 25градусов; механический ИК-фильтр; 0.05лк@F2.0; сжатие H.264/MJPEG/H.264+, G.711/G.722.1/G.726/MP2L2/PCM/AAC; тройной поток; 1920х1080@25к/с; DWDR, 3D DNR, BLC, HLC, антитуман, ROI; обнаружение движения, вторжения в область и пересечения линии; вращение 350градусов, вручную: 0.1градусов - 60градусов/с, по предустановке: 60градусов/с; наклон 0градусов - 90градусов, вручную: 0.1градусов - 50градусов/с, по предустановке: 50градусов/с; слот для microSD до 128Гб; встроенный микрофон/динамик, аудиовход/выход 1/1; тревожные вход/выход 1/1; 1 RJ45 10M/100M Ethernet; питание DC12В/PoE(802.3af); 9Вт макс.; -10 градусовC...+50 градусовC; вес 0.65кг.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп поворотная IP-камера c EXIR-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8’’ Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8 - 12мм, 4x</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора объектива 100градусов - 25градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.05лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>сжатие H.264/MJPEG/H.264+, G.711/G.722.1/G.726/MP2L2/PCM/AAC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тройной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920х1080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, 3D DNR, BLC, HLC, антитуман, ROI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения, вторжения в область и пересечения линии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение 350градусов, вручную: 0.1градусов - 60градусов/с, по предустановке: 60градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон 0градусов - 90градусов, вручную: 0.1градусов - 50градусов/с, по предустановке: 50градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>слот для microSD до 128Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон/динамик, аудиовход/выход 1/1</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные вход/выход 1/1</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>питание DC12В/PoE(802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>9Вт макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10 градусовC...+50 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вес 0.65кг.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

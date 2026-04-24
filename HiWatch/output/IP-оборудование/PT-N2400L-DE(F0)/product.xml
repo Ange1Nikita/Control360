@@ -1,0 +1,404 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>PT-N2400L-DE(F0)</name>
+  <model>PT-N2400L-DE(F0)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/pt-n2400l-de</product_url>
+  <description>
+    <paragraph>IP-камера PT-N2400L-DE является 4 Мп скоростной купольной IP-камерой с технологией ColorVu.</paragraph>
+    <paragraph>Высокое качество изображения с разрешением 4 Мп</paragraph>
+    <paragraph>Четкое изображение при яркой задней засветке благодаря технологии DWDR</paragraph>
+    <paragraph>Технология 3D DNR обеспечивает ясное и четкое изображение</paragraph>
+    <paragraph>Облачный сервис и приложение Hik-Connect для удаленного управления и просмотра</paragraph>
+    <paragraph>Встроенный микрофон и динамик для аудиосвязи в режиме реального времени</paragraph>
+    <paragraph>Встроенный слот для карт micro SD / SDHC / SDXC, до 256 ГБ</paragraph>
+    <paragraph>Защита от влаги и пыли IP66</paragraph>
+    <paragraph>Тип</paragraph>
+    <paragraph>IP</paragraph>
+    <paragraph>Корпус</paragraph>
+    <paragraph>Купольная</paragraph>
+    <paragraph>Назначение</paragraph>
+    <paragraph>Уличные</paragraph>
+    <paragraph>Особенности</paragraph>
+    <paragraph>ИК-фильтр, Компенсация задней засветки, Поддержка WDR, Слот для карты памяти, Шумоподавление</paragraph>
+    <paragraph>Макс. разрешение</paragraph>
+    <paragraph>4Мп</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/1.8'' Progressive Scan CMOS</paragraph>
+    <paragraph>Тип объектива</paragraph>
+    <paragraph>Фиксированный</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>2.8 мм</paragraph>
+    <paragraph>Угол обзора</paragraph>
+    <paragraph>по горизонтали: 105.7°, по вертикали: 57.3°, по диагонали: 124.9°</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Цвет: 0.001 лк @ (F1.0, AGC вкл.), 0 лк с подсветкой</paragraph>
+    <paragraph>Подсветка</paragraph>
+    <paragraph>Подсветка белым светом</paragraph>
+    <paragraph>Дальность подсветки</paragraph>
+    <paragraph>до 30м</paragraph>
+    <paragraph>Разрешение</paragraph>
+    <paragraph>2560  1440</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>Н.264 / Н.265 / MJPEG</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>От 32 Кбит/с до 8 Мбит/с</paragraph>
+    <paragraph>Аудиосжатие</paragraph>
+    <paragraph>G.711alaw / G.711ulaw / G.722.1 / G.726 / MP2L2 / AAC-LC / PCM</paragraph>
+    <paragraph>Битрейт аудио</paragraph>
+    <paragraph>64 Кбит/с (G.711ulaw / G.711alaw) / 16 Кбит/с (G.722.1) / 16 Кбит/с (G.726) /от 32 до 160 Кбит/с (MP2L2) / от 16 до 64 Кбит/с (AAC-LC)</paragraph>
+    <paragraph>Протокол</paragraph>
+    <paragraph>IPv4 / IPv6, HTTP, HTTPS, Qos, DNS, DDNS, NTP, RTSP, RTP, TCP / IP, UDP, DHCP, Bonjour</paragraph>
+    <paragraph>Тип карт памяти</paragraph>
+    <paragraph>microSD/SDHC/SDXC</paragraph>
+    <paragraph>Объём карт памяти</paragraph>
+    <paragraph>до 256 ГБ</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 %, 0.75 А, макс. 9 Вт, коаксиальный разъем питания  5.5 мм, защита от обратной полярности, PoE: 802.3af, от 36 до 57 В, от 0.2 до 0.3 A, макс. 10 Вт</paragraph>
+    <paragraph>Класс защиты</paragraph>
+    <paragraph>IP67</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>С вкл. подсветкой: от -30 до +40 °C. Влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл</paragraph>
+    <paragraph>Размер</paragraph>
+    <paragraph>162  120  234.2 мм (6.4  4.7  9.2)</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>780 г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>IP-камера PT-N2400L-DE является 4 Мп скоростной купольной IP-камерой с технологией ColorVu.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высокое качество изображения с разрешением 4 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Четкое изображение при яркой задней засветке благодаря технологии DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология 3D DNR обеспечивает ясное и четкое изображение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Облачный сервис и приложение Hik-Connect для удаленного управления и просмотра</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон и динамик для аудиосвязи в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для карт micro SD / SDHC / SDXC, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита от влаги и пыли IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Купольная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Назначение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Уличные</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Особенности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-фильтр, Компенсация задней засветки, Поддержка WDR, Слот для карты памяти, Шумоподавление</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Макс. разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/1.8'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2.8 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>по горизонтали: 105.7°, по вертикали: 57.3°, по диагонали: 124.9°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: 0.001 лк @ (F1.0, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 30м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2560  1440</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Н.264 / Н.265 / MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711alaw / G.711ulaw / G.722.1 / G.726 / MP2L2 / AAC-LC / PCM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>64 Кбит/с (G.711ulaw / G.711alaw) / 16 Кбит/с (G.722.1) / 16 Кбит/с (G.726) /от 32 до 160 Кбит/с (MP2L2) / от 16 до 64 Кбит/с (AAC-LC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IPv4 / IPv6, HTTP, HTTPS, Qos, DNS, DDNS, NTP, RTSP, RTP, TCP / IP, UDP, DHCP, Bonjour</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип карт памяти</value>
+    </spec>
+    <spec>
+      <name />
+      <value>microSD/SDHC/SDXC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объём карт памяти</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 %, 0.75 А, макс. 9 Вт, коаксиальный разъем питания  5.5 мм, защита от обратной полярности, PoE: 802.3af, от 36 до 57 В, от 0.2 до 0.3 A, макс. 10 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Класс защиты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>С вкл. подсветкой: от -30 до +40 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>162  120  234.2 мм (6.4  4.7  9.2)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>780 г</value>
+    </spec>
+    <spec>
+      <name>Тип</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Корпус</name>
+      <value>Купольная</value>
+    </spec>
+    <spec>
+      <name>Назначение</name>
+      <value>Уличные</value>
+    </spec>
+    <spec>
+      <name>Особенности</name>
+      <value>ИК-фильтр, Компенсация задней засветки, Поддержка WDR, Слот для карты памяти, Шумоподавление</value>
+    </spec>
+    <spec>
+      <name>Макс. разрешение</name>
+      <value>4Мп</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Фиксированный</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 105.7°, по вертикали: 57.3°, по диагонали: 124.9°</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.001 лк @ (F1.0, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name>Подсветка</name>
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>до 30м</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560  1440</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>Н.264 / Н.265 / MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711alaw / G.711ulaw / G.722.1 / G.726 / MP2L2 / AAC-LC / PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711ulaw / G.711alaw) / 16 Кбит/с (G.722.1) / 16 Кбит/с (G.726) /от 32 до 160 Кбит/с (MP2L2) / от 16 до 64 Кбит/с (AAC-LC)</value>
+    </spec>
+    <spec>
+      <name>Протокол</name>
+      <value>IPv4 / IPv6, HTTP, HTTPS, Qos, DNS, DDNS, NTP, RTSP, RTP, TCP / IP, UDP, DHCP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Тип карт памяти</name>
+      <value>microSD/SDHC/SDXC</value>
+    </spec>
+    <spec>
+      <name>Объём карт памяти</name>
+      <value>до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, 0.75 А, макс. 9 Вт, коаксиальный разъем питания  5.5 мм, защита от обратной полярности, PoE: 802.3af, от 36 до 57 В, от 0.2 до 0.3 A, макс. 10 Вт</value>
+    </spec>
+    <spec>
+      <name>Класс защиты</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>С вкл. подсветкой: от -30 до +40 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>162  120  234.2 мм (6.4  4.7  9.2)</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>780 г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

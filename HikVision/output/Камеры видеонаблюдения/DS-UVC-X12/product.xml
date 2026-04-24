@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Камера Hikvision DS-UVC-X12</name>
+  <model>DS-UVC-X12</model>
+  <sku>46688</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-uvc-x12-usb-kamera/</product_url>
+  <description>
+    <paragraph>Hi-Fi-динамик</paragraph>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>Массив микрофонов</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7" 2 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.1 лк (F/2.2, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/25 ~ 1/50 000 с</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>–10° ~ +10°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 мм, по горизонтали: 110°, вертикали: 75°, диагонали: 120°</value>
+    </spec>
+    <spec>
+      <name>Глубина резкости</name>
+      <value>0.3 м ~ ∞</value>
+    </spec>
+    <spec>
+      <name>Микрофон</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Тип микрофона</name>
+      <value>MEMS</value>
+    </spec>
+    <spec>
+      <name>Направление</name>
+      <value>360°, всенаправленный</value>
+    </spec>
+    <spec>
+      <name>Дальность приема</name>
+      <value>5 м</value>
+    </spec>
+    <spec>
+      <name>Частота</name>
+      <value>100 Гц ~ 8 кГц</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>–38 дБВ/Па</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>66 дБ (A)</value>
+    </spec>
+    <spec>
+      <name>Алгоритм 3A</name>
+      <value>AEC, ANS, AGC</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>16 кГц</value>
+    </spec>
+    <spec>
+      <name>Номинальная мощность динамика</name>
+      <value>5 Вт</value>
+    </spec>
+    <spec>
+      <name>Максимальная выходная громкость</name>
+      <value>87 дБ SPL, 1 кГц</value>
+    </spec>
+    <spec>
+      <name>Диапазон динамика</name>
+      <value>8 м</value>
+    </spec>
+    <spec>
+      <name>Эффективная пропускная способность (–10 дБ)</name>
+      <value>170 Гц ~ 20 кГц</value>
+    </spec>
+    <spec>
+      <name>Общий коэффициент гармонических искажений (THD)</name>
+      <value>менее 3 % 1 кГц</value>
+    </spec>
+    <spec>
+      <name>Функции изображения</name>
+      <value>баланс белого, компенсация контровой засветки, переворот, зеркалирование по центру</value>
+    </spec>
+    <spec>
+      <name>Индикатор питания</name>
+      <value>красный: низкий уровень заряда батареи (≤ 15 %); оранжевый: средний уровень заряда (15 % &lt; x ≤ 30 %); белый: высокий уровень заряда (30 % &lt; x ≤ 100 %)</value>
+    </spec>
+    <spec>
+      <name>Аудиосвязь</name>
+      <value>поддержка интеллектуального подавления шумов, эха, реверберации и высоких тонов для повышения качества речи и обеспечения высокого качества звука</value>
+    </spec>
+    <spec>
+      <name>Светодиодный индикатор</name>
+      <value>красный: беззвучный режим; белый: стандартный; без подсветки: ожидание</value>
+    </spec>
+    <spec>
+      <name>Метод связи</name>
+      <value>USB-кабель</value>
+    </spec>
+    <spec>
+      <name>Дальность проводной связи</name>
+      <value>2 м</value>
+    </spec>
+    <spec>
+      <name>Емкость</name>
+      <value>7.2 В, 2450 мА/ч</value>
+    </spec>
+    <spec>
+      <name>Температура при заряде</name>
+      <value>0 °C... 45 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура (разряд)</name>
+      <value>–20 °C... +60 °C</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>до 25 к/с</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>≥ 120 дБ</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>USB-интерфейс Type-C</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 5 В ± 5 % (USB-кабель), макс. 4.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>пластик, акустическая тканьоснование: металл</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–10 °C... +45 °C, влажность 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø91.7×271.3 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>930 г</value>
+    </spec>
+    <spec>
+      <name>Комплектация</name>
+      <value>шторка; пульт дистанционного управления (с батареей);  кабель USB 3.0 (2 м); руководство пользователя</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Hi-Fi-динамикРазрешение 2 МпМассив микрофоновПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/783/140_140_1/DS_UVC_X12-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-uvc-x12-usb-kamera/?utm_source=comebackletter"&gt;Hikvision DS-UVC-X12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

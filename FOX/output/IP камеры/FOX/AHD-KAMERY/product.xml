@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>TVI видеокамеры</name>
+  <article>AHD-KAMERY</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/2b2/FX_IPC_C2FP_IR_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/2b4/FX_IPC_D2FP_IR_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/5f4/FX_IPC_D20_40_FP_WIR_360_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/016/FX_IPC_C20_40_FP_AI_MIC_250_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/121/FX_IPC_C40AP_IR_2022_360_2.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Разрешение, ТВЛ</spec>
+    <spec name="FX-C2P-IR">Уличная</spec>
+    <spec name="FX-D2P-IR">Уличная</spec>
+    <spec name="FX-D20F-IR MIC">Уличная</spec>
+    <spec name="FX-C20F-IR MIC">Уличная</spec>
+    <spec name="FX-С20V-IR MIC">Уличная</spec>
+    <spec name="2.0">2.8 -12мм</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/cctv/ahd-kamery/</source_url>
+</product>

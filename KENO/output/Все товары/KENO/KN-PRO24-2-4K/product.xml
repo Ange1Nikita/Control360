@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеорегистраторы/KN-PRO24/2-4K</name>
+  <article>KN-PRO24-2-4K</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/04a/440_370_0/Pro_32_2_768_1_mordochka.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4d7/440_370_0/IMG_20180815_151638_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/48c/440_370_0/IMG_20180522_160029_HDR_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/04a/38_24_2/Pro_32_2_768_1_mordochka.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4d7/38_24_2/IMG_20180815_151638_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/48c/38_24_2/IMG_20180522_160029_HDR_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 24 2 24 Короткое описание IP видеорегистратор KENO KN-PRO24/2-4K - это 24-х потоковый 4K NVR с поддержкой IP камер до 8 Mpx , форматом сжатия Н.265 , поддержкой IVS Аналитики нарушения периметра и Детектции Лиц c iP камер KENO. IVS аналитика Объединяет Возможности Видео и Охраны и в одном устройстве: Охранная - функция пересечения линий, заменяет Ик датчик, датчики Охраны периметра. Вы можете задать виртуальную границу в виде прямой линии в любой из частей экрана и направление ее пересечения. Чувствительность детектора пересечения границы регулируется пользователем. В случае пересечения границы регистратор подаст звуковой сигнал и позволит не пропустить ни одного нарушителя на контролируемую территорию Подсчет посетителей – считает сколько вошло и сколько вышло, заменяет систему подсчета. Статистика «Входящий поток» или «Исходящий поток» по количеству людей отображается на экране, в реальном времени, а также предоставляется в виде списка или графика с детализацией по месяцам, дням или часам. Положение камеры - функция делает более эффективной систему охраны объекта, позволит охране оперативно реагировать на действия нарушителей. В случае, если камера была намеренно замаскирована или повернута нарушителем, видеорегистратор незамедлительно оповестит охранника о случившемся с помощью звукового сигнала. Все функции IVS аналитики доступны при совместной работе с iP камерами поддерживающими данную функцию, сопровождаются записью видео в формате iP и возможностью просмотра через мобильные устройства в реальном времени. Исполнен в металлическом корпусе, с возможностью установки 2х Ж/д (в комплект не входят). Особенности IP видеорегистратора Все технические параметры Модель KN-PRO 24/2-4K Система Операционная    система Embedded Linux OS Режим работы Пентаплекс Процессор HiSilicon HI3536C Сжатие H.264, Н.264+,  MJPEG, Н.265, Н.265+ Управление Кнопки на лицевой панели, мышкой и по сети Поддержка камер KENO, FOX, RVI, DAHUA, Hikvision, Falcon Eye, Beward, Arecont Vision,</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Процессор">HiSilicon HI3536C</spec>
+    <spec name="Сжатие">H.264, Н.264+,  MJPEG, Н.265, Н.265+</spec>
+    <spec name="Управление">Кнопки на лицевой панели, мышкой и по сети</spec>
+    <spec name="Поддержка камер">KENO, FOX, RVI, DAHUA, Hikvision, Falcon Eye, Beward, Arecont Vision, AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1 x RCA</spec>
+    <spec name="Дисплей">1/4/9/24 Zoom</spec>
+    <spec name="Отображение">3840х2160,1920x1080, 1280x1024, 1280x720</spec>
+    <spec name="Аудио">Кодирования    аудио</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Запись">Максимальный    поток</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">IP: 1 х 4К (25 к/с), 4 x 1080p (25 к/с), 2 x 4Mpx (25 к/с), 16xWD1 (25 к/с)</spec>
+    <spec name="Жесткий диск">2 x 3`5 HDD (без ограничения объема) (в комплект не входит)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">1xRJ45    10M/100M/1000M</spec>
+    <spec name="Сетевые функции">Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">PUSH уведомления, запись на FTP/NAS, DropBox, Google Drive, пересылка снимка на email пользователя</spec>
+    <spec name="Удаленный доступ">Smart IMS300 (с поддержкой камер Hikvision, Dahua, RVI, Falcon Eye, ONVIF) Chrome, FireFox, IE, с мобильного телефона VSS mobile, P2P сервер</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной), DropBox, Google Dirve</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">15-20 Вт (без HDD)</spec>
+    <spec name="Рабочий диапазон температуры">-10℃...+55℃</spec>
+    <spec name="Рабочий диапазон влажности">0%~90%</spec>
+    <spec name="Габариты (мм)">360(Ш) х 262(Д) х 48(В),  вес 2,3 кг без HDD Кг</spec>
+    <spec name="Вес">2,3 кг без HDD</spec>
+    <spec name="KN-0404FHD/1 aPOE4">4</spec>
+    <spec name="KN-RECORD64/8-4K-AI">64</spec>
+    <spec name="KN-WiFi 4/1">4</spec>
+    <spec name="KN-PRO16/2 - 8P- 4K">16</spec>
+    <spec name="KN-PRO32/2-16P -4K">32</spec>
+    <spec name="KN-PRO16/2-4K">16</spec>
+    <spec name="KN-PRO32/2-4K AI">32</spec>
+    <spec name="KN-CORE36/2-4K-AI">36</spec>
+    <spec name="KN-RECORD36/8-4K-AI">36</spec>
+    <spec name="KN-PRO8/1-4K">8</spec>
+    <spec name="KN-PRO8/1-4P-4K">8</spec>
+    <spec name="KN-PRO16/1-4K">16</spec>
+    <spec name="KN-PRO16/1-8P-4K">16</spec>
+    <spec name="KN-PRO16/2-16P-4K">16</spec>
+    <spec name="KN-PRO16/2-8P-4K">16</spec>
+    <spec name="KN-CORE64/4-4K-AI">64</spec>
+    <spec name="KN-PRO32/2-16P-4K-AI">32</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-dvr/kn-pro24-2-4k/</source_url>
+</product>

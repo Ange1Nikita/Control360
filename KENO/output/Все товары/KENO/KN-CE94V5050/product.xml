@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Аналоговые видеокамеры/KN-CE94V5050</name>
+  <article>KN-CE94V5050</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/6d1/440_370_0/kn_se94v2812_kn_se94v6022_kn_ce94v5050.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/6d1/38_24_2/kn_se94v2812_kn_se94v6022_kn_ce94v5050.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>1 Уличная 1200 5.0-50 50 Короткое описание Видеокамера KN-СE94V5050 предназначена для уличного охранного видеонаблюдения. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Особенности камеры Все технические параметры Наименование KN-CE94V5050 Тип матрицы 1/3’’ Sony IMX238 DSP NXP2341H Разрешение, пикс 1305 x 1049 Разрешение, твл Аналог 800–1200 ТВЛ (944x576) ; AHD 1 280x720 (720p) Объектив, мм 5,0 - 50 мм Тип синхронизации Внутренняя ИК-диоды, шт 2 Дальность подсветки, м 40-50 м Соотношение "сигнал/шум", дБ &gt;50 дБ Минимальная чувствительность, люкс цвет 0,1 лк / F1.2;  ч/б 0,01 лк / F1.2; 0 лк (ИК вкл) Сигнал видеовыхода 1Vp-p композитный (75Ω) Режим "День/Ночь" Авто Электронный затвор, сек от 1/50 до 1/100 000 Компенсация встречной засветки Авто АРУ Авто Баланс белого Авто Источник питания, B DC 12В ±5% Энергопотребление с ИК 7,5 Вт Степень защиты IP66 Рабочая температура, °C -40C … +50C Дополнительные параметры OSD меню Уличная 1200 5.0-50 50 Интеллектуальный ИК прожектор  3-го поколения Вариофокальный объектив Разрешение 1200 ТВЛ (720p) Активный ИК-фильтр Чувствительность:  цвет 0,1 лк / F1.2;  ч/б 0,01 лк / F1.2; 0 лк (ИК вкл) Грозозащита Водонепроницаемая камера с  классом защиты IP66 Дюралюминиевый корпус OSD меню Материалы и особенности ПО Краткое руководство KN-СE94V5050 (0.832МБ)</description>
+  <specs>
+    <spec name="Наименование">KN-CE94V5050</spec>
+    <spec name="Тип матрицы">1/3’’ Sony IMX238</spec>
+    <spec name="DSP">NXP2341H</spec>
+    <spec name="Разрешение, пикс">1305 x 1049</spec>
+    <spec name="Разрешение, твл">Аналог 800–1200 ТВЛ (944x576) ; AHD 1 280x720 (720p)</spec>
+    <spec name="Объектив, мм">5,0 - 50 мм</spec>
+    <spec name="Тип синхронизации">Внутренняя</spec>
+    <spec name="ИК-диоды, шт">2</spec>
+    <spec name="Дальность подсветки, м">40-50 м</spec>
+    <spec name="Соотношение &quot;сигнал/шум&quot;, дБ">&gt;50 дБ</spec>
+    <spec name="Минимальная чувствительность, люкс">цвет 0,1 лк / F1.2;  ч/б 0,01 лк / F1.2; 0 лк (ИК вкл)</spec>
+    <spec name="Сигнал видеовыхода">1Vp-p композитный (75Ω)</spec>
+    <spec name="Режим &quot;День/Ночь&quot;">Авто</spec>
+    <spec name="Электронный затвор, сек">от 1/50 до 1/100 000</spec>
+    <spec name="Компенсация встречной засветки">Авто</spec>
+    <spec name="АРУ">Авто</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Источник питания, B">DC 12В ±5%</spec>
+    <spec name="Энергопотребление с ИК">7,5 Вт</spec>
+    <spec name="Степень защиты">IP66</spec>
+    <spec name="Рабочая температура, °C">-40C … +50C</spec>
+    <spec name="Дополнительные параметры">OSD меню</spec>
+    <spec name="Модель">Разрешение, ТВЛ</spec>
+    <spec name="KN-CE80F36">1000</spec>
+    <spec name="KN-DE82F36">1000</spec>
+    <spec name="KN-DE80F36">1000</spec>
+    <spec name="KN-DE81F36">1000</spec>
+    <spec name="KN-DE81V2812/W">1000</spec>
+    <spec name="KN-DE81V2812/B">1000</spec>
+    <spec name="KN-DE83V2812">1000</spec>
+    <spec name="KN-CE83V2812">1000</spec>
+    <spec name="KN-CE84V2812">1000</spec>
+    <spec name="KN-CE74V3616">700</spec>
+    <spec name="KN-CE74V5050">700</spec>
+    <spec name="KN-CE84V5050">1000</spec>
+    <spec name="KN-CE84V6022">1000</spec>
+    <spec name="KN-CE95F36">1200</spec>
+    <spec name="KN-DE95F36">1200</spec>
+    <spec name="KN-DE91V2812">1200</spec>
+    <spec name="KN-DE93V2812">1200</spec>
+    <spec name="KN-CE93V2812">1200</spec>
+    <spec name="KN-CE94V2812">1200</spec>
+    <spec name="KN-CE94V6022">1200</spec>
+    <spec name="KN-CE94V5050">1200</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/analogovye-kamery/KN-CE94V5050/</source_url>
+</product>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IVD100HBW  ТАУ КИТА 10B</name>
+  <article>FX-IVD100HBW-TAU-KITA-10B</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100032990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0b7/440_370_0/ER010_MIPI_B_F1_069.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7c7/440_370_0/ER010_MIPI_B_F_069.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bfb/440_370_0/05_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/4ec/440_370_0/04_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/84a/440_370_0/02_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bdb/440_370_0/ER010_MIPI_W_069-_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0b7/38_24_2/ER010_MIPI_B_F1_069.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7c7/38_24_2/ER010_MIPI_B_F_069.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bfb/38_24_2/05_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/4ec/38_24_2/04_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/84a/38_24_2/02_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bdb/38_24_2/ER010_MIPI_W_069-_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/0b7/440_370_0/ER010_MIPI_B_F1_069.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-IVD100HBW  ТАУ КИТА</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Размер экрана</spec>
+    <spec name="Разрешение">IPS LCD 1280*800 Touch Screen</spec>
+    <spec name="Формат видео">H.264/H.265</spec>
+    <spec name="Интерфейс">До 7ми IP устройств до 5МП</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть. До 10-ти устройств</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Class 10, до 512 Гб</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">Панель/ Ворота, Управление вторым замком через панель</spec>
+    <spec name="Тип замка">электромагнитный/электромеханический</spec>
+    <spec name="Детектор человека">Да  (с панели)</spec>
+    <spec name="Режим «Монитор»">Да. 3 стиля меню + 1 свой</spec>
+    <spec name="Часы/Фоторамка">Да</spec>
+    <spec name="Автоответчик">Да</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN 10M/100M Ethernet /WiFi 2.4&amp;5ГГц</spec>
+    <spec name="Питание">Постоянное питание DC +12~15В</spec>
+    <spec name="Рабочая температура">0°C … +55°C</spec>
+    <spec name="Габаритные размеры (мм)">255(Ш) х 180(В) х 21(Г)</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-IVD70WP черный">8”</spec>
+    <spec name="FX-IVD70WP белый">8”</spec>
+    <spec name="Комплект IP видеодомофона белый">7”</spec>
+    <spec name="Комплект IP видеодомофона черный">7”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8B">8”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8W">8”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10B)">10”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10W)">10”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8B)">8”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8W)">8”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10W">10”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10B">10”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7W">7”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7B">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7W)">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7B)">7”</spec>
+    <spec name="10”">512 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Акрил / Пластик">Видео</spec>
+    <spec name="Размер экрана">10,1" IPC LCD</spec>
+    <spec name="Встроенные микрофон и динамик, Голосовой автоответчик">Интерком</spec>
+    <spec name="Есть. До 10-ти устройств">Запись</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Сенсорные">Управление замком</spec>
+    <spec name="Панель/ Ворота, Управление вторым замком через панель">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="LAN 10M/100M Ethernet /">WiFi 2.4&amp;5ГГц</spec>
+    <spec name="Материалы и особенности ПО">Инструкция</spec>
+    <spec name="(16.665МБ)">FX-IVD100HBW_V4.3.16.069</spec>
+    <spec name="(15.278МБ)">Release note_March 2025_QR</spec>
+    <spec name="(0.998МБ)">VDP-FOX_Release-note_July-2024</spec>
+    <spec name="Инструкция">(16.665МБ)</spec>
+    <spec name="FX-IVD100HBW_V4.3.16.069">(15.278МБ)</spec>
+    <spec name="Release note_March 2025_QR">(0.998МБ)</spec>
+    <spec name="VDP-FOX_Release-note_July-2024">(0.567МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-ivd100hbw-tau-kita-10b/</source_url>
+</product>

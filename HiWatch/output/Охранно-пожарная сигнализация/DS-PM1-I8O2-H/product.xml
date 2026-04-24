@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM1-I8O2-H</name>
+  <model>DS-PM1-I8O2-H</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm1-i8o2-h</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• 8 встроенных проводных зон</paragraph>
+    <paragraph>• 2 встроенных выхода</paragraph>
+    <paragraph>• 1 выход питания для проводных датчиков</paragraph>
+    <paragraph>• 2 высокоскоростных порта RS-485, поддержка каскадного подключения проводных расширителейРасширитель тревожных входов/выходов (AX Hybrid Pro)</paragraph>
+    <paragraph>LED индикатор; 8 тревожыне входы, 2 тревожные выходы (реле); 2 интерфейса Speed-X для подключения к панели AX Hybrid Pro или дополнительного расширителя;</paragraph>
+    <paragraph>12В DC; Рабочая температура: -10градусовC до +40градусовC; Размер 110 х 155 х 32мм</paragraph>
+    <paragraph>Совместимость: Охранная панель Hikvision DS-PHA48-EP и DS-PHA64-LP</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 8 встроенных проводных зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 встроенных выхода</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 выход питания для проводных датчиков</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 высокоскоростных порта RS-485, поддержка каскадного подключения проводных расширителейРасширитель тревожных входов/выходов (AX Hybrid Pro)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 тревожыне входы, 2 тревожные выходы (реле)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 интерфейса Speed-X для подключения к панели AX Hybrid Pro или дополнительного расширителя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура: -10градусовC до +40градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер 110 х 155 х 32мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Совместимость: Охранная панель Hikvision DS-PHA48-EP и DS-PHA64-LP</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

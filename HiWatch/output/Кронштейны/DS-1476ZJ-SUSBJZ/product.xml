@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1476ZJ-SUS/BJZ</name>
+  <model>DS-1476ZJ-SUS/BJZ</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1476zj-sus-bjz</product_url>
+  <description>
+    <paragraph>Угловой настенный кронштейн для камеры DS-I256ANPR/2812(12V/PoE)</paragraph>
+    <paragraph>Размеры: 250  181,2  105 мм.</paragraph>
+    <paragraph>Вес: 2,28 кг</paragraph>
+    <paragraph>Цвет: Темно-серый</paragraph>
+    <paragraph>Материал: нержавеющая сталь SUS304</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Угловой настенный кронштейн для камеры DS-I256ANPR/2812(12V/PoE)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры: 250  181,2  105 мм.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес: 2,28 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: Темно-серый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал: нержавеющая сталь SUS304</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>250  181,2  105 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>2,28 кг.</value>
+    </spec>
+    <spec>
+      <name>Цвет</name>
+      <value>Темно-серый</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>нержавеющая сталь SUS304</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

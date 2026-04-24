@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-H204EQA(512GB)</name>
+  <article>322692</article>
+  <sku>300228631</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 4-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>8257.96</price>
+  <price_wholesale>7500.98</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/322692/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI /AHD/ CVI/ CVBS 4 канала видео + 1 IP 6Мп +  4 канала AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro/H.265; Скорость записи TVI, AHD и CVI: 4Мп Lite, 1080pх15к/с, 1080p Lite /720p Lite /720pх25к/с; аналоговые камеры: WD1х25к/с; IP: доп. 1 канал 6Мп ; Видеовыходы: 1 VGA, 1 HDMI до 1080Р ; Аудиовыход 1 канал через HDMI;  2 USB2.0 ;  Протоколы сетиTCP / IP, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS, UPnP™, HTTPS; сетевой (10M/ 100M Ethernet); 1х встроенный eSSD накопитель 480Гб; DC12 В /1000 мА (адаптер питания в комплекте); -10°...+45°C; 151 × 121× 46  мм; ПО CMS в комплекте.; Motion detection 2.0, обнаружение движения (фильтрация тревог человек/транспортное средство) все каналы;  Видеосжатие с адаптивным к сцене управлением битрейтом</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>4xTVI или 4х AHD или 4xCVI или 4х960H+1IP</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>4МП-N 15 к/сек на канал; 2МП 15 к/сек на канал; 25 к/сек на канал (1280х720 пикс.); (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Постоянный, по расписанию, обнаружение движения</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100 Ethernet</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; DHCP; Hik-Connect; DNS; DDNS; NTP; SADP; SMTP; NFS; UPnP™; HTTPS</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+45</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="359.44 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/6/162EA0D71E88608A1AEF5123BC61A8DC.pdf</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/5/05C41B1CDC82BA39EB4EEB55ACA013D7.pdf</document>
+    <document title="Настройка облачного сервиса" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B71E1E48EFCEDAAB920353D1EDA95052.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/A/AA0DB7B9D685ADA06A3026F7AA75188A.pdf</document>
+  </documents>
+</product>

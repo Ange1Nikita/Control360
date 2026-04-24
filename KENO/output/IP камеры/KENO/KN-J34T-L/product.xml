@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-J34T - L</name>
+  <article>KN-J34T-L</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>4000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/32a/ib62il5pkn848ixcfmkto3v571merjxb/440_370_0/IMG_6960_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/32a/ib62il5pkn848ixcfmkto3v571merjxb/38_24_2/IMG_6960_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная * * Ваша цена: 4 000 руб. Короткое описание Кронштейн KN-J34T - L для крепления камер на угол. Исполнен в металлическом корпусе. Подходит для камер: KN-SDE204X23BR, KN-SDE204X33BR, KN-CE203V2812BR, KN-CE203A2812BR, KN-CE204A2812BR, 
+KN-CE204A5050BR, KN-CE505A2812BR, KN-CE505F28, KN-CE503A2812 и для совместного применения с монтажными коробками для размещения кабеля: KN-P06, KN-P06T1, KN-P06T2 (без резьбы). В комплекте: анкера и шайбы для крепления на стену. Особенности IP видеокамеры Уличная * * Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-j34t-l/</source_url>
+</product>

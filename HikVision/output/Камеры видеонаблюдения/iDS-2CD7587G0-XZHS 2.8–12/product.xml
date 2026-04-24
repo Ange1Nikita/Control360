@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2CD7587G0-XZHS 2.8–12</name>
+  <model>iDS-2CD7587G0-XZHS 2.8–12</model>
+  <sku>56137</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2cd7587g0-xzhs-2-8-12-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 8 Мп</paragraph>
+    <paragraph>Гибридная подсветка 30 м</paragraph>
+    <paragraph>–50 °C… +60 °C, IP67, IK10</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+    <paragraph>WDR 140 дБ, BLC, HLC, 3D DNR</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>3840×2160</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0003 лк</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: 0° ~ 355°, наклон: 0° ~ 85°, вращение: 0° ~ 355°</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 ~ 12 мм, по горизонтали: 104.2° ~ 44.1°, вертикали: 55.3° ~ 24.8°, диагонали: 126.8° ~ 51.1°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручн.</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>P-Iris</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.0 ~ F/1.2</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 92.0 ~ 204.0 м, O: 36.5 ~ 81.0 м, R: 18.4 ~ 40.0 м, I: 9.2 ~ 20.4 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>гибридная (ИК, белый свет)</value>
+    </spec>
+    <spec>
+      <name>Дальность</name>
+      <value>30 м</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (3840×2160, 3072×1728, 2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Четвертый поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Пятый поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный, четвертый, пятый потоки: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR/VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>4 фиксированные области для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Обрезка изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, SRTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour, SSL/TLS</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (Profile S, Profile G, Profile T), ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки управления временем ожидания, журнал проверки безопасности, TLS 1.2</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR/td&gt;</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE10+не требуется плагин для просмотра в режиме реального времени: Chrome 57.0+, Firefox 52.0+, Safari 12+локальные сервисы: Chrome 57.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость, баланс белого и AGC настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>140 дБ</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥ 52 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, антитуман, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>8 настраиваемых многоугольных масок области, настраиваемые цвета и расположение масок области</value>
+    </spec>
+    <spec>
+      <name>Стабилизация изображения</name>
+      <value>EIS (встроенный гироскоп для повышения производительности EIS)</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 В p-p композитный выход, только для отладки</value>
+    </spec>
+    <spec>
+      <name>Сетевые интерфейсы</name>
+      <value>RJ-45 auto 10M/100M/1000M Ethernet, RS-485 (полудуплекс, Hikvision, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для microSD, SDHC, SDXC-карты, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход (линейный), выход (линейный), разъем 3.5 мм</value>
+    </spec>
+    <spec>
+      <name>Тревога</name>
+      <value>2 входа, 2 выхода (макс. DC 24 В, 1 A)</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения (срабатывание тревоги человек, ТС), саботажа, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя), диагностика качества видео, обнаружение вибрации</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, перемещения объекта, изменения сцены, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, тревожный сигнал, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 20 %, 2.01 A, макс. 24.01 Вт, двухъядерный терминальный блок; AC 24 В ± 20 %, 1.51 A, макс. 24.01 Вт, двухъядерный терминальный блок; PoE: 802.3 at, тип 2, класс 4, от 42.5 до 57 В, от 0.60 до 0.44 A, макс. 25.43 Вт</value>
+    </spec>
+    <spec>
+      <name>Размер камеры</name>
+      <value>Ø160.0×159.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>2100 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–50 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык веб-клиента</name>
+      <value>33 языкаанглийский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>5 потоков, Heartbeat, зеркалирование, маскирование области, журнал проверки безопасности, изменение пароля по E-mail, подсчет пикселей</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Защита от обледенения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IK10 (IEC 62262:2002), IP67 (IEC 60529-2013)</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 8 МпГибридная подсветка 30 м–50 °C… +60 °C, IP67, IK10H.265+, H.265, H.264+, H.264, MJPEGWDR 140 дБ, BLC, HLC, 3D DNRПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/aa2/140_140_1/iDS_2CD7587G0_XZHS-2.8_12-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2cd7587g0-xzhs-2-8-12-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2CD7587G0-XZHS 2.8–12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

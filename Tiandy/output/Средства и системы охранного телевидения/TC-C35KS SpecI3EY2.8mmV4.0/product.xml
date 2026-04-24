@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP купольная Tiandy TC-C35KS Spec:I3/E/Y/2.8mm/V4.0</name>
+  <model>TC-C35KS Spec:I3/E/Y/2.8mm/V4.0</model>
+  <article>354214</article>
+  <sku>1D.20010.002422</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Видеокамера IP купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>12690</price>
+  <price_wholesale>5063.31</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354214/</product_url>
+  <description>
+    <paragraph>Видеокамера IP 5 Мп купольная; 1/2.8" CMOS; 2592х1944 - 20 к/с; H.264/H.265; объектив 2.8 мм; ИК подсветка до 30 м; 0.002 лк; микрофон; microSD до 512Гб; WDR 120дБ, 3D DNR, HLC, BLC; P2P, RTSP, ONVIF (S/T/G); аналитика: пересечение линии, периметр, DC 12В/PoE, 6 Вт; IP67, IK10; -40...+65°C; 90х120 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2592х1944</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.002</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>90х120</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpeg</image>
+    <passport>document.pdf</passport>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Фото товара" size="12.55 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/E/3E4C7326D1F9A8EE1069221307D20630.jpg</document>
+    <document title="Паспорт" size="664.54 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/2/02D5410F458B53CF8EDDB7D4AB4682E7.pdf</document>
+  </documents>
+</product>

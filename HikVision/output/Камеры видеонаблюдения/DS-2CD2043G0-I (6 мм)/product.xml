@@ -1,0 +1,204 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>4 Мп IP-камера Hikvision DS-2CD2043G0-I (6 мм)</name>
+  <model>DS-2CD2043G0-I (6 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd2043g0-i-6-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ IP-камера с ИК-подсветкой 30 м, матрица 1/3" CMOS, 0.01 лк (при F/1.2), 2560×1440, 25 к/с, объектив 6 мм, F/2.0, день/ночь с ICR, H.265, H.264, MJPEG, тройной поток, 120 дБ WDR, 3D DNR, BLC, ROI, детекция движения, RJ-45, слот для microSD/SDHC/SDXC до 128 Гбайт, IP67, грозозащита, питание: DC 12 В ± 25 %, PoE, потребление макс. 7.5 Вт.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.01 лк (F/1.2, AGC вкл.)ч/б: 0.028 лк (F/2.0, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 с ~ 1/100 000 с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>6 мм</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.0</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали — 48°, по вертикали — 27°, по диагонали — 54°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>вручную</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>ИК-фильтр</name>
+      <value>механический</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>авто, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0° ~ 355°; наклон: 0° ~ 75°; вращение: 0° ~ 355°</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265/H.264дополнительный поток: H.265/H.264/MJPEGтретий поток: H.265/H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 fps (2560×1440, 2304×1296, 1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 fps (640×480, 640×360, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 fps (1280×720, 640×360, 352×288)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора, зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, 1 регион ROI для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (Поддержка NFS,SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP™, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов, анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S,PROFILE G), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>smart-функции, разрыв сети, конфликт IP-адресов, ошибки авторизации, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, iVMS-5200</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>IE8+, Chrome 31.0-44, Firefox 30.0-51, Safari 8.0+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>ИК-подсветка</name>
+      <value>есть, до 30 м</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %/PoE(802.3af)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>7.5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, подавитель напряжения переходных процессов TVS 2000В для грозозащиты</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>70×155 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.42 кг</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ IP-камера с ИК-подсветкой 30 м, матрица 1/3" CMOS, 0.01 лк (при F/1.2), 2560×1440, 25 к/с, объектив 6 мм, F/2.0, день/ночь с ICR, H.265, H.264, MJPEG, тройной поток, 120 дБ WDR, 3D DNR, BLC, ROI, детекция движения, RJ-45, слот для microSD/SDHC/SDXC до 128 Гбайт, IP67, грозозащита, питание: DC 12 В ± 25 %, PoE, потребление макс. 7.5 Вт.Скидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/ecb/140_140_1/ds_2cd2043g0_i_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd2043g0-i-6-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD2043G0-I (6 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

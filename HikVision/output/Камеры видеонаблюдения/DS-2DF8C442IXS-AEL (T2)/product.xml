@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Поворотная IP-камера Hikvision DS-2DF8C442IXS-AEL (T2)</name>
+  <model>DS-2DF8C442IXS-AEL (T2)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2df8c442ixs-ael-t2-povorotnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>Детекция 30 лиц</paragraph>
+    <paragraph>Распознавание номеров ТС</paragraph>
+    <paragraph>Smart ИК-подсветка до 500 м</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, –60 °C… +65 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.002 лк (F/1.2, AGC вкл.)ч/б: 0.0012 лк (F/1.2, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 с. ~ 1/30 000 с., поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Цифровое увеличение</name>
+      <value>16-кратное</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>зеркалирование, защита паролем, детектор саботажа, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>6 ~ 252 мм, 42-кратное оптическое увеличение</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>4.9 с.</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: от 56.6 до 1.7°по вертикали: от 33.7 до 0.9°по диагонали: от 63.4 до 1.9°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.2</value>
+    </spec>
+    <spec>
+      <name>Режим фокусировки</name>
+      <value>авто, полуавтоматический, вручную</value>
+    </spec>
+    <spec>
+      <name>Переключение режима день/ночь</name>
+      <value>день, ночь, автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>до 24 масок области, настраиваемые многоугольные области, цвета и расположение масок области</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>автоматический, ATW, лампа накаливания, лампа дневного света, в помещении, на улице, ручной</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Скорость вращения</name>
+      <value>вручную: 0.1 °/с — 210 °/с, по предустановке: 280 °/c</value>
+    </spec>
+    <spec>
+      <name>Диапазон наклона</name>
+      <value>–20°— +90° (автопереворот)</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>вручную: 0.1 °/с — 150 °/с, по предустановке: 250 °/c</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Патрули</name>
+      <value>8 зон, по 32 предустановки в каждом</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>4 шаблона, не менее 10 минут записи на каждый</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>3D-позиционирование</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ позиции</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр при переходе на предустановку</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, шаблоны, патрулирование, автоматическое, сканирование, вертикальное сканирование, случайное сканирование, сканирование кадра, панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>Действия по расписанию</name>
+      <value>предустановка, шаблоны, патрулирование, автоматическое сканирование, вертикальное сканирование, случайное сканирование, сканирование кадра, панорамное сканирование, перезагрузка, инициализация, вывод на дополнительный экран</value>
+    </spec>
+    <spec>
+      <name>Пропорциональное увеличение</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)50 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>динамическое слежение по лицам, фиксированная область, динамическое слежение по номерным знакам</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711alaw, G.711ulaw, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.722.1), 16 кбит/с (G.726), от 32 кбит/с до 192 кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 140 дБ, 3D DNR, BLC, HLC, EIS, антитуман, экспозиция области, фокус на области</value>
+    </spec>
+    <spec>
+      <name>Захват лиц</name>
+      <value>поддержка детекции до 30 лиц одновременно; поддержка детекции, отслеживания, захвата, оценки, отбора лиц в движении и вывода наиболее качественного изображения лица</value>
+    </spec>
+    <spec>
+      <name>Сравнение лиц</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Распознавание номерных знаков</name>
+      <value>поддержка распознавания номерных знаков, модели и цвета ТС</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, тревожный вход и выход, исключения</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение оставленных предметов, перемещения объектов, обнаружение вторжений, обнаружение пересечения линии, обнаружение входа в область, обнаружение выхода из области, детекция звуковых событий и тревога умышленной порчи</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальное слежение</name>
+      <value>слежение вручную, панорамное слежение, слежение по событию, патрулирование нескольких сцен</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальная запись</name>
+      <value>ANR, Dual-VCA</value>
+    </spec>
+    <spec>
+      <name>Привязка тревог</name>
+      <value>предустановка, патрулирование, шаблон, запись видео на карту памяти, срабатывание тревожного выхода, отправка e-mail, уведомление центра мониторинга, загрузка на FTP, запись видео на NAS</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, DHCP, PPPoE, UDP, IGMP, ICMP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация имени пользователя и пароля, аутентификация хоста (MAC-адрес), шифрование HTTPS, контроль доступа по стандарту 802.1x, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>открытый API, ONVIF (Profile S, Profile G), поддержка ISAPI, HIKVISION SDK, ISUP и сторонней платформы управления</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей. 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Плавная потоковая передача</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, iVMS-4500, iVMS-5200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE 10+, Chrome 57+, Firefox 52+, Safari 12+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>RJ-45 10M/100M Ethernet, Hi-PoE</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>Hikvision, Pelco-P, Pelco-D, самоадаптивный</value>
+    </spec>
+    <spec>
+      <name>Аудио интерфейсы</name>
+      <value>1-канальный аудиовход, от 2 до 2.4 В, 1 кОм ±10 %1-канальный аудиовыход, линейный уровень, сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>7 входов, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 256 Гбайт; NAS (NFS, SMB/ IFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>11.0 В [p-p]/75 Ом, PAL/NTSC/BNC-разъемы</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>500 м</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальная ИК-подсветка</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>32 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, традиционный китайский, тайский, вьетнамский, японский, латышский, литовский, португальский (Бразилия)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В (макс. 60 Вт, включая макс. 18 Вт для ИК-подсветки и макс. 6 Вт для обогрева)PoE (макс. 50 Вт, включая макс. 18 Вт для ИК-подсветки и макс. 6 Вт для обогрева)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: при PoE от –40 до +65 °C, при AC 24 В от –60 до +65 °C; влажность: ≤90 %</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>грозозащита, защита от импульсных и переходных перенапряжений, ± 6 кВ линия-земля, ± 3 кВ линия-линия, IEC61000-4-5, IP67</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø267×430 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>9.6 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпДетекция 30 лицРаспознавание номеров ТСSmart ИК-подсветка до 500 м⛅ ☔ ❄ IP67, –60 °C… +65 ºСПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/50b/140_140_1/DS_2DF9C245IHS_DLW-_T2_-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2df8c442ixs-ael-t2-povorotnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DF8C442IXS-AEL (T2)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM1-RT-HWE</name>
+  <model>DS-PM1-RT-HWE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm1-rt-hwe</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Беспроводной расширитель с поддержкой связи TRI-X (868 МГц.)</paragraph>
+    <paragraph>• Дальность передачи при беспроводном соединении до 1700 м.</paragraph>
+    <paragraph>• Поддержка 32 беспроводных датчиков, 4 беспроводных внутренних оповещателей и 8 беспроводных внешних оповещателей.</paragraph>
+    <paragraph>• 1 высокоскоростной порт SPEED-XРадиорасширитель шины Speed-X для датчиков AXPRO</paragraph>
+    <paragraph>Дальность передачи при беспроводном соединении до 1700 м; Поддержка 32 беспроводных датчиков; 4 беспроводных внутренних оповещателей и 8 беспроводных внешних оповещателей; токовый контроль; индикаторы состояния; внешнее питание; DC 12В; -10градусовC...+40градусовC; размер 110 155 32 мм; пластик. Не поддерживает CAM-X.</paragraph>
+    <paragraph>Для DS-PHA48/64</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Беспроводной расширитель с поддержкой связи TRI-X (868 МГц.)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность передачи при беспроводном соединении до 1700 м.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка 32 беспроводных датчиков, 4 беспроводных внутренних оповещателей и 8 беспроводных внешних оповещателей.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 высокоскоростной порт SPEED-XРадиорасширитель шины Speed-X для датчиков AXPRO</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи при беспроводном соединении до 1700 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддержка 32 беспроводных датчиков</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 беспроводных внутренних оповещателей и 8 беспроводных внешних оповещателей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>токовый контроль</value>
+    </spec>
+    <spec>
+      <name />
+      <value>индикаторы состояния</value>
+    </spec>
+    <spec>
+      <name />
+      <value>внешнее питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+40градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 110 155 32 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик. Не поддерживает CAM-X.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Для DS-PHA48/64</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

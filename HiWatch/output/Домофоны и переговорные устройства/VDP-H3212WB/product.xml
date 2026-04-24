@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор IP-видеодомофона HiWatch VDP-H3212WB</name>
+  <model>VDP-H3212WB</model>
+  <article>323174</article>
+  <sku>305303753</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Абонентские устройства</subcategory>
+  <functional_name>Монитор IP-видеодомофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>8468.49</price>
+  <price_wholesale>7692.21</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323174/</product_url>
+  <description>
+    <paragraph>7“ гибридный IP видеодомофон с Wi-Fi Сенсорный 7" цветной TFT LCD экран с разрешением 1024×600; встроенные микрофон и динамик; слот для SD карты до 128Гб; тревожные входы/выходы 8/2; 1 RJ-45 10M/100M Ethernet; Wi-Fi; DC12В/PoE; 10Вт; -10...+55°C; 200×140×15.1 мм. &lt;br /&gt;</paragraph>
+    <paragraph>Подключение двух 4-х проводных аналоговых панелей DS-D100P.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>2 аналоговые; 17 IP-видеопанелей</value>
+    </spec>
+    <spec>
+      <name>Количество ip видеокамер</name>
+      <value>До 16 ip камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>до 6-ти мониторов</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>200х140х24</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="698.68 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/D/8DEF7B1956C9B66434D0B02DC99D9038.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/TVI видеокамеры/KN-DE53V2812</name>
+  <article>KN-DE53V2812</article>
+  <brand>KENO</brand>
+  <category>TVI камеры</category>
+  <price>7490</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/dd5/440_370_0/KN_DE53V28129-768_1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/681/440_370_0/KN_DE53V28130-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a61/440_370_0/Dzhoystik-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/dd5/38_24_2/KN_DE53V28129-768_1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/681/38_24_2/KN_DE53V28130-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a61/38_24_2/Dzhoystik-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 Уличная 5 Мп 2.8-12 40 Ваша цена: 7 490 руб. Короткое описание Видеокамера KN-DE53V2812 поддерживает форматы: TVI, AHD, CVI, CVBS с разрешением до 5Мп . В основе камер лежит высокочувствительный сенсор SmartSens SC5035 и DSP процессор NextChip NVP2475 , позволяющие добиваться потрясающего изображения и днем и ночью! Камера исполнена в металлическом корпусе и предназначена для уличного использования в целях охранного видеонаблюдения. Дальность передачи TVI, AHD, CVI сигнала до 500 м . Камеры 5Мп дают больше детализации, четкости картинки, поэтому их можно размещать на более удаленные расстояния от объектов. Камеры имеют соотношение сторон 4/3, которое позволяет получать шире угол обзора по вертикали захватывая зону под самой камерой (снизу-вверх).
+При переключении в режим 4Мп, доступно соотношение сторон 16:9 Переключение режимов происходит через меню, либо джойстик на камерах: R = AHD L = Аналог Вверх = Cvi Вниз = Tvi Кнопку джойстика необходимо удерживать в нужном положении до сигнала. Особенности камеры Все технические параметры Наименование KN-DE53V2812 Тип матрицы 1/2.7’’ SmartSens SC5035 (5.03 Мегапикселя) DSP NextChip NVP2475 Разрешение,    пикс 2592(г) x 1944(в) Разрешение,    твл Аналог 960Н (960x576) 4:3; TVI/AHD 5Мп (2592*1944) 4:3; TVI/AHD/CVI  4Мп (2560x1440) 16:9 Объектив,    мм 2,8 - 12 мм Тип    синхронизации Внутренняя ИК подсветка ИК прожектор OSRAM IR LED III Дальность    подсветки, м 40м Соотношение    "сигнал/шум", дБ &gt;64 дБ Минимальная    чувствительность, люкс Цвет: 0,01 лк / F1.2, ч/б: 0,001 лк / F1.2, 0 лк (ИК    вкл) Сигнал    видеовыхода 1Vp-p    композитный (75Ω) Режим    "День/Ночь" Авто Электронный    затвор, сек от 1/25 до 1/100 000s Компенсация    встречной засветки Авто АРУ Авто Баланс    белого Авто Источник    питания, B DC 12В ±10% Энергопотребление    с ИК Не более 4Вт Степень защиты IP67,    грозозащита TVS4000В Габариты 120(Ш) х 97,5(В) х 120(Д) Вес 0.4кг Уличная 5 Мп 2.8-12 40 Поддерживаемые форматы: TVi / CVi / AHD / CV</description>
+  <specs>
+    <spec name="Наименование">KN-DE53V2812</spec>
+    <spec name="Тип матрицы">1/2.7’’ SmartSens SC5035 (5.03 Мегапикселя)</spec>
+    <spec name="DSP">NextChip NVP2475</spec>
+    <spec name="Разрешение,    пикс">2592(г) x 1944(в)</spec>
+    <spec name="Разрешение,    твл">Аналог 960Н (960x576) 4:3;TVI/AHD 5Мп (2592*1944) 4:3;TVI/AHD/CVI  4Мп (2560x1440) 16:9</spec>
+    <spec name="Объектив,    мм">2,8 - 12 мм</spec>
+    <spec name="Тип    синхронизации">Внутренняя</spec>
+    <spec name="ИК подсветка">ИК прожектор OSRAM IR LED III</spec>
+    <spec name="Дальность    подсветки, м">40м</spec>
+    <spec name="Соотношение    &quot;сигнал/шум&quot;, дБ">&gt;64 дБ</spec>
+    <spec name="Минимальная    чувствительность, люкс">Цвет: 0,01 лк / F1.2, ч/б: 0,001 лк / F1.2, 0 лк (ИК    вкл)</spec>
+    <spec name="Сигнал    видеовыхода">1Vp-p    композитный (75Ω)</spec>
+    <spec name="Режим    &quot;День/Ночь&quot;">Авто</spec>
+    <spec name="Электронный    затвор, сек">от 1/25 до 1/100 000s</spec>
+    <spec name="Компенсация    встречной засветки">Авто</spec>
+    <spec name="АРУ">Авто</spec>
+    <spec name="Баланс    белого">Авто</spec>
+    <spec name="Источник    питания, B">DC 12В ±10%</spec>
+    <spec name="Энергопотребление    с ИК">Не более 4Вт</spec>
+    <spec name="Степень защиты">IP67,    грозозащита TVS4000В</spec>
+    <spec name="Габариты">120(Ш) х 97,5(В) х 120(Д)</spec>
+    <spec name="Вес">0.4кг</spec>
+    <spec name="Модель">Разрешение, ТВЛ</spec>
+    <spec name="KN-CE25F36">1080p</spec>
+    <spec name="KN-DE21F36">1080p</spec>
+    <spec name="KN-DE25F36">1080p</spec>
+    <spec name="KN-DE23V2812">1080p</spec>
+    <spec name="KN-CE23V2812">1080p</spec>
+    <spec name="KN-CE24V2812">1080p</spec>
+    <spec name="KN-CE94V6022">720p</spec>
+    <spec name="KN-CE95F36">720p</spec>
+    <spec name="KN-DE95F36">720p</spec>
+    <spec name="KN-DE91V2812">720p</spec>
+    <spec name="KN-DE93V2812">720p</spec>
+    <spec name="KN-CE93V2812">720p</spec>
+    <spec name="KN-CE94V2812">720p</spec>
+    <spec name="KN-CE26V2812">1080p</spec>
+    <spec name="KN-CE26F36">1080p</spec>
+    <spec name="KN-DE26V2812">1080p</spec>
+    <spec name="KN-DE26F36">1080p</spec>
+    <spec name="KN-CE55F36">5 Мп</spec>
+    <spec name="KN-DE55F36">5 Мп</spec>
+    <spec name="KN-DE53V2812">5 Мп</spec>
+    <spec name="KN-CE53V2812">5 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/tvi-kamery/KN-DE53V2812/</source_url>
+</product>

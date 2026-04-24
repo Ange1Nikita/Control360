@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T200(B)(2.8mm)</name>
+  <model>DS-T200(B)(2.8mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t200-b--2-8-mm-</product_url>
+  <description>
+    <paragraph>Модель HiWatch DS-T200 (B) (2.8 mm) – 2Мп мини-буллет с поддержкой открытого стандарта HD-TVI, позволяющего транслировать сигнал по коаксиальному кабелю с разрешением до FullHD на расстояние до 500 м. Для борьбы с шумами на «борту» присутствует цифровое шумоподавление DNR, встроенная ИК-подсветка с функцией Smart помогает избежать пересветки объекта наблюдения посредством автоматической коррекции яркости ИК-диодов в зависимости от между ним и камерой. Рабочие температуры располагаются в интервале от -40градусов до +60градусовC, что вкупе с индексом защиты корпуса от влаги и пыли IP66 открывает возможность инсталляции устройства на улице. Модель HiWatch DS-T200 является отличным выбором для реализации проектов по апгрейду существующих аналоговых систем видеонаблюдения с низким разрешением до уровня FullHD или создания новых комплексов CCTV с ограниченным бюджетом.</paragraph>
+    <paragraph>2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 20м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 2.8мм; угол обзора 103градусов; механический ИК-фильтр; 0.01 Лк@F1.2; OSD, DWDR, BLC, DNR; Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 103градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

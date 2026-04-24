@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера TVI купольная поворотная HiWatch DS-T245(C) </name>
+  <model>DS-T245(C) </model>
+  <article>327118</article>
+  <sku>327001309</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры TVI поворотные</subcategory>
+  <functional_name>Бюджетная видеокамера TVI купольная поворотная</functional_name>
+  <nomenclature>Видеокамера TVI</nomenclature>
+  <price>22573.86</price>
+  <price_wholesale>20504.59</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/327118/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера  TVI/CVBS купольная поворотная, механический ИК-фильтр ; 1/2.8" Progressive Scan CMOS 2МП  1920×1080; 0.05Лк/F1.4; f= 4-92мм; 23X оптическое увеличение; вращение 360°, вручную: 0.1° - 160°/с, по предустановке: 160°/с; наклон 0° - 90°, вручную: 0.1° - 120°/с, по предустановке: 120°/с;  тревожные вход/выход 2/1; RS-485 Протоколы: HIKVISION, Pelco-P, Pelco-D, UTC HIKVISION_C; AC 24В/500мА; -20°... +45°C; Ø 184 × 330; установка на потолок/в потолок</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" 2МП Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.05/0.01</value>
+    </spec>
+    <spec>
+      <name>Объектив (трансфокатор), f, мм</name>
+      <value>4-92</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания AC, В</name>
+      <value>24</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+45</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>184х330</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="295.71 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/6/76A82B697A7BBB5F4D931946BE48EC9C.pdf</document>
+  </documents>
+</product>

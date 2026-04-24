@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-GX3T</name>
+  <article>KN-GX3T</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>7990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/c0a/yeomwdk42a4fyb47ta044nyupi43d5hu/440_370_0/KN_GX3T-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/c0a/yeomwdk42a4fyb47ta044nyupi43d5hu/38_24_2/KN_GX3T-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 3Мп 2.8мм 20-30м Ваша цена: 7 990 руб. Короткое описание KN-GX3T Вандалозащищённая Купольная IP видеокамера 3Мп с микрофоном и двойной подсветкой ИК до 30м. / WLED до 20м, Smart IR. Особенности IP видеокамеры Все технические параметры Модель KN-GX3T Система GOKI GK7205V500 / ROM: 16Мб / RAM: 64Мб Мощность AI NPU 0.5T AI Тип матрицы 1/2.8” GalaxyCore GC3003 (3.0 Мегапикселя) Эффективные    пиксели 2304(Г) × 1296(В) Размер пикселя 2.45 μm x 2.45 μm Электронный    затвор Auto/ 1/25s-1/100000s Мин.    Освещенность Цвет: 0.003 Лк / F1.2, Ч/Б: 0.0003 Лк Сигнал / шум ≥ 56 Дб (AGC выкл.) Камера Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 30м / Белый теплый до 20м Компенсация засветки BLC / HLC / DWDR / Антитуман Видео режим ROI / “Коридор” / Стабилизация изображения Шумоподавление 2DNR / 3DNR Аудио Микрофон с АРУ и ШП, G.711a; G.711Mu; G.726; G.726ASF Тревога Световая тревога, Звуковая тревога Карта памяти / Архив Микро SD, Макс 256GB (FAT), FTP, ANR Сброс Кнопка сброса настроек на плате расширения Язык интерфейса Русский / Английский Объектив YTOT 2.8мм (5.0MP) F1.6 с ИК коррекцией Угол обзора Г: 102° (Широкий) В: 54° (Широкий) Д: 121° (Широкий) DORI Д: 55.2м, О: 22.6м, Р: 11.1м, И: 5.3м Видео Формат    кодирования H.265+ / H.265 / H.264+ / H.264 (H/M/B) Основной поток 3МП (2304x1296) / 1080P (1 ~ 25 к/с) Второстепенный    поток 640x360 (1 ~ 25 к/с) Поток 1536K ~ 4096Kbps, Авто Сеть Сетевой интерфейс RJ-45    (10/100Base-T) Подключение До 20 пользователей / Исходящий поток до 48М Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API P2P / CMS KENO LINK / KENO SVMS Аналитика SMD (Человек / Транспорт) Технические параметры Питание DC 12 В ±30%, PoE (802.3af) Потребление Без ИК/WLED не более 2.0Вт, Макс потребление не более 3.0Вт Рабочая    температура </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Система">GOKI GK7205V500 / ROM: 16Мб / RAM: 64Мб</spec>
+    <spec name="Мощность AI">NPU 0.5T AI</spec>
+    <spec name="Тип матрицы">1/2.8” GalaxyCore GC3003 (3.0 Мегапикселя)</spec>
+    <spec name="Эффективные    пиксели">2304(Г) × 1296(В)</spec>
+    <spec name="Размер пикселя">2.45 μm x 2.45 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/25s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.003 Лк / F1.2, Ч/Б: 0.0003 Лк</spec>
+    <spec name="Сигнал / шум">≥ 56 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 30м / Белый теплый до 20м</spec>
+    <spec name="Компенсация засветки">BLC / HLC / DWDR / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, G.711a; G.711Mu; G.726; G.726ASF</spec>
+    <spec name="Тревога">Световая тревога, Звуковая тревога</spec>
+    <spec name="Карта памяти / Архив">Микро SD, Макс 256GB (FAT), FTP, ANR</spec>
+    <spec name="Сброс">Кнопка сброса настроек на плате расширения</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Объектив">YTOT 2.8мм (5.0MP) F1.6 с ИК коррекцией</spec>
+    <spec name="Угол обзора">Г: 102° (Широкий)В: 54° (Широкий)Д: 121° (Широкий)</spec>
+    <spec name="DORI">Д: 55.2м,О: 22.6м,Р: 11.1м,И: 5.3м</spec>
+    <spec name="Формат    кодирования">H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">3МП (2304x1296) / 1080P (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">1536K ~ 4096Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Подключение">До 20 пользователей / Исходящий поток до 48М</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P / CMS">KENO LINK / KENO SVMS</spec>
+    <spec name="Аналитика">SMD (Человек / Транспорт)</spec>
+    <spec name="Питание">DC 12 В ±30%, PoE (802.3af)</spec>
+    <spec name="Потребление">Без ИК/WLED не более 2.0Вт, Макс потребление не более 3.0Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS8000В (Земля – Корпус)</spec>
+    <spec name="Антивандальное исполнение">По ГОСТ IEC 62262-2015 степень IK10 (20 Дж)</spec>
+    <spec name="Материал">Металлический корпус, ударопрочный купол из акрила</spec>
+    <spec name="Габариты">Ø 101 х 84 мм (В)</spec>
+    <spec name="Вес">0.5кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-gx3t/</source_url>
+</product>

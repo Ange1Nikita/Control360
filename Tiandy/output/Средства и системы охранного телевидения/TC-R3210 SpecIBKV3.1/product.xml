@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор NVR Tiandy TC-R3210 Spec:I/B/K/V3.1</name>
+  <model>TC-R3210 Spec:I/B/K/V3.1</model>
+  <article>354289</article>
+  <sku>1D.20030.001302</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>Видеорегистратор NVR</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>19790</price>
+  <price_wholesale>7896.21</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354289/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 10 канальный; 1xHDMI до 4K, 1xVGA до 1080Р; битрейт вход/выход- 160/64 Мбит/с; разрешение камер до 8 Мп; H.265/H.264; 2 SATA до 10 Тб; тревожный вход/выход- 4/1, аудиовход/выход -1/1; P2P, RTSP, ONVIF (S/G/T); 2×USB2.0; 1xRJ45 10/100 Мбит/с; аналитика: пересечение линии, периметр, оставленные предметы, пропавшие предметы, детекция человека/ТС, захват лиц, DC 12В; 10Вт(без HDD); -10°C...+55°C; 341х280х47 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>3840х2160; 1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>224</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>2 SATA х 10 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>341х280х47</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="689.55 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/2/1227F64F1291D8D2045E83AEE08DD002.pdf</document>
+  </documents>
+</product>

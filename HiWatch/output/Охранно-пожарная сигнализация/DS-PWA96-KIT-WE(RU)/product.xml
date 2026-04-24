@@ -1,0 +1,1284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PWA96-KIT-WE(RU)</name>
+  <model>DS-PWA96-KIT-WE(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pwa96-kit-we-ru-</product_url>
+  <description>
+    <paragraph>В составе комплекта:</paragraph>
+    <paragraph>Беспроводная охранная панель DS-PWA96-M-WE - 1 шт.</paragraph>
+    <paragraph>ИК-датчик беспроводной DS-PDP15P-EG2-WE - 1 шт.</paragraph>
+    <paragraph>СМК-датчик беспроводной DS-PDMC-EG2-WE - 1 шт.</paragraph>
+    <paragraph>Брелок беспроводной DS-PKF1-WE - 1 шт.</paragraph>
+    <paragraph>Модель панели</paragraph>
+    <paragraph>DS-PWA96-M-WE</paragraph>
+    <paragraph>Частота</paragraph>
+    <paragraph>868МГц</paragraph>
+    <paragraph>Тип беспроводной связи</paragraph>
+    <paragraph>Двусторонняя беспроводная передача</paragraph>
+    <paragraph>Безопасность беспроводного подключения	Скачкообразная смена частоты, шифрование</paragraph>
+    <paragraph>128 AES</paragraph>
+    <paragraph>Зоны беспроводного подключения</paragraph>
+    <paragraph>До 96 входов/выходов</paragraph>
+    <paragraph>Беспроводные считыватели/клавиатуры</paragraph>
+    <paragraph>До 8</paragraph>
+    <paragraph>Беспроводные оповещатели</paragraph>
+    <paragraph>До 6</paragraph>
+    <paragraph>Беспроводные брелоки</paragraph>
+    <paragraph>До 48</paragraph>
+    <paragraph>Метки</paragraph>
+    <paragraph>До 48</paragraph>
+    <paragraph>Беспроводные репиторы</paragraph>
+    <paragraph>До 4</paragraph>
+    <paragraph>Беспроводний извещатель со встроенной камерой</paragraph>
+    <paragraph>Поддерживается (PIRCAM)</paragraph>
+    <paragraph>IPC для IVaaS на порту</paragraph>
+    <paragraph>4, видеоклипа по 7 с независимое хранение видео без перезаписи</paragraph>
+    <paragraph>Установщик</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Администратор</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Пользователь</paragraph>
+    <paragraph>До 46</paragraph>
+    <paragraph>Раздел</paragraph>
+    <paragraph>До 32</paragraph>
+    <paragraph>Голосовые подсказки</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Встроенный динамик</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>LED индикатор</paragraph>
+    <paragraph>Постановка на охрану/снятие с охраны, тампер, сбой, облачный сервис, питание</paragraph>
+    <paragraph>Встроенный считыватель</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Журнал памяти</paragraph>
+    <paragraph>До 5000</paragraph>
+    <paragraph>Выход RS-232</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Инструменты программирования</paragraph>
+    <paragraph>Hik-Connect/Hik-ProConnect/Web Portal/iVMS4200/Convergence Cloud</paragraph>
+    <paragraph>Обновление прошивки</paragraph>
+    <paragraph>Автоматич./Ручн. (приложение)</paragraph>
+    <paragraph>Режим охраны</paragraph>
+    <paragraph>Полная охрана/охрана с обходом зон</paragraph>
+    <paragraph>Таймер автоматической постановки на охрану/снятия охраны</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Форсировать постановку на охрану открытых зон</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Диагностика через приложение или веб-интерфейс</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Порт LAN</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Wi-Fi</paragraph>
+    <paragraph>Поддерживается (2.4ГГц)</paragraph>
+    <paragraph>GPRS</paragraph>
+    <paragraph>Нет</paragraph>
+    <paragraph>3G/4G сеть</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Слот SIM карты</paragraph>
+    <paragraph>Два</paragraph>
+    <paragraph>SMS уведомление</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Вызов</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Протокол ЧОП (ARC)</paragraph>
+    <paragraph>SIA DC09 (SIA уровень 2, ID контакта), ISUP, ISAPI (SDK)</paragraph>
+    <paragraph>Приложение для работы пользователя</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Приложение для работы установщика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Веб для обслуживания (автономная настройка)</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Работа батареи в режиме ожидания</paragraph>
+    <paragraph>До 12 часов</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Встроенный источник питания</paragraph>
+    <paragraph>Аккумяляторная батарея</paragraph>
+    <paragraph>Встроенная литиевая батарея</paragraph>
+    <paragraph>Корпус</paragraph>
+    <paragraph>Пластик</paragraph>
+    <paragraph>Автоматизация</paragraph>
+    <paragraph>Настенный выключатель, реле, розетка (В разработке)</paragraph>
+    <paragraph>DS-PDP15P-EG2-WE</paragraph>
+    <paragraph>Тип датчика</paragraph>
+    <paragraph>Беспроводной ИК датчик движении</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Дальность передачи</paragraph>
+    <paragraph>1600м (открытое пространство)</paragraph>
+    <paragraph>Дальность обнаружения</paragraph>
+    <paragraph>15м</paragraph>
+    <paragraph>Угол детекции</paragraph>
+    <paragraph>85.9°</paragraph>
+    <paragraph>Скорость обнаружения</paragraph>
+    <paragraph>От 0.3 до 2 м/с</paragraph>
+    <paragraph>Автоматическая чувствительность</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Иммунитет к животным</paragraph>
+    <paragraph>До 30кг</paragraph>
+    <paragraph>Цифровая температурная компенсация</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Технология</paragraph>
+    <paragraph>Алгоритмы цифрового микропроцессора</paragraph>
+    <paragraph>Герметичная оптика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Защита нижней зоны</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Фильтр направленного источника освещения</paragraph>
+    <paragraph>6500 ЛК</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Передняя панель, задняя панель</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>Тревога (синий)</paragraph>
+    <paragraph>Инкапсулированная ПП</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>CR123A x 1 (включена в комплект поставки)</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>5 лет</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>65.5  103  48.5 мм (2.58  4.06  1.91)</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Высота установки</paragraph>
+    <paragraph>От 1.8 до 2.4 м</paragraph>
+    <paragraph>DS-PDMC-EG2-WE</paragraph>
+    <paragraph>Типа датчика</paragraph>
+    <paragraph>Беспроводной магнитный контакт двери</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Дальность передачи</paragraph>
+    <paragraph>1600м (открытое пространство)</paragraph>
+    <paragraph>Варианты зонирования</paragraph>
+    <paragraph>Стандартная зона и зона повышенной чувствительности с подсчетом импульсов</paragraph>
+    <paragraph>Настраиваемый счетчик импульсов</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Зона повышенной чувствительности</paragraph>
+    <paragraph>1 мс</paragraph>
+    <paragraph>Чувствительность стандартной зоны</paragraph>
+    <paragraph>300 мс</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Передняя панель, задняя панель</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>Тревога (синий)</paragraph>
+    <paragraph>Технология беспроводного подключения</paragraph>
+    <paragraph>Беспроводная технология Tri-X</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>CR123A x 1 (включена в комплект поставки)</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>5 лет</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>22.5  103  23.2 мм13  34.4  11.4 мм</paragraph>
+    <paragraph>DS-PKF1-WE</paragraph>
+    <paragraph>Типа устройства</paragraph>
+    <paragraph>Беспроводной брелок</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Дальность передачи</paragraph>
+    <paragraph>900м (открытое пространство)</paragraph>
+    <paragraph>Индикатор</paragraph>
+    <paragraph>LED-индикатор (три цвета)</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>CR2032 x 1 (включена в комплект поставки)</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>В режиме ожидания более 3 лет</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>35.2 x 63.2 x 11.3 мм (1.39 x 2.49 x 0.45)</paragraph>
+    <paragraph>Модуляция</paragraph>
+    <paragraph>2GFSK</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>В составе комплекта:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная охранная панель DS-PWA96-M-WE - 1 шт.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-датчик беспроводной DS-PDP15P-EG2-WE - 1 шт.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>СМК-датчик беспроводной DS-PDMC-EG2-WE - 1 шт.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Брелок беспроводной DS-PKF1-WE - 1 шт.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Модель панели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DS-PWA96-M-WE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип беспроводной связи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя беспроводная передача</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность беспроводного подключения	Скачкообразная смена частоты, шифрование</value>
+    </spec>
+    <spec>
+      <name />
+      <value>128 AES</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны беспроводного подключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 96 входов/выходов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные считыватели/клавиатуры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 8</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные оповещатели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные брелоки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 48</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 48</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные репиторы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 4</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводний извещатель со встроенной камерой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается (PIRCAM)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IPC для IVaaS на порту</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4, видеоклипа по 7 с независимое хранение видео без перезаписи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установщик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Администратор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пользователь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 46</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Раздел</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 32</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Голосовые подсказки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Постановка на охрану/снятие с охраны, тампер, сбой, облачный сервис, питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный считыватель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Журнал памяти</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 5000</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выход RS-232</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инструменты программирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Hik-Connect/Hik-ProConnect/Web Portal/iVMS4200/Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Обновление прошивки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич./Ручн. (приложение)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим охраны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полная охрана/охрана с обходом зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Таймер автоматической постановки на охрану/снятия охраны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Форсировать постановку на охрану открытых зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диагностика через приложение или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Порт LAN</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Wi-Fi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается (2.4ГГц)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>GPRS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3G/4G сеть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Слот SIM карты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SMS уведомление</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вызов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол ЧОП (ARC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SIA DC09 (SIA уровень 2, ID контакта), ISUP, ISAPI (SDK)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для работы пользователя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для работы установщика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Веб для обслуживания (автономная настройка)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Работа батареи в режиме ожидания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 12 часов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный источник питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аккумяляторная батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматизация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настенный выключатель, реле, розетка (В разработке)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DS-PDP15P-EG2-WE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип датчика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной ИК датчик движении</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1600м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>85.9°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматическая чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Иммунитет к животным</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 30кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алгоритмы цифрового микропроцессора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Герметичная оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита нижней зоны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтр направленного источника освещения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6500 ЛК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Передняя панель, задняя панель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревога (синий)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инкапсулированная ПП</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>65.5  103  48.5 мм (2.58  4.06  1.91)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1.8 до 2.4 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DS-PDMC-EG2-WE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Типа датчика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной магнитный контакт двери</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1600м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Варианты зонирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартная зона и зона повышенной чувствительности с подсчетом импульсов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настраиваемый счетчик импульсов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зона повышенной чувствительности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 мс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность стандартной зоны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>300 мс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Передняя панель, задняя панель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревога (синий)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология беспроводного подключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>22.5  103  23.2 мм13  34.4  11.4 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DS-PKF1-WE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Типа устройства</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной брелок</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>900м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор (три цвета)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR2032 x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>В режиме ожидания более 3 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>35.2 x 63.2 x 11.3 мм (1.39 x 2.49 x 0.45)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Модуляция</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2GFSK</value>
+    </spec>
+    <spec>
+      <name>Модель панели</name>
+      <value>DS-PWA96-M-WE</value>
+    </spec>
+    <spec>
+      <name>Частота</name>
+      <value>868МГц</value>
+    </spec>
+    <spec>
+      <name>Тип беспроводной связи</name>
+      <value>Двусторонняя беспроводная передача</value>
+    </spec>
+    <spec>
+      <name>Безопасность беспроводного подключения	Скачкообразная смена частоты, шифрование</name>
+      <value>128 AES</value>
+    </spec>
+    <spec>
+      <name>Зоны беспроводного подключения</name>
+      <value>До 96 входов/выходов</value>
+    </spec>
+    <spec>
+      <name>Беспроводные считыватели/клавиатуры</name>
+      <value>До 8</value>
+    </spec>
+    <spec>
+      <name>Беспроводные оповещатели</name>
+      <value>До 6</value>
+    </spec>
+    <spec>
+      <name>Беспроводные брелоки</name>
+      <value>До 48</value>
+    </spec>
+    <spec>
+      <name>Метки</name>
+      <value>До 48</value>
+    </spec>
+    <spec>
+      <name>Беспроводные репиторы</name>
+      <value>До 4</value>
+    </spec>
+    <spec>
+      <name>Беспроводний извещатель со встроенной камерой</name>
+      <value>Поддерживается (PIRCAM)</value>
+    </spec>
+    <spec>
+      <name>IPC для IVaaS на порту</name>
+      <value>4, видеоклипа по 7 с независимое хранение видео без перезаписи</value>
+    </spec>
+    <spec>
+      <name>Установщик</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Администратор</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Пользователь</name>
+      <value>До 46</value>
+    </spec>
+    <spec>
+      <name>Раздел</name>
+      <value>До 32</value>
+    </spec>
+    <spec>
+      <name>Голосовые подсказки</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>LED индикатор</name>
+      <value>Постановка на охрану/снятие с охраны, тампер, сбой, облачный сервис, питание</value>
+    </spec>
+    <spec>
+      <name>Встроенный считыватель</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Журнал памяти</name>
+      <value>До 5000</value>
+    </spec>
+    <spec>
+      <name>Выход RS-232</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Инструменты программирования</name>
+      <value>Hik-Connect/Hik-ProConnect/Web Portal/iVMS4200/Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name>Обновление прошивки</name>
+      <value>Автоматич./Ручн. (приложение)</value>
+    </spec>
+    <spec>
+      <name>Режим охраны</name>
+      <value>Полная охрана/охрана с обходом зон</value>
+    </spec>
+    <spec>
+      <name>Таймер автоматической постановки на охрану/снятия охраны</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Форсировать постановку на охрану открытых зон</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Диагностика через приложение или веб-интерфейс</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Порт LAN</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Wi-Fi</name>
+      <value>Поддерживается (2.4ГГц)</value>
+    </spec>
+    <spec>
+      <name>GPRS</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>3G/4G сеть</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Слот SIM карты</name>
+      <value>Два</value>
+    </spec>
+    <spec>
+      <name>SMS уведомление</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Вызов</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Протокол ЧОП (ARC)</name>
+      <value>SIA DC09 (SIA уровень 2, ID контакта), ISUP, ISAPI (SDK)</value>
+    </spec>
+    <spec>
+      <name>Приложение для работы пользователя</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Приложение для работы установщика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Веб для обслуживания (автономная настройка)</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Работа батареи в режиме ожидания</name>
+      <value>До 12 часов</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Встроенный источник питания</value>
+    </spec>
+    <spec>
+      <name>Аккумяляторная батарея</name>
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name>Корпус</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Автоматизация</name>
+      <value>Настенный выключатель, реле, розетка (В разработке)</value>
+    </spec>
+    <spec>
+      <name>Тип датчика</name>
+      <value>Беспроводной ИК датчик движении</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи</name>
+      <value>1600м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>15м</value>
+    </spec>
+    <spec>
+      <name>Угол детекции</name>
+      <value>85.9°</value>
+    </spec>
+    <spec>
+      <name>Скорость обнаружения</name>
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name>Автоматическая чувствительность</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Иммунитет к животным</name>
+      <value>До 30кг</value>
+    </spec>
+    <spec>
+      <name>Цифровая температурная компенсация</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Технология</name>
+      <value>Алгоритмы цифрового микропроцессора</value>
+    </spec>
+    <spec>
+      <name>Герметичная оптика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Защита нижней зоны</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Фильтр направленного источника освещения</name>
+      <value>6500 ЛК</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Передняя панель, задняя панель</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>Тревога (синий)</value>
+    </spec>
+    <spec>
+      <name>Инкапсулированная ПП</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Батарея</name>
+      <value>CR123A x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>5 лет</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>65.5  103  48.5 мм (2.58  4.06  1.91)</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Высота установки</name>
+      <value>От 1.8 до 2.4 м</value>
+    </spec>
+    <spec>
+      <name>Типа датчика</name>
+      <value>Беспроводной магнитный контакт двери</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи</name>
+      <value>1600м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Варианты зонирования</name>
+      <value>Стандартная зона и зона повышенной чувствительности с подсчетом импульсов</value>
+    </spec>
+    <spec>
+      <name>Настраиваемый счетчик импульсов</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Зона повышенной чувствительности</name>
+      <value>1 мс</value>
+    </spec>
+    <spec>
+      <name>Чувствительность стандартной зоны</name>
+      <value>300 мс</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Передняя панель, задняя панель</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>Тревога (синий)</value>
+    </spec>
+    <spec>
+      <name>Технология беспроводного подключения</name>
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name>Батарея</name>
+      <value>CR123A x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>5 лет</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>22.5  103  23.2 мм13  34.4  11.4 мм</value>
+    </spec>
+    <spec>
+      <name>Типа устройства</name>
+      <value>Беспроводной брелок</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи</name>
+      <value>900м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Индикатор</name>
+      <value>LED-индикатор (три цвета)</value>
+    </spec>
+    <spec>
+      <name>Батарея</name>
+      <value>CR2032 x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>В режиме ожидания более 3 лет</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>35.2 x 63.2 x 11.3 мм (1.39 x 2.49 x 0.45)</value>
+    </spec>
+    <spec>
+      <name>Модуляция</name>
+      <value>2GFSK</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

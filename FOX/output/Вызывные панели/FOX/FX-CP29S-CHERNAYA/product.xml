@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-CP29 Черная</name>
+  <article>FX-CP29S-CHERNAYA</article>
+  <brand>FOX</brand>
+  <category>Вызывные панели</category>
+  <price>111100010990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8ee/440_370_0/FX_CP29_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0e6/440_370_0/FX_CP29.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8ee/38_24_2/FX_CP29_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0e6/38_24_2/FX_CP29.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/8ee/440_370_0/FX_CP29_1_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Вызывная панель">FX-CP29</spec>
+    <spec name="Видео">Тип матрицы</spec>
+    <spec name="Разрешение">AHD 2Мп (1080P) / AHD 1Мп (720P) / CVBS (960H)</spec>
+    <spec name="Объектив">2,7мм</spec>
+    <spec name="Угол обзора">120°</spec>
+    <spec name="Аудио">Регулировка громкости</spec>
+    <spec name="Дополнительные функции">Управление замком</spec>
+    <spec name="Тип замка">электромагнитный/электромеханический</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">4-х проводное</spec>
+    <spec name="Питание">DC 12 В, либо от монитора 12В имеющего +5В. Для домофонов не имеющих дополнительного питания, панель необходимо запитывать только от Бп, а не от монитора</spec>
+    <spec name="Степень защиты">IP 54</spec>
+    <spec name="Рабочая температура">Только для помещений</spec>
+    <spec name="Габаритные размеры (мм)">130(В) х 40(Ш) х 23(Г)</spec>
+    <spec name="Модель">Формат</spec>
+    <spec name="FX-CP10 Медь">AHD</spec>
+    <spec name="FX-CP10 Серебро">AHD</spec>
+    <spec name="FX-CP10 Черная">AHD</spec>
+    <spec name="FX-CP7 Медь">Аналог</spec>
+    <spec name="FX-CP23S Серебро">AHD</spec>
+    <spec name="FX-CP23G Золото">AHD</spec>
+    <spec name="FX-CP25C Медь">AHD</spec>
+    <spec name="FX-CP21B Черная">AHD</spec>
+    <spec name="FX-CP21C Медь">AHD</spec>
+    <spec name="FX-CP26S Серебро">AHD</spec>
+    <spec name="FX-CP28 Белая">AHD</spec>
+    <spec name="FX-CP80 (Серебро) 4КН">AHD</spec>
+    <spec name="FX-CP80 (Серебро) 2КН">AHD</spec>
+    <spec name="FX-CP9 Медь">AHD</spec>
+    <spec name="FX-CP29 Белая">AHD</spec>
+    <spec name="FX-CP29 Черная">AHD</spec>
+    <spec name="FX-CP28 Графит">AHD</spec>
+    <spec name="FX-CP23  Графит">AHD</spec>
+    <spec name="FX-CP8 Медь">Аналог</spec>
+    <spec name="FX-CP48S">AHD</spec>
+    <spec name="FX-CP49S">AHD</spec>
+    <spec name="FX-CP40C">AHD</spec>
+    <spec name="FX-CP40S">AHD</spec>
+    <spec name="FX-CP33A Графит">AHD</spec>
+    <spec name="FX-CP38A Графит">AHD</spec>
+    <spec name="FX-CP48B">AHD</spec>
+    <spec name="FX-CP49B">AHD</spec>
+    <spec name="FX-CP27S Серебро">AHD</spec>
+    <spec name="AHD">120°</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="1/2.7&quot; CMOS">Разрешение</spec>
+    <spec name="AHD 2Мп (1080P) / AHD 1Мп (720P) / CVBS (960H)">Объектив</spec>
+    <spec name="2,7мм">Угол обзора</spec>
+    <spec name="120°">Аудио</spec>
+    <spec name="Регулировка громкости">Механическая</spec>
+    <spec name="НО / НЗ ( с врем. открытия)">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="4-х проводное">Питание</spec>
+    <spec name="IP 54">Рабочая температура</spec>
+    <spec name="Только для помещений">Габаритные размеры (мм)</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(27.644МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/call-panel/fx-cp29s-chernaya/</source_url>
+</product>

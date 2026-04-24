@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I252W(D) (2.8 mm)</name>
+  <model>DS-I252W(D) (2.8 mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i252w-d--2-8-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>• Четкое изображение при яркой задней засветке благодаря технологии WDR</paragraph>
+    <paragraph>• Встроенный микрофон и динамик</paragraph>
+    <paragraph>• Прямое Wi-Fi-подключение к Hik-Connect</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP66</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ2Мп уличная купольная IP-камера c EXIR-подсветкой до 30м и WiFi</paragraph>
+    <paragraph>1/2.8'' CMOS матрица; объектив 2.8мм; угол обзора 107градусов; механический ИК-фильтр; 0.005лк @F1.6; H.265+/H.265/H.264+/H.264/MJPEG, WDR(120dB), 3D DNR, BLC; встроенный микрофон и динамик, MP2L2/PCM; видеобитрейт 32кбит/с -8Мбит/с; встроенный слот для microSD карты до 256Гб, IP66,  -30градусовC ...+60градусовC; 12В +-25%; 7Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Четкое изображение при яркой задней засветке благодаря технологии WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон и динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Прямое Wi-Fi-подключение к Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ2Мп уличная купольная IP-камера c EXIR-подсветкой до 30м и WiFi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8'' CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 107градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005лк @F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, WDR(120dB), 3D DNR, BLC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон и динамик, MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с -8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 256Гб, IP66,  -30градусовC ...+60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В +-25%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>7Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

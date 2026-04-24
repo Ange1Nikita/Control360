@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-H204EQA(512GB)</name>
+  <model>DS-H204EQA(512GB)</model>
+  <category>HD-TVI-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h204eqa-512gb-</product_url>
+  <description>
+    <paragraph>4-х канальный гибридный HD-TVI регистратор встроенным eSSD накопителем и технологией AoC (аудио по коаксиальному кабелю) для аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал</paragraph>
+    <paragraph>Видеовход: 4 канала BNC; Аудиовход:  4 по технологии AoC - аудио по коаксиальному кабелю; Видеовыход: 1 VGA и 1 HDMI до 1080Р; Аудиовыход: HDMI; видеосжатие H.265 Pro/H.265; аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</paragraph>
+    <paragraph>Разрешение записи на канал: TVI, AHD и CVI: 4Мп Lite, 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с; CVBS: WD1@25к/с; IP: до 6Мп - входящий битрейт 72Мбит/с, eSSD 480Gb; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0; -10градусовC до +45градусовC; 12В DC: 5.4Вт, размеры: 151  121 46 mm</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>4-х канальный гибридный HD-TVI регистратор встроенным eSSD накопителем и технологией AoC (аудио по коаксиальному кабелю) для аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 канала BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход:  4 по технологии AoC - аудио по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080Р</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: HDMI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI, AHD и CVI: 4Мп Lite, 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CVBS: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 6Мп - входящий битрейт 72Мбит/с, eSSD 480Gb</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +45градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC: 5.4Вт, размеры: 151  121 46 mm</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>2 Мп TVI-камера для транспорта Hikvision AE-VC211T-IRS (2.8 мм) с ИК-подсветкой 10–20 м</name>
+  <model>AE-VC211T-IRS (2.8 мм) с ИК-подсветкой 10–20 м</model>
+  <sku>12293</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ae-vc211t-irs-2-8-mm-hd-tvi-kamera-videonablyudeniya-dlya-transporta/</product_url>
+  <description>
+    <paragraph>IP-камера Uniview IPC322LB-DSF28K-G</paragraph>
+    <paragraph>9 680</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>IP-камера Uniview IPC322LB-DSF40K-G</paragraph>
+    <paragraph>9 680</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>IP-камера Uniview IPC324LB-SF28K-G</paragraph>
+    <paragraph>11 410</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>IP-камера Uniview IPC322LB-AF28WK-G</paragraph>
+    <paragraph>8 460</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>IP-камера Uniview IPC322LB-SF28K-A</paragraph>
+    <paragraph>7 840</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Количество эффективных пикселей</name>
+      <value>1964×1116</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк (F1/2, AGC вкл), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/25 с — 1/50 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 мм</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>М12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>100.7°</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: -30° — 30°, наклон: 0° — 75°, вращение: -180° — 180°</value>
+    </spec>
+    <spec>
+      <name>Синхронизация</name>
+      <value>внутренняя</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Отношение сигнал-шум</name>
+      <value>62 дБ</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 HD-TVI авиационный выход</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 аудиовыход (авиационный разъем)</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>цвет/ чб/ Smart</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>вручную/ авто</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский, китайский</value>
+    </spec>
+    <spec>
+      <name>Особенности</name>
+      <value>DNR, яркость, контраст, насыщенность, резкость, зеркалирование</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В (авиационный интерфейс)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>4 Вт макс</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °С — 60 °С, влажность не более 90%</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IK07</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 10-20 м</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>97×99.5×46.6 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (нетто)</name>
+      <value>0,3 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/57a/140_140_1/AE_VC211T_IRS_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ae-vc211t-irs-2-8-mm-hd-tvi-kamera-videonablyudeniya-dlya-transporta/?utm_source=comebackletter"&gt;Hikvision AE-VC211T-IRS (2.8 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

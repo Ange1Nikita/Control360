@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор-IP TC-R3880 I/B/N/V4.0</name>
+  <model>TC-R3880 Spec:I/B/N/V4.0</model>
+  <sku>860</sku>
+  <brand>Tiandy</brand>
+  <category>IP-камеры</category>
+  <subcategory>Видеорегистраторы</subcategory>
+  <price>129790</price>
+  <product_url>https://tiandy-russia.ru/ip-kamery-videonablyudeniya/ip-videoregistrator/videoregistrator-ip-tc-r3880-ibnv40-860/</product_url>
+  <description>
+    <paragraph>80-кан, 640Mbps/320Mbps, разрешение записи до 12MP, способность к декодированию6*8MP, 24*1080p, 48*720p, видеовыход: 2 HDMI &amp; 2VGA non-параллельный выход, вход/выход тревог 16/4, USB интерфейс: 1xUSB 3.0 2xUSB 2.0, RAID: JBOD,RAID0/1/5/6/10, ANR, N+M</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>specification.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" original_url="https://drive.google.com/file/d/1pjJqRcUfKElBsv0PHj-2fX0iGv8LcJf_/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1pjJqRcUfKElBsv0PHj-2fX0iGv8LcJf_</document>
+    <document title="Спецификация" original_url="https://drive.google.com/file/d/1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir</document>
+    <document title="Программное обеспечение" original_url="https://drive.google.com/file/d/10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE</document>
+  </documents>
+</product>

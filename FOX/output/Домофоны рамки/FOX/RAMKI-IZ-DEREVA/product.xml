@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Рамки из дерева</name>
+  <article>RAMKI-IZ-DEREVA</article>
+  <brand>FOX</brand>
+  <category>Домофоны рамки</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/3c6/BEREZA_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/5f3/GRUSHA_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/0aa/POLISANDR_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/27c/VISHNYA_1.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="1">1000</spec>
+    <spec name="По запросу">руб.</spec>
+    <spec name="купить">ДИКАЯ ВИШНЯ</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/vd-ramki/ramki-iz-dereva/</source_url>
+</product>

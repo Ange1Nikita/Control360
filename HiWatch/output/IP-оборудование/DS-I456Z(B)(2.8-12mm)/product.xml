@@ -1,0 +1,552 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I456Z(B)(2.8-12mm)</name>
+  <model>DS-I456Z(B)(2.8-12mm)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-i456z-b-2-8-12mm-</product_url>
+  <description>
+    <paragraph>IP-камера DS-I456Z(B) является 4 Мп цилиндрической IP-камерой с вариофокальным объективом.</paragraph>
+    <paragraph>Высокое качество изображения с разрешением 4 Мп.</paragraph>
+    <paragraph>Обнаружение цели по типу «Человек» / «ТС».</paragraph>
+    <paragraph>Моторизированный вариофокальный объектив от 2.8 до 12 мм для простой установки и мониторинга.</paragraph>
+    <paragraph>Защита от влаги и пыли: IP67.</paragraph>
+    <paragraph>EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки.</paragraph>
+    <paragraph>Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR.</paragraph>
+    <paragraph>Технология эффективного сжатия H.265+.</paragraph>
+    <paragraph>Встроенный микрофон: нет.</paragraph>
+    <paragraph>Встроенный слот для microSD / microSDHC / microSDXC: есть, до 256 ГБ.</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/3 Progressive Scan CMOS</paragraph>
+    <paragraph>Максимальное разрешение</paragraph>
+    <paragraph>2560  1440</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Цвет: 0.005 лк @ (F1.6, AGC вкл), ч/б: 0 лк с ИК-подсветкой</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>От 1/3 до 1/100 000 с</paragraph>
+    <paragraph>Режим «День / ночь»</paragraph>
+    <paragraph>ИК-фильтр</paragraph>
+    <paragraph>Регулировка угла наблюдения</paragraph>
+    <paragraph>Поворот: от 0 до 360°; наклон: от 0 до 90°, вращение: от 0 до 360°</paragraph>
+    <paragraph>Тип объектива</paragraph>
+    <paragraph>Вариофокальный объектив, моторизированный объектив, от 2.8 до 12 мм</paragraph>
+    <paragraph>Фокусное расстояние и угол обзора</paragraph>
+    <paragraph>От 2.8 до 12 мм, по горизонтали: от 95.9 до 29.2°, по вертикали: от 50.6 до 16.4°, по горизонтали: 114.7 до 33.5°</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>14</paragraph>
+    <paragraph>Тип диафрагмы</paragraph>
+    <paragraph>Фиксированная</paragraph>
+    <paragraph>Апертура</paragraph>
+    <paragraph>F1.6</paragraph>
+    <paragraph>Тип подсветки</paragraph>
+    <paragraph>ИК-подсветка</paragraph>
+    <paragraph>Дальность дополнительной подсветки</paragraph>
+    <paragraph>До 50 м</paragraph>
+    <paragraph>Дополнительная интеллектуальная подсветка</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Инфракрасные волны</paragraph>
+    <paragraph>850 нм</paragraph>
+    <paragraph>Протоколы</paragraph>
+    <paragraph>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</paragraph>
+    <paragraph>Одновременный просмотр в режиме реального времени</paragraph>
+    <paragraph>До 6 каналов</paragraph>
+    <paragraph>API</paragraph>
+    <paragraph>Открытый сетевой видеоинтерфейс (PROFILE S, PROFILE G, PROFILE T), ISAPI, SDK</paragraph>
+    <paragraph>Пользователь / хост</paragraph>
+    <paragraph>До 32 пользователей 3 уровня пользователей: администратор, оператор и пользователь</paragraph>
+    <paragraph>Клиент</paragraph>
+    <paragraph>iVMS-4200, Hik-Connect</paragraph>
+    <paragraph>Переключение режима «День / ночь»</paragraph>
+    <paragraph>День / Ночь / Автоматич. / По расписанию</paragraph>
+    <paragraph>Широкий динамический диапазон (WDR)</paragraph>
+    <paragraph>120 дБ</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>BLC, HLC, 3D DNR</paragraph>
+    <paragraph>Интерфейс Ethernet</paragraph>
+    <paragraph>1 RJ45 auto 10 / 100 М Ethernet</paragraph>
+    <paragraph>Локальное хранение</paragraph>
+    <paragraph>Встроенный слот для карты памяти, поддержка microSD / microSDHC / microSDXC, до 256 ГБ</paragraph>
+    <paragraph>Кнопка сброса настроек</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>105  244.4 мм ( 4.1  9.6)</paragraph>
+    <paragraph>Размер упаковки</paragraph>
+    <paragraph>315  137  141 мм (12.4  5.4  5.6)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>Приблиз. 745 г</paragraph>
+    <paragraph>Масса с упаковкой</paragraph>
+    <paragraph>Приблиз. 1124 г</paragraph>
+    <paragraph>Условия хранения</paragraph>
+    <paragraph>От -30 до +60 °C. Влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Язык</paragraph>
+    <paragraph>Английский, русский</paragraph>
+    <paragraph>Основные функции</paragraph>
+    <paragraph>Heartbeat, Anti-banding, зеркалирование, защита паролем, маскирование области, водяные знаки</paragraph>
+    <paragraph>Стандарты по защите</paragraph>
+    <paragraph>IP67: IEC 60529-2013</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>IP-камера DS-I456Z(B) является 4 Мп цилиндрической IP-камерой с вариофокальным объективом.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высокое качество изображения с разрешением 4 Мп.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Обнаружение цели по типу «Человек» / «ТС».</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Моторизированный вариофокальный объектив от 2.8 до 12 мм для простой установки и мониторинга.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита от влаги и пыли: IP67.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология эффективного сжатия H.265+.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон: нет.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для microSD / microSDHC / microSDXC: есть, до 256 ГБ.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/3 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Максимальное разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2560  1440</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: 0.005 лк @ (F1.6, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1/3 до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла наблюдения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон: от 0 до 90°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вариофокальный объектив, моторизированный объектив, от 2.8 до 12 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние и угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 2.8 до 12 мм, по горизонтали: от 95.9 до 29.2°, по вертикали: от 50.6 до 16.4°, по горизонтали: 114.7 до 33.5°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип диафрагмы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Апертура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность дополнительной подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 50 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительная интеллектуальная подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инфракрасные волны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протоколы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный просмотр в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Открытый сетевой видеоинтерфейс (PROFILE S, PROFILE G, PROFILE T), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пользователь / хост</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 32 пользователей 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Клиент</value>
+    </spec>
+    <spec>
+      <name />
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключение режима «День / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>День / Ночь / Автоматич. / По расписанию</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Широкий динамический диапазон (WDR)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 auto 10 / 100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Локальное хранение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для карты памяти, поддержка microSD / microSDHC / microSDXC, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кнопка сброса настроек</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>105  244.4 мм ( 4.1  9.6)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер упаковки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>315  137  141 мм (12.4  5.4  5.6)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 745 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса с упаковкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 1124 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Условия хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -30 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Язык</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Английский, русский</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основные функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, маскирование области, водяные знаки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарты по защите</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67: IEC 60529-2013</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560  1440</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.005 лк @ (F1.6, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>От 1/3 до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «День / ночь»</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>Поворот: от 0 до 360°; наклон: от 0 до 90°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Вариофокальный объектив, моторизированный объектив, от 2.8 до 12 мм</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>От 2.8 до 12 мм, по горизонтали: от 95.9 до 29.2°, по вертикали: от 50.6 до 16.4°, по горизонтали: 114.7 до 33.5°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>14</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F1.6</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность дополнительной подсветки</name>
+      <value>До 50 м</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>Открытый сетевой видеоинтерфейс (PROFILE S, PROFILE G, PROFILE T), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Пользователь / хост</name>
+      <value>До 32 пользователей 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Переключение режима «День / ночь»</name>
+      <value>День / Ночь / Автоматич. / По расписанию</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10 / 100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>Встроенный слот для карты памяти, поддержка microSD / microSDHC / microSDXC, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>105  244.4 мм ( 4.1  9.6)</value>
+    </spec>
+    <spec>
+      <name>Размер упаковки</name>
+      <value>315  137  141 мм (12.4  5.4  5.6)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>Приблиз. 745 г</value>
+    </spec>
+    <spec>
+      <name>Масса с упаковкой</name>
+      <value>Приблиз. 1124 г</value>
+    </spec>
+    <spec>
+      <name>Условия хранения</name>
+      <value>От -30 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>Английский, русский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, маскирование области, водяные знаки</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67: IEC 60529-2013</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

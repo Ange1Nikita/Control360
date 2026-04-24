@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера компактная HiWatch DS-I214(C) (2.0мм)</name>
+  <model>DS-I214(C) (2.0мм)</model>
+  <article>364352</article>
+  <sku>311329945</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP корпусные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера компактная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>3480</price>
+  <price_wholesale>3161</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/364352/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера IP 2 Мп компактная; 1/2.7" Progressive Scan CMOS; 1920х1080 - 25 к/с; H.265/H.265+/H.264/H.264+/MJPEG; 2.0 мм; ИК подсветка 10 м; 0.028лк; микрофон и динамик; microSD до 128 Гб; DWDR; ROI; 3D DNR; BLC; ONVIF; 12 DC/PоE; 5 Вт; -10°C...+60°C; IP67; 103×65×33 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.0</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.028</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон/Динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>103х65х33</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

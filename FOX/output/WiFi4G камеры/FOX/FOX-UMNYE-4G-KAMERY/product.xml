@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FOX УМНЫЕ 4G КАМЕРЫ</name>
+  <article>FOX-UMNYE-4G-KAMERY</article>
+  <brand>FOX</brand>
+  <category>WiFi/4G камеры</category>
+  <price>585008990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/f82/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/b2f/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/b3a/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/6d6/WIFI4GKAMERY.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FX-C2SL (Филин)">2Мп</spec>
+    <spec name="FX-C4SL (Сипуха)">4Мп</spec>
+    <spec name="FX-C2BL (Гриф)">2Мп</spec>
+    <spec name="FX-C4BL (Коршун)">4Мп</spec>
+    <spec name="19,5">9,5</spec>
+    <spec name="8">400</spec>
+    <spec name="8 990">руб.</spec>
+    <spec name="купить">FX-C4BL (Коршун)</spec>
+    <spec name="Уличная">4Мп</spec>
+    <spec name="2,8мм">до 20м</spec>
+    <spec name="9 490">руб.</spec>
+    <spec name="8 490">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/wifi-4g-kamery/fox-umnye-4g-kamery/</source_url>
+</product>

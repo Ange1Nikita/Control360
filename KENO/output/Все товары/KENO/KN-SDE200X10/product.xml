@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры Скоростные Поворотные/KN-SDE200X10</name>
+  <article>KN-SDE200X10</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>39990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a02/440_370_0/kn_sde200x10_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/262/440_370_0/kn_sde200x10_4_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/c87/440_370_0/kn_sde200x10_5_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/93a/440_370_0/kn_sde200x10_6_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a02/38_24_2/kn_sde200x10_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/262/38_24_2/kn_sde200x10_4_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/c87/38_24_2/kn_sde200x10_5_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/93a/38_24_2/kn_sde200x10_6_.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 Уличная 2.0 4.9-49 0 Ваша цена: 39 990 руб. Короткое описание Небольшая 4" скоростная поворотная IP видеокамера KN-SDE200X10 предназначена для использования как внутри так и вне помещений  с целью охранного видеонаблюдения, а съемный кронштейн позволяет монтировать данную камеру как на потолке так и на стене, что расширяет область ее применения. Особенности IP видеокамеры Все технические параметры Модель KN-SDE200X10 Система Тип матрицы 1/2,8” SONY EXMOR IMX322 (2.43Mega) Эффективные    пиксели 2000(H)    × 1241(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.05lux/F1.6, Ч/Б: 0.005lux/F1.6 Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Авто    ICR ИК подсветка - Компенсация    засветки BLC    / HLC / DWDR Баланс белого Авто Усиление Авто/Ручной Шумоподавление 3DNR Приватные зоны До    4-х зон Оптика Объектив 4.9 ~ 49 мм (10х кратный оптический зум) Светосила F1.6 (Wide) - F2.8 (Tele) Угол обзора H:    50.6°(Wide) - 6.1°(Tele) Видео Формат    кодирования H.264 Основной поток 1080P/720P/D1(1    ~ 25) Второстепенный    поток D1/CIF(1    ~ 25) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP ONVIF Onvif Profile-S/G (Motion, Alarm, MetaData) Кол-во    пользователей До    10 пользователей Мобильные    устройства iOS,Android Дополнительно Аудио G.711A, 1 Вх. / 1    Вых. Тревога 1    Вх. / 1 Вых. ePTZ RS485 Видеовыход - Memory Slot - Технические параметры Питание DC12В 5A,    POE 48V DC Потребление &lt;20Вт Рабочая    температура -40°C ... +50°C,    10% ... 90% Степень защиты IP67, K10,  грозозащита до 4000В Габариты Ø 148 х 129(В) (без кронштейна) Вес 1.5кг Уличная 2.0 4.9-49 0 Поддержка стандарта Onvif Profile-S/G Разрешение 2.0 Мpx 10х кратный оптический зум Грозозащита до 4000В Двусторонняя передача звука Материалы и особенности ПО Краткое руководство KN-SDE200X10 (0.448МБ) Полное руководство по IP камерам KENO (1.627МБ)</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY EXMOR IMX322 (2.43Mega)</spec>
+    <spec name="Эффективные    пиксели">2000(H)    × 1241(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.05lux/F1.6, Ч/Б: 0.005lux/F1.6</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">-</spec>
+    <spec name="Компенсация    засветки">BLC    / HLC / DWDR</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">4.9 ~ 49 мм (10х кратный оптический зум)</spec>
+    <spec name="Светосила">F1.6 (Wide) - F2.8 (Tele)</spec>
+    <spec name="Угол обзора">H:    50.6°(Wide) - 6.1°(Tele)</spec>
+    <spec name="Формат    кодирования">H.264</spec>
+    <spec name="Основной поток">1080P/720P/D1(1    ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G (Motion, Alarm, MetaData)</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iOS,Android</spec>
+    <spec name="Аудио">G.711A, 1 Вх. / 1    Вых.</spec>
+    <spec name="Тревога">1    Вх. / 1 Вых.</spec>
+    <spec name="ePTZ">RS485</spec>
+    <spec name="Видеовыход">-</spec>
+    <spec name="Memory Slot">-</spec>
+    <spec name="Питание">DC12В 5A,    POE 48V DC</spec>
+    <spec name="Потребление">&lt;20Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP67, K10,  грозозащита до 4000В</spec>
+    <spec name="Габариты">Ø 148 х 129(В) (без кронштейна)</spec>
+    <spec name="Вес">1.5кг</spec>
+    <spec name="KN-SPD880X25">8Мп</spec>
+    <spec name="KN-SPD560X25">5Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-skorostnye-povorotnye/KN-SDE200X10/</source_url>
+</product>

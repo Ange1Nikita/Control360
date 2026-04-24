@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Online</name>
+  <article>ONLINE</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/523/450_450_1/5237db9eabd6034bced29c12740725f7.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/94e/450_450_1/94ee71c57c77c2f8034165c88b0ce11c.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/450_450_1/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/449/450_450_1/komplekt-videonablyudeniya-dlya-marshrutnogo-taksi-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/420/450_450_1/komplekt-videonablyudeniya-dlya-gruzovogo-avtomobilya-ot-5-do-10-tonn-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ac6/450_450_1/komplekt-videonablyudeniya-dlya-fury-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d90/450_450_1/komplekt-videonablyudeniya-dlya-operativnykh-sluzhb-grupp-bystrogo-reagirovaniya-taksi-ot-proizvodit.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d1d/450_450_1/komplekt-videonablyudeniya-dlya-avtomobiley-inkassatsii-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b9d/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/864/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/36b/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/online/</source_url>
+</product>

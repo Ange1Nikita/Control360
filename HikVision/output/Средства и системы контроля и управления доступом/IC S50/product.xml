@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Бесконтактная смарт карта Hikvision IC S50</name>
+  <model>IC S50</model>
+  <article>330775</article>
+  <sku>363101635</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Mifare</subcategory>
+  <functional_name>Бесконтактная смарт карта</functional_name>
+  <nomenclature>Карта проксимити</nomenclature>
+  <price>82.8</price>
+  <price_wholesale>75.21</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/330775/</product_url>
+  <description>
+    <paragraph>Бесконтактная смарт карта  Mifare 1К (с номером);  85,5x54x0,8 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Стандарт идентификатора</name>
+      <value>Mifare</value>
+    </spec>
+    <spec>
+      <name>Рабочая частота, МГц</name>
+      <value>13.56</value>
+    </spec>
+    <spec>
+      <name>Емкость памяти, кб</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>85.5х54х0.8</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="720.18 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/6/2643DD50984F37BFC31C09EB41813225.pdf</document>
+  </documents>
+</product>

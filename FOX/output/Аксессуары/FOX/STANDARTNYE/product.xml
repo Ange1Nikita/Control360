@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Стандартные</name>
+  <article>STANDARTNYE</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>1111000975</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/aad/orig-360-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/4b8/orig-360-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d47/foxfxpswm12w121blokpitaniya-360.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Ток нагрузки, не более</spec>
+    <spec name="FX-PS  WM-36W-12/3">3А</spec>
+    <spec name="FX-PS  WM-24W-12/2">2A</spec>
+    <spec name="FX-PS WM-12W-12/1">1А</spec>
+    <spec name="1">1000</spec>
+    <spec name="975">руб.</spec>
+    <spec name="купить">FX-PS WM-12W-12/1</spec>
+    <spec name="780">руб.</spec>
+    <spec name="520">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/bloki-pitaniya/standartnye/</source_url>
+</product>

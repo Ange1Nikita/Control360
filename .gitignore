@@ -1,0 +1,51 @@
+# dependencies
+node_modules/
+.pnp
+.pnp.*
+
+# next.js
+.next/
+out/
+build/
+
+# env files
+.env
+.env.*
+!.env.example
+
+# databases (local dev)
+*.db
+*.sqlite
+*.sqlite3
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# prisma generated client
+**/src/generated/prisma/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# python (generate_docs.py)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# misc
+*.pem
+coverage/
+.vercel

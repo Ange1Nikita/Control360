@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PD1-MC-WS</name>
+  <model>DS-PD1-MC-WS</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pd1-mc-ws</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Накладная установка;</paragraph>
+    <paragraph>• Тип подключения: NC;</paragraph>
+    <paragraph>• Активное расстояние 20мм;</paragraph>
+    <paragraph>• Предназначен для деревянных дверей;Магнитоконтактный датчик</paragraph>
+    <paragraph>Контакты NC; установка на окна и двери; -40градусовC...+65градусовC; размер 63.5 x 12.5 x 15.7мм (главный)</paragraph>
+    <paragraph>63.5 x 12.5 x 12.5мм (дополнительный); ABS пластик; Подходит для деревянных дверей</paragraph>
+    <paragraph>Активное расстояние 20мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Накладная установка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Тип подключения: NC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Активное расстояние 20мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Предназначен для деревянных дверей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Магнитоконтактный датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Контакты NC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>установка на окна и двери</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC...+65градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 63.5 x 12.5 x 15.7мм (главный)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>63.5 x 12.5 x 12.5мм (дополнительный)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ABS пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подходит для деревянных дверей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Активное расстояние 20мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

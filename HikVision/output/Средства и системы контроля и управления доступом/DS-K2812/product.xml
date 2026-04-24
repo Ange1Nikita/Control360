@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Сетевой контроллер Hikvision DS-K2812</name>
+  <model>DS-K2812</model>
+  <article>330764</article>
+  <sku>302920080</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Сетевые контроллеры доступа</subcategory>
+  <functional_name>Сетевой контроллер</functional_name>
+  <nomenclature>Контроллер СКУД сетевой</nomenclature>
+  <price>11843.42</price>
+  <price_wholesale>10757.78</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/330764/</product_url>
+  <description>
+    <paragraph>Сетевой контроллер доступа на 2 двери, 10 000 карт, 50 000 событий;  4 входа Wiegand 26/34  или  RS-485;  2 реле;  6 тревожных входа (2 кн.выхода;  2 дверн.контакта;  2 резервн.);  4 тревожных выхода;  тампер вскрытия;  10M/100M Ethernet (RJ45);  DC 12 В (≤ 3.5 Вт);  встроенный БП  AC 220В  ≤ 100 Вт;  место под  1шт АКБ  12В/7А*ч.  -20...+65 °C.  Корпус:  метал;  370×345×90 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество пользователей/ключей, не более</name>
+      <value>10 000</value>
+    </spec>
+    <spec>
+      <name>Интерфейс линии связи для передачи данных</name>
+      <value>Ethernet; RS-485</value>
+    </spec>
+    <spec>
+      <name>Количество событий, хранящихся в памяти контроллера, шт</name>
+      <value>50 000</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых считывателей</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Интерфейс подключаемых считывателей</name>
+      <value>Wiegand/RS485</value>
+    </spec>
+    <spec>
+      <name>Управление замком</name>
+      <value>2 Выхода (Реле)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>370х345х90</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="532.65 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/E/BEEB861C497000CA0889F6DFFB3B261A.pdf</document>
+  </documents>
+</product>

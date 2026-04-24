@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDMC-EG2-WE</name>
+  <model>DS-PDMC-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdmc-eg2-we</product_url>
+  <description>
+    <paragraph>DS-PDMC-EG2-WE является беспроводным датчиком открытия, который уведомляет о первых признаках проникновения в помещение через дверь или окно. Извещатель может быть установлен на всех типах дверей, включая двери с металлическим основанием. Устройство можно подключить к различным проводным датчикам через встроенные интерфейсы входа, что позволяет пользователю расширить область применения устройства.СМК-датчик беспроводной</paragraph>
+    <paragraph>СМК-датчик беспроводной; установка на окна/двериградусов; 868МГц двухсторонная связь с TRI-X технологией; дальность до 1600м; проводные зоны (2);  защита от помех; срок службы батареи - 5 лет;  -10градусовC...+55градусовC; размер 103 23 23мм, 34 13 12мм (магнит); пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>СМК-датчик беспроводной</value>
+    </spec>
+    <spec>
+      <name />
+      <value>установка на окна/двериградусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность до 1600м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>проводные зоны (2)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 5 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 103 23 23мм, 34 13 12мм (магнит)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

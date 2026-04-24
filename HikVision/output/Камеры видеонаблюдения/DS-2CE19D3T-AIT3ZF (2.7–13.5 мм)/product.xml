@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Аналоговая камера Hikvision DS-2CE19D3T-AIT3ZF (2.7–13.5 мм)</name>
+  <model>DS-2CE19D3T-AIT3ZF (2.7–13.5 мм)</model>
+  <sku>46943</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2ce19d3t-ait3zf-2-7-13-5-mm/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>EXIR-подсветка 70 м</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC</paragraph>
+    <paragraph>HD-TVI, AHD, HD-CVI</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, –40…+60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>2 Мп Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>25 к/с</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.005 лк (F/1.2, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/25 ~ 1/50 000 с</value>
+    </spec>
+    <spec>
+      <name>Поддержка медленного затвора</name>
+      <value>макс. 16 раз</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.7 ~ 13.5 мм</value>
+    </spec>
+    <spec>
+      <name>Количество эффективных пикселей</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Угол обзора по горизонтали</name>
+      <value>102° ~ 31 °</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Ø14</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: 0° ~ 360°, наклон: 0° ~ 90°, вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Синхронизация</name>
+      <value>внутренняя</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>высокий, средний, низкий</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>авто, цвет, ч/б</value>
+    </spec>
+    <spec>
+      <name>Режим изображения</name>
+      <value>STD/HIGH-SAT</value>
+    </spec>
+    <spec>
+      <name>Компенсация яркой засветки (HLC)</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Компенсация засветки (BLC)</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>3D DNR</name>
+      <value>уровень: от 1 до 9</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>яркость, резкость, 3D DNR, зеркалирование, интеллектуальная ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 переключаемый аналоговый HD-видеовыход</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C… +60 °C, влажность 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В ±15 %, DC 12 D ±20 %</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 9.7 Вт</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>передняя часть корпуса: металлосновная часть: пластиккронштейн: металл</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>70 м</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>84.5×92.0×255.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>695 г</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпEXIR-подсветка 70 мWDR 120 дБ, BLC, HLCHD-TVI, AHD, HD-CVI⛅ ☔ ❄ IP67, –40…+60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/031/140_140_1/DS_2CE19D3T_AIT3ZF-_2.7_13.5-mm_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ce19d3t-ait3zf-2-7-13-5-mm/?utm_source=comebackletter"&gt;Hikvision DS-2CE19D3T-AIT3ZF (2.7–13.5 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

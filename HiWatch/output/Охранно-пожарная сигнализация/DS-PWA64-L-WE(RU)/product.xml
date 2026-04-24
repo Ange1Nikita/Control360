@@ -1,0 +1,693 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PWA64-L-WE(RU) black</name>
+  <model>DS-PWA64-L-WE(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-pwa64-l-we-ru-black</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Зоны беспроводного подключения до 64 беспроводных входов/выходов, 8 считывателей/клавиатур, 4 оповещателей, 2 репитеров,</paragraph>
+    <paragraph>Беспроводной протокол нового поколения: Tri-X и Cam-X</paragraph>
+    <paragraph>Передача радиосигнала на дальние дистанции до 2000м</paragraph>
+    <paragraph>TCP/IP, Wi-Fi и GPRS</paragraph>
+    <paragraph>Двусторонняя связь с шифрованием AES-128</paragraph>
+    <paragraph>Настройка через веб-клиент, мобильный клиент и Convergence Cloud</paragraph>
+    <paragraph>Настройка Hik-Connect и Hik-ProConnect зависит от уровня доступа пользователя</paragraph>
+    <paragraph>Тревожные уведомления в сообщения или через телефонные звонки (Один слот SIM карты)</paragraph>
+    <paragraph>Просмотр видео в режиме реального времени в Hik-Connect</paragraph>
+    <paragraph>Отправка видео тревожных событий по электронной почте и в приложение</paragraph>
+    <paragraph>Загрузка отчетов о тревогах в ARC</paragraph>
+    <paragraph>LED-индикатор для индикации состояния системы</paragraph>
+    <paragraph>Резервная литиевая батарея 4520 мАч</paragraph>
+    <paragraph>Протокол SIA-DC09, поддержка Contact ID и формата данных SIA</paragraph>
+    <paragraph>Частота</paragraph>
+    <paragraph>868МГц</paragraph>
+    <paragraph>Тип беспроводной связи</paragraph>
+    <paragraph>Двусторонняя беспроводная передача</paragraph>
+    <paragraph>Безопасность беспроводного подключения</paragraph>
+    <paragraph>Скачкообразная смена частоты, шифрование 128 AES</paragraph>
+    <paragraph>Зоны беспроводного подключения</paragraph>
+    <paragraph>До 64 входов/выходов</paragraph>
+    <paragraph>Беспроводные считыватели/клавиатуры</paragraph>
+    <paragraph>До 8</paragraph>
+    <paragraph>Беспроводные оповещатели</paragraph>
+    <paragraph>До 4</paragraph>
+    <paragraph>Беспроводные брелоки</paragraph>
+    <paragraph>До 32</paragraph>
+    <paragraph>Метки</paragraph>
+    <paragraph>До 32</paragraph>
+    <paragraph>Беспроводные репиторы</paragraph>
+    <paragraph>До 2</paragraph>
+    <paragraph>Беспроводний извещатель со встроенной камерой</paragraph>
+    <paragraph>Поддерживается (PIRCAM)</paragraph>
+    <paragraph>Установщик</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Администратор</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Пользователь</paragraph>
+    <paragraph>До 30</paragraph>
+    <paragraph>Раздел</paragraph>
+    <paragraph>До 16</paragraph>
+    <paragraph>Голосовые подсказки</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Встроенный динамик</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>LED индикатор</paragraph>
+    <paragraph>Постановка на охрану/снятие с охраны, тампер, сбой, облачный сервис, питание</paragraph>
+    <paragraph>Журнал памяти</paragraph>
+    <paragraph>До 5000</paragraph>
+    <paragraph>Выход RS-232</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Встроенный считыватель</paragraph>
+    <paragraph>Нет</paragraph>
+    <paragraph>Инструменты программирования</paragraph>
+    <paragraph>Hik-Connect/Hik-ProConnect/Web Portal/iVMS4200/Convergence Cloud</paragraph>
+    <paragraph>Обновление прошивки</paragraph>
+    <paragraph>Автоматич./Ручн. (приложение)</paragraph>
+    <paragraph>Режим охраны</paragraph>
+    <paragraph>Полная охрана/охрана с обходом зон</paragraph>
+    <paragraph>Таймер автоматической постановки на охрану/снятия охраны</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Форсировать постановку на охрану открытых зон</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Порт LAN</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Wi-Fi</paragraph>
+    <paragraph>Поддерживается (2.4ГГц)</paragraph>
+    <paragraph>GPRS</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>3G/4G сеть</paragraph>
+    <paragraph>Нет</paragraph>
+    <paragraph>Слот SIM карты</paragraph>
+    <paragraph>Один</paragraph>
+    <paragraph>Вызов</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>SMS уведомление</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Протокол ЧОП (ARC)</paragraph>
+    <paragraph>SIA DC09 (SIA уровень 2, ID контакта), ISUP, ISAPI (SDK)</paragraph>
+    <paragraph>Приложение для работы пользователя</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Приложение для Веб для обслуживания (автономная настройка)</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Приложение для работы установщика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Работа батареи в режиме ожидания</paragraph>
+    <paragraph>До 12 часов</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Встроенный источник питания</paragraph>
+    <paragraph>Аккумуляторная батарея</paragraph>
+    <paragraph>Встроенная литиевая батарея</paragraph>
+    <paragraph>Корпус</paragraph>
+    <paragraph>Пластик</paragraph>
+    <paragraph>Автоматизация</paragraph>
+    <paragraph>Настенный выключатель, реле, розетка (В разработке)</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>170.0 x 170.0 x 38.6 мм (6.7 x 6.7 x 1.5)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>557.5 г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны беспроводного подключения до 64 беспроводных входов/выходов, 8 считывателей/клавиатур, 4 оповещателей, 2 репитеров,</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной протокол нового поколения: Tri-X и Cam-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Передача радиосигнала на дальние дистанции до 2000м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP/IP, Wi-Fi и GPRS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя связь с шифрованием AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка через веб-клиент, мобильный клиент и Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка Hik-Connect и Hik-ProConnect зависит от уровня доступа пользователя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожные уведомления в сообщения или через телефонные звонки (Один слот SIM карты)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Просмотр видео в режиме реального времени в Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Отправка видео тревожных событий по электронной почте и в приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Загрузка отчетов о тревогах в ARC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор для индикации состояния системы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Резервная литиевая батарея 4520 мАч</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол SIA-DC09, поддержка Contact ID и формата данных SIA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип беспроводной связи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя беспроводная передача</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность беспроводного подключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скачкообразная смена частоты, шифрование 128 AES</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны беспроводного подключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 64 входов/выходов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные считыватели/клавиатуры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 8</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные оповещатели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 4</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные брелоки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 32</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 32</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводные репиторы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводний извещатель со встроенной камерой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается (PIRCAM)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установщик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Администратор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пользователь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 30</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Раздел</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 16</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Голосовые подсказки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Постановка на охрану/снятие с охраны, тампер, сбой, облачный сервис, питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Журнал памяти</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 5000</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выход RS-232</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный считыватель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инструменты программирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Hik-Connect/Hik-ProConnect/Web Portal/iVMS4200/Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Обновление прошивки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич./Ручн. (приложение)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим охраны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полная охрана/охрана с обходом зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Таймер автоматической постановки на охрану/снятия охраны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Форсировать постановку на охрану открытых зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Порт LAN</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Wi-Fi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается (2.4ГГц)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>GPRS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3G/4G сеть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Слот SIM карты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Один</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вызов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SMS уведомление</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол ЧОП (ARC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SIA DC09 (SIA уровень 2, ID контакта), ISUP, ISAPI (SDK)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для работы пользователя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для Веб для обслуживания (автономная настройка)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для работы установщика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Работа батареи в режиме ожидания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 12 часов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный источник питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аккумуляторная батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматизация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настенный выключатель, реле, розетка (В разработке)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>170.0 x 170.0 x 38.6 мм (6.7 x 6.7 x 1.5)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>557.5 г</value>
+    </spec>
+    <spec>
+      <name>Частота</name>
+      <value>868МГц</value>
+    </spec>
+    <spec>
+      <name>Тип беспроводной связи</name>
+      <value>Двусторонняя беспроводная передача</value>
+    </spec>
+    <spec>
+      <name>Безопасность беспроводного подключения</name>
+      <value>Скачкообразная смена частоты, шифрование 128 AES</value>
+    </spec>
+    <spec>
+      <name>Зоны беспроводного подключения</name>
+      <value>До 64 входов/выходов</value>
+    </spec>
+    <spec>
+      <name>Беспроводные считыватели/клавиатуры</name>
+      <value>До 8</value>
+    </spec>
+    <spec>
+      <name>Беспроводные оповещатели</name>
+      <value>До 4</value>
+    </spec>
+    <spec>
+      <name>Беспроводные брелоки</name>
+      <value>До 32</value>
+    </spec>
+    <spec>
+      <name>Метки</name>
+      <value>До 32</value>
+    </spec>
+    <spec>
+      <name>Беспроводные репиторы</name>
+      <value>До 2</value>
+    </spec>
+    <spec>
+      <name>Беспроводний извещатель со встроенной камерой</name>
+      <value>Поддерживается (PIRCAM)</value>
+    </spec>
+    <spec>
+      <name>Установщик</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Администратор</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Пользователь</name>
+      <value>До 30</value>
+    </spec>
+    <spec>
+      <name>Раздел</name>
+      <value>До 16</value>
+    </spec>
+    <spec>
+      <name>Голосовые подсказки</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>LED индикатор</name>
+      <value>Постановка на охрану/снятие с охраны, тампер, сбой, облачный сервис, питание</value>
+    </spec>
+    <spec>
+      <name>Журнал памяти</name>
+      <value>До 5000</value>
+    </spec>
+    <spec>
+      <name>Выход RS-232</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Встроенный считыватель</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Инструменты программирования</name>
+      <value>Hik-Connect/Hik-ProConnect/Web Portal/iVMS4200/Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name>Обновление прошивки</name>
+      <value>Автоматич./Ручн. (приложение)</value>
+    </spec>
+    <spec>
+      <name>Режим охраны</name>
+      <value>Полная охрана/охрана с обходом зон</value>
+    </spec>
+    <spec>
+      <name>Таймер автоматической постановки на охрану/снятия охраны</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Форсировать постановку на охрану открытых зон</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Порт LAN</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Wi-Fi</name>
+      <value>Поддерживается (2.4ГГц)</value>
+    </spec>
+    <spec>
+      <name>GPRS</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>3G/4G сеть</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот SIM карты</name>
+      <value>Один</value>
+    </spec>
+    <spec>
+      <name>Вызов</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>SMS уведомление</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Протокол ЧОП (ARC)</name>
+      <value>SIA DC09 (SIA уровень 2, ID контакта), ISUP, ISAPI (SDK)</value>
+    </spec>
+    <spec>
+      <name>Приложение для работы пользователя</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Приложение для Веб для обслуживания (автономная настройка)</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Приложение для работы установщика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Работа батареи в режиме ожидания</name>
+      <value>До 12 часов</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Встроенный источник питания</value>
+    </spec>
+    <spec>
+      <name>Аккумуляторная батарея</name>
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name>Корпус</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Автоматизация</name>
+      <value>Настенный выключатель, реле, розетка (В разработке)</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>170.0 x 170.0 x 38.6 мм (6.7 x 6.7 x 1.5)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>557.5 г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

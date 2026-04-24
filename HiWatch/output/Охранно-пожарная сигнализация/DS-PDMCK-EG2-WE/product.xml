@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDMCK-EG2-WE</name>
+  <model>DS-PDMCK-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdmck-eg2-we</product_url>
+  <description>
+    <paragraph>Датчик DS-PDMCK-EG2-WE является беспроводным датчиком открытия двери, который оповещает о первых признаках проникновения в помещение через дверь или окно. Встроенный датчик вибрации также может анализировать удары, игнорируя фоновые вибрации.СМК-датчик беспроводной с обнаружением ударов и деформаций (2 в 1)</paragraph>
+    <paragraph>Рабочая зона срабатывания Макс. 43 мм; Чувствительность: Обнаружение удара;обнаружение сильной, средней, малой деформации: сгибание до 25градусов; 1 тревожный вход поддерживается; 868МГц двухсторонная связь с TRI-X технологией, дальность передачи данных до 1600м; срок службы батареи - 3 года;  -10градусовC...+55градусовC; размеры: 22.5   103   23.2 мм, 13   34.4   11.4 мм; Вес 60г; Установка внутри помещений;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Рабочая зона срабатывания Макс. 43 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность: Обнаружение удара</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение сильной, средней, малой деформации: сгибание до 25градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 тревожный вход поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией, дальность передачи данных до 1600м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 3 года</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размеры: 22.5   103   23.2 мм, 13   34.4   11.4 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес 60г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка внутри помещений</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

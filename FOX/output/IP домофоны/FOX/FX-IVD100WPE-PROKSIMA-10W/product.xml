@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IVD100WPE (ПРОКСИМА 10W)</name>
+  <article>FX-IVD100WPE-PROKSIMA-10W</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100028990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/df3/440_370_0/01_Proxima_10W_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/074/440_370_0/02_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/845/440_370_0/03_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/f6f/440_370_0/04_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/265/440_370_0/05_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/df3/38_24_2/01_Proxima_10W_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/074/38_24_2/02_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/845/38_24_2/03_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/f6f/38_24_2/04_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/265/38_24_2/05_Proxima_10W.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/df3/440_370_0/01_Proxima_10W_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-IVD100WPE (ПРОКСИМА 10)</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Размер экрана</spec>
+    <spec name="Разрешение">1024 X 600. Touch Screen</spec>
+    <spec name="Стандарт видео">1080P</spec>
+    <spec name="Интерфейс">До 8ми IP устройств</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть. До 10-ти устройств</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Class 10, до 512 Гб</spec>
+    <spec name="Формат изображений">JPG, AVI</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">Панель/ NO Ворота</spec>
+    <spec name="Тип замка">электромагнитный/электромеханический</spec>
+    <spec name="Детектор человека">Да (с панели)</spec>
+    <spec name="Режим «Монитор»">Да. 3 стиля меню + 1 свой</spec>
+    <spec name="Часы/Фоторамка">Да</spec>
+    <spec name="Автоответчик">Да</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN / WiFi 2.4&amp;5ГГц</spec>
+    <spec name="Питание">Постоянное питание DC +12~15В, 0.8A</spec>
+    <spec name="Рабочая температура">0°C … +55°C</spec>
+    <spec name="Габаритные размеры (мм)">255(Ш) х 180(В) х 21(Г)</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-IVD70WP черный">8”</spec>
+    <spec name="FX-IVD70WP белый">8”</spec>
+    <spec name="Комплект IP видеодомофона белый">7”</spec>
+    <spec name="Комплект IP видеодомофона черный">7”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8B">8”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8W">8”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10B)">10”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10W)">10”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8B)">8”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8W)">8”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10W">10”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10B">10”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7W">7”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7B">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7W)">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7B)">7”</spec>
+    <spec name="10”">512 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Акрил / Пластик">Видео</spec>
+    <spec name="Размер экрана">10,1" IPC LCD</spec>
+    <spec name="Встроенные микрофон и динамик, Голосовой автоответчик,">Интерком</spec>
+    <spec name="Есть. До 10-ти устройств">Запись</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Сенсорные + Механическая (для Вкл/Выкл и перезагрузки)">Управление замком</spec>
+    <spec name="Панель/ NO Ворота">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="LAN / WiFi 2.4&amp;5ГГц">Питание</spec>
+    <spec name="Постоянное питание DC +12~15В, 0.8A">Рабочая температура</spec>
+    <spec name="0°C … +55°C">Габаритные размеры (мм)</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="(1.738МБ)">FX-IVD100WPE_V4.3.16.069</spec>
+    <spec name="(15.278МБ)">Release note_March 2025_QR</spec>
+    <spec name="(0.998МБ)">VDP-FOX_Release-note_July-2024</spec>
+    <spec name="Паспорт">(1.738МБ)</spec>
+    <spec name="FX-IVD100WPE_V4.3.16.069">(15.278МБ)</spec>
+    <spec name="Release note_March 2025_QR">(0.998МБ)</spec>
+    <spec name="VDP-FOX_Release-note_July-2024">(0.567МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-ivd100wpe-proksima-10w/</source_url>
+</product>

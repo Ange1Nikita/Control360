@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-HVD70C-KIT (ФИАНИТ 7W)</name>
+  <article>FX-HVD70C-KIT-FIANIT-7W</article>
+  <brand>FOX</brand>
+  <category>Домофоны комплекты</category>
+  <price>1111000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/65f/440_370_0/YANTAR_FIONIT_BELYI_1-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/eca/440_370_0/YANTAR_FIONIT_BELYI_MENYU_1-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/357/440_370_0/panel1_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/beb/440_370_0/panel_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/65f/38_24_2/YANTAR_FIONIT_BELYI_1-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/eca/38_24_2/YANTAR_FIONIT_BELYI_MENYU_1-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/357/38_24_2/panel1_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/beb/38_24_2/panel_1_.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/65f/440_370_0/YANTAR_FIONIT_BELYI_1-900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-HVD70C (ФИАНИТ 7W)</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Тип матрицы</spec>
+    <spec name="Разрешение">960 ТВЛ</spec>
+    <spec name="Стандарт видео">1080P/720P (AHD/TVI/CVI), CVBS(960H)</spec>
+    <spec name="Интерфейс">2 панели + 2 камеры</spec>
+    <spec name="Аудио">Регулировка громкости</spec>
+    <spec name="Интерком">Есть. До 6-ти устройств</spec>
+    <spec name="Запись">Поддержка MicroSD</spec>
+    <spec name="Поддержка MicroSD">Class 10, до 64 Гб</spec>
+    <spec name="Формат изображений">JPG, AVI</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">НО / НЗ ( с врем. открытия)</spec>
+    <spec name="Тип замка">электромагнитный/</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">4-х проводное</spec>
+    <spec name="Питание">DC 12 В (от монитора)</spec>
+    <spec name="Рабочая температура">-40°C … +50°C</spec>
+    <spec name="Габаритные размеры (мм)">122(В) х 41(Ш) х 23(Г)</spec>
+    <spec name="Вызывная панель">FX-CP8</spec>
+    <spec name="Объектив">3.7 мм</spec>
+    <spec name="Угол обзора">85°</spec>
+    <spec name="Дополнительные функции">Управление замком</spec>
+    <spec name="Степень защиты">IP 54</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-VD10M">10”</spec>
+    <spec name="FX-VD7M-KIT(B)">7”</spec>
+    <spec name="FX-VD7M-KIT(W)">7”</spec>
+    <spec name="FX-VD7P-KIT(B)">7”</spec>
+    <spec name="FX-VD7P-KIT(W)">7”</spec>
+    <spec name="FX-VD7S-KIT V2 (АГАТ 7G)">7”</spec>
+    <spec name="FX-VD7S-KIT V2 (АГАТ 7W)">7”</spec>
+    <spec name="FX-VD7S-KIT V2 (АГАТ 7B)">7”</spec>
+    <spec name="FX-HVD70M-KIT V2 (ТОПАЗ 7W)">7”</spec>
+    <spec name="FX-HVD70M-KIT V2+FX-CP25 (ТОПАЗ 7B)">7”</spec>
+    <spec name="FX-HVD7M-KIT (ТОПАЗ 7B)">7”</spec>
+    <spec name="FX-HVD7M-KIT (ТОПАЗ 7W)">7”</spec>
+    <spec name="FX-HVD70C-KIT (РУБИН 7)">7”</spec>
+    <spec name="FX-HVD70M-KIT V3 (Топаз 7B)">7”</spec>
+    <spec name="FX-HVD70M-KIT V3 (Топаз 7W)">7”</spec>
+    <spec name="FX-HVD7C-KIT (КИПАРИС 7W)">7”</spec>
+    <spec name="FX-HVD7C-KIT (КИПАРИС 7B) + FX-CP9">7”</spec>
+    <spec name="FX-HVD7U-KIT (ТУЯ 7W) WI-FI">7”</spec>
+    <spec name="FX-HVD7U-KIT (ТУЯ 7B) WI-FI">7”</spec>
+    <spec name="FX-HVD70M-KIT V2+FX-CP9 (Топаз 7W)">7”</spec>
+    <spec name="FX-HVD70M-KIT V2+FX-CP9 (Топаз 7B)">7”</spec>
+    <spec name="FX-HVD7C-KIT (КИПАРИС 7B)">7”</spec>
+    <spec name="FX-HVD70U-KIT (ТУЯ 7W) WI-FI">7”</spec>
+    <spec name="FX-HVD70U-KIT (ТУЯ 7B) WI-FI">7”</spec>
+    <spec name="FX-HVD70C-KIT (ФИАНИТ 7W)">7”</spec>
+    <spec name="FX-VD70N-KIT (ЯНТАРЬ 7W)">7”</spec>
+    <spec name="FX-PVD72С-KIT ЭШЕР 7W">7”</spec>
+    <spec name="7”">64 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик / Акрил">Видео</spec>
+    <spec name="Размер экрана">7" (17,5 см) TFT LCD</spec>
+    <spec name="Hands Free">Интерком</spec>
+    <spec name="Есть. До 6-ти устройств">Запись</spec>
+    <spec name="Механические">Управление замком</spec>
+    <spec name="Панель / Ворота">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="4-х проводное">Питание</spec>
+    <spec name="100…240В AC">Рабочая температура</spec>
+    <spec name="-10°C … +60°C">Габаритные размеры (мм)</spec>
+    <spec name="175.5(Ш) х 122.5(В) х 21,5(Г)">Вызывная панель</spec>
+    <spec name="FX-CP8">Видео</spec>
+    <spec name="Тип матрицы">1/3" PIXELPLUS PC1099K</spec>
+    <spec name="Механическая">Дополнительные функции</spec>
+    <spec name="электромеханический">Технические параметры</spec>
+    <spec name="Монтаж">Накладной</spec>
+    <spec name="Материалы и особенности ПО">Инструкция на монитор</spec>
+    <spec name="(3.525МБ)">Инструкция на панель FX-CP8</spec>
+    <spec name="Инструкция на монитор">(3.525МБ)</spec>
+    <spec name="Инструкция на панель FX-CP8">(5.776МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-komplekty/fx-hvd70c-kit-fianit-7w/</source_url>
+</product>

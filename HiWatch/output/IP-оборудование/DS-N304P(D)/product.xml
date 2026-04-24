@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-N304P(D)</name>
+  <model>DS-N304P(D)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n304p-d-</product_url>
+  <description>
+    <paragraph>4-х канальный IP-регистратор  c 4-мя PoE интерфейсами</paragraph>
+    <paragraph>Видеовход: 4 IP@8Мп; Аудиовход: 1 канал RCA;  Видеовыход: 1 VGA и 1 HDMI до 4К; Аудиовыход; 1 канал RCA; Видеосжатие H.265+/H.265/H.264+/H.264; Входящий поток 40 Мбит/с; Исходящий поток 80 Мбит/с. Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 6 каналов@1080P; обнаружение движения 2.0 (для 1 канала); поддержка событий MD2.0 IP-камер, 1 SATA для HDD до 8Тб, 4 независимых PoE интерфейса 10M/100M; поддержка режима передачи до 250м,10Мбит/с, CAT5e; 1 10M/100M/1000M Ethernet интерфейс; тревожные вход/выход 4/1, 2 х USB 2.0; -10градусовC до +55градусовC;  48В DC; 50Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>4-х канальный IP-регистратор  c 4-мя PoE интерфейсами</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 IP@8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 4К</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 40 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исходящий поток 80 Мбит/с. Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 6 каналов@1080P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения 2.0 (для 1 канала)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>поддержка событий MD2.0 IP-камер, 1 SATA для HDD до 8Тб, 4 независимых PoE интерфейса 10M/100M</value>
+    </spec>
+    <spec>
+      <name />
+      <value>поддержка режима передачи до 250м,10Мбит/с, CAT5e</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 10M/100M/1000M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные вход/выход 4/1, 2 х USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>48В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDSK-P</name>
+  <model>DS-PDSK-P</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdsk-p</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Вибрационный извещатель</paragraph>
+    <paragraph>• Надежная защита периметра с ранним обнаружением</paragraph>
+    <paragraph>• Регулировка чувствительности</paragraph>
+    <paragraph>• Современный фильтр цифрового фонового шумаИзвещатель удара</paragraph>
+    <paragraph>Настройка чуствительности; распознавание удара и вибрациии; индикаторы состояния; DC9-16В; -30градусовC...+70градусовC; размер 108 30 22мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Вибрационный извещатель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Надежная защита периметра с ранним обнаружением</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Регулировка чувствительности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Современный фильтр цифрового фонового шумаИзвещатель удара</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка чуствительности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>распознавание удара и вибрациии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>индикаторы состояния</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 108 30 22мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?view=list</name>
+  <article>INDEX.PHP?VIEW=LIST</article>
+  <brand>ViGUARD</brand>
+  <category>Авто регистраторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bad/450_450_1/badd6d0a1f16bec3de8033f4d38bda61.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f9a/450_450_1/f9a864bc2f3718298da7774a3b9410e7.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e03/450_450_1/viguard-mdvr-4-kh-kanalnyy-avtomobilnyy-registrator-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/217/450_450_1/5271932310301379757.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/223/450_450_1/komplekt-videonablyudeniya-s-teplovizorom-online-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/409/450_450_1/40947e790454257a2633f7357b205771.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/eff/450_450_1/komplekt-videonablyudeniya-s-teplovizorom-online-8-mi-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/5fc/450_450_1/komplekt-videonablyudeniya-s-teplovizorom-offline-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/af4/450_450_1/komplekt-videonablyudeniya-s-teplovizorom-offline-8-mi-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/639/450_450_1/6393b25f884d8f1e50c5ee868318ac17.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/715/450_450_1/7155bd3edb63c990336bf6e6e9b1b4d8.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/620/450_450_1/620364091e3e9f9e9553bb056152cac1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a74/450_450_1/a741bcb00ced4b0351071f321b446da6.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/25b/450_450_1/25bfeac2802072b566c10c6c006af105.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79f/450_450_1/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2ac/450_450_1/2accbc1a888d8e091cf6a3332b3148f1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/acb/450_450_1/acb2ad57a3703ae40d0011dd6b1c5b53.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/450_450_1/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1d0/450_450_1/1d04201b0e5912de4910e95e947761fb.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/cf8/450_450_1/cf8e458c980490736ca07a5d35514188.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f9c/450_450_1/f9cfd1487de162948b8177f0a4135831.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/5f9/450_450_1/5f92c05bed5e8c1c0a854a720eeb0c87.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/06f/450_450_1/5237db9eabd6034bced29c12740725f7.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3df/450_450_1/3df487c33bde92bca6cbfa2ee6c4d8ec.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/449/450_450_1/komplekt-videonablyudeniya-dlya-marshrutnogo-taksi-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/450_450_1/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/939/450_450_1/94ee71c57c77c2f8034165c88b0ce11c.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/336/450_450_1/33660ded38d037b232c5b507a180aea4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2a4/450_450_1/2a46f9a26467ccd02429e0f106b60b32.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/420/450_450_1/komplekt-videonablyudeniya-dlya-gruzovogo-avtomobilya-ot-5-do-10-tonn-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/avto_registratory/index.php?view=list</source_url>
+</product>

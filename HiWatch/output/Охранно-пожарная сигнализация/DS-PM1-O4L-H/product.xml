@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM1-O4L-H</name>
+  <model>DS-PM1-O4L-H</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm1-o4l-h</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• 4 встроенных слаботочных реле, каждое поддерживает от 6 до 30 В и ток до 5 А.</paragraph>
+    <paragraph>• 1 выход питания, макс. 500 мА.</paragraph>
+    <paragraph>• 2 высокоскоростных порта SPEED-X, поддержка каскадного подключенияРасширитель шины Speed-X на 4 реле (до 30В)</paragraph>
+    <paragraph>4 встроенных слаботочных реле, поддерживающих напряжение от 6 до 30 В и ток до 5 А; 1 серийный интерфейс TTL (сервисный); 1 выход питания, макс. 500 мА; 2 шины Speed-X, DC 12В; -10градусовC...+40градусовC; размер 110 155 32.5 мм; пластик.</paragraph>
+    <paragraph>Для DS-PHA48/64</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 4 встроенных слаботочных реле, каждое поддерживает от 6 до 30 В и ток до 5 А.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 выход питания, макс. 500 мА.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 высокоскоростных порта SPEED-X, поддержка каскадного подключенияРасширитель шины Speed-X на 4 реле (до 30В)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 встроенных слаботочных реле, поддерживающих напряжение от 6 до 30 В и ток до 5 А</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 серийный интерфейс TTL (сервисный)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 выход питания, макс. 500 мА</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 шины Speed-X, DC 12В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+40градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 110 155 32.5 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Для DS-PHA48/64</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

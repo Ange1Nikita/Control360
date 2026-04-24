@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDB-EX-Shelter</name>
+  <model>DS-PDB-EX-Shelter</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdb-ex-shelter</product_url>
+  <description>
+    <paragraph>• Простая установка.Защитный козырек для датчика</paragraph>
+    <paragraph>Защитный козырек для датчика DS-PDCM15PF-IR или DS-PDCM15PF-WL, использующегося снаружи помещения.</paragraph>
+    <paragraph>Материал корпуса: Поликарбонат; Размеры: 80   28   85 мм; Масса 27.7 г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>• Простая установка.Защитный козырек для датчика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защитный козырек для датчика DS-PDCM15PF-IR или DS-PDCM15PF-WL, использующегося снаружи помещения.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал корпуса: Поликарбонат</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры: 80   28   85 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса 27.7 г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

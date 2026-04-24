@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD FROST механический термостат</name>
+  <article>VIGUARD_FROST_MEKHANICHESKIY_TERMOSTAT</article>
+  <brand>ViGUARD</brand>
+  <category>Аварийные датчики</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/iblock/9bc/9bcc3180ec9b373bcfdac523d048fd6c.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/9bc/120_120_0/9bcc3180ec9b373bcfdac523d048fd6c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/medialibrary/c39/c39b5fb1f923cb62db50f064bde9ebe1.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4d4/4d4c9dee2bd62e3d89dc352ac59125c2.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>ViGUARD FROST механический термостат</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/viguard_frost_mekhanicheskiy_termostat/</source_url>
+</product>

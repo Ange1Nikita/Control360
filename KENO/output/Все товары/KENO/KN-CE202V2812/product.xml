@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE202V2812</name>
+  <article>KN-CE202V2812</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/245/440_370_0/IMG_20190312_110415-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/d9d/440_370_0/Bez-nazvaniya.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/963/440_370_0/IMG_20190312_110752-CE202.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/90a/440_370_0/IMG_20190312_105747-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/245/38_24_2/IMG_20190312_110415-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/d9d/38_24_2/Bez-nazvaniya.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/963/38_24_2/IMG_20190312_110752-CE202.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/90a/38_24_2/IMG_20190312_105747-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/fseye_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/fseye_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 Уличная 2.0 2.8-12 40 Короткое описание IP видеокамера профессионального уровня KN-CE202V2812 , предназначенная для охранного видеонаблюдения, как внутри, так и вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Регулируемая яркость ИК подсветки делает данную модель камеры универсальной. Вы можете регулировать широту и дальность освещения, настраивая под свои условия на объекте. Особенности IP видеокамеры Все технические параметры Модель KN-CE202V2812 Система Тип матрицы 1/2,9” 2,19 Megapixel SONY EXMOR IMX323 Эффективные    пиксели 1985(H)    × 1105(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка ИК прожектор OSRAM IR LED III (850нм) до 40м Компенсация    засветки BLC / DWDR / Slow Shutter Баланс белого Авто Усиление Авто/Ручной Шумоподавление 2DNR / 3DNR Приватные зоны До    4-х зон Оптика Объектив 2.8~12mm (3.0MP) F1.4 с ИК коррекцией, ручная настройка Светосила F1.4 Угол обзора H:  110° - 30° Видео Видео режим “Антитуман” / “Коридор” / Стабилизация изображения Формат    кодирования H.265 / H.264 (H/M/B) Основной поток 1080P/720P/D1(1    ~ 25) Второстепенный    поток D1 / VGA / CIF (1 ~ 25 к/с) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP,
+SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif 2.6 (17.06) Profile-S/G/T (Движение, Тревога, Metadata) CGI / API Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows Дополнительно Аналитика Система интеллектуальной видео аналитики (IVS) Аудио - Тревога - ePTZ - Видеовыход - Memory Slot - Технические параметры Питание DC 12 В ±15%, PoE (802.3af) Потребление Не более 6Вт Рабочая    температура -40°C ... +60°C,    10% ... 90%</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,9” 2,19 Megapixel SONY EXMOR IMX323</spec>
+    <spec name="Эффективные    пиксели">1985(H)    × 1105(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">ИК прожектор OSRAM IR LED III (850нм) до 40м</spec>
+    <spec name="Компенсация    засветки">BLC / DWDR / Slow Shutter</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">2.8~12mm (3.0MP) F1.4 с ИК коррекцией, ручная настройка</spec>
+    <spec name="Светосила">F1.4</spec>
+    <spec name="Угол обзора">H:  110° - 30°</spec>
+    <spec name="Видео режим">“Антитуман” / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Формат    кодирования">H.265 / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">1080P/720P/D1(1    ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1 / VGA / CIF (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP,
+SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 (17.06) Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аналитика">Система интеллектуальной видео аналитики (IVS)</spec>
+    <spec name="Аудио">-</spec>
+    <spec name="Тревога">-</spec>
+    <spec name="ePTZ">-</spec>
+    <spec name="Видеовыход">-</spec>
+    <spec name="Memory Slot">-</spec>
+    <spec name="Питание">DC 12 В ±15%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 6Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP67, Грозозащита TVS8000В</spec>
+    <spec name="Габариты">113.2(Ш) х 78.9(В) х 203.3(Д)</spec>
+    <spec name="Вес">0,6кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ce202v2812/</source_url>
+</product>

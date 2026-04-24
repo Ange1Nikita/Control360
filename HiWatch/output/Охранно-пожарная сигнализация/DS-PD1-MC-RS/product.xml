@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PD1-MC-RS</name>
+  <model>DS-PD1-MC-RS</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pd1-mc-rs</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Металлическое покрытие</paragraph>
+    <paragraph>• Разработан для вращающихся дверейМагнитоконтактный датчик</paragraph>
+    <paragraph>Контакты NC; установка на ворота; дальность срабатывания 65мм; -40градусовC...+65градусовC; размер 110 30 15мм; металл.</paragraph>
+    <paragraph>Активное расстояние 65мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Металлическое покрытие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Разработан для вращающихся дверейМагнитоконтактный датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Контакты NC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>установка на ворота</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность срабатывания 65мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC...+65градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 110 30 15мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>металл.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Активное расстояние 65мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

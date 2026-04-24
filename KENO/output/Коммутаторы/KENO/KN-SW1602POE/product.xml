@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Коммутаторы/KN-SW1602POE+AI</name>
+  <article>KN-SW1602POE</article>
+  <brand>KENO</brand>
+  <category>Коммутаторы</category>
+  <price>27000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/e41/kwu07wmkv04u6yjh0i3dl0bbpza2dtmk/440_370_0/KN_SW1602POE-768_AI.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a72/440_370_0/IMG_20181019_162233-768_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/e41/kwu07wmkv04u6yjh0i3dl0bbpza2dtmk/38_24_2/KN_SW1602POE-768_AI.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a72/38_24_2/IMG_20181019_162233-768_.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/commutators.detail/templates/.default/images/ports.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/commutators.detail/templates/.default/images/ports.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/commutators.detail/templates/.default/images/poe.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/commutators.detail/templates/.default/images/poe.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/commutators.detail/templates/.default/images/power.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/commutators.detail/templates/.default/images/power.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 18 16 250 Вт Ваша цена: 27 000 руб. Короткое описание Коммутатор позволяет объединить линию передачи данных и цепь питания в одном Cat-5 кабеле. В модели KN-SW1602POE+ AI предусмотрено 18 портов 10/100/1000 Мбит/с (IEEE802.3u 100BaseTX) из них 16 c поддержкой PoE (IEEE802.3at) 10/100 до 30Вт на порт (HI POE) + два порта UPLINK 10/100/1000 Мбит/с, + оптический SPF потр, дальностью до 120км. Суммарная мощность потребителей 250 Вт. Таблица МАС адресов - 16К, пропускная способность 14,8Гбит\с, Буфер обмена 4Мб. Режим 1: 1-16 порт 10/100 Base-T (PoE) до 100 метров Режим 2: 1-8 порт 10/100 Base-T (PoE) до 100 метров; 9-16 порт 10 Base-T (PoE) до 250 метров Коммутатор оснащен встроенным блоком питания и функцией SMART AI. Функция Smart AI Watchdog следит за активностью на каждом порту, при отсутствии обмена данных с устройством, коммутатор перезапускает питание на проблемном канале. Идеальное решение для подключения и питания IP видеокамер в том числе и скоростных поворотных. Особенности коммутатора Все технические параметры Поддерживаемые стандарты IEEE802.3 10BASE-T, IEEE802.3i 10Base-T IEEE802.3u 100Base-TX, IEEE802.3ab 1000Base-T IEEE802.3z 1000Base-X, IEEE802.3x Общее количество портов RJ45 порт Режим 1: 1-16 порт 10/100 Base-T (PoE) до 100 метров Режим 2: 1-8 порт 10/100 Base-T (PoE) до 100 метров 9-16 порт 10 Base-T (PoE) до 250 метров Uplink порт RJ45&amp;SPF 17-18 порт 10/100/1000 Base-T до 100 метров 17 порт 10/100/1000 Base-X SPF, Multi: 850nm до 500м, single: 1310nm до 40км, 1550nm до 120км Выходное напряжение DC 52В (Диапазон 48~57В) Общий бюджет POE 250Вт Бюджет POE на канал 15.4Вт (IEEE802.3af) / 30Вт (IEEE802.3at) из общего бюджета Максимальная дистанция питания До 150м UTP Cat.5e / до 250м UTP Cat.6e Максимальная дистанция сети До 150м UTP Cat.5e / до 250м UTP Cat.6e Коммутационная матрица 14,8 ГБит/с Скорость перенаправления пакетов 5.36 Mpps@64byte Буфер памяти 4 Мб Таблица MAC-адресов 16Кб Сетевые инструменты Поддержка VLAN, Smart AI Watchdog Грозозащит</description>
+  <specs>
+    <spec name="Поддерживаемые стандарты">IEEE802.3 10BASE-T, IEEE802.3i 10Base-TIEEE802.3u 100Base-TX, IEEE802.3ab 1000Base-TIEEE802.3z 1000Base-X, IEEE802.3x</spec>
+    <spec name="Общее количество портов RJ45 порт">Режим 1: 1-16 порт 10/100 Base-T (PoE) до 100 метровРежим 2: 1-8 порт 10/100 Base-T (PoE) до 100 метров9-16 порт 10 Base-T (PoE) до 250 метров</spec>
+    <spec name="Uplink порт RJ45&amp;SPF">17-18 порт 10/100/1000 Base-T до 100 метров17 порт 10/100/1000 Base-X SPF, Multi: 850nm до 500м, single: 1310nm до 40км, 1550nm до 120км</spec>
+    <spec name="Выходное напряжение">DC 52В (Диапазон 48~57В)</spec>
+    <spec name="Общий бюджет POE">250Вт</spec>
+    <spec name="Бюджет POE на канал">15.4Вт (IEEE802.3af) / 30Вт (IEEE802.3at) из общего бюджета</spec>
+    <spec name="Максимальная дистанция питания">До 150м UTP Cat.5e / до 250м UTP Cat.6e</spec>
+    <spec name="Максимальная дистанция сети">До 150м UTP Cat.5e / до 250м UTP Cat.6e</spec>
+    <spec name="Коммутационная матрица">14,8 ГБит/с</spec>
+    <spec name="Скорость перенаправления пакетов">5.36 Mpps@64byte</spec>
+    <spec name="Буфер памяти">4 Мб</spec>
+    <spec name="Таблица MAC-адресов">16Кб</spec>
+    <spec name="Сетевые инструменты">Поддержка VLAN, Smart AI Watchdog</spec>
+    <spec name="Грозозащита">TVS 4000В</spec>
+    <spec name="Диапазон рабочих температур">-20 ~ +55 °C</spec>
+    <spec name="Относительная влажность">5 ~ 95% (без конденсата)</spec>
+    <spec name="Питание">AC 11-240В, 50/60Гц</spec>
+    <spec name="Габаритные размеры">44 мм (В) х 330 мм (Ш) х 204 мм (Г)</spec>
+    <spec name="Вес">2,2кг</spec>
+    <spec name="Модель">Общее кол-во портов</spec>
+    <spec name="KN-SW401POE">5</spec>
+    <spec name="KN-SW800POE">8</spec>
+    <spec name="KN-VTNS1060A">8</spec>
+    <spec name="KN-SW401POE+">5</spec>
+    <spec name="KN-SW801POE+">9</spec>
+    <spec name="KN-SW1602POE+AI">18</spec>
+    <spec name="KN-SW2402POE+AI">26</spec>
+    <spec name="KN-SW1604PF+">20</spec>
+    <spec name="KN-SW2404PF+">28</spec>
+    <spec name="KN-SW402POE+AI">6</spec>
+    <spec name="KN-SW802POE+AI">10</spec>
+    <spec name="KN-SW802SFP/M2">10</spec>
+    <spec name="KN-SW1602SFP/M2">18</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/commutators/kn-sw1602poe/</source_url>
+</product>

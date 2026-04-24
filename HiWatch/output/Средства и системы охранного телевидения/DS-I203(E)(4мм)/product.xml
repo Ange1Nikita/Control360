@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I203(E)(4мм)</name>
+  <article>322831</article>
+  <sku>311322931</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>3108</price>
+  <price_wholesale />
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/322831/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 2 Мп купольная; 1/2.9" Progressive Scan CMOS; 1920×1080 - 25 к/с; 4 мм; 0.01лк; ИК подсветка EXIR 30 м; H.265/H.265+/H.264/H.264+ /MJPEG; WDR 120дБ; ROI; 3D DNR; BLC; ONVIF; режим коридора, обнаружение цели по типу «Человек»/«ТС», 12 DC/POE; 6.5Вт; защита от перенапряжений TVS; -40 °C...+60 °C; IP 67; 85.3x110 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.9" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MPEG4</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="796.64 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/A/3A716EACA6F99F6B4866C3FEE11AC13C.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-2369 (Медь)</name>
+  <article>FX-2369-MED</article>
+  <brand>FOX</brand>
+  <category>Замки</category>
+  <price>1112000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/53a/440_370_0/DSCF4926_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/f0d/440_370_0/Komplektatsiya_zamok-zoloto_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/674/440_370_0/DSCF4916_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/53a/38_24_2/DSCF4926_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/f0d/38_24_2/Komplektatsiya_zamok-zoloto_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/674/38_24_2/DSCF4916_900X576.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/53a/440_370_0/DSCF4926_900X576.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-2369</spec>
+    <spec name="Тип">Накладной/ Электромеханический/ Нормально закрытый</spec>
+    <spec name="Исполнение">Уличное/ Внутреннее</spec>
+    <spec name="Питание">9-13 В (DC) 3-4 A</spec>
+    <spec name="Относительная влажность">10-90%</spec>
+    <spec name="Рабочая температура">-40°C … +50°C</spec>
+    <spec name="Вес">1.7 кг</spec>
+    <spec name="Габаритные размеры (мм)">105мм(В) х 130мм(Д) х 40мм(Г)</spec>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-2369 (Сталь)">Уличный</spec>
+    <spec name="FX-2369 (Медь)">Уличный</spec>
+    <spec name="FX-B180A">Уголок</spec>
+    <spec name="FX-B280A">Уголок</spec>
+    <spec name="FX-B280G">Уголок</spec>
+    <spec name="FX-M100B">Внутренний</spec>
+    <spec name="FX-M180">Внутренний</spec>
+    <spec name="FX-M280">Внутренний</spec>
+    <spec name="FX-M500">Внутренний</spec>
+    <spec name="FX-B500A">Уголок</spec>
+    <spec name="Особенности замка">Все технические параметры</spec>
+    <spec name="Материалы и особенности ПО">(3.621МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/electromechanical-locks/fx-2369-med/</source_url>
+</product>

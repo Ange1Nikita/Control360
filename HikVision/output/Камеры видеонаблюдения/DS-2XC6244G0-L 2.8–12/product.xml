@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XC6244G0-L 2.8–12</name>
+  <model>DS-2XC6244G0-L 2.8–12</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xc6244g0-l-2-8-12-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>LED-подсветка 1 м</paragraph>
+    <paragraph>–10 °C... +60 °C, IP68</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264</paragraph>
+    <paragraph>WDR 120 дБ, 3D DNR, BLC, ROI</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.001 лк (F/1.4, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 ~ 12 мм, по горизонтали: 70.1° ~ 29.7°, по вертикали: 38.7° ~ 16.8°, по диагонали: 81.2° ~ 34.0°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.4</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>LED</value>
+    </spec>
+    <spec>
+      <name>Диапазон</name>
+      <value>0.5–1.0 м</value>
+    </spec>
+    <spec>
+      <name>Фреймрейт</name>
+      <value>10 к/с, 25 к/с</value>
+    </spec>
+    <spec>
+      <name>Потоки</name>
+      <value>3</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, H.265+, H.264+, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR/VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>H.265 и H.264</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>по 5 фиксированных областей для основного и дополнительного потоков</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс, ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, SRTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour, SSL/TLS, WebSocket, WebSockets</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Переключение режима день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, антитуман</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥50 дБ</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>RJ-45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты памяти, поддержка карт microSD, SDHC, SDXC, до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, оставленных и пропавших предметов, изменения сцены</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, тревожный сигнал, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 36 V, PoE, макс. 18 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>316L + защита от коррозии</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>210.6×208.0×224.0 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>13.47 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –10 °C... +60 °C, влажность: 100 % или меньше</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP68</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпLED-подсветка 1 м–10 °C... +60 °C, IP68H.265+, H.265, H.264+, H.264WDR 120 дБ, 3D DNR, BLC, ROIПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f98/140_140_1/DS_2XC6244G0_L_2.8_12_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xc6244g0-l-2-8-12-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XC6244G0-L 2.8–12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

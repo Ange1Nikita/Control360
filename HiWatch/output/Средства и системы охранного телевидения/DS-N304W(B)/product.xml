@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор 4-канальный HiWatch DS-N304W(B)</name>
+  <model>DS-N304W(B)</model>
+  <article>298682</article>
+  <sku>303613909</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>IP-видеорегистратор 4-канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>6180</price>
+  <price_wholesale />
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/298682/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 4-х канальный с WIFI; подключение IP камер до 4 Мп; Максимальный битрейт 50 Мб/с; H.265+/H.265/ H.264+/H.264; HDMI-1/VGA-1; 1 SATA3 до 6Тб; 1 порт 100Mb; 2 USB порта 2.0; Аудиовыход 1 шт; 2 антенны MIMO; Питание: DC12В/1.6 A; -10°C ... +55°C; 265×245×48 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>0/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>50</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>1 SATA х 6 Тб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (блок питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>265х245х48</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+    <passport>document_5.pdf</passport>
+    <passport>document_6.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="590.24 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/C/3CF270CEA26B1DBE1F660C0478C17BEC.pdf</document>
+    <document title="Облачный сервис приложение" size="90.98 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/8/784AB4517CC1B9ACB23B575AFD4165B2.jpg</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/E/AED4004EBA88E98E461FCE2E8C356F49.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/6/46BCD6FFB924EDB8A3BC176E3AE49179.pdf</document>
+    <document title="Схема подключения тревожного входа/выхода" size="177.18 КБ">https://www.tinko.ru/upload/exchange/public/documentation/F/7/F7EEB8888FBE2D469DAE2775EC2C967F.jpg</document>
+    <document title="Настройка облачного сервиса Hik Connect" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B7639D6FCE98CB51B61E960D239CC998.pdf</document>
+  </documents>
+</product>

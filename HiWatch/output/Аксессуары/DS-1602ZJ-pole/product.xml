@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1602ZJ-pole</name>
+  <model>DS-1602ZJ-pole</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1602zj-pole</product_url>
+  <description>
+    <paragraph>Крепление на столб, белый, для скоростных поворотных купольных камер, алюминий, 117194451.3 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Крепление на столб, белый, для скоростных поворотных купольных камер, алюминий, 117194451.3 мм</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Сплав алюминия и стали</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Крепление на столб</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>117194451 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>2040гр</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

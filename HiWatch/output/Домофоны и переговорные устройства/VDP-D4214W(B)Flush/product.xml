@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Вызывная панель IP-домофона HiWatch VDP-D4214W(B)/Flush</name>
+  <model>VDP-D4214W(B)/Flush</model>
+  <article>323172</article>
+  <sku>305304060</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Вызывные панели</subcategory>
+  <functional_name>Вызывная панель IP-домофона</functional_name>
+  <nomenclature>Вызывная панель IP-домофона</nomenclature>
+  <price>10731.66</price>
+  <price_wholesale>9747.93</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323172/</product_url>
+  <description>
+    <paragraph>2Мп IP вызывная панель на четырех абонентов с ИК-подсветкой до 3м и Wi-Fi 2Мп; Wi-Fi 2.4ГГц, Web интерфейс;PoE/ 12В DC, Mifare считыватель (до 2000 пользователей, 10000 карт);WDR; BLC; DNR; 10M/100M Ethernet, работа с Hik-Connect, 2 реле для замка; IP65, -40…+53℃; IK08, металл/пластик, врезной монтаж, 174×91×29 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>2 Мп (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора, град</name>
+      <value>124° (г)</value>
+    </spec>
+    <spec>
+      <name>Встроенный считыватель</name>
+      <value>Mifare</value>
+    </spec>
+    <spec>
+      <name>Степень защиты</name>
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>174х91х29</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="391.01 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/F/0F50EB214135115E923889C9118D7B5B.pdf</document>
+  </documents>
+</product>

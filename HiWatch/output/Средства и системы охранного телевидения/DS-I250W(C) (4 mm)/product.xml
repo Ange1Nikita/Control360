@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I250W(C) (4 mm)</name>
+  <article>301047</article>
+  <sku>311315623</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Бюджетная IP-видеокамера цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>6679</price>
+  <price_wholesale>6066.76</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/301047/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 2 Мп уличная с WIFI; 1/2.7" Progressive Scan CMOS; 1920х1080 - 25 к/с; 4 мм; 0.028 лк F2.0; ИК подсветка EXIR 30 м; H.265/H.265+/H.264/H.264+/MJPEG ; DWDR, 3D DNR, BLC ; микрофон; microSD до 256Гб; DC 12В;  5Вт; IP67; -30 °C...+60 °C;  67.8×66.2×177.6мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264; Н.264B; Н.264H; Н.264+; MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.028</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>67.8х66.2х177.6</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="595.04 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/2/A29FF10EE3C6264FDA7BCCE40631C066.pdf</document>
+  </documents>
+</product>

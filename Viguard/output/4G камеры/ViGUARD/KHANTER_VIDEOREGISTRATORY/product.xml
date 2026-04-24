@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Khanter Videoregistratory</name>
+  <article>KHANTER_VIDEOREGISTRATORY</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/dd8/450_450_1/dd880759307b72dd9d59954dffdf46f1.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/103/450_450_1/1036e9476838dc6c7d4af4b2aae36aaf.png</image>
+    <image>https://viguard.pro/upload/iblock/694/694723ef5fbb1dc2ff253acb7d9e91eb.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b98/450_450_1/b98af75af1bb421995b8671136d51ed4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/df1/450_450_1/df101fe36ca51ed9c1ec7cb1046f70ac.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b33/450_450_1/b336528ab7322d06bd1f8d2974af66f9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/34a/450_450_1/34a225ee12c5dd0fe05ab2c49dea39d5.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/khanter_videoregistratory/</source_url>
+</product>

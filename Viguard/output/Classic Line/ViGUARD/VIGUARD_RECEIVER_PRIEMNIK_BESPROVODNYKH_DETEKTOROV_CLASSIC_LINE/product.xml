@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD RECEIVER приемник беспроводных детекторов CLASSIC LINE</name>
+  <article>VIGUARD_RECEIVER_PRIEMNIK_BESPROVODNYKH_DETEKTOROV_CLASSIC_LINE</article>
+  <brand>ViGUARD</brand>
+  <category>Classic Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/682/450_450_1/6824a2564519b99083450bc8767cfc27.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/682/120_120_0/6824a2564519b99083450bc8767cfc27.png</image>
+    <image>https://viguard.pro/upload/iblock/682/6824a2564519b99083450bc8767cfc27.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>ViGUARD RECEIVER приемник беспроводных детекторов CLASSIC LINE</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/viguard_receiver_priemnik_besprovodnykh_detektorov_classic_line/</source_url>
+</product>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1280ZJ-DM18</name>
+  <model>DS-1280ZJ-DM18</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1280zj-dm18</product_url>
+  <description>
+    <paragraph>Монтажная коробка, белая, для купольных камер, алюминий, Ф115.4 43.8мм</paragraph>
+    <paragraph>Характеристики</paragraph>
+    <paragraph>Монтажная коробка для купольных камер</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Алюминиевый сплав</paragraph>
+    <paragraph>Размер (мм)</paragraph>
+    <paragraph>Ф111</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>150г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Монтажная коробка, белая, для купольных камер, алюминий, Ф115.4 43.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Характеристики</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Монтажная коробка для купольных камер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер (мм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Ф111</value>
+    </spec>
+    <spec>
+      <name />
+      <value>150г</value>
+    </spec>
+    <spec>
+      <name>Характеристики</name>
+      <value>Монтажная коробка для купольных камер</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name>Размер (мм)</name>
+      <value>Ф111</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>150г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

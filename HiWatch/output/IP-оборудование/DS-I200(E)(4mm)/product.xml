@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I200(E)(4mm)</name>
+  <model>DS-I200(E)(4mm)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-i200-e-4mm-</product_url>
+  <description>
+    <paragraph>2Мп уличная цилиндрическая IP-камера с EXIR-подсветкой до 30м</paragraph>
+    <paragraph>1/2.9'' Progressive Scan CMOS матрица; 19201080@25к/с; объектив 4мм; угол обзора 81градусов; механический ИК-фильтр; 0.01Лк@F2.0; H.265/H.265+/H.264/H.264+/MJPEG, ROI; коридорный режим; DWDR; 3D DNR; BLC; Smart ИК; обнаружение движения 2.0; видеобитрейт 32кбит/с-8Мбит/с; IP67; защита от перенапряжений TVS,  -40градусовC до +60градусовC; DC12В+-25%/PoE(802.3af); 6.5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная цилиндрическая IP-камера с EXIR-подсветкой до 30м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.9'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>19201080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 4мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 81градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01Лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, ROI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>коридорный режим</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS,  -40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6.5Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.9" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MPEG4</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>77х165</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

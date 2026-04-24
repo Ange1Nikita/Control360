@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD MDVR R8 8-ми канальный автомобильный регистратор</name>
+  <article>VIGUARD_MDVR_X8_4G_GPS_GLONASS_2IP</article>
+  <brand>ViGUARD</brand>
+  <category>Авто регистраторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79f/450_450_1/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79f/120_120_0/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79f/500_500_1/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e7f/500_500_1/e7faa9d68f2385e41a9b4770ca71bf6c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79f/120_120_1/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e7f/120_120_1/e7faa9d68f2385e41a9b4770ca71bf6c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/79f/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>ViGUARD MDVR R8 8-ми канальный автомобильный регистратор</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/video_registratory/viguard_mdvr_x8_4g_gps_glonass_2ip/</source_url>
+</product>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDPC12PF-EG2-WE</name>
+  <model>DS-PDPC12PF-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdpc12pf-eg2-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Дальность обнаружения: 12 м / 85.9градусов</paragraph>
+    <paragraph>• Фильтрация срабатываний на домашних животных до 30 кг</paragraph>
+    <paragraph>• SEC (интеллектуальный контроль окружающей среды) — продвинутая цифровая обработка сигналов и 3D-оптика</paragraph>
+    <paragraph>• Цветное изображение в любое время суток</paragraph>
+    <paragraph>• Большая емкость встроенной памяти для хранения изображений</paragraph>
+    <paragraph>• Удаленная настройка через приложение</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>• Легко заменяемая батарея с защитой платыИК-датчик беспроводной с камерой, защита от животных</paragraph>
+    <paragraph>Матрица: ColorVU: Автоматическое переключение "День/Ночь"; Угол обзора: 88градусов по горизонтали, 68градусов по вертикали; Дальность ИК до 12м; Тип изображения: JPEG, 160*120, 320*240, 640*480;</paragraph>
+    <paragraph>Матрица нового поколе</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность обнаружения: 12 м / 85.9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Фильтрация срабатываний на домашних животных до 30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• SEC (интеллектуальный контроль окружающей среды) — продвинутая цифровая обработка сигналов и 3D-оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цветное изображение в любое время суток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Большая емкость встроенной памяти для хранения изображений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Легко заменяемая батарея с защитой платыИК-датчик беспроводной с камерой, защита от животных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица: ColorVU: Автоматическое переключение "День/Ночь"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора: 88градусов по горизонтали, 68градусов по вертикали</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность ИК до 12м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип изображения: JPEG, 160*120, 320*240, 640*480</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица нового поколе</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

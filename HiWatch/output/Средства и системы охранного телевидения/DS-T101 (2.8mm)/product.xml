@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T101 (2.8mm)</name>
+  <article>249455</article>
+  <sku>300607539</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры TVI купольные</subcategory>
+  <functional_name>Бюджетная видеокамера TVI купольная</functional_name>
+  <nomenclature>Видеокамера TVI</nomenclature>
+  <price>1205.27</price>
+  <price_wholesale>1094.79</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/249455/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера HD TVI цветная купольная  со встроенной ИК подсветкой (механический ИК-фильтр) ; 1/4"  CMOS, 1 МП (1280х720); 0.1лк/0лк с вкл ИК; f=2.8 мм; S/N: более 52dB; Дальность ИК подсветки до 20 м; Видеовыход: HD-TVI или CVBS; DC12В/330мА; –20°...+45°C</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/4" CMOS 1МП</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1280х720/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.1/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+45</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>98х65</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>manual.pdf</passport>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Руководство по эксплуатации" size="1.64 МБ">https://www.tinko.ru/upload/exchange/public/documentation/7/8/7806F4F01E521356400C7CD97FC700E1.pdf</document>
+    <document title="Паспорт" size="701.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/C/1C75D4A42EFF9826FAD37B9A41480D4A.pdf</document>
+  </documents>
+</product>

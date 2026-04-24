@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор TVI 32-канальный HiWatch DS-H332/2Q(N)(B)</name>
+  <model>DS-H332/2Q(N)(B)</model>
+  <article>355217</article>
+  <sku>300228166</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 32-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>31836</price>
+  <price_wholesale>28917.7</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/355217/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI/AHD/CVI/CVBS 32 канала видео + 2 IP 6Мп (до 34 с замещением аналоговых в Enhanced IP mode) + 1 аудио (до 32 каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro/H.265+/H.265/H.264+/H.264; Скорость записи TVI: 4х4Мп Lite х15к/с/TVI 4х3Мп х15к/с/TVI/CVI/AHD 32х2Мп х15к/с/TVI/CVI/AHD 32х2МпLite х25к/с/TVI/CVI/AHD/CVBS 32х1Мп х25к/с ; аналоговые камеры: WD1х25к/с; IP: доп. 2 канала 6Мп х25к/с; Воспроизведение: 16х2.0Мп; Видеовыходы: HDMI до 4К, VGA, CVBS ; 1 USB2.0; 1 USB3.0, RS-485; Протоколы сетиTCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF, P2P; сетевой (10M/100M/1000M Ethernet); 2х HDD SATA до 10Тб; DC12 В/3300 мА (адаптер питания в комплекте); 10°...+55°C; 380х320х48мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>32xTVI или 32х AHD или 32x CVI или 32х960H+2 IP (до 34 IP каналов с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI (до 4K); VGA; BNC</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro/H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>15к/сек 4 канала 3МП; 15к/сек на канал (1920х1080 пикс.); 25к/сек на канал (1280х720 пикс.); 25 к/сек на канал (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Ручная установка/по датчику движения/по тревоге/по расписанию</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100/1000 Ethernet</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; PPPoE; DHCP; Hikconnect Cloud P2P; DNS; DDNS; NTP; SADP; SMTP; SNMP; NFS; iSCSI; UPnP™; HTTPS</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB; 1 RS-485</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1007.49 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/9/79E9CD5B69516602557A94FB8CB6DD19.pdf</document>
+  </documents>
+</product>

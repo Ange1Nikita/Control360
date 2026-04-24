@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Считыватель карт Mifare Hikvision DS-K1101M</name>
+  <model>DS-K1101M</model>
+  <article>266619</article>
+  <sku>302900507</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Считыватели «Hikvision»</subcategory>
+  <functional_name>Считыватель карт Mifare</functional_name>
+  <nomenclature>Считыватель</nomenclature>
+  <price>2529.28</price>
+  <price_wholesale>2297.43</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/266619/</product_url>
+  <description>
+    <paragraph>Считыватель Mifare карт, 13,56 МГц; дальность считывания: 30-50 мм; поддержка протоколов RS-485 и Wiegand (-26, -34); DC 12 В; 6 Вт; -40...+70 °C; IP64; 132×92.3×20.5 мм; пластик</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Стандарт идентификатора</name>
+      <value>Mifare</value>
+    </spec>
+    <spec>
+      <name>Выходной интерфейс</name>
+      <value>Wiegand; RS485</value>
+    </spec>
+    <spec>
+      <name>Расстояние считывания, см</name>
+      <value>3…5</value>
+    </spec>
+    <spec>
+      <name>Ток потребления, мА</name>
+      <value>500</value>
+    </spec>
+    <spec>
+      <name>Напряжение, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Относительная влажность, %</name>
+      <value>90</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+70</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>132х92.3х20.5</value>
+    </spec>
+    <spec>
+      <name>Масса, не более, кг</name>
+      <value>0.14</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1.6 МБ">https://www.tinko.ru/upload/exchange/public/documentation/9/7/9797A1E520C2BF287A648B106DC97DCE.pdf</document>
+    <document title="Руководство пользователя" size="1.3 МБ">https://www.tinko.ru/upload/exchange/public/documentation/6/C/6CB07280092BB9842243D20D3D836890.pdf</document>
+  </documents>
+</product>

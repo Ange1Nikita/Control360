@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H304QAF(B)</name>
+  <model>DS-H304QAF(B)</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h304qaf-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>4 канала</paragraph>
+    <paragraph>H.265 Pro+/H.265 Pro/H.265</paragraph>
+    <paragraph>Запись HD-TVI камер c разрешением до 4MP Lite</paragraph>
+    <paragraph>Запись IP-камер с разрешением до 6 Мп</paragraph>
+    <paragraph>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</paragraph>
+    <paragraph>1 SATA для HDD до 10 ТБ</paragraph>
+    <paragraph>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения для всех аналоговых каналов</paragraph>
+    <paragraph>Распознавание лиц</paragraph>
+    <paragraph>Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet</paragraph>
+    <paragraph>Детектор вторжения в область и пересечения линии c детектором MD2.0</paragraph>
+    <paragraph>Формат видеосжатия</paragraph>
+    <paragraph>H.265 Pro/H.265+/ H.265/H.264+/ H.264</paragraph>
+    <paragraph>Аналоговые Hikvision / HiWatch, HD-TVI и AHD камеры</paragraph>
+    <paragraph>4 канала, BNC (1.0 Vp-p, 75 )</paragraph>
+    <paragraph>IP-камеры</paragraph>
+    <paragraph>По умолчанию 1 канал (до 6 с замещением аналоговых в Enhanced IP mode)</paragraph>
+    <paragraph>Стандарт аудиосжатия</paragraph>
+    <paragraph>G.711u</paragraph>
+    <paragraph>Аудиовход</paragraph>
+    <paragraph>4 канала RCA (2.0 Vp-p, 1 k) (1 вход может использоваться для двустороннего аудио), в том числе по технологии AoC (аудио по коаксиальному кабелю)</paragraph>
+    <paragraph>Видеовыход</paragraph>
+    <paragraph>1 HDMI, 1 VGA, 1 CVBS (1Vp-p композитный, 75 /BNC)</paragraph>
+    <paragraph>Разрешение вывода</paragraph>
+    <paragraph>HDMI/VGA: 1920х1080/60Гц, 1280х1024/60Гц, 1280х720/60Гц, 1024х768/60Гц</paragraph>
+    <paragraph>Аудиовыход</paragraph>
+    <paragraph>1 канала, RCA (Линейный, 1 K)</paragraph>
+    <paragraph>Видеоаналитика: люди/ТС</paragraph>
+    <paragraph>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения по умолчанию включен для всех аналоговых каналов. Способность классифицировать людей и ТС, снижение количества ложных тревог, вызванных такими объектами, как листья и свет. Поддерживается бы</paragraph>
+    <paragraph>Защита периметра</paragraph>
+    <paragraph>Видеоаналитика: люди/ТС: пересечение линии/вторжение - до 2 каналов (аналоговая камера HD)</paragraph>
+    <paragraph>Детекция, захват и распознавание лиц</paragraph>
+    <paragraph>1 канал - база до 500 лиц или 80Мб (одно изображение до 1Мб) (аналоговая камера)</paragraph>
+    <paragraph>Количество потоков</paragraph>
+    <paragraph>2</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>Аналоговый канал: WD1@25к/с, HD-TVI канал: 3Мп@15к/с, 4Мп Lite@15к/с (1й канал), 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с AHD/CVI канал: 1080p@15к/с, 1080p Lite/720p@25к/с IP-канал: до 6 Mп</paragraph>
+    <paragraph>Дополнительный поток</paragraph>
+    <paragraph>WD1/4CIF@12к/с, CIF/QVGA/QCIF@25к/с</paragraph>
+    <paragraph>Тип потока</paragraph>
+    <paragraph>Видео / видео и аудио</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>32Кбит/с — 6Мбит/с</paragraph>
+    <paragraph>Битрейт аудио</paragraph>
+    <paragraph>64кбит/с</paragraph>
+    <paragraph>Синхронное воспроизведение</paragraph>
+    <paragraph>4 канала</paragraph>
+    <paragraph>Входящий битрейт</paragraph>
+    <paragraph>72 Мбит/с</paragraph>
+    <paragraph>Удаленные соединения</paragraph>
+    <paragraph>32</paragraph>
+    <paragraph>Протоколы сети</paragraph>
+    <paragraph>TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS,ONVIF</paragraph>
+    <paragraph>SATA</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Объем</paragraph>
+    <paragraph>до 10 Тб каждый</paragraph>
+    <paragraph>Сетевой интерфейс</paragraph>
+    <paragraph>1 RJ-45 10M / 100M Ethernet интерфейс</paragraph>
+    <paragraph>USB-интерфейс</paragraph>
+    <paragraph>2, USB2.0</paragraph>
+    <paragraph>Последовательный интерфейс</paragraph>
+    <paragraph>1 RS-485 полудуплексный</paragraph>
+    <paragraph>Тревожный вход/выход</paragraph>
+    <paragraph>4/1</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В</paragraph>
+    <paragraph>Потребляемая мощность (без HDD)</paragraph>
+    <paragraph>До 18 Вт.</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>-10°C— +55°C, 10%-90% влажность</paragraph>
+    <paragraph>Размер</paragraph>
+    <paragraph>315  242  45 мм</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>1,16 кг (Без жестких дисков)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 Pro+/H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись HD-TVI камер c разрешением до 4MP Lite</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись IP-камер с разрешением до 6 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 10 ТБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения для всех аналоговых каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Распознавание лиц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Детектор вторжения в область и пересечения линии c детектором MD2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Формат видеосжатия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 Pro/H.265+/ H.265/H.264+/ H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аналоговые Hikvision / HiWatch, HD-TVI и AHD камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала, BNC (1.0 Vp-p, 75 )</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP-камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>По умолчанию 1 канал (до 6 с замещением аналоговых в Enhanced IP mode)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарт аудиосжатия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала RCA (2.0 Vp-p, 1 k) (1 вход может использоваться для двустороннего аудио), в том числе по технологии AoC (аудио по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 HDMI, 1 VGA, 1 CVBS (1Vp-p композитный, 75 /BNC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение вывода</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HDMI/VGA: 1920х1080/60Гц, 1280х1024/60Гц, 1280х720/60Гц, 1024х768/60Гц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канала, RCA (Линейный, 1 K)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеоаналитика: люди/ТС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения по умолчанию включен для всех аналоговых каналов. Способность классифицировать людей и ТС, снижение количества ложных тревог, вызванных такими объектами, как листья и свет. Поддерживается бы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита периметра</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеоаналитика: люди/ТС: пересечение линии/вторжение - до 2 каналов (аналоговая камера HD)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Детекция, захват и распознавание лиц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал - база до 500 лиц или 80Мб (одно изображение до 1Мб) (аналоговая камера)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Количество потоков</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аналоговый канал: WD1@25к/с, HD-TVI канал: 3Мп@15к/с, 4Мп Lite@15к/с (1й канал), 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с AHD/CVI канал: 1080p@15к/с, 1080p Lite/720p@25к/с IP-канал: до 6 Mп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительный поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WD1/4CIF@12к/с, CIF/QVGA/QCIF@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео / видео и аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>32Кбит/с — 6Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>64кбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синхронное воспроизведение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий битрейт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>72 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленные соединения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протоколы сети</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS,ONVIF</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SATA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объем</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 10 Тб каждый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M / 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>USB-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2, USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Последовательный интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RS-485 полудуплексный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожный вход/выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность (без HDD)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 18 Вт.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10°C— +55°C, 10%-90% влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>315  242  45 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1,16 кг (Без жестких дисков)</value>
+    </spec>
+    <spec>
+      <name>Формат видеосжатия</name>
+      <value>H.265 Pro/H.265+/ H.265/H.264+/ H.264</value>
+    </spec>
+    <spec>
+      <name>Аналоговые Hikvision / HiWatch, HD-TVI и AHD камеры</name>
+      <value>4 канала, BNC (1.0 Vp-p, 75 )</value>
+    </spec>
+    <spec>
+      <name>IP-камеры</name>
+      <value>По умолчанию 1 канал (до 6 с замещением аналоговых в Enhanced IP mode)</value>
+    </spec>
+    <spec>
+      <name>Стандарт аудиосжатия</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>4 канала RCA (2.0 Vp-p, 1 k) (1 вход может использоваться для двустороннего аудио), в том числе по технологии AoC (аудио по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 HDMI, 1 VGA, 1 CVBS (1Vp-p композитный, 75 /BNC)</value>
+    </spec>
+    <spec>
+      <name>Разрешение вывода</name>
+      <value>HDMI/VGA: 1920х1080/60Гц, 1280х1024/60Гц, 1280х720/60Гц, 1024х768/60Гц</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 канала, RCA (Линейный, 1 K)</value>
+    </spec>
+    <spec>
+      <name>Видеоаналитика: люди/ТС</name>
+      <value>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения по умолчанию включен для всех аналоговых каналов. Способность классифицировать людей и ТС, снижение количества ложных тревог, вызванных такими объектами, как листья и свет. Поддерживается бы</value>
+    </spec>
+    <spec>
+      <name>Защита периметра</name>
+      <value>Видеоаналитика: люди/ТС: пересечение линии/вторжение - до 2 каналов (аналоговая камера HD)</value>
+    </spec>
+    <spec>
+      <name>Детекция, захват и распознавание лиц</name>
+      <value>1 канал - база до 500 лиц или 80Мб (одно изображение до 1Мб) (аналоговая камера)</value>
+    </spec>
+    <spec>
+      <name>Количество потоков</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>Аналоговый канал: WD1@25к/с, HD-TVI канал: 3Мп@15к/с, 4Мп Lite@15к/с (1й канал), 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с AHD/CVI канал: 1080p@15к/с, 1080p Lite/720p@25к/с IP-канал: до 6 Mп</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>WD1/4CIF@12к/с, CIF/QVGA/QCIF@25к/с</value>
+    </spec>
+    <spec>
+      <name>Тип потока</name>
+      <value>Видео / видео и аудио</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32Кбит/с — 6Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64кбит/с</value>
+    </spec>
+    <spec>
+      <name>Синхронное воспроизведение</name>
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name>Входящий битрейт</name>
+      <value>72 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Удаленные соединения</name>
+      <value>32</value>
+    </spec>
+    <spec>
+      <name>Протоколы сети</name>
+      <value>TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS,ONVIF</value>
+    </spec>
+    <spec>
+      <name>SATA</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Объем</name>
+      <value>до 10 Тб каждый</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M / 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name>USB-интерфейс</name>
+      <value>2, USB2.0</value>
+    </spec>
+    <spec>
+      <name>Последовательный интерфейс</name>
+      <value>1 RS-485 полудуплексный</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход/выход</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность (без HDD)</name>
+      <value>До 18 Вт.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-10°C— +55°C, 10%-90% влажность</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>315  242  45 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1,16 кг (Без жестких дисков)</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

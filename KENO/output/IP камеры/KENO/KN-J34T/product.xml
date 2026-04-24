@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры Скоростные Поворотные/KN-J34T</name>
+  <article>KN-J34T</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>4000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5e1/4ce4d0w8cbe91sbfjgsotac9cctch1rm/440_370_0/IMG_6965-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/5e1/4ce4d0w8cbe91sbfjgsotac9cctch1rm/38_24_2/IMG_6965-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Ваша цена: 4 000 руб. Короткое описание Кронштейн KN-J34T для крепления камер на столб. Исполнен в металлическом корпусе. Подходит для камер: KN-SDE204X23BR, KN-SDE204X33BR, KN-CE203V2812BR, KN-CE203A2812BR, KN-CE204A2812BR, 
+KN-CE204A5050BR, KN-CE505A2812BR, KN-CE505F28, KN-CE503A2812 и для совместного применения с монтажными коробками для размещения кабеля: KN-P06, KN-P06T1, KN-P06T2 (без резьбы). Диаметр хомутов ⌀ 140 - 160мм Особенности IP видеокамеры Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="KN-SPD880X25">8Мп</spec>
+    <spec name="KN-SPD560X25">5Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-skorostnye-povorotnye/kn-j34t/</source_url>
+</product>

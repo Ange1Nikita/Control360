@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеорегистраторы/KN-SMART8/1-4P</name>
+  <article>KN-SMART8-1-4P</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/820/440_370_0/IMG_20180517_123545_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3af/440_370_0/kn_smart4_2_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4bf/440_370_0/IMG_smart_16-vid-snizu_140326-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/820/38_24_2/IMG_20180517_123545_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3af/38_24_2/kn_smart4_2_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4bf/38_24_2/IMG_smart_16-vid-snizu_140326-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 8 1 8 Короткое описание IP видеорегистратор нового поколения KENO KN-SMART8/1-4P - это 8-и потоковый NVR со встроенным 4-х портовым POE коммутатором, поддержкой IVS Аналитики нарушения периметра и Детектции Лиц c iP камер KENO. Особенности IP видеорегистратора Все технические параметры Модель KN-SMART8/1-4P Система Операционная    система Embedded Linux OS Режим работы Пентаплекс Сжатие H.264/ MPEG4 Управление Мышкой и по сети Поддержка камер FOX, KENO, RVI, DAHUA, Hikvision, Falcon Eye, Beward, Arecont Vision, AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры Видео Видео вход 4xLAN (POE),1xLAN (WAN) выход 1xHDMI, 1xVGA, 1xBNC Дисплей 1/4/9/Zoom Отображение 1920x1080, 1280x1024, 1280x720 Аудио Кодирования    аудио 8кГц    × 16бит G.711 Двусторонняя связь вход 1 x RCA выход 1 x RCA Запись Максимальный    поток 80 Mbps Режим работы 8 x 6Mpx    (3072x2048)              200 к/с 8 x 4Mpx    (2560×1440)                200 к/с 8 x 2Mpx    (1920×1080)                200 к/с Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Воспроизведение IP: 4 x 1080p, 2 x 3Mpx, 2 x 4Mpx, 1 x 6Mpx Жесткий диск 1xHDD    (до 8 Тб) (в комплект не входит) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, IP Search, P2P, 3G, WiFi Сетевой интерфейс 1xRJ45    10M/100M/1000M; 8xRJ45 POE DC48V Сетевые функции Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры. Оповещение PUSH уведомления, запись на FTP/NAS, DropBox, Google Drive, пересылка снимка на email пользователя Удаленный доступ Smart IMS300 (с поддержкой камер Hikvision, Dahua, RVI, Falcon Eye, ONVIF) Chrome, FireFox, IE, с мобильного телефона VSS mobile, P2P сервер Дополнительные функции Управление    PTZ RS-485 Резервное копирование USB    - флешка, HDD (переносной), DropBox, Google Dirv</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">8 x 6Mpx    (3072x2048)              200 к/с</spec>
+    <spec name="Сжатие">H.264/ MPEG4</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Поддержка камер">FOX, KENO, RVI, DAHUA, Hikvision, Falcon Eye, Beward, Arecont Vision, AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1 x RCA</spec>
+    <spec name="Дисплей">1/4/9/Zoom</spec>
+    <spec name="Отображение">1920x1080, 1280x1024, 1280x720</spec>
+    <spec name="Аудио">Кодирования    аудио</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Запись">Максимальный    поток</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">IP: 4 x 1080p, 2 x 3Mpx, 2 x 4Mpx, 1 x 6Mpx</spec>
+    <spec name="Жесткий диск">1xHDD    (до 8 Тб) (в комплект не входит)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">1xRJ45    10M/100M/1000M; 8xRJ45 POE DC48V</spec>
+    <spec name="Сетевые функции">Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">PUSH уведомления, запись на FTP/NAS, DropBox, Google Drive, пересылка снимка на email пользователя</spec>
+    <spec name="Удаленный доступ">Smart IMS300 (с поддержкой камер Hikvision, Dahua, RVI, Falcon Eye, ONVIF) Chrome, FireFox, IE, с мобильного телефона VSS mobile, P2P сервер</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной), DropBox, Google Dirve</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">15-20 Вт (без HDD)</spec>
+    <spec name="Рабочий диапазон температуры">-10℃...+55℃</spec>
+    <spec name="Рабочий диапазон влажности">0%~90%</spec>
+    <spec name="Габариты (мм)">360(Ш) х 260(Д) х 48(В),    2 Кг</spec>
+    <spec name="KN-0404FHD/1 aPOE4">4</spec>
+    <spec name="KN-RECORD64/8-4K-AI">64</spec>
+    <spec name="KN-WiFi 4/1">4</spec>
+    <spec name="KN-PRO16/2 - 8P- 4K">16</spec>
+    <spec name="KN-PRO32/2-16P -4K">32</spec>
+    <spec name="KN-PRO16/2-4K">16</spec>
+    <spec name="KN-PRO32/2-4K AI">32</spec>
+    <spec name="KN-CORE36/2-4K-AI">36</spec>
+    <spec name="KN-RECORD36/8-4K-AI">36</spec>
+    <spec name="KN-PRO8/1-4K">8</spec>
+    <spec name="KN-PRO8/1-4P-4K">8</spec>
+    <spec name="KN-PRO16/1-4K">16</spec>
+    <spec name="KN-PRO16/1-8P-4K">16</spec>
+    <spec name="KN-PRO16/2-16P-4K">16</spec>
+    <spec name="KN-PRO16/2-8P-4K">16</spec>
+    <spec name="KN-CORE64/4-4K-AI">64</spec>
+    <spec name="KN-PRO32/2-16P-4K-AI">32</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-dvr/kn-smart8-1-4p/</source_url>
+</product>

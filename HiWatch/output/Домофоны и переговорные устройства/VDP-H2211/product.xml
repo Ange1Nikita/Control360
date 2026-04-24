@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор IP-видеодомофона HiWatch VDP-H2211</name>
+  <model>VDP-H2211</model>
+  <article>305022</article>
+  <sku>305303689</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Абонентские устройства</subcategory>
+  <functional_name>Монитор IP-видеодомофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>7257.95</price>
+  <price_wholesale>6592.64</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/305022/</product_url>
+  <description>
+    <paragraph>7“ IP видеодомофон сенсорный, цветной TFT LCD экран с разрешением 1024х600; встроенные микрофон и динамик; тревожный вход 8; 10M/100M Ethernet; DC12В/PoE; 6Вт; -10...+55°C; 200х140х15.1 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Количество ip видеокамер</name>
+      <value>До 16 ip камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>до 6-ти мониторов</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>200х140х15</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="755.36 КБ">https://www.tinko.ru/upload/exchange/public/documentation/6/C/6C0915EAF3B185736230BEFBAE763670.pdf</document>
+    <document title="Руководство по эксплуатации" size="739.44 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/7/77A491CCB51293026A36F1B7C7FFF428.pdf</document>
+  </documents>
+</product>

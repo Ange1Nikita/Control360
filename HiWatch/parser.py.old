@@ -1,0 +1,497 @@
+# -*- coding: utf-8 -*-
+"""
+Парсер каталога HiWatch (hiwatch.net)
+OpenCart, статический HTML, PDF через AJAX POST
+"""
+
+import re
+import time
+import json
+import logging
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
+
+from utils import get, post, safe_dirname, Progress
+
+log = logging.getLogger('hiwatch')
+
+SITE = 'https://hiwatch.net'
+REQUEST_DELAY = 0.25
+
+
+# ═══════════════════════════════════════════
+# КАТЕГОРИИ
+# ═══════════════════════════════════════════
+
+def discover_categories() -> list[dict]:
+    """Найти все категории из мега-меню сайта"""
+    r = get(SITE)
+    if not r:
+        log.error('Не удалось загрузить главную страницу')
+        return []
+
+    soup = BeautifulSoup(r.text, 'lxml')
+    categories = []
+    seen = set()
+
+    # Мега-меню OpenCart
+    for a in soup.select('#menu a[href], .megamenu a[href], nav a[href]'):
+        href = a.get('href', '')
+        name = a.get_text(strip=True)
+        if not href or not name or len(name) < 2:
+            continue
+        if not href.startswith(SITE):
+            continue
+        # Категории — НЕ товары, НЕ статические страницы
+        path = href.replace(SITE, '').strip('/')
+        if not path:
+            continue
+        # Пропускаем товары, статические страницы, внешние ссылки
+        if any(x in path for x in ['index.php?route=account', 'index.php?route=checkout',
+                                      'index.php?route=information', 'brand_', 'compare', 'wishlist']):
+            continue
+
+        if href not in seen:
+            seen.add(href)
+            categories.append({'name': name, 'url': href})
+
+    # Фильтруем: оставляем только реальные каталожные категории
+    # Проверяем наличие товарных карточек на странице
+    filtered = []
+    for cat in categories:
+        # Категории содержат product-layout или подкатегории
+        if 'index.php?route=product/category' in cat['url']:
+            filtered.append(cat)
+            continue
+        # URL-паттерн каталога hiwatch.net
+        path = cat['url'].replace(SITE, '').strip('/')
+        parts = path.split('/')
+        if len(parts) >= 1 and not '.' in parts[-1]:
+            filtered.append(cat)
+
+    return filtered
+
+
+def discover_categories_smart() -> list[dict]:
+    """Категории HiWatch — используем корневые разделы, подкатегории из breadcrumbs товаров"""
+    main_sections = [
+        {'name': 'IP-oборудование', 'url': f'{SITE}/ip-oborudovanie/', 'parent': 'IP-oборудование'},
+        {'name': 'HD-TVI-oборудование', 'url': f'{SITE}/hd-tvi-oborudovanie/', 'parent': 'HD-TVI-oборудование'},
+        {'name': 'Домофония', 'url': f'{SITE}/domofoniya/', 'parent': 'Домофония'},
+        {'name': 'Аксессуары', 'url': f'{SITE}/aksessuary/', 'parent': 'Аксессуары'},
+        {'name': 'ОПС', 'url': f'{SITE}/ohranno-pozharnaya-signalizaciya/', 'parent': 'ОПС'},
+    ]
+
+    for s in main_sections:
+        s['subcategory'] = ''
+        print(f'  [+] {s["name"]}: {s["url"]}')
+
+    return main_sections
+
+
+def _find_leaf_categories(url: str, parent_name: str) -> list[dict]:
+    """Найти листовые категории (с товарами) рекурсивно"""
+    r = get(url)
+    if not r:
+        return []
+
+    soup = BeautifulSoup(r.text, 'lxml')
+
+    # Есть товары на этой странице?
+    products = soup.select('.product-layout')
+    if products:
+        # Это листовая категория с товарами
+        # Определяем breadcrumb для точного имени
+        crumbs = [a.get_text(strip=True) for a in soup.select('ul.breadcrumb li a')]
+        cat_name = crumbs[-1] if len(crumbs) > 1 else parent_name
+        subcat = ''
+        if len(crumbs) >= 4:
+            cat_name = crumbs[-2]  # Родительская категория
+            subcat = crumbs[-1]    # Текущая подкатегория
+        elif len(crumbs) >= 3:
+            cat_name = crumbs[-1]
+
+        return [{'name': cat_name, 'subcategory': subcat, 'url': url, 'parent': parent_name}]
+
+    # Нет товаров — ищем подкатегории
+    subcats = []
+    base_path = url.replace(SITE, '').rstrip('/')
+
+    # Ссылки на подкатегории
+    for a in soup.select('a[href]'):
+        href = a.get('href', '')
+        if not href.startswith(SITE):
+            continue
+        path = href.replace(SITE, '').rstrip('/')
+        if (path.startswith(base_path + '/') and path != base_path
+                and path.count('/') <= base_path.count('/') + 2):
+            name = a.get_text(strip=True)
+            if name and len(name) > 1 and href not in [s['url'] for s in subcats]:
+                subcats.append({'name': name, 'url': href})
+
+    # Также ищем ссылки формата index.php?route=product/category
+    for a in soup.select('a[href*="route=product/category"]'):
+        href = a.get('href', '')
+        name = a.get_text(strip=True)
+        if name and len(name) > 1 and href not in [s['url'] for s in subcats]:
+            subcats.append({'name': name, 'url': href})
+
+    results = []
+    for sub in subcats:
+        time.sleep(REQUEST_DELAY)
+        results.extend(_find_leaf_categories(sub['url'], parent_name))
+
+    # Если подкатегорий нет и товаров нет — пропускаем
+    return results
+
+
+# ═══════════════════════════════════════════
+# СБОР ССЫЛОК НА ТОВАРЫ
+# ═══════════════════════════════════════════
+
+def collect_products_from_category(cat_url: str) -> list[dict]:
+    """Собрать все товары из категории (все страницы пагинации)"""
+    all_products = []
+    seen = set()
+
+    # Используем limit=100 для минимума страниц
+    sep = '&' if '?' in cat_url else '?'
+    base = f'{cat_url}{sep}limit=100'
+
+    page = 1
+    while True:
+        url = base if page == 1 else f'{base}&page={page}'
+        r = get(url)
+        if not r:
+            break
+
+        soup = BeautifulSoup(r.text, 'lxml')
+        cards = soup.select('.product-layout .product-thumb')
+
+        new_count = 0
+        for card in cards:
+            link = card.select_one('.caption > a[href], .image > a[href]')
+            if not link:
+                continue
+            href = link.get('href', '')
+            if href and href not in seen:
+                seen.add(href)
+                name = link.get_text(strip=True)
+                all_products.append({'url': href, 'name': name})
+                new_count += 1
+
+        if new_count == 0:
+            break
+
+        # Проверяем есть ли следующая страница
+        max_page = 1
+        for pg_link in soup.select('.pagination a[href]'):
+            m = re.search(r'page=(\d+)', pg_link.get('href', ''))
+            if m:
+                max_page = max(max_page, int(m.group(1)))
+
+        if page >= max_page:
+            break
+
+        page += 1
+        time.sleep(REQUEST_DELAY)
+
+    return all_products
+
+
+# ═══════════════════════════════════════════
+# ПАРСИНГ ТОВАРА
+# ═══════════════════════════════════════════
+
+def parse_product(url: str) -> dict | None:
+    """Спарсить полные данные одного товара"""
+    r = get(url)
+    if not r:
+        return None
+
+    soup = BeautifulSoup(r.text, 'lxml')
+    p = {'url': url}
+
+    # Название
+    h1 = soup.select_one('h1.heading span[itemprop="name"]')
+    if not h1:
+        h1 = soup.select_one('h1')
+    if not h1:
+        return None
+    p['name'] = h1.get_text(strip=True)
+
+    # Модель — из последнего breadcrumb (реальное название модели)
+    crumbs_all = soup.select('ul.breadcrumb li')
+    last_crumb = crumbs_all[-1].get_text(strip=True) if crumbs_all else ''
+    p['model'] = last_crumb if last_crumb else ''
+
+    # Если breadcrumb не дал модель — извлекаем из названия
+    if not p['model'] or p['model'] == p['name']:
+        # "Купольная IP-видеокамера Hiwatch DS-I253M(C)(2.8mm)" -> "DS-I253M(C)(2.8mm)"
+        m = re.search(r'(DS-\S+|B1-\S+|VDP-\S+|KIS-\S+)', p['name'])
+        if m:
+            p['model'] = m.group(1)
+
+    # SKU / внутренний код
+    sku_el = soup.select_one('meta[itemprop="sku"]')
+    p['sku'] = sku_el.get('content', '') if sku_el else ''
+    if not p['sku']:
+        model_el = soup.select_one('span[itemprop="model"]')
+        p['sku'] = model_el.get_text(strip=True) if model_el else ''
+
+    # Бренд
+    brand_el = soup.select_one('span[itemprop="brand"]')
+    p['brand'] = brand_el.get_text(strip=True) if brand_el else 'HiWatch'
+
+    # Breadcrumbs -> категория / подкатегория
+    crumbs = [a.get_text(strip=True) for a in soup.select('ul.breadcrumb li a')]
+    # crumbs: ['Главная', 'IP-оборудование', 'IP-видеокамеры', 'Купольные камеры']
+    p['category'] = crumbs[2] if len(crumbs) > 2 else (crumbs[1] if len(crumbs) > 1 else '')
+    p['subcategory'] = crumbs[3] if len(crumbs) > 3 else ''
+
+    # Описание из mini_desc
+    mini = soup.select_one('.mini_desc')
+    p['description'] = mini.get_text(separator='\n', strip=True) if mini else ''
+
+    # Описание из tab-description (если не пустое)
+    tab_desc = soup.select_one('#tab-description')
+    if tab_desc:
+        desc_text = tab_desc.get_text(strip=True)
+        if len(desc_text) > 20 and len(desc_text) > len(p['description']):
+            p['description'] = tab_desc.get_text(separator='\n', strip=True)
+
+    # Характеристики — парсим из mini_desc
+    p['specs'] = _parse_specs(p['description'])
+
+    # Также ищем таблицу характеристик
+    for table in soup.select('table'):
+        rows = table.select('tr')
+        for row in rows:
+            tds = row.select('td')
+            if len(tds) >= 2:
+                k = tds[0].get_text(strip=True)
+                v = tds[1].get_text(strip=True)
+                if k and v and len(k) < 100:
+                    p['specs'].append({'name': k, 'value': v})
+
+    # Фото
+    p['images'] = []
+    seen_imgs = set()
+
+    # Главное фото
+    main_img = soup.select_one('#product .thumbnails > li:first-child a.thumbnail')
+    if main_img:
+        href = main_img.get('href', '')
+        if href:
+            full = urljoin(SITE, href)
+            p['images'].append(full)
+            seen_imgs.add(full)
+
+    # Дополнительные фото
+    for a in soup.select('#product .thumbnails .image-additional a[href]'):
+        href = a.get('href', '')
+        if href:
+            full = urljoin(SITE, href)
+            if full not in seen_imgs:
+                p['images'].append(full)
+                seen_imgs.add(full)
+
+    # Fallback: img с itemprop=image
+    if not p['images']:
+        img = soup.select_one('img[itemprop="image"]')
+        if img:
+            src = img.get('src', '')
+            if src:
+                # Заменяем thumbnail на большой размер
+                full = urljoin(SITE, re.sub(r'-\d+x\d+\.', '-1200x800.', src))
+                p['images'].append(full)
+
+    # Паспорта — через AJAX POST
+    p['passports'] = _get_documents(url)
+
+    return p
+
+
+def _parse_specs(text: str) -> list[dict]:
+    """Парсинг характеристик из текста описания mini_desc"""
+    specs = []
+    if not text:
+        return specs
+
+    # Формат в mini_desc: "описание\nспеки через ; "
+    # Первая строка — описание, остальное — характеристики через ;
+    lines = text.strip().split('\n')
+
+    # Собираем все части разделённые ; из всех строк
+    all_parts = []
+    for line in lines:
+        parts = line.split(';')
+        all_parts.extend(parts)
+
+    for part in all_parts:
+        part = part.strip()
+        if not part:
+            continue
+        # "Ключ значение" — без двоеточия, но с понятной структурой
+        # Пробуем найти паттерн "название параметра значение"
+        # Например: "1/2.9'' Progressive Scan CMOS матрица"
+        #           "объектив 2.8мм"
+        #           "EXIR-подсветка до 30м"
+        # Это скорее значения характеристик без явных ключей
+        # Сохраняем как есть — каждый пункт как отдельная характеристика
+        if len(part) > 3 and len(part) < 300:
+            specs.append({'name': '', 'value': part})
+
+    return specs
+
+
+def _get_documents(product_url: str) -> list[dict]:
+    """Получить список документов через AJAX POST"""
+    docs = []
+
+    # Шаг 1: получить список документов
+    r = post(product_url, data={'cr_documentation_action': 'load_list'})
+    if not r:
+        return docs
+
+    try:
+        data = r.json()
+    except Exception:
+        return docs
+
+    html = data.get('documentation', '')
+    if not html:
+        return docs
+
+    soup = BeautifulSoup(html, 'lxml')
+    for tr in soup.select('tr[data-documentation-id]'):
+        doc_id = tr.get('data-documentation-id', '')
+        title_el = tr.select_one('.title')
+        title = title_el.get_text(strip=True) if title_el else 'document'
+
+        if doc_id:
+            docs.append({
+                'id': doc_id,
+                'title': title,
+                'url': product_url,
+                'data': {
+                    'cr_documentation_action': 'download',
+                    'documentation_id': doc_id,
+                },
+            })
+
+    return docs
+
+
+# ═══════════════════════════════════════════
+# ОСНОВНОЙ СБОР
+# ═══════════════════════════════════════════
+
+def parse_all() -> list[dict]:
+    """Полный парсинг всего каталога"""
+    print('╔══════════════════════════════════════════════╗')
+    print('║  ПАРСЕР HIWATCH.NET                          ║')
+    print('║  Фото + Описание + Характеристики + Паспорта ║')
+    print('╚══════════════════════════════════════════════╝')
+    print()
+
+    # Фаза 1: Категории
+    print('[*] ФАЗА 1: Поиск категорий...')
+    print()
+
+    categories = discover_categories_smart()
+
+    if not categories:
+        log.error('Категории не найдены!')
+        print('  [X] Категории не найдены. Проверьте доступ к сайту.')
+        return []
+
+    print(f'\n  Найдено категорий: {len(categories)}')
+    print()
+
+    # Фаза 2: Сбор ссылок на товары
+    print(f'[*] ФАЗА 2: Сбор ссылок на товары...')
+    print()
+
+    all_product_links = {}  # {url: {name, category, subcategory}}
+    seen_urls = set()
+
+    for cat in categories:
+        cat_name = cat.get('subcategory') or cat['name']
+        parent = cat.get('parent', '')
+        print(f'  [+] {parent} / {cat_name}...', end=' ', flush=True)
+
+        products = collect_products_from_category(cat['url'])
+        new_count = 0
+        for prod in products:
+            if prod['url'] not in seen_urls:
+                seen_urls.add(prod['url'])
+                prod['category'] = cat.get('parent', cat['name'])
+                prod['subcategory'] = cat.get('subcategory', cat['name'])
+                all_product_links[prod['url']] = prod
+                new_count += 1
+
+        print(f'{len(products)} товаров (новых: {new_count})', flush=True)
+
+    print(f'\n  >> Всего уникальных товаров: {len(all_product_links)}')
+    print()
+
+    # Фаза 3: Парсинг каждого товара (многопоточно)
+    WORKERS = 15
+    print(f'[>] ФАЗА 3: Парсинг {len(all_product_links)} товаров ({WORKERS} потоков)...')
+    print()
+
+    progress = Progress(len(all_product_links), 'Товары  ')
+    all_products = []
+    errors = 0
+    lock = threading.Lock()
+
+    def _parse_one(item):
+        url, link_data = item
+        product = parse_product(url)
+        if product:
+            if not product.get('category'):
+                product['category'] = link_data.get('category', '')
+            if not product.get('subcategory'):
+                product['subcategory'] = link_data.get('subcategory', '')
+        return product, url
+
+    with ThreadPoolExecutor(max_workers=WORKERS) as executor:
+        futures = {executor.submit(_parse_one, item): item for item in all_product_links.items()}
+        for future in as_completed(futures):
+            product, url = future.result()
+            with lock:
+                if product:
+                    all_products.append(product)
+                    progress.update(product.get('model', '')[:18])
+                else:
+                    errors += 1
+                    progress.update('err')
+                    log.warning(f'Failed: {url}')
+
+    progress.done(f'{len(all_products)} собрано, {errors} ошибок')
+    print()
+
+    # Статистика
+    cat_counts = {}
+    for p in all_products:
+        c = p.get('category', '?')
+        cat_counts[c] = cat_counts.get(c, 0) + 1
+
+    print('[=] По категориям:')
+    for c, n in sorted(cat_counts.items(), key=lambda x: -x[1]):
+        print(f'   {c}: {n}')
+
+    with_photos = sum(1 for p in all_products if p.get('images'))
+    with_specs = sum(1 for p in all_products if p.get('specs'))
+    with_desc = sum(1 for p in all_products if p.get('description'))
+    with_docs = sum(1 for p in all_products if p.get('passports'))
+    print(f'\n[=] Покрытие:')
+    print(f'   С фото: {with_photos}/{len(all_products)}')
+    print(f'   С характеристиками: {with_specs}/{len(all_products)}')
+    print(f'   С описанием: {with_desc}/{len(all_products)}')
+    print(f'   С паспортом: {with_docs}/{len(all_products)}')
+
+    return all_products

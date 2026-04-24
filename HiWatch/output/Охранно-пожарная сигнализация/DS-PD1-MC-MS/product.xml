@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PD1-MC-MS</name>
+  <model>DS-PD1-MC-MS</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pd1-mc-ms</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Металлическое покрытие</paragraph>
+    <paragraph>• Разработан для железных дверейМагнитоконтактный датчик</paragraph>
+    <paragraph>Контакты NC; установка на окна и двери; -40градусовC...+65градусовC; размер 50 18 10мм; металл.</paragraph>
+    <paragraph>Активное расстояние 40мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Металлическое покрытие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Разработан для железных дверейМагнитоконтактный датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Контакты NC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>установка на окна и двери</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC...+65градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 50 18 10мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>металл.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Активное расстояние 40мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

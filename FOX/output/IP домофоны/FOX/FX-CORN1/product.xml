@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-CORN1</name>
+  <article>FX-CORN1</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>1111000890</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/69b/440_370_0/FX_CORN1_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/e0c/440_370_0/FX_CORN1_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/9fc/440_370_0/FX_CORN1_3_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/2df/440_370_0/FX_CORN1_4_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/631/440_370_0/FX_CORN1_5_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3b9/440_370_0/FX_CORN1_6_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/69b/38_24_2/FX_CORN1_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/e0c/38_24_2/FX_CORN1_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/9fc/38_24_2/FX_CORN1_3_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/2df/38_24_2/FX_CORN1_4_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/631/38_24_2/FX_CORN1_5_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3b9/38_24_2/FX_CORN1_6_.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/69b/440_370_0/FX_CORN1_1_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Уголок">FX-CORN1</spec>
+    <spec name="Технические параметры">Материал</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Габаритные размеры (мм)">149.78(В) x 79.56(Ш) х 48.63(Г)</spec>
+    <spec name="Вес">0,10кг</spec>
+    <spec name="Модель">Формат</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик">Монтаж</spec>
+    <spec name="Накладной">Габаритные размеры (мм)</spec>
+    <spec name="149.78(В) x 79.56(Ш) х 48.63(Г)">Вес</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-corn1/</source_url>
+</product>

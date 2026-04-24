@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная купольная HiWatch DS-T508 (2.7-13.5 mm)</name>
+  <model>DS-T508 (2.7-13.5 mm)</model>
+  <article>304784</article>
+  <sku>300615240</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные купольные</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная купольная</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>5889.52</price>
+  <price_wholesale>5349.65</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/304784/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная купольная уличная со встроенной ИК подсветкой (механический ИК-фильтр); 1/2.5" CMOS, 5 МП 2592x1944 -20к/с, 2560х1440, 1920x1080 -25к/с; 0.01лк/0лк с ИК; f= 2.7-13,5 мм Трансфокатор ; S/N: более 62dB; Дальность ИК подсветки до 40 м (IR-control); DWDR; DNR; EXIR Smart ИК; OSD-меню; DC12В/AC24В/500мА; -40°...+60°C; IP67; IK10; 145 × 111.3 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.5" 5 МП CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>2592х1944/2560х1440/1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив (трансфокатор), f, мм</name>
+      <value>2.7-13.5</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>40</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC/AC, B</name>
+      <value>12/24</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>145х111.3</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="884.92 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/A/0A728AD4C29F3102E475D022490E1750.pdf</document>
+  </documents>
+</product>

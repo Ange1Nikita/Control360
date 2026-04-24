@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ACT-C102</name>
+  <article>323183</article>
+  <sku>302919017</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Сетевые контроллеры доступа</subcategory>
+  <functional_name>Контроллер доступа на 2 двери</functional_name>
+  <nomenclature>Контроллер СКУД сетевой</nomenclature>
+  <price>9310.6</price>
+  <price_wholesale>8457.13</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323183/</product_url>
+  <description>
+    <paragraph>Контроллер доступа на 2 двери Хранилище: 10 000 карт, 50 000 событий; uplink интерфейсы: TCP/IP; интерфейсы считывателей: 4 входа Wiegand; тревожные вход/выход 6/4; DC12В; 100Вт; -20...+65°C; 285×237×69мм; металл.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество пользователей/ключей, не более</name>
+      <value>10 000</value>
+    </spec>
+    <spec>
+      <name>Интерфейс линии связи для передачи данных</name>
+      <value>Ethernet</value>
+    </spec>
+    <spec>
+      <name>Количество событий, хранящихся в памяти контроллера, шт</name>
+      <value>50 000</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых считывателей</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Интерфейс подключаемых считывателей</name>
+      <value>Wiegand</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Управление замком</name>
+      <value>2 Выхода (Реле)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>3.5</value>
+    </spec>
+    <spec>
+      <name>Максимальный ток замка, А</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>285х237х69</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="669.68 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/6/C6D8271D1DEB66DEC62A14E624DC5BA8.pdf</document>
+    <document title="Руководство по эксплуатации" size="5.53 МБ">https://www.tinko.ru/upload/exchange/public/documentation/7/3/7396F9960AA731C5E6FE60C004D75B33.pdf</document>
+  </documents>
+</product>

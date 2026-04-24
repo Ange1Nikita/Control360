@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор TVI 8-канальный HiWatch DS-H108UA(B)</name>
+  <model>DS-H108UA(B)</model>
+  <article>312954</article>
+  <sku>300228165</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 8-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>11415.88</price>
+  <price_wholesale>10369.43</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/312954/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI /AHD/ CVI/ 960H 8 каналов видео + 8 IP 8Мп (до 16 с замещением аналоговых в Enhanced IP mode)+ 1 аудио, до 4-и каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro/H.265/H.265+/H.264/H.264+; Скорость записи TVI: 8 Мп х 8 к/с, 5Мп х12к/с, 4Мп х15к/с, 3Мп х18к/с, 1080p / 720p х25к/с; AHDи CVI: 5Мп х12к/с, 4Мп х15к/с, 3Мп х18к/с, 1080p / 720p х25к/с; аналоговые камеры: WD1х25к/с; IP: доп. 8 каналов 8Мп х25к/с; Видеовыходы: 1 VGA и 1 HDMI до 4К; 2 USB2.0;  Протоколы сети TCP/IP, PPPoE, DHCP, Hik-connect Cloud P2P, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF; сетевой (10M/ 100M/ 1000M Ethernet); 1х HDD SATA до 10Тб; DC12 В /1250 мА (адаптер питания в комплекте); -10°...+55°C; 285 × 210 × 45 мм; ПО CMS в комплекте.Видеоаналитика: «Человек» / «ТС», Защита периметра; Детекция пересечения линии, обнаружение вторжения 4 канала</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>8xTVI или 8х AHD или 8x CVI или 8х960H+8 IP (до 16 IP каналов с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI (до 4K)/VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro/H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>8МП 8к/сек; 5МП12 к/сек на канал; 4МП 15 к/сек на канал; 3МП 18 к/сек на канал; 25 к/сек на канал (1920х1080 пикс.); (1280х720 пикс.); (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Постоянный, по расписанию, обнаружение движения</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100/1000 Ethernet</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; PPPoE; DHCP; Hik-connect Cloud P2P; DNS; DDNS; NTP; SADP; NFS; iSCSI; UPnP™; HTTPS; ONVIF</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="525.52 КБ">https://www.tinko.ru/upload/exchange/public/documentation/F/E/FE2A0268B6D92BDA34408DE35B456C1B.pdf</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/5/05C41B1CDC82BA39EB4EEB55ACA013D7.pdf</document>
+    <document title="Настройка облачного сервиса" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B71E1E48EFCEDAAB920353D1EDA95052.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/A/AA0DB7B9D685ADA06A3026F7AA75188A.pdf</document>
+  </documents>
+</product>

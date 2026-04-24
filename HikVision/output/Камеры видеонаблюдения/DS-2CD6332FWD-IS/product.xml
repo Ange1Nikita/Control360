@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>3Мп FishEye-камера Hikvision DS-2CD6332FWD-IS  с ИК-подсветкой и WDR 120 дБ</name>
+  <model>DS-2CD6332FWD-IS</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6332fwd-is/</product_url>
+  <description>
+    <paragraph>Внутренняя (-10…+50) панорамная купольная IP-камера, видео H.264/MPEG4 с разрешением 2048х1536 25 Fps (с субпотоком) или мультиканальный режим – 1 fish eye 20к/с (1536х1536) + 1 панорамная съемка 20к/с (1600х1200) + 3 PTZ 20к/с (800х600), чувствительность 0.1 Люкс при F1.2, 0 Люкс с ИК, режим «день/ночь» с механическим ИК-фильтром, FishEye-объектив с углами обзора 180/180°, аппаратный WDR 120дБ, 3D DNR, MicroSD до 128ГБ, двусторонний звук, питание 12В или PoE, ИК-подсветка до 15м.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.1 лк @F1.2, AGC Вкл ,0.28 лк @F2.0, AGC Вкл, 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/25 - 1/100.000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>1.19 мм @F2.0</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>180°(по горизонтали) 180°(по вертикали)</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Сжатие видео</name>
+      <value>H.264/MPEG4</value>
+    </spec>
+    <spec>
+      <name>Тип H.264</name>
+      <value>Базовый профиль, основной профиль, высокий профиль</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи</name>
+      <value>32 Кб/сек – 16 Мб/сек</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711/ G.726/ MP2L2</value>
+    </spec>
+    <spec>
+      <name>Аудио битрейт</name>
+      <value>64 кб/с (G.711)/ 16 кб/с (G.726)/ 64 кб/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Макс. разрешение</name>
+      <value>2048 x 1536</value>
+    </spec>
+    <spec>
+      <name>Кадров/с</name>
+      <value>Режим высокой частоты кадров: 1 fish eye 25к/с (2048 × 1536) или 25к/с (1536 х 1536) или 4 PTZ 25 к/с (800 х 600), Мультиканальный режим: 1 fish eye 20к/с (1536 х 1536) и 1 панорамная съемка 20к/с (1600 х 1200 0 и 3 PTZ 20к/с (800 х 600)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контрастность, оттенок, резкость, AGC, Баланс белого</value>
+    </spec>
+    <spec>
+      <name>Количество потоков</name>
+      <value>Режим высокой частоты кадров: от 1 до 4, Мультиканальный режим: до 5 потоков (без суб-потоков)</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Автоматический/ ручной/ по расписанию/ по тревоге</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение данных</name>
+      <value>NAS, SAMB/ CIFS</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, PPPoE, SMTP, NTP, UOnP, SNMP, IGMP, 802.1x, Qos, IPv6, Bounjour</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Детекция движения, замена видео, потеря видео, рассоединение сети, конфликт IP-адресов, контроль хранения данных</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Авторизация пользователя/ Водяные знаки /фильтрация IP адресов/ анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF, PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 RJ45 10 M/100 M/ 1000 M Ethernet и 1 RS-485 (-S)</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 канал 3.5мм, вход для микрофона/линейный (-S), 1 встроенный микрофон по умолчанию, 24дБ</value>
+    </spec>
+    <spec>
+      <name>Интерфейс передачи</name>
+      <value>1 канал 3.5мм аудиовыход (-S), 1 встроенный динамик по умолчанию, поддерживает подавление эхо</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>Встроенный слот для microSD/SDXC карты до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-10 °C – +50 °C</value>
+    </spec>
+    <spec>
+      <name>Источник питания</name>
+      <value>12 В DC ± 10% , PoE (802.3af)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 12 Вт</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Φ164 × 152.8 х 43.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1400 г</value>
+    </spec>
+    <spec>
+      <name>Подходящие кронштейны</name>
+      <value>DS-1271ZJ-DM25, DS-1273ZJ-DM25, DS-1280ZJ-DM25, DS-1281ZJ-DM25, DS-1276ZJ, DS-1275ZJ</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Внутренняя (-10…+50) панорамная купольная IP-камера, видео H.264/MPEG4 с разрешением 2048х1536 25 Fps (с субпотоком) или мультиканальный режим – 1 fish eye 20к/с (1536х1536) + 1 панорамная съемка 20к/с (1600х1200) + 3 PTZ 20к/с (800х600), чувствительность 0.1 Люкс при F1.2, 0 Люкс с ИК, режим «день/ночь» с механическим ИК-фильтром, FishEye-объектив с углами обзора 180/180°, аппаратный WDR 120дБ, 3D DNR, MicroSD до 128ГБ, двусторонний звук, питание 12В или PoE, ИК-подсветка до 15м.ПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f31/140_140_1/f31e57b282136362e46c47ee50132210.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6332fwd-is/?utm_source=comebackletter"&gt;Hikvision DS-2CD6332FWD-IS&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

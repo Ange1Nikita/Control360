@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера TVI купольная HiWatch DS-T133 (2.8 mm)</name>
+  <model>DS-T133 (2.8 mm)</model>
+  <article>276774</article>
+  <sku>300612187</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры TVI купольные</subcategory>
+  <functional_name>Бюджетная видеокамера TVI купольная</functional_name>
+  <nomenclature>Видеокамера TVI</nomenclature>
+  <price>1100.01</price>
+  <price_wholesale>999.17</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/276774/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера HD TVI цветная купольная  со встроенной ИК подсветкой (механический ИК-фильтр) ; 1/4" Progressive Scan CMOS, 1 МП (1280х720); 0.1лк/0лк с вкл ИК; f=2.8 мм; S/N: более 62dB; Дальность ИК подсветки до 20 м; Smart ИК EXIR; OSD, BLC, DWDR, AGC, DNR; Видеовыход переключаемый HD-TVI или CVBS; DC12В/330мА; –20°...+45°C; 85,4 × 76.12 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/4" Progressive Scan CMOS 1МП</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1280х720/960х576</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>1280х720</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.1/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+45</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>85.4х76.12</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="723.47 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/9/09D5BB18DED1D130A16D74336EF018D3.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Проектные решения "Безопасный регион"/KN-CE203V2812BR</name>
+  <article>KN-CE203V2812</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/448/440_370_0/Bez_nazvaniya_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0c9/440_370_0/IMG_mini_format_143520_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9de/440_370_0/IMG_mini_format_143921_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/75b/440_370_0/IMG_mini_format_144110_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/bb4/440_370_0/IMG_mini_format_143315_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/d1d/440_370_0/IMG_mini_format_143431_bez_nazvaniya.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/448/38_24_2/Bez_nazvaniya_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0c9/38_24_2/IMG_mini_format_143520_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9de/38_24_2/IMG_mini_format_143921_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/75b/38_24_2/IMG_mini_format_144110_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/bb4/38_24_2/IMG_mini_format_143315_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/d1d/38_24_2/IMG_mini_format_143431_bez_nazvaniya.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink apple.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink андроид.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 5 6 Уличная 2.0 2.8-12 40 Короткое описание Уличная IP видеокамера профессионального уровня KN-CE203V2812BR для охранного видеонаблюдения. Камера выполнена в современном, надежном, компактном, пыле/влагозащитном металлическом корпусе - индивидуальной разработки, предназначенным для применения в температурном диапазоне от (-40+60), с классом защиты от пыли и влаги ip 66/67. Регулируемая яркость ИК подсветки делает данную модель камеры универсальной. Вы можете регулировать широту и дальность освещения, настраивая под свои условия на объекте. Самая ходовая модель при оборудовании любого объекта системой видеонаблюдения. KENO ПРОЕКТ : Оптимизация потоков для работы с системами СКОУ и ЕЦХД. Встроенный процессор I/O команд для обработки Meta данных. Особенности IP видеокамеры Все технические параметры Модель KN-СE203V2812BR Система Тип матрицы 1/2,8” 2,13 Megapixel SONY STARVIS IMX307 Эффективные    пиксели 1945(H)    × 1097(V) Размер пикселя 2.9x2.9 [μm] Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.24 Лк Сигнал / шум ≥ 50 Дб (AGC выкл.) Камера Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК прожектор OSRAM IR LED III (850нм) до 40м ИК Компенсация Компенсация засветки лица в ближней зоне (Smart IR) Компенсация    засветки HLC / BLC / DWDR / Накопление заряда / Антитуман Видео режим ROI / “Коридор” / Стабилизация изображения Шумоподавление 2DNR (1 - 100%) / 3DNR (6 уровней) Объектив 2.8~12mm (3.0MP) F1.4  с DC АРД и ИК коррекцией Светосила F1.4 Угол обзора H:    110°(Широкий)~30°(Узкий) Формат    кодирования Н.265 / Н.264 (HP/MP/BP) Основной поток 1920 x 1080 (1 ~ 25 к/с) Второстепенный    поток 960 х 540 / 720 x 576 (1 ~ 25 к/с) Поток Одновременная трансляция двух видео потоков Битрейт 32K ~ 8192Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR Отображение титров Имя канала, Дата, Время, Текст до 32 символов Сетевой интерфейс RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” 2,13 Megapixel SONY STARVIS IMX307</spec>
+    <spec name="Эффективные    пиксели">1945(H)    × 1097(V) Размер пикселя 2.9x2.9 [μm]</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.24 Лк</spec>
+    <spec name="Сигнал / шум">≥ 50 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED III (850нм) до 40м</spec>
+    <spec name="ИК Компенсация">Компенсация засветки лица в ближней зоне (Smart IR)</spec>
+    <spec name="Компенсация    засветки">HLC / BLC / DWDR / Накопление заряда / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Шумоподавление">2DNR (1 - 100%) / 3DNR (6 уровней)</spec>
+    <spec name="Объектив">2.8~12mm (3.0MP) F1.4  с DC АРД и ИК коррекцией</spec>
+    <spec name="Светосила">F1.4</spec>
+    <spec name="Угол обзора">H:    110°(Широкий)~30°(Узкий)</spec>
+    <spec name="Формат    кодирования">Н.265 / Н.264 (HP/MP/BP)</spec>
+    <spec name="Основной поток">1920 x 1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">960 х 540 / 720 x 576 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">Одновременная трансляция двух видео потоков</spec>
+    <spec name="Битрейт">32K ~ 8192Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR</spec>
+    <spec name="Отображение титров">Имя канала, Дата, Время, Текст до 32 символов</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 (18.06) Profile-S/G/T  (Движение, Тревога, Meta данные)</spec>
+    <spec name="Открытый API интерфейс">API методом JSON, Token/Digest аутентификация</spec>
+    <spec name="Аналитика">Базовая видео аналитика</spec>
+    <spec name="Питание">DC 12 В ±25%,, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 6Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/67, Подавитель импульсов TVS 8000В для грозозащиты</spec>
+    <spec name="Габариты">113.2(Ш) х 78.9(В) х 203.3(Д)</spec>
+    <spec name="Вес">0.6кг</spec>
+    <spec name="KN-CE204A2812BR">2.0</spec>
+    <spec name="KN-CE204A5050BR">2.0</spec>
+    <spec name="KENO KN-PVN1BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-SDE204X23BR">2Мп</spec>
+    <spec name="KN-SDE204X33BR">2Мп</spec>
+    <spec name="KN-FRT7FBR">1920*1080</spec>
+    <spec name="KN-FRT5WBR">1920*1080</spec>
+    <spec name="KN-FRT5FBR">1920*1080</spec>
+    <spec name="KN-CE505A2812BR">5.0</spec>
+    <spec name="KN-DE505A2812BR">5.0</spec>
+    <spec name="KN-DE508F28BR">5.0</spec>
+    <spec name="KN-CE203A2812BR">2.0</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/proektnye-resheniya/KN-CE203V2812/</source_url>
+</product>

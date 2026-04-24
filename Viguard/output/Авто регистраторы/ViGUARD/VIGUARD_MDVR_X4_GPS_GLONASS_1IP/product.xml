@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD MDVR G4 4-х канальный автомобильный регистратор</name>
+  <article>VIGUARD_MDVR_X4_GPS_GLONASS_1IP</article>
+  <brand>ViGUARD</brand>
+  <category>Авто регистраторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/450_450_1/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/120_120_0/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/500_500_1/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/39c/500_500_1/39c9f31ad29342e5368f62cfa7d1c4f5.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/120_120_1/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/39c/120_120_1/39c9f31ad29342e5368f62cfa7d1c4f5.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/e14/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>ViGUARD MDVR G4 4-х канальный автомобильный регистратор</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/video_registratory/viguard_mdvr_x4_gps_glonass_1ip/</source_url>
+</product>

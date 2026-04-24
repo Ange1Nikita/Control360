@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDPG12P-EG2</name>
+  <model>DS-PDPG12P-EG2</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdpg12p-eg2</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Дальность PIR-датчика: 12 м / 85.9градусов</paragraph>
+    <paragraph>• Дальность акустического датчика (разбития стекла): 8 м / 120градусов</paragraph>
+    <paragraph>• Фильтрация срабатываний на домашних животных до 30 кг</paragraph>
+    <paragraph>• Оконечные резисторы (EOL)</paragraph>
+    <paragraph>• Адаптация напряжения DC от 9 до 16 В с защитой от обратной полярностиPIR датчик с детекцией разбития стекла (2 в 1)</paragraph>
+    <paragraph>ИК-датчик с иммунитетом к животным до 30 кг; Дальность / зона ИК обнаружения 12м х 85.9градусов; Дальность детекции разбития стекла: 8м / 120градусов;защита от помех, температурная компенсация;  -10градусовC...+55градусовC; размер 103 66 49мм; пластик. Высота установки от 1.8м до 2.4м;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность PIR-датчика: 12 м / 85.9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность акустического датчика (разбития стекла): 8 м / 120градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Фильтрация срабатываний на домашних животных до 30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Оконечные резисторы (EOL)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Адаптация напряжения DC от 9 до 16 В с защитой от обратной полярностиPIR датчик с детекцией разбития стекла (2 в 1)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-датчик с иммунитетом к животным до 30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность / зона ИК обнаружения 12м х 85.9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность детекции разбития стекла: 8м / 120градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 103 66 49мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик. Высота установки от 1.8м до 2.4м</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1602ZJ</name>
+  <model>DS-1602ZJ</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1602zj</product_url>
+  <description>
+    <paragraph>Статичный кронштейн предназначен для настенного монтажа внутри и снаружи помещения, а также других плоских поверхностей. DS-1602ZJ изготовлен из алюминиевого сплава, обладающего стойкостью к коррозионным процессам. Конструкция разработана для инсталляции Speed Dome камер.</paragraph>
+    <paragraph>Настенный кронштейн, белый, для скоростных поворотных купольных камер, алюминий, 97.3 182.6 306.3 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Статичный кронштейн предназначен для настенного монтажа внутри и снаружи помещения, а также других плоских поверхностей. DS-1602ZJ изготовлен из алюминиевого сплава, обладающего стойкостью к коррозионным процессам. Конструкция разработана для инсталляции Speed Dome камер.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настенный кронштейн, белый, для скоростных поворотных купольных камер, алюминий, 97.3 182.6 306.3 мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

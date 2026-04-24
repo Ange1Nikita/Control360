@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Provodnye Datchiki</name>
+  <article>PROVODNYE_DATCHIKI</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/181/450_450_1/181081a8ebdf4350bcd657561f09dce5.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/cc3/450_450_1/cc3cf309c1c3d3eff0b451da731198bb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/provodnye_datchiki/</source_url>
+</product>

@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H216UA(B)</name>
+  <model>DS-H216UA(B)</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h216ua-b-</product_url>
+  <description>
+    <paragraph>16-канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)</paragraph>
+    <paragraph>16 каналов</paragraph>
+    <paragraph>H.265 Pro+/H.265 Pro/H.265</paragraph>
+    <paragraph>Запись HD-TVI камер c разрешением до 8MP</paragraph>
+    <paragraph>Запись IP-камер с разрешением до 8 Мп</paragraph>
+    <paragraph>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</paragraph>
+    <paragraph>2 SATA для HDD до 10 ТБ</paragraph>
+    <paragraph>Видео аналитика, Smart Search</paragraph>
+    <paragraph>16/4 тревожных входов/выходов</paragraph>
+    <paragraph>Сетевой интерфейс 1 RJ-45 10M/ 100M / 1000M Ethernet8-ми канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю) для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала (до 32 с замещением аналоговых  в Enhanced IP mode)*</paragraph>
+    <paragraph>Видеовход: 8 каналов BNC; Аудиовход: 4 канала RCA (до 8-и каналов AoC); Видеовыход: 1 VGA до 2К, 1 HDMI до 4К, 1 CVBS; Аудиовыход: 1 канал RCA; видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+; аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы),, вторжения в область и пересечения линии c c MD2.0 (4 аналоговых канала);</paragraph>
+    <paragraph>Разрешение записи на канал: TVI:  8Мп@8к/с, 5Мп@12к/с, 4Мп@15к/с, 3Мп@18к/с, 1080p / 720p@25к/с; AHD и CVI: 1080p/720p@25к/с; аналоговые камеры: WD1@25к/с; IP: до 8Мп - входящий битрейт 128Мбит/с, 1 SATA для HDD до 10Тб; 1 RJ-45 10M/ 100M/ 1000M Ethernet интерфейс; 1 USB2.0, 1 USB3.0; 1 RS-485; Трев. вход/выход 8/4; -10градусовC до +55градусовC; 12В DC: 20Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>16-канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>16 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 Pro+/H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись HD-TVI камер c разрешением до 8MP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись IP-камер с разрешением до 8 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 SATA для HDD до 10 ТБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео аналитика, Smart Search</value>
+    </spec>
+    <spec>
+      <name />
+      <value>16/4 тревожных входов/выходов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс 1 RJ-45 10M/ 100M / 1000M Ethernet8-ми канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю) для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала (до 32 с замещением аналоговых  в Enhanced IP mode)*</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 8 каналов BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 4 канала RCA (до 8-и каналов AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA до 2К, 1 HDMI до 4К, 1 CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы),, вторжения в область и пересечения линии c c MD2.0 (4 аналоговых канала)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI:  8Мп@8к/с, 5Мп@12к/с, 4Мп@15к/с, 3Мп@18к/с, 1080p / 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AHD и CVI: 1080p/720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 8Мп - входящий битрейт 128Мбит/с, 1 SATA для HDD до 10Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M/ 1000M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 USB2.0, 1 USB3.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RS-485</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Трев. вход/выход 8/4</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC: 20Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

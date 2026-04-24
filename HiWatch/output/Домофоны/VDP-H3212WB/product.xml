@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VDP-H3212WB</name>
+  <model>VDP-H3212WB</model>
+  <category>Домофоны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/vdp-h3212wb</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Интерфейс версии 2.0: удобный пользовательский интерфейс</paragraph>
+    <paragraph>7 цветной сенсорный экран с разрешением 1024  600</paragraph>
+    <paragraph>PoE</paragraph>
+    <paragraph>Хранение сообщений и захваченных изображений на TF-карте</paragraph>
+    <paragraph>Удаленное открытие двери через клиентское ПО или мобильное приложение</paragraph>
+    <paragraph>Просмотр видео с вызывных панелей и подключенных камер в режиме реального времени</paragraph>
+    <paragraph>Подключение напрямую к дверному звонку серии KB27“ гибридный IP видеодомофон с Wi-Fi</paragraph>
+    <paragraph>Сенсорный 7" цветной TFT LCD экран с разрешением 1024 600; встроенные микрофон и динамик; слот для SD карты до 128Гб; тревожные входы/выходы 8/2; 1 RJ-45 10M/100M Ethernet; Wi-Fi; DC12В/PoE; 10Вт; -10 градусовC...+55градусовC; размер 200   140   15.1 мм, цвет: черный</paragraph>
+    <paragraph>Возможность подключить две 4-проводные аналоговые панели DS-D100P</paragraph>
+    <paragraph>Операционная система</paragraph>
+    <paragraph>Встроенная ОС Linux</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс версии 2.0: удобный пользовательский интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>7 цветной сенсорный экран с разрешением 1024  600</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Хранение сообщений и захваченных изображений на TF-карте</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленное открытие двери через клиентское ПО или мобильное приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Просмотр видео с вызывных панелей и подключенных камер в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подключение напрямую к дверному звонку серии KB27“ гибридный IP видеодомофон с Wi-Fi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сенсорный 7" цветной TFT LCD экран с разрешением 1024 600</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенные микрофон и динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>слот для SD карты до 128Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные входы/выходы 8/2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Wi-Fi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В/PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10 градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 200   140   15.1 мм, цвет: черный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Возможность подключить две 4-проводные аналоговые панели DS-D100P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Операционная система</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенная ОС Linux</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Встроенная ОС Linux</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

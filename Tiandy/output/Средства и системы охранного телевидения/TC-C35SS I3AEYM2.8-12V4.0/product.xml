@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP купольная Tiandy TC-C35SS I3/A/E/Y/M/2.8-12/V4.0</name>
+  <model>TC-C35SS I3/A/E/Y/M/2.8-12/V4.0</model>
+  <article>323740</article>
+  <sku>1D.20010.002434</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Видеокамера IP купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>19790</price>
+  <price_wholesale>7896.21</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323740/</product_url>
+  <description>
+    <paragraph>Видеокамера IP 5 Мп купольная; 1/2.8'' CMOS матрица; 2592×1944 -20 к/с; S+H.265, H.265, S+H.264, H.264; объектив zoom 2.8-12 мм; ИК-подсветка 30м; 0.002 Лк; Микрофон; WDR-120дБ, BLC, HLC; ONVIF (S,G,T); видеоаналитика: детектор пересечения линии; DC 12В/PoE(af); 10 Вт; IP66 ; -40...+60°C; 132x100 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2592х1944</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 2.8-12</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>50</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.002</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>132х100</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2CD8A47G0/SC-ZY 8–32</name>
+  <model>iDS-2CD8A47G0/SC-ZY 8–32</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2cd8a47g0-sc-zy-8-32-ip-kamera/</product_url>
+  <description>
+    <paragraph>4 Мп, motor-zoom</paragraph>
+    <paragraph>Захват лиц, захват ТС</paragraph>
+    <paragraph>Распознавание номеров</paragraph>
+    <paragraph>Расширенная видеоаналитика</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, NEMA 4X, –30 °C… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0005 лк при F/1.0, AGC вкл.0 лк с вкл. ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с ~ 1/100 000 с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр из синего стекла</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>8 ~ 32 мм, моторизированный</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.0</value>
+    </spec>
+    <spec>
+      <name>Диафрагма</name>
+      <value>P Iris</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 40.3° ~ 14.5°по вертикали: 22.1° ~ 8.2°по диагонали: 46.9° ~ 16.5°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручная</value>
+    </spec>
+    <spec>
+      <name>ИК-подсветка</name>
+      <value>до 50 м</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Видеопотоки</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Третий</name>
+      <value>25 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Четвертый</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Пятый</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264доппотоки: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Управление</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>События</name>
+      <value>обнаружение движения, подделки видео, расфокусировки, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя), входа и выхода из области, вторжения, оставленных предметов, людей, транспортных средств, парковки, заторов, пешеходов в тоннелях, лиц (до 120 одновременно), захват лиц, классификация целей, распознавание номеров мотоциклов (10 000 записей), обнаружение атрибутов ТС (тип, цвет, марка и т. д.)</value>
+    </spec>
+    <spec>
+      <name>Метод привязки</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра наблюдения, отправка e-mail, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 140 дБ, 3D DNR, BLC, HLC, EIS, антитуман, коррекция искажений</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>4 фиксированных зоны для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, насыщенность, яркость, контраст, резкость, AGC и баланс белого настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (профиль S, профиль G, профиль T), ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, DHCP, DNS, DDNS, SRTP, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv4/IPv6, UDP, Bonjour, SSL/TLS, ARP, WebSocket</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяной знак, фильтр IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, RTP/RTSP через HTTPS, настройки таймаута управления, журнал аудита безопасности, TLS 1.2, TLS 1.3</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор, пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>встроенный слот для microSD/SDHC/SDXC до 1 Тбайт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–30 °C…+60 °С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 V ±10 % (3-клеммная колодка), PoE</value>
+    </spec>
+    <spec>
+      <name>Мощность</name>
+      <value>22.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>337.3×193.2×261.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>2.99 кг</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, NEMA 4X</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>4 Мп, motor-zoomЗахват лиц, захват ТСРаспознавание номеровРасширенная видеоаналитика⛅ ☔ ❄ IP67, NEMA 4X, –30 °C… +60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/e07/140_140_1/iDS_2CD8A47G0SC_ZY-8_32-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2cd8a47g0-sc-zy-8-32-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2CD8A47G0/SC-ZY 8–32&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

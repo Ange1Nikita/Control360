@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера купольная HiWatch DS-I453L(D)(4мм)</name>
+  <model>DS-I453L(D)(4мм)</model>
+  <article>348130</article>
+  <sku>311326322</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>7310.58</price>
+  <price_wholesale>6640.45</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/348130/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера IP 4Мп купольная с технологией ColorVu; 1/3" Progressive Scan CMOS; 2560х1440-25 к/с; H.265/H.265+/H.264/H.264+/MJPEG, 4 мм; LED-подсветка 30 м; 0.0005 Лк; микрофон; microSD до 512 Гб; ROI, WDR 120 дБ; 3D DNR; HLC, BLC; режим коридора, обнаружение цели по типу «Человек»/«ТС», IP67; DC12В/PoE; 7.5 Вт; -40...+60°C; 110х93 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560х1440</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>LED</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.0005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>7.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>110х93</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

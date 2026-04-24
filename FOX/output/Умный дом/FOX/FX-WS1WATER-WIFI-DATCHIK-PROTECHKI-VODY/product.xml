@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-WS1Water</name>
+  <article>FX-WS1WATER-WIFI-DATCHIK-PROTECHKI-VODY</article>
+  <brand>FOX</brand>
+  <category>Умный дом</category>
+  <price>11110001490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/6bd/440_370_0/fxws1waterwifiavtonomnyydatchikprotechki-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/6bd/38_24_2/fxws1waterwifiavtonomnyydatchikprotechki-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/6bd/440_370_0/fxws1waterwifiavtonomnyydatchikprotechki-900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-WS1Water</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Подключение">WiFi: 802,11 b/g/n, 2,4 ГГц до 50м</spec>
+    <spec name="Эффективность">Непосредственный контакт с водой</spec>
+    <spec name="Питание">Батарея: ААА 1,5В × 2 (не входят в комплект)</spec>
+    <spec name="Мониторинг энергопотребления / Уровень заряда батареи">Есть</spec>
+    <spec name="Рабочая температура">0°C … +60°C, IP 54</spec>
+    <spec name="Габаритные размеры (мм)">70(Ш) х 20(В) х 24(Г)</spec>
+    <spec name="Вес">87 гр</spec>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-WS1Monitor">Датчик температуры и влажности</spec>
+    <spec name="FX-WS1Smoke">Датчик для обнаружения задымления</spec>
+    <spec name="FX-WS1Open">Датчик открытия/закрытия</spec>
+    <spec name="FX-WS1Water">Датчик протечки воды</spec>
+    <spec name="FX-WS1Socket">Управляемая розетка</spec>
+    <spec name="FX-WS1Relay">Управляемое реле</spec>
+    <spec name="FX-WS1IR">ИК-пульт дистанционного управления</spec>
+    <spec name="FX-WS1PIR">WiFi датчик движения</spec>
+    <spec name="Особенности замка">Все технические параметры</spec>
+    <spec name="Материалы и особенности ПО">Инструкция</spec>
+    <spec name="Инструкция">(4.108МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/umnyy-dom/fx-ws1water-wifi-datchik-protechki-vody/</source_url>
+</product>

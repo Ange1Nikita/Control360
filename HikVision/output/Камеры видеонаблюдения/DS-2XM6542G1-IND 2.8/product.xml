@@ -1,0 +1,259 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XM6542G1-I/ND 2.8</name>
+  <model>DS-2XM6542G1-I/ND 2.8</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6542g1-i-nd-2-8-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>ИК-подсветка 30 м</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+    <paragraph>–40 ºС… +75 ºС, IP68, IP69K, IK10</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк (F/1.2, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Поддержка медленного затвора</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: –15° ~ +15°, наклон: 15° ~ 30°, вращение: –90° ~ +90°</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP68, IP69К, IK10</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 мм, по горизонтали: 95°, по вертикали: 51°, по диагонали: 113°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>30 м</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>до 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Smart 264</name>
+      <value>для основного потока</value>
+    </spec>
+    <spec>
+      <name>Smart 265</name>
+      <value>для основного потока</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>фиксированная область для каждого потока и динамическое слежение за объектом</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, NTP, UPnP, SMTP, SNMP, UDP, SSL/TLS, RTCP, ICMP, IGMP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>HIKSDK, ONVIF (профили S, G, T), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE 8+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, насыщенность, яркость, контрастность, резкость, усиление и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>&gt; 50 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>4 области маскирования</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>RJ-45</value>
+    </spec>
+    <spec>
+      <name>Расширение SD-карты</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, ошибка накопителя)</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, оставленного багажа, перемещения объектадетекция лиц и загрузка изображений событий, обнаружение изменения сцены, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Подключение</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Интерфейс питания</name>
+      <value>RJ-45</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>PoE</value>
+    </spec>
+    <spec>
+      <name>Материал камеры</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>163.7×122.6×65.1 мм</value>
+    </spec>
+    <spec>
+      <name>Масса камеры</name>
+      <value>905 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –40 до +75 °C, влажность: 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский, немецкий, французский и русский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Anti-Flicker, 3 потока, Heartbeat, зеркалирование, маскирование области</value>
+    </spec>
+    <spec>
+      <name>Класс</name>
+      <value>класс B</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP68 IEC 60529-2013, IK10 IEC 62262: 2002, IP69K ISO 20653: 2013</value>
+    </spec>
+    <spec>
+      <name>Окружающая среда</name>
+      <value>CE-RoHS (2011/65/EU)</value>
+    </spec>
+    <spec>
+      <name>Транспортные и ж/д стандарты</name>
+      <value>EN50155-2017 EN 50155: 2017, EN 50121-3-2: 2016, IEC 60068-2-1: 2007, IEC 60068-2-2: 2007, IEC 60068-2-30: 2005, IEC 61373: 2010; EN 45545 (EN 45545-2: 2013 + A1: 2015); E-MARK (ECE R10, R118)</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпИК-подсветка 30 мВстроенный микрофон–40 ºС… +75 ºС, IP68, IP69K, IK10H.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/6e1/140_140_1/DS_2XM6542G1_IMND-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6542g1-i-nd-2-8-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XM6542G1-I/ND 2.8&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

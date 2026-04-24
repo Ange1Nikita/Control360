@@ -1,0 +1,641 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDPC12P-EG2-WE(B)(RU)</name>
+  <model>DS-PDPC12P-EG2-WE(B)(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdpc12p-eg2-we-b-ru-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Дальность обнаружения: 12 м / 85.9градусов</paragraph>
+    <paragraph>• Фильтрация срабатываний на домашних животных до 30 кг</paragraph>
+    <paragraph>• SEC (интеллектуальный контроль окружающей среды) — продвинутая цифровая обработка сигналов и 3D-оптика</paragraph>
+    <paragraph>• Поляризационный фильтр ИК-объектива для равномерного цвета снимков в условиях ночного освещения</paragraph>
+    <paragraph>• Большая емкость встроенной памяти для хранения изображений</paragraph>
+    <paragraph>• Удаленная настройка через приложение</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>• Легко заменяемая батарея с защитой платы</paragraph>
+    <paragraph>Метод детекции</paragraph>
+    <paragraph>Пассивное ИК-излучение, верификация видео</paragraph>
+    <paragraph>Дальность обнаружения</paragraph>
+    <paragraph>12 м</paragraph>
+    <paragraph>Угол детекции</paragraph>
+    <paragraph>85.9°</paragraph>
+    <paragraph>Зоны обнаружения</paragraph>
+    <paragraph>52</paragraph>
+    <paragraph>Скорость обнаружения</paragraph>
+    <paragraph>От 0.3 до 2 м/с</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Автоматич. / Высокая / Фильтрация срабатываний на животных</paragraph>
+    <paragraph>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</paragraph>
+    <paragraph>30 кг</paragraph>
+    <paragraph>Фильтр белого света</paragraph>
+    <paragraph>6500 лк</paragraph>
+    <paragraph>Цифровая температурная компенсация</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Защита нижней зоны</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Цифровая обработка</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Герметичная оптика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Защита передней и задней панели</paragraph>
+    <paragraph>Индикатор температуры окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Индикатор уровня сигнала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Угол обзора</paragraph>
+    <paragraph>88.4° (по горизонтали), 54.0° (по вертикали)</paragraph>
+    <paragraph>Тип изображения</paragraph>
+    <paragraph>JPEG</paragraph>
+    <paragraph>Разрешение</paragraph>
+    <paragraph>640 х 480, 320 х 240, 160 х 120</paragraph>
+    <paragraph>Выравнивающий свет</paragraph>
+    <paragraph>ИК-излучение</paragraph>
+    <paragraph>Режим «День / ночь»</paragraph>
+    <paragraph>Ч/б и белый</paragraph>
+    <paragraph>Дальность подсветки</paragraph>
+    <paragraph>12 м</paragraph>
+    <paragraph>Переключатель питания</paragraph>
+    <paragraph>Включение</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>Синий (тревога)</paragraph>
+    <paragraph>Технология передачи</paragraph>
+    <paragraph>Беспроводная технология CAM-X</paragraph>
+    <paragraph>Метод передачи</paragraph>
+    <paragraph>Беспроводная технология двойного РЧ-сигнала</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Безопасность передачи данных</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Дальность передачи данных (открытое пространство)</paragraph>
+    <paragraph>800 м</paragraph>
+    <paragraph>Методы регистрации</paragraph>
+    <paragraph>Включение, удаленный ввод ID и QR-код</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>CR123A  3</paragraph>
+    <paragraph>Стандартная потребляемая мощность</paragraph>
+    <paragraph>3 В</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>До 6 лет (в режиме ожидания)</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Температура хранения</paragraph>
+    <paragraph>От -20 до +60 °C</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>72.2  120.5  56.7 мм</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>210 г</paragraph>
+    <paragraph>Высота установки</paragraph>
+    <paragraph>От 1.8 до 2.4 м</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>На стену</paragraph>
+    <paragraph>Сценарии применения</paragraph>
+    <paragraph>Установка внутри помещений</paragraph>
+    <paragraph>Кронштейн</paragraph>
+    <paragraph>Кронштейн для установки на стену и потолок (опционально)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность обнаружения: 12 м / 85.9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Фильтрация срабатываний на домашних животных до 30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• SEC (интеллектуальный контроль окружающей среды) — продвинутая цифровая обработка сигналов и 3D-оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поляризационный фильтр ИК-объектива для равномерного цвета снимков в условиях ночного освещения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Большая емкость встроенной памяти для хранения изображений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Легко заменяемая батарея с защитой платы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пассивное ИК-излучение, верификация видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>85.9°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / Высокая / Фильтрация срабатываний на животных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтр белого света</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6500 лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита нижней зоны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая обработка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Герметичная оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор температуры окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор уровня сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>88.4° (по горизонтали), 54.0° (по вертикали)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>JPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>640 х 480, 320 х 240, 160 х 120</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выравнивающий свет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-излучение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Ч/б и белый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключатель питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синий (тревога)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология CAM-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность передачи данных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи данных (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>800 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Методы регистрации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A  3</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартная потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6 лет (в режиме ожидания)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Температура хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -20 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>72.2  120.5  56.7 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>210 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1.8 до 2.4 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сценарии применения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка внутри помещений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кронштейн</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кронштейн для установки на стену и потолок (опционально)</value>
+    </spec>
+    <spec>
+      <name>Метод детекции</name>
+      <value>Пассивное ИК-излучение, верификация видео</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>12 м</value>
+    </spec>
+    <spec>
+      <name>Угол детекции</name>
+      <value>85.9°</value>
+    </spec>
+    <spec>
+      <name>Зоны обнаружения</name>
+      <value>52</value>
+    </spec>
+    <spec>
+      <name>Скорость обнаружения</name>
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Автоматич. / Высокая / Фильтрация срабатываний на животных</value>
+    </spec>
+    <spec>
+      <name>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</name>
+      <value>30 кг</value>
+    </spec>
+    <spec>
+      <name>Фильтр белого света</name>
+      <value>6500 лк</value>
+    </spec>
+    <spec>
+      <name>Цифровая температурная компенсация</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Защита нижней зоны</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Цифровая обработка</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Герметичная оптика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name>Индикатор температуры окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Индикатор уровня сигнала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>88.4° (по горизонтали), 54.0° (по вертикали)</value>
+    </spec>
+    <spec>
+      <name>Тип изображения</name>
+      <value>JPEG</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>640 х 480, 320 х 240, 160 х 120</value>
+    </spec>
+    <spec>
+      <name>Выравнивающий свет</name>
+      <value>ИК-излучение</value>
+    </spec>
+    <spec>
+      <name>Режим «День / ночь»</name>
+      <value>Ч/б и белый</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>12 м</value>
+    </spec>
+    <spec>
+      <name>Переключатель питания</name>
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>Синий (тревога)</value>
+    </spec>
+    <spec>
+      <name>Технология передачи</name>
+      <value>Беспроводная технология CAM-X</value>
+    </spec>
+    <spec>
+      <name>Метод передачи</name>
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Безопасность передачи данных</name>
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи данных (открытое пространство)</name>
+      <value>800 м</value>
+    </spec>
+    <spec>
+      <name>Методы регистрации</name>
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>CR123A  3</value>
+    </spec>
+    <spec>
+      <name>Стандартная потребляемая мощность</name>
+      <value>3 В</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>До 6 лет (в режиме ожидания)</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Температура хранения</name>
+      <value>От -20 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>72.2  120.5  56.7 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>210 г</value>
+    </spec>
+    <spec>
+      <name>Высота установки</name>
+      <value>От 1.8 до 2.4 м</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name>Сценарии применения</name>
+      <value>Установка внутри помещений</value>
+    </spec>
+    <spec>
+      <name>Кронштейн</name>
+      <value>Кронштейн для установки на стену и потолок (опционально)</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

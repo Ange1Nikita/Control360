@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD SOCKET беспроводная розетка USB x 2</name>
+  <article>VIGUARD_SOCKET_BESPROVODNAYA_ROZETKA_USB_X_2</article>
+  <brand>ViGUARD</brand>
+  <category>Classic Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/90f/450_450_1/90f4557e2efc45fad177aa629ee9d936.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/90f/120_120_0/90f4557e2efc45fad177aa629ee9d936.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/90f/500_500_1/90f4557e2efc45fad177aa629ee9d936.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/da4/500_500_1/da4727a9cdcf3447aa00ce76a2c15126.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/90f/120_120_1/90f4557e2efc45fad177aa629ee9d936.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/da4/120_120_1/da4727a9cdcf3447aa00ce76a2c15126.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/90f/90f4557e2efc45fad177aa629ee9d936.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>ViGUARD SOCKET беспроводная розетка USB x 2</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/viguard_socket_besprovodnaya_rozetka_usb_x_2/</source_url>
+</product>

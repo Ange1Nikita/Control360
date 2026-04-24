@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-C2BL (Гриф)</name>
+  <article>FX-C2BL-GRIF</article>
+  <brand>FOX</brand>
+  <category>WiFi/4G камеры</category>
+  <price>584008490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/702/440_370_0/643d9c0f8a9f2d05d8ab90c37fd7b5c_fotor_202312041695-_768_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c61/440_370_0/643d9c0f8a9f2d05d8ab90c37fd7b5c-_768_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/702/38_24_2/643d9c0f8a9f2d05d8ab90c37fd7b5c_fotor_202312041695-_768_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c61/38_24_2/643d9c0f8a9f2d05d8ab90c37fd7b5c-_768_.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/tariffs2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/702/440_370_0/643d9c0f8a9f2d05d8ab90c37fd7b5c_fotor_202312041695-_768_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-C2BL (Гриф)</spec>
+    <spec name="Тип корпуса">Цилиндрическая 4G камера</spec>
+    <spec name="Тип матрицы">1/2.8” CMOS</spec>
+    <spec name="Видеокодек">H.265</spec>
+    <spec name="Эффективные пиксели">1920(H) x 1080(V)</spec>
+    <spec name="Количество кадров в секунду">20К/с</spec>
+    <spec name="Разрешение">1920х1080, 2Мп</spec>
+    <spec name="Объектив">2.8mm</spec>
+    <spec name="Угол обзора">(гор.)110°/ (верт.)55°</spec>
+    <spec name="ИК подсветка">Подсветка ИК до 20м</spec>
+    <spec name="ИК-фильтр">Есть</spec>
+    <spec name="Минимальная    чувствительность, люкс">0,15Лк / F1.2 (ИК выкл.)</spec>
+    <spec name="Битрейт">32 Кбит/с – 2 Мбит/с</spec>
+    <spec name="Сетевой интерфейс">Беспроводный</spec>
+    <spec name="Стандарт беспроводной связи">LTE Cat.4</spec>
+    <spec name="Диапазон частот LTE">FDD B1/3/5/7/8/20/28, TDD B38/40/41</spec>
+    <spec name="Сетевые протоколы">DHCP/IP/TCP/P2P/WebRTC</spec>
+    <spec name="Поддерживаемые клиенты">Мобильные устройства Android и iOS</spec>
+    <spec name="Приложение">FOX Smart</spec>
+    <spec name="Облачное хранилище">Есть (Платная услуга)</spec>
+    <spec name="Аудио">Встроенный микрофон, динамик</spec>
+    <spec name="Аудиокодек">PCM</spec>
+    <spec name="Динамик">1Вт, 8Ом</spec>
+    <spec name="Карта памяти">MicroSD, Class 10 и выше, до 256 ГБ включительно</spec>
+    <spec name="3G/4G Коммуникатор">Встроенный (SIM слот)</spec>
+    <spec name="Встроенная сирена">Есть</spec>
+    <spec name="Детектор движения">Есть</spec>
+    <spec name="Детектор человека">Нет</spec>
+    <spec name="Питание">12В DC, 1,0 A</spec>
+    <spec name="Энергопотребление">Не более 10Вт</spec>
+    <spec name="Степень    защиты">IP65</spec>
+    <spec name="Материал корпуса">ABS пластик</spec>
+    <spec name="Рабочая температура,    °C">-30° C … +50° C</spec>
+    <spec name="Допустимая относ. влажность">до 98 % при температуре 25 °С</spec>
+    <spec name="Габариты">73(Ш)*73(В)*145(Д) мм.</spec>
+    <spec name="Вес">0,4кг</spec>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FX-C3SE (Сова)">3Мп</spec>
+    <spec name="FX-C3BE (Cтриж)">3Мп</spec>
+    <spec name="FX-C2BL (Гриф)">2Мп</spec>
+    <spec name="FX-C2SL (Филин)">2Мп</spec>
+    <spec name="FX-C3M (Лунь)">3Мп</spec>
+    <spec name="FX-C3S (Сыч)">3Мп</spec>
+    <spec name="FX-C4BL (Коршун)">4Мп</spec>
+    <spec name="FX-C4SL (Сипуха)">4Мп</spec>
+    <spec name="FX-C5BE (Сапсан)">5Мп</spec>
+    <spec name="FX-C5SE (Неясыть)">5Мп</spec>
+    <spec name="FX-C4MB (Чеглок)">4Мп</spec>
+    <spec name="FX-C4MW (Чеглок)">4Мп</spec>
+    <spec name="FX-C6SDE(Cплюшка)">3Мп + 3Мп</spec>
+    <spec name="Уличная">2Мп</spec>
+    <spec name="2,8мм">до 20м</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="Материалы и особенности ПО">Инструкция Гриф</spec>
+    <spec name="Инструкция Гриф">FX-C2BL (Гриф).pdf (0.952МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/wifi-4g-kamery/fox-umnye-4g-kamery/fx-c2bl-grif/</source_url>
+</product>

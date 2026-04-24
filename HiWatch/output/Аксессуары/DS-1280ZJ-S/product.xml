@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1280ZJ-S</name>
+  <model>DS-1280ZJ-S</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1280zj-s</product_url>
+  <description>
+    <paragraph>Монтажная коробка, белая, алюминий,  137 53.4 x 164,8мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Монтажная коробка, белая, алюминий,  137 53.4 x 164,8мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

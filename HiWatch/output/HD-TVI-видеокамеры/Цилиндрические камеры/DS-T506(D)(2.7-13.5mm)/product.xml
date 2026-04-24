@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T506(D)(2.7-13.5mm)</name>
+  <model>DS-T506(D)(2.7-13.5mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t506-d--2-7-13-5-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Высокое качество изображения c разрешением 5 Мп, 2560  1944</paragraph>
+    <paragraph>Моторизированный вариофокальный объектив от 2.7 до 13.5 мм</paragraph>
+    <paragraph>Дальность ИК-подсветки до 40 м для получения ярких изображений в ночное время</paragraph>
+    <paragraph>Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</paragraph>
+    <paragraph>Защита от влаги и пыли: IP67</paragraph>
+    <paragraph>Встроенный слот для microSD/SDHC/SDXC: нет</paragraph>
+    <paragraph>Встроенный микрофон: нет5Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 40м</paragraph>
+    <paragraph>1/2.5" CMOS матрица; моторизированный вариообъектив 2.7-13.5мм; угол обзора 95градусов-26градусов; 2592x1944@20к/с, (2560x1440, 1920x1080)@25к/с; механический ИК-фильтр; 0.01 Лк@F1.2; DNR; DWDR, EXIR Smart ИК; OSD-меню; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; IP67; -40градусовС до +60градусовС; 12В DC/24 AC+-15%, 8,8Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высокое качество изображения c разрешением 5 Мп, 2560  1944</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Моторизированный вариофокальный объектив от 2.7 до 13.5 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность ИК-подсветки до 40 м для получения ярких изображений в ночное время</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита от влаги и пыли: IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для microSD/SDHC/SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон: нет5Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 40м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.5" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>моторизированный вариообъектив 2.7-13.5мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 95градусов-26градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2592x1944@20к/с, (2560x1440, 1920x1080)@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, EXIR Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD-меню</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC/24 AC+-15%, 8,8Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

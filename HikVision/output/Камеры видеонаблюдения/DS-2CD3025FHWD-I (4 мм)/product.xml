@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD3025FHWD-I (4 мм)</name>
+  <model>DS-2CD3025FHWD-I (4 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd3025fhwd-i-4-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>2 Мп на 50 fps, 3 потока</paragraph>
+    <paragraph>EXIR-подсветка 40 м, WDR 120 дБ</paragraph>
+    <paragraph>H.265+, H.264+, H.265, H.264</paragraph>
+    <paragraph>Чувствительность 0.005 лк</paragraph>
+    <paragraph>⛅ ☔ ❄IP67, -40 ºС… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.005 лк (F/1.2, AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 с. ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>4 мм F/1.6</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>86.4°</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0° ~ 360°; наклон: 0° ~ 90°; вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, MJPEG, H.265+, H.264+</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (640×360, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1280×720, 640×360, 352×288)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора, зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, 1 регион ROI для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, оставленных и пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>обнаружение лиц</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (поддержка NFS,SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S, PROFILE G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, разрыв сети, конфликт IP-адресов, ошибки авторизации, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>запись на microSD/SDHC/SDXC, уведомление клиента, отправка email, загрузка на FTP, активация канала  записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, PoE (802.3af, class 3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>6.5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>до 40 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø70×155.03 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (нетто)</name>
+      <value>0.41 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>2 Мп на 50 fps, 3 потокаEXIR-подсветка 40 м, WDR 120 дБH.265+, H.264+, H.265, H.264Чувствительность 0.005 лк⛅ ☔ ❄IP67, -40 ºС… +60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/c39/140_140_1/DS_2CD3025FHWD_I-_2.8-mm_-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd3025fhwd-i-4-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD3025FHWD-I (4 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

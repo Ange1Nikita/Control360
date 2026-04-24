@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD PIR F беспроводной датчик движения HOME LINE</name>
+  <article>VIGUARD_PIR_F_BESPROVODNOY_DATCHIK_DVIZHENIYA_HOME_LINE</article>
+  <brand>ViGUARD</brand>
+  <category>Home Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/4d2/450_450_1/4d2bea0a9b3d885c7b88701b729bf524.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/4d2/120_120_0/4d2bea0a9b3d885c7b88701b729bf524.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/4d2/500_500_1/4d2bea0a9b3d885c7b88701b729bf524.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1e2/500_500_1/1e21d470242a8b23bf943f7db13f7435.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/c44/500_500_1/c44c7305c36b7df5aaab8af60ec09708.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/4d2/120_120_1/4d2bea0a9b3d885c7b88701b729bf524.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1e2/120_120_1/1e21d470242a8b23bf943f7db13f7435.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/c44/120_120_1/c44c7305c36b7df5aaab8af60ec09708.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/4d2/4d2bea0a9b3d885c7b88701b729bf524.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>ViGUARD PIR F беспроводной датчик движения HOME LINE</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/home_line/viguard_pir_f_besprovodnoy_datchik_dvizheniya_home_line/</source_url>
+</product>

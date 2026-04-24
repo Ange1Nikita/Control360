@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ТСН-008</name>
+  <article>256215</article>
+  <sku />
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Внутриобъектовые системы</subcategory>
+  <functional_name>Система видеонаблюдения на базе IP-видеокамер HiWatch с применением технологии Wi-Fi</functional_name>
+  <nomenclature>Типовое решение ТСН</nomenclature>
+  <price>50184.23</price>
+  <price_wholesale />
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/256215/</product_url>
+  <description>
+    <paragraph>Преимуществом данного типового решения является возможность использования его для передачи видео и аудио сигнала через беспроводную Wi-Fi сеть.</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

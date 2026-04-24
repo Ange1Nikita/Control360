@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Вандалозащищенный уличный SpeedDome Hikvision DS-2AF1-412x с x12 оптикой</name>
+  <model>DS-2AF1-412x</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2af1-412-povorotnaja-analogovaja-kamera-videonabljudenija/</product_url>
+  <description>
+    <paragraph>Уличная (-30…+65) аналоговая скоростная купольная поворотная видеокамера, 600 ТВЛ ночью в ч/б и 540 ТВЛ днем в цвете, механический ИК-фильтр, оптический зум х12, скорость поворота 200 гр/с, вандалозащищенный IP66-корпус.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Камера</name>
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name>Пиксели</name>
+      <value>752 × 582</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>540ТВЛ (цвет.), 600ТВЛ (Ч/Б)</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.2Люкс / F1.6 (цвет. ) 0.02Люкс / F1.6 (Ч/Б)</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>Авто/ ATW / Вручную / Уличный / Для помещений</value>
+    </spec>
+    <spec>
+      <name>Автоматическая регулировка усиления</name>
+      <value>Авто / Вручную</value>
+    </spec>
+    <spec>
+      <name>Отношение "сигнал-шум"</name>
+      <value>Более 50Дб</value>
+    </spec>
+    <spec>
+      <name>Компенсация встречной засветки</name>
+      <value>Вкл. / Выкл.</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/50сек ~ 1/10,000сек</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ICR</value>
+    </spec>
+    <spec>
+      <name>Цифровое увеличение</name>
+      <value>16x</value>
+    </spec>
+    <spec>
+      <name>Автофокус</name>
+      <value>Авто / Полуавтоматический / Вручную</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>Увеличение</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>2 сек. (оптич. Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Зона видения</name>
+      <value>50.69° до 4.5° (Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Мин. раб. растояние</name>
+      <value>10-1500мм</value>
+    </spec>
+    <spec>
+      <name>Диафрагма</name>
+      <value>F1.6-F2.7</value>
+    </spec>
+    <spec>
+      <name>Поворот</name>
+      <value>Зона действия</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>Вручную: 0.1° / сек - 200° сек, Предустановка: 200°/сек</value>
+    </spec>
+    <spec>
+      <name>Вращение</name>
+      <value>-2°~90° (Автомат. переворот)</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>Вручную: 0.1° - 120° сек, Предустановка: до 120° / сек</value>
+    </spec>
+    <spec>
+      <name>Управление поворотом/наклоном</name>
+      <value>Да</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>255</value>
+    </spec>
+    <spec>
+      <name>Зоны патрулирования</name>
+      <value>8 зон, по 32 предустановки каждая</value>
+    </spec>
+    <spec>
+      <name>Зоны обхода</name>
+      <value>4 варианта обхода общей продолжительностью 10 мин</value>
+    </spec>
+    <spec>
+      <name>Режим просмотра</name>
+      <value>Программируемая предустановка / Патруль / Поворотное сканирование / Наклонное сканирование / Случайное сканирование / Покадровое сканирование / Панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Задачи по графику</name>
+      <value>Программируемая предустановка / Патруль / Поворотное сканирование / Наклонное сканирование / Случайное сканирование / Покадровое сканирование / Панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>Защита паролем</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Действие послеперерыва</name>
+      <value>Вызов предустановки / Патруля / Модели поведения / Автосканирования / Нерегулярного сканирования</value>
+    </spec>
+    <spec>
+      <name>Компас</name>
+      <value>Есть, направление севера настраивается</value>
+    </spec>
+    <spec>
+      <name>Показ PTZ-позиции</name>
+      <value>Вкл./Выкл.</value>
+    </spec>
+    <spec>
+      <name>Тревога</name>
+      <value>Тревожные входы</value>
+    </spec>
+    <spec>
+      <name>Тревожные выходы</name>
+      <value>1 канал</value>
+    </spec>
+    <spec>
+      <name>Действия при тревогах</name>
+      <value>Вызов предустановки Патруль / Поворотное сканирование / Наклонное сканирование / Случайное сканирование / Покадровое сканирование / Панорамное сканирование / Сигнал на выходсканирования</value>
+    </spec>
+    <spec>
+      <name>Ввод / вывод</name>
+      <value>Вывод на монитор</value>
+    </spec>
+    <spec>
+      <name>Общие</name>
+      <value>Языки меню</value>
+    </spec>
+    <spec>
+      <name>RS-485 протоколы</name>
+      <value>HIKVISION, PELCO-P, PELCO-D, самонастр-ся</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>24VAC (12VDC опция)</value>
+    </spec>
+    <spec>
+      <name>Потребляемаямощность</name>
+      <value>18Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура/влажность</name>
+      <value>-30°C ~ 65°C ,90% или меньше</value>
+    </spec>
+    <spec>
+      <name>Защищенность видеокамеры</name>
+      <value>IP66, вандалозащита,  4000 ватт. подавитель напряжения переходных процессов (TVS) для грозозащиты</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>180(мм)×239.5(мм)</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>4 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Уличная (-30…+65) аналоговая скоростная купольная поворотная видеокамера, 600 ТВЛ ночью в ч/б и 540 ТВЛ днем в цвете, механический ИК-фильтр, оптический зум х12, скорость поворота 200 гр/с, вандалозащищенный IP66-корпус.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/cbf/140_140_1/cbf7582d3c04323c4b968eb6eec29ec3.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2af1-412-povorotnaja-analogovaja-kamera-videonabljudenija/?utm_source=comebackletter"&gt;Hikvision DS-2AF1-412x&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DE207F36</name>
+  <article>KN-DE207F36</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/621/440_370_0/kn_de207v2812v2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/802/440_370_0/kn_de207v2812_2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/53c/440_370_0/kn_de207v2812_3_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/621/38_24_2/kn_de207v2812v2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/802/38_24_2/kn_de207v2812_2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/53c/38_24_2/kn_de207v2812_3_.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/v-home.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/v-home.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/fseye_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/fseye_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 Внутренняя 2.0 3.6 20 Короткое описание IP видеокамера профессионального уровня KN-DE207F36/KN-DE207F36BR со встроенным микрофоном, предназначенная для охранного видеонаблюдения внутри помещений. Исполнение видеокамеры идеально подходит для размещения в офисах, и решения задач, где помимо видео изображения необходимо получить аудио звук, без размещения дополнительных микрофонов. Наличие ИК подсветки и компактный размер, делает эту модель основой, практически, любой системы видеонаблюдения внутри помещения. Особенности IP видеокамеры Все технические параметры Модель KN-DE207F36 Система Тип матрицы 1/2,9” SONY EXMOR IMX323 (2.19Mega) Эффективные    пиксели 1985(H)    × 1105(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка ИК прожектор OSRAM IR LED II (850нм) до 20м Компенсация    засветки BLC / ROI / DWDR / Slow Shutter Баланс белого Авто Усиление Авто/Ручной Шумоподавление 2DNR / 3DNR Приватные зоны До    4-х зон Оптика Объектив 3.6mm YT0036A (5.0MP) F1.6 Светосила F1.2 Угол обзора H: 87° Видео Формат    кодирования H.264 /  Mjpeg Основной поток 1080P/960P/720P/D1(1 ~ 25 к/с) Второстепенный    поток Q720P/D1/CIF (1 ~ 25 к/с) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, RTP, SNMP v.1/v.2, SSL, QoS, IGMP, ICMP, UDP, DHCP, DNS, PPPOE, DDNS, FTP, NTP, RTSP ONVIF Onvif Profile-S/G (Движение, Тревога, Metadata) CGI / API Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows Дополнительно Аудио Встроенный микрофон с АРУ (G.711A) Тревога - ePTZ - Видеовыход 1    BNC(1.0Vp-p, 75 ) Memory Slot - Технические параметры Питание DC 12 В ±10%, PoE (802.3af) Потребление Не более 5Вт Рабочая    температура -10°C ... +50°C,    10% ... 90% Степень защиты IP65,  грозозащита до 8000В Габариты Ø 110 x 59(В) Вес 0.33к</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,9” SONY EXMOR IMX323 (2.19Mega)</spec>
+    <spec name="Эффективные    пиксели">1985(H)    × 1105(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">ИК прожектор OSRAM IR LED II (850нм) до 20м</spec>
+    <spec name="Компенсация    засветки">BLC / ROI / DWDR / Slow Shutter</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">3.6mm YT0036A (5.0MP) F1.6</spec>
+    <spec name="Светосила">F1.2</spec>
+    <spec name="Угол обзора">H: 87°</spec>
+    <spec name="Формат    кодирования">H.264 /  Mjpeg</spec>
+    <spec name="Основной поток">1080P/960P/720P/D1(1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">Q720P/D1/CIF (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, RTP, SNMP v.1/v.2, SSL, QoS, IGMP, ICMP, UDP, DHCP, DNS, PPPOE, DDNS, FTP, NTP, RTSP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">Встроенный микрофон с АРУ (G.711A)</spec>
+    <spec name="Тревога">-</spec>
+    <spec name="ePTZ">-</spec>
+    <spec name="Видеовыход">1    BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Memory Slot">-</spec>
+    <spec name="Питание">DC 12 В ±10%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 5Вт</spec>
+    <spec name="Рабочая    температура">-10°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP65,  грозозащита до 8000В</spec>
+    <spec name="Габариты">Ø 110 x 59(В)</spec>
+    <spec name="Вес">0.33кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/KN-DE207F36/</source_url>
+</product>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IVD70WP белый</name>
+  <article>FX-IVD70WP</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>1111000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3f6/440_370_0/PIC1_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/654/440_370_0/IMG_5291_900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0bd/440_370_0/FX_IVD70WP_KIT_SCHEME_WIFI.jpg</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b34/440_370_0/FX_IVD70WP_KIT_SCHEME_POE.jpg</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3f6/38_24_2/PIC1_2_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/654/38_24_2/IMG_5291_900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0bd/38_24_2/FX_IVD70WP_KIT_SCHEME_WIFI.jpg</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b34/38_24_2/FX_IVD70WP_KIT_SCHEME_POE.jpg</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/3f6/440_370_0/PIC1_2_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-IVD70WP</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Дисплей</spec>
+    <spec name="Разрешение">1024 X 600</spec>
+    <spec name="Сетевой интерфейс LAN">RJ-45 (10/100Base-T) / Wi-Fi 802.11 b/g/n</spec>
+    <spec name="Протокол">TCP/IP, SIP, RTSP</spec>
+    <spec name="Стандарт видео">AHD 1080 / 720P / 960Р, CVBS (960H) (PAL / NTSC)</spec>
+    <spec name="Поддержка IP камер">До 16 IP камер по протоколу Onvif</spec>
+    <spec name="Метод декодирования">H.264 (BP/MP)</spec>
+    <spec name="Основной поток">До 1920 x 1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный поток">До 704 x 576 (1 ~ 25 к/с)</spec>
+    <spec name="Открытый API интерфейс">API методом ISAPI, текст или Token/Digest аутентификация</spec>
+    <spec name="Звуковая система">Встроенный микрофон с АРУ и ШП, Встроенный Динамик
+Аудио G.711 (a-law, μ-law)
+Звуковое сопровождения действий на мониторе</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">TF до 32 Гб</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">Панель</spec>
+    <spec name="Тип замка">электромагнитный/</spec>
+    <spec name="Детектор движения">Одноканальный режим</spec>
+    <spec name="Часы">Да</spec>
+    <spec name="Автоответчик">Да</spec>
+    <spec name="Интерком">Адресный, с двухсторонней связью</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN</spec>
+    <spec name="Реле">Два сухих контакта для управления замком NO1/NО2</spec>
+    <spec name="Интерфейсы">RS485, Трев. вход 8шт</spec>
+    <spec name="Питание">DC 12 В ±15%, PoE (802.3af)</spec>
+    <spec name="Потребление/td&gt;Не более 6Вт">Не более 6Вт</spec>
+    <spec name="Степень защиты/td&gt;Подавитель импульсов TVS 2000В">Подавитель импульсов TVS 2000В</spec>
+    <spec name="Рабочая температура">-10°C … +60°C</spec>
+    <spec name="Габаритные размеры (мм)">140 (В) x 200 (Ш) х 15 (Г)</spec>
+    <spec name="Вес">0,35кг</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-IVD70WP черный">8”</spec>
+    <spec name="FX-IVD70WP белый">8”</spec>
+    <spec name="Комплект IP видеодомофона белый">7”</spec>
+    <spec name="Комплект IP видеодомофона черный">7”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8B">8”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8W">8”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10B)">10”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10W)">10”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8B)">8”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8W)">8”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10W">10”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10B">10”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7W">7”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7B">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7W)">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7B)">7”</spec>
+    <spec name="8”">128 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик / Акрил">Видео</spec>
+    <spec name="Дисплей">7" TFT LCD (17см)</spec>
+    <spec name="WI-FI">Поддержка беспроводных сетей WI-FI</spec>
+    <spec name="нет">Поддержка MicroSD</spec>
+    <spec name="TF до 32 Гб">Функции</spec>
+    <spec name="Кнопки управления">Сенсорные</spec>
+    <spec name="электромеханический">Детектор движения</spec>
+    <spec name="Одноканальный режим">Часы</spec>
+    <spec name="Да">Интерком</spec>
+    <spec name="Адресный, с двухсторонней связью">Технические параметры</spec>
+    <spec name="Монтаж">Накладной</spec>
+    <spec name="Потребление/td&gt;">Не более 6Вт</spec>
+    <spec name="Степень защиты/td&gt;">Подавитель импульсов TVS 2000В</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(0.366МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony/fx-ivd70wp/</source_url>
+</product>

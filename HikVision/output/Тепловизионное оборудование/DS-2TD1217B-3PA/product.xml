@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Тепловизионная IP-камера Hikvision DS-2TD1217B-3/PA</name>
+  <model>DS-2TD1217B-3/PA</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Тепловизионное оборудование</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2td1217b-3-pa-ip-kamera-s-teplovizorom/</product_url>
+  <description>
+    <paragraph>Дистанция измерения 0.8 ~ 1.5 м</paragraph>
+    <paragraph>4 Мп</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+    <paragraph>Smart ИК-подсветка до 15 м</paragraph>
+    <paragraph>Слот для microSD до 256 Гбайт</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>неохлаждаемый микроболометрический детектор (оксид ванадия)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>160×120 (разрешение выходного изображения 320×240)</value>
+    </spec>
+    <spec>
+      <name>Шаг пикселя</name>
+      <value>17 мкм</value>
+    </spec>
+    <spec>
+      <name>Спектральный диапазон</name>
+      <value>от 8 до 14 мкм</value>
+    </spec>
+    <spec>
+      <name>Тепловая чувствительность NETD</name>
+      <value>≤ 40 мк (при 25 °C, F# = 1.0)</value>
+    </spec>
+    <spec>
+      <name>Объектив (фокусное расстояние)</name>
+      <value>3.1 мм</value>
+    </spec>
+    <spec>
+      <name>Мгновенный угол поля зрения</name>
+      <value>5.48 мрад</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>50×37.2°</value>
+    </spec>
+    <spec>
+      <name>Минимальная дистанция фокусировки</name>
+      <value>0.2 м</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.1</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2688×1520</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0089 лк при F/1.6, AGC вкл.ч/б: 0.0018 лк при F/1.6, AGC вкл.</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>от 1 до 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Объектив, фокусное расстояние</name>
+      <value>4 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>84×44.8°</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 120 дБ, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр с автоматическим переключателем</value>
+    </spec>
+    <spec>
+      <name>Двухспектральное совмещение изображения</name>
+      <value>совмещенный вид тепловизора и оптического канала</value>
+    </spec>
+    <spec>
+      <name>Изображение в изображении</name>
+      <value>объединение деталей теплового и оптического изображения, накладывает тепловое изображение на оптическое изображение</value>
+    </spec>
+    <spec>
+      <name>VCA (анализ видеоизображений)</name>
+      <value>4 типа правил VCA (пересечение линии, вторжение, вход/выход из области), всего до 8 правил VCA</value>
+    </spec>
+    <spec>
+      <name>Измерение температуры</name>
+      <value>3 типа правил измерения температуры, всего 21 правило (10 точек, 10 областей и 1 линия)</value>
+    </spec>
+    <spec>
+      <name>Диапазон температур</name>
+      <value>от +30 ºС до +45 ºC</value>
+    </spec>
+    <spec>
+      <name>Точность измерения температуры</name>
+      <value>±0.5 °C</value>
+    </spec>
+    <spec>
+      <name>Обнаружение возгораний</name>
+      <value>динамическое обнаружение точки возгорания, обнаружение до 10 точек возгорания</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>до 15 м</value>
+    </spec>
+    <spec>
+      <name>Интенсивность ИК-подсветки и регулировка угла</name>
+      <value>авторегулировка</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>оптический: 25 к/с (2688×1520, 1920×1080, 1280×720)тепловизор: 25 к/с (1280×720, 704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>оптический: 25 к/с (704×576, 352×288, 176×144)тепловизор: 25 к/с (704×576, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711u, G.711a, G.722.1, MP2L2, G.726, PCM</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP, UDP, IGMP, ICMP, DHCP, PPPoE</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Уровни пользователя/хоста</name>
+      <value>до 32 пользователей, 3 уровня: Администратор, Оператор и Пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя (ID и PW), аутентификация хоста (MAC-адрес), шифрование HTTPS, контроль доступа по стандарту IEEE 802.1x, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Сетевые интерфейсы</name>
+      <value>RJ-45 auto 10M/100M Ethernet, RS-485</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1, встроенный микрофон 3.5 мм/линейный входлинейный вход: от 2 до 2.4 В [p-p]; выходное сопротивление: 1 кОм ±10 %</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>линейный уровень; сопротивление 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход</name>
+      <value>1 канал (DC от 0 до 5 В)</value>
+    </spec>
+    <spec>
+      <name>Тревожный выход</name>
+      <value>1 канал, релейный выход, настраиваемые действия по тревоге</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>запись на SD-карту, релейный выход, смарт-снимок, загрузка на FTP, отправка E-mail, аудиотревога, белая световая сигнализация</value>
+    </spec>
+    <spec>
+      <name>Перезагрузка</name>
+      <value>1 кнопка сброса настроек</value>
+    </spec>
+    <spec>
+      <name>SD-карта памяти</name>
+      <value>встроенный слот для microSD/SDHC/SDXC-карты, до 256 Гбайтподдержка ручной записи, записи по тревоге</value>
+    </spec>
+    <spec>
+      <name>Аналоговый видеовыход</name>
+      <value>1.0 В [p-p]/75 Ом, BNC, PAL/NTSC</value>
+    </spec>
+    <spec>
+      <name>Программирование приложений</name>
+      <value>открытый API, поддержка ISAPI, HIKVISION SDK и сторонней платформы управления</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>IE9+, Chrome от 31 до 44, Firefox от 30 до 51, Safari 5.02+ (mac)</value>
+    </spec>
+    <spec>
+      <name>Язык меню</name>
+      <value>32 языкаанглийский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±20 %PoE (802.3af, класс 3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>DC 12 В: 0.5 А, макс. 6 ВтPoE (802.3af, класс 3) от 42.5 до 57 В, от 0.14 до 0.22 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: -20 °C…+50 °Свлажность: 95 % и меньше</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>стандарт IP66TVS 6000 В грозозащита, защита от импульсных и переходных перенапряжений</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>138.3×138.3×123.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>940 г</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Дистанция измерения 0.8 ~ 1.5 м4 МпВстроенный микрофонSmart ИК-подсветка до 15 мСлот для microSD до 256 ГбайтПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/752/140_140_1/DS_2TD1217B_PA-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2td1217b-3-pa-ip-kamera-s-teplovizorom/?utm_source=comebackletter"&gt;Hikvision DS-2TD1217B-3/PA&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

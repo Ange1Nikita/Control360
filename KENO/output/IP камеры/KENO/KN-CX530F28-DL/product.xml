@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CX530F28-DL</name>
+  <article>KN-CX530F28-DL</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>15000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/115/bwl0igq3r67pts16l6jwnnfvitmio9ew/440_370_0/KN_CS560F28_AI_full_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/115/bwl0igq3r67pts16l6jwnnfvitmio9ew/38_24_2/KN_CS560F28_AI_full_.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 5 Мп 2.8 40 Ваша цена: 15 000 руб. Короткое описание Профессиональная 5МП цилиндрическая IP видеокамера KN-CX530F28-DL , предназначенная для охранного видеонаблюдения как внутри, так и вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Служит для передачи оцифрованного видеосигнала к устройству сбора, обработки и хранения. Видеокамера оснащена высокочувствительной КМОП-матрицей, объективом с фиксированным фокусным расстоянием, электромеханическим ИК-фильтром и встроенной ИК-подсветкой, что позволяет вести круглосуточное наблюдение при любых условиях съемки в широком диапазоне рабочих температур. Особенности IP видеокамеры Все технические параметры Модель KN-CX530F28-DL Система GOKI GK7205V510 / ROM: 128Мб / RAM: 128Мб Мощность AI NPU 1.0Tops Тип матрицы 1/2.7” GalaxyCore GC5603 (5 МП) Эффективные    пиксели 2880(Г) × 1620(В) Размер пикселя 2.0 μm x 2.0 μm Электронный    затвор Auto/ 1/25s-1/100000s Мин.    Освещенность Цвет: 0.006 Лк / F1.2, Ч/Б: 0.0006 Лк, 2418mV/LUX*S Сигнал / шум ≥ 56 Дб (AGC выкл.) Камера Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 40м / Белый теплый до 40м Компенсация засветки BLC / HLC / WDR 140дБ / Антитуман Видео режим ROI / “Коридор” / Стабилизация изображения Шумоподавление 2DNR / 3DNR Аудио Микрофон с АРУ и ШП Тревога - Карта памяти / Архив - Язык интерфейса Русский / Английский Объектив YTOT 2.8мм (6.0MP) F1.6 с ИК коррекцией Угол обзора Г: 111° (Широкий) В: 58° (Широкий) Д: 132° (Широкий) DORI Д: 63.6м, О: 25.4м, Р: 12.7м, И: 6.4м Видео Формат    кодирования AI HEVC, H.265+ / H.265 / H.264+ / H.264 (H/M/B) Основной поток 5МП (2880x1620) / 4МП (2560x1440) / 1080P (1 ~ 25 к/с) Второстепенный    поток D1 / CIF (1 ~ 25 к/с) Третий поток 720Р (1 ~ 25 к/с) Поток 3K ~ 20480Kbps, Авто Сеть Сетевой интерфейс RJ-45    (10/100Base-T) Подключение До 20 пользователей </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Система">GOKI GK7205V510 / ROM: 128Мб / RAM: 128Мб</spec>
+    <spec name="Мощность AI">NPU 1.0Tops</spec>
+    <spec name="Тип матрицы">1/2.7” GalaxyCore GC5603 (5 МП)</spec>
+    <spec name="Эффективные    пиксели">2880(Г) × 1620(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/25s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.006 Лк / F1.2, Ч/Б: 0.0006 Лк, 2418mV/LUX*S</spec>
+    <spec name="Сигнал / шум">≥ 56 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 40м / Белый теплый до 40м</spec>
+    <spec name="Компенсация засветки">BLC / HLC / WDR 140дБ / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП</spec>
+    <spec name="Тревога">-</spec>
+    <spec name="Карта памяти / Архив">-</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Объектив">YTOT 2.8мм (6.0MP) F1.6 с ИК коррекцией</spec>
+    <spec name="Угол обзора">Г: 111° (Широкий)В: 58° (Широкий)Д: 132° (Широкий)</spec>
+    <spec name="DORI">Д: 63.6м,О: 25.4м,Р: 12.7м,И: 6.4м</spec>
+    <spec name="Формат    кодирования">AI HEVC, H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">5МП (2880x1620) / 4МП (2560x1440) / 1080P (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / CIF (1 ~ 25 к/с)</spec>
+    <spec name="Третий поток">720Р (1 ~ 25 к/с)</spec>
+    <spec name="Поток">3K ~ 20480Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Подключение">До 20 пользователей / Исходящий поток до 80М</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP, RTCP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P / CMS">KENO LINK / KENO SVMS</spec>
+    <spec name="Аналитика">SMD (Человек / Транспорт), Защита периметра</spec>
+    <spec name="Питание">DC 12 В ±30%, PoE (802.3af)</spec>
+    <spec name="Потребление">Без ИК/WLED не более 2.8Вт, Макс потребление не более 5.5Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C (Холодный старт),    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS8000В (Земля – Корпус)</spec>
+    <spec name="Материал">Полностью Металлический корпус</spec>
+    <spec name="Габариты">224(Д)*77(В)*76(Ш) мм</spec>
+    <spec name="Вес">0,76кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-cx530f28-dl/</source_url>
+</product>

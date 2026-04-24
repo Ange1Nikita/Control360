@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DE509F28 MIС</name>
+  <article>KN-DE509F28-MIS</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/581/440_370_0/KN_DE509_mic_3.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7dd/440_370_0/KN_DE509_mic_2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/82f/440_370_0/8.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/581/38_24_2/KN_DE509_mic_3.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7dd/38_24_2/KN_DE509_mic_2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/82f/38_24_2/8.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 Уличная 5.0 2.8 30 Короткое описание IP видеокамера профессионального уровня KN-DE509F28 MIC со встроенным микрофоном высокого качества звука, предназначенная для охранного видеонаблюдения как внутри, так и вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Прекрасное, чистое, четкое качество звука удалось достигнуть благодаря специально разработанной нашим инженером, конструктивной схемы сборки камеры, с применением в ней высококлассного предусилителя от компании Dallas Semiconductor. Микрофон обладает: Широким диапазоном усиления частот, коэффициент усиления в 40дБ (т.е. входящий сигнал усиливается в 100 раз) Соотношением сигнал/шум 54дБ Быстро действующей АРУ 1,1 мили секунды Полосой пропускания частот 80Гц-18кГц Особенности IP видеокамеры Все технические параметры Модель KN-DE506F28 Система Тип матрицы 1/2,8” SONY STARVIS IMX335 (5.14 Мегапикселей) Эффективные    пиксели 2616(Г) × 1964(В) Размер пикселя 2.0 μm x 2.0 μm Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.33 Лк в Ч/Б Сигнал / шум ≥50db(AGC    OFF) Камера Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК прожектор OSRAM IR LED II (850нм) до 30м Компенсация    засветки BLC / DWDR / Антитуман Шумоподавление 2DNR / 3DNR Баланс белого Авто Усиление Авто/Ручной Оптика Объектив 2.8mm (6.0MP) F1.6 с ИК коррекцией Угол обзора H: 102° Видео Видео режим ROI / “Коридор” / Стабилизация изображения Формат    кодирования HEVC H.265+ / H.265 / H.264+ / H.264 (H/M/B) Основной поток 5M (1 ~ 20 к/с) / 4MP /3MP / 1080P (1 ~ 25 к/с) Второстепенный    поток D1 / 640x360 (1 ~ 25 к/с) Поток 32K ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif 2.6 Profile-S/G (Движение, Тревога, Metadata) CGI / API P2P VSSweb.</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY STARVIS IMX335 (5.14 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">2616(Г) × 1964(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.33 Лк в Ч/Б</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED II (850нм) до 30м</spec>
+    <spec name="Компенсация    засветки">BLC / DWDR / Антитуман</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Объектив">2.8mm (6.0MP) F1.6 с ИК коррекцией</spec>
+    <spec name="Угол обзора">H: 102°</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Формат    кодирования">HEVC H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">5M (1 ~ 20 к/с) / 4MP /3MP / 1080P (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / 640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 Profile-S/G (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P">VSSweb.net / Vssmobile / Smart IMS3</spec>
+    <spec name="Аналитика">Детектор движения / Саботаж</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, G.711 (a-law, μ-law)</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Питание">DC 12 В ±15%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 4Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C (Холодный старт),    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS4000В (Земля – Корпус)</spec>
+    <spec name="Габариты">Ø 114,6 x 87,9 (В)</spec>
+    <spec name="Вес">0.28кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-de509f28-mis/</source_url>
+</product>

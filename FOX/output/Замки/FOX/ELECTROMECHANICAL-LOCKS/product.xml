@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Электромеханические замки</name>
+  <article>ELECTROMECHANICAL-LOCKS</article>
+  <brand>FOX</brand>
+  <category>Замки</category>
+  <price>11120003690</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/bb8/DSCF4926_900X576-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/5fe/FX_2369S_-250.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-2369 (Медь)">Уличный</spec>
+    <spec name="FX-2369 (Сталь)">Уличный</spec>
+    <spec name="1">2000</spec>
+    <spec name="3 690">руб.</spec>
+    <spec name="купить">FX-2369 (Сталь)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/locks/electromechanical-locks/</source_url>
+</product>

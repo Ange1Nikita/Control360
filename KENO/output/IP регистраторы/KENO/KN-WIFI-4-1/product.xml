@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеорегистраторы/KN-WiFi 4/1</name>
+  <article>KN-WIFI-4-1</article>
+  <brand>KENO</brand>
+  <category>IP регистраторы</category>
+  <price>17000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/69e/440_370_0/IMG_768-wifi_135858.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/278/440_370_0/IMG_mini768_135825.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b7f/440_370_0/IMG_20180511-mini-768_165034_HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2af/440_370_0/IMG_20180426_135941-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a36/440_370_0/IMG_20180426_135657_1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/69e/38_24_2/IMG_768-wifi_135858.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/278/38_24_2/IMG_mini768_135825.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b7f/38_24_2/IMG_20180511-mini-768_165034_HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2af/38_24_2/IMG_20180426_135941-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a36/38_24_2/IMG_20180426_135657_1.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 5 4 1 4 Ваша цена: 17 000 руб. Короткое описание IP видеорегистратор нового поколения KN-WiFi 4/1 -это 4х потоковый NVR со встроенным 4х портовым WiFi модулем.
+Мощный wi-fi позволит расположить оборудование в радиусе до 300 м. без преград. Вам достаточно подключить оборудование в сеть, а регистратор сам найдет и добавит камеры. Автоматическое подключение камер к регистратору и легкая настройка, отсутствие необходимости прокладывать коммуникации, 
+поддержка технологии P2P, которая позволит удаленно подключиться к регистратору и просмотреть архив с помощью мобильных приложений или компьютера, поддержка IP камер до 4 Mpx, 
+а так же привлекательная цена - все это неоспоримые преимущества данной модели. Особенности IP видеорегистратора Все технические параметры Модель KN-WiFi 4/1 Система Операционная    система Embedded Linux OS Режим работы Пентаплекс Сжатие H.264/H.264/MPEG4 Управление Мышкой и по сети Поддержка камер FOX, KENO, RVI, DAHUA, Hikvision, Falcon Eye, Beward, Arecont Vision, AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры Видео Видео вход 1xLAN (WAN) выход 1xHDMI, 1xVGA, 1xUSB Дисплей 1/4/9/Zoom Отображение 2560x1440, 1920x1080,    1280x1024, 1280x720 Аудио Кодирования    аудио 8кГц    × 16бит G.711 Двусторонняя связь вход 1 x RCA выход 1 x RCA Запись Максимальный    поток 48 Mbps Режим работы 4 x 4Mpx    (2560×1440)                100 к/с 4 x 2Mpx    (1920×1080)                100 к/с Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Воспроизведение IP: 4 x 720p, 2 x 2Mpx, 1 x 4Mpx Жесткий диск 1xHDD    (Без ограничения) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, IP Search, P2P, 3G, WiFi Сетевой интерфейс 1xRJ45    10M/100M/1000M; 8xRJ45 POE DC48V Сетевые функции Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управл</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Сжатие">H.264/H.264/MPEG4</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Поддержка камер">FOX, KENO, RVI, DAHUA, Hikvision, Falcon Eye, Beward, Arecont Vision, AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1 x RCA</spec>
+    <spec name="Дисплей">1/4/9/Zoom</spec>
+    <spec name="Отображение">2560x1440, 1920x1080,    1280x1024, 1280x720</spec>
+    <spec name="Аудио">Кодирования    аудио</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Запись">Максимальный    поток</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">IP: 4 x 720p, 2 x 2Mpx, 1 x 4Mpx</spec>
+    <spec name="Жесткий диск">1xHDD    (Без ограничения)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">1xRJ45    10M/100M/1000M; 8xRJ45 POE DC48V</spec>
+    <spec name="Сетевые функции">Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">PUSH уведомления, запись на FTP/NAS, DropBox, Google Drive, пересылка снимка на email пользователя</spec>
+    <spec name="Удаленный доступ">Smart IMS300 (с поддержкой камер Hikvision, Dahua, RVI, Falcon Eye, ONVIF) Chrome, FireFox, IE, с мобильного телефона VSS mobile, P2P сервер</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной), DropBox, Google Dirve</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">10 Вт (без HDD)</spec>
+    <spec name="Рабочий диапазон температуры">-10℃...+60℃</spec>
+    <spec name="Рабочий диапазон влажности">0%~90%</spec>
+    <spec name="Габариты (мм)">215(Ш) х 260(Д) х 48(В),    2 Кг</spec>
+    <spec name="KN-0404FHD/1 aPOE4">4</spec>
+    <spec name="KN-RECORD64/8-4K-AI">64</spec>
+    <spec name="KN-WiFi 4/1">4</spec>
+    <spec name="KN-PRO16/2 - 8P- 4K">16</spec>
+    <spec name="KN-PRO32/2-16P -4K">32</spec>
+    <spec name="KN-PRO16/2-4K">16</spec>
+    <spec name="KN-PRO32/2-4K AI">32</spec>
+    <spec name="KN-CORE36/2-4K-AI">36</spec>
+    <spec name="KN-RECORD36/8-4K-AI">36</spec>
+    <spec name="KN-PRO8/1-4K">8</spec>
+    <spec name="KN-PRO8/1-4P-4K">8</spec>
+    <spec name="KN-PRO16/1-4K">16</spec>
+    <spec name="KN-PRO16/1-8P-4K">16</spec>
+    <spec name="KN-PRO16/2-16P-4K">16</spec>
+    <spec name="KN-PRO16/2-8P-4K">16</spec>
+    <spec name="KN-CORE64/4-4K-AI">64</spec>
+    <spec name="KN-PRO32/2-16P-4K-AI">32</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-dvr/kn-wifi-4-1/</source_url>
+</product>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>?pagen 1=2</name>
+  <article>?PAGEN_1=2</article>
+  <brand>ViGUARD</brand>
+  <category>Авто регистраторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d571774ac51ff1b2ab8fa7d6c1212193.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/084/450_450_1/0845a417daa9050a7c53bb833dd1589c.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ac6/450_450_1/komplekt-videonablyudeniya-dlya-fury-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8a4/450_450_1/8a44298e7309f0860a536448b0abe3bc.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d90/450_450_1/komplekt-videonablyudeniya-dlya-operativnykh-sluzhb-grupp-bystrogo-reagirovaniya-taksi-ot-proizvodit.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/072/450_450_1/072a5069486813da7e22a4e474fa7e56.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0ae/450_450_1/komplekt-videonablyudeniya-dlya-avtomobiley-avtoshkoly-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/516/450_450_1/51695c65bb5d8cf4d17d95c1f5ec7984.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ebc/450_450_1/ebc5eb6674d8135ea5fe3d29535005d1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d1d/450_450_1/komplekt-videonablyudeniya-dlya-avtomobiley-inkassatsii-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/4f1/450_450_1/4f182d5e35ebda74cd6167e24e2e9178.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b9d/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/9fa/450_450_1/9fac35dcedbe20c3086cecdb473cbeed.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/95b/450_450_1/95b0398d2af3580a47fdc75844c4887b.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/864/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/36b/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/523/450_450_1/5237db9eabd6034bced29c12740725f7.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/563/450_450_1/563426c6ee9993523133670bbe497913.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/94e/450_450_1/94ee71c57c77c2f8034165c88b0ce11c.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b2f/450_450_1/b2fc26aa6c7dd3e5ff80ab7f5ccd07e3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a21/450_450_1/a21530a665d83c4e7eec5b02f3220aaa.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/890/450_450_1/890b2aa40f8d17075aac83bc32bc107c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/456/450_450_1/456cf81d2ba6e8ad2c0fb53d3d7db27e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1bd/450_450_1/1bd3219ce9d73a62334ac11143c2bb93.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bbb/450_450_1/bbb4adb698ea3d477b9b0e2a88b122f3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/648/450_450_1/6482a6136186462b6a17c47d066652e2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/7b7/450_450_1/7b73defc0fb8204759368420ed50cd47.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0c2/450_450_1/0c28969127b2664628acbfd7e2252365.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/avto_registratory/?PAGEN_1=2</source_url>
+</product>

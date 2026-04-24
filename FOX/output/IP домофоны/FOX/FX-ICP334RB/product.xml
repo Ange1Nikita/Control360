@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-ICP334RBW</name>
+  <article>FX-ICP334RB</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100019900</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b4c/440_370_0/05_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/53e/440_370_0/01_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/6ed/440_370_0/02_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/62a/440_370_0/04_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/155/440_370_0/BA002.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/729/440_370_0/BA002_L.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8e6/440_370_0/BA002_BK.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b4c/38_24_2/05_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/53e/38_24_2/01_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/6ed/38_24_2/02_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/62a/38_24_2/04_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/155/38_24_2/BA002.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/729/38_24_2/BA002_L.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8e6/38_24_2/BA002_BK.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/b4c/440_370_0/05_ICP238W.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Вызывная панель">FX-ICP334RBW</spec>
+    <spec name="Видео">Операционная система</spec>
+    <spec name="ИК подсветка">ИК прожектор до 5м с компенсацией засветки лица в ближней зоне</spec>
+    <spec name="Разрешение">2Мп</spec>
+    <spec name="Угол обзора">По горизонтали: 125° / По вертикали: 72°</spec>
+    <spec name="Формат кодирования">H.264/H265</spec>
+    <spec name="Основной поток">1920 x 1080 / 1280 x 720 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный поток">640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Шумоподавление">3DNR с автоподстройкой</spec>
+    <spec name="Функции">Управление замком</spec>
+    <spec name="Тип замка">электромагнитный/</spec>
+    <spec name="Аудиосвязь">Двухсторонняя</spec>
+    <spec name="SD карта">До 512Гб</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN, Wi-Fi 2.4&amp;5.8ГГц</spec>
+    <spec name="LAN">10 / 100 Mbps адаптивный интерфейс Ethernet</spec>
+    <spec name="Сетевой Протокол">TCP/IP, RTSP, ONVIF</spec>
+    <spec name="Реле">Сухой контакт для управления замком двери NO/NC</spec>
+    <spec name="Контроллер">Встроенный на 20 пользователей и 1000 Mifare карт</spec>
+    <spec name="Питание">POE IEEE 802.3af / DC12-48В / AС 12-36В</spec>
+    <spec name="Степень защиты">IK07; IP65</spec>
+    <spec name="Рабочая температура">-40°C … +60°C</spec>
+    <spec name="Габаритные размеры (мм)">134 (В) x 63 (Ш) х 27 (Г)</spec>
+    <spec name="Модель">Формат</spec>
+    <spec name="FX-ICP200WP">IP</spec>
+    <spec name="FX-ICP232B">IP</spec>
+    <spec name="FX-ICP236B">IP</spec>
+    <spec name="FX-ICP238B">IP</spec>
+    <spec name="FX-ICP238W">IP</spec>
+    <spec name="FX-ICP236A">IP</spec>
+    <spec name="FX-ICP334RBW">IP</spec>
+    <spec name="FX-ICP880AP">IP</spec>
+    <spec name="FX-ICP770AP">IP</spec>
+    <spec name="IP">125°</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Linux">ИК подсветка</spec>
+    <spec name="ИК прожектор до 5м с компенсацией засветки лица в ближней зоне">Разрешение</spec>
+    <spec name="2Мп">Угол обзора</spec>
+    <spec name="По горизонтали: 125° / По вертикали: 72°">Формат кодирования</spec>
+    <spec name="H.264/H265">Основной поток</spec>
+    <spec name="1920 x 1080 / 1280 x 720 (1 ~ 25 к/с)">Второстепенный поток</spec>
+    <spec name="640x360 (1 ~ 25 к/с)">Шумоподавление</spec>
+    <spec name="3DNR с автоподстройкой">Функции</spec>
+    <spec name="Управление замком">НО / НЗ ( с врем. открытия)</spec>
+    <spec name="электромеханический">Аудиосвязь</spec>
+    <spec name="Двухсторонняя">SD карта</spec>
+    <spec name="До 512Гб">Технические параметры</spec>
+    <spec name="Монтаж">Накладной</spec>
+    <spec name="Материалы и особенности ПО">Инструкция</spec>
+    <spec name="Инструкция">(3.283МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-icp334rb/</source_url>
+</product>

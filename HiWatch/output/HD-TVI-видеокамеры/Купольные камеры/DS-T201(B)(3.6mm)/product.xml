@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T201(B)(3.6mm)</name>
+  <model>DS-T201(B)(3.6mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t201-b--3-6-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Разрешение 2Мп</paragraph>
+    <paragraph>ИК-подсветка до 20м</paragraph>
+    <paragraph>Видеовыход 4-в-1 (переключаемые TVI/AHD/CVI/CVBS)2Мп внутренняя купольная HD-TVI камера с ИК-подсветкой до 20м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 3.6мм; угол обзора 82.2градусов; механический ИК-фильтр; 0.01 Лк@F1.2;  OSD, DWDR, BLC, DNR; Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; -20градусовС до +45градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение 2Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход 4-в-1 (переключаемые TVI/AHD/CVI/CVBS)2Мп внутренняя купольная HD-TVI камера с ИК-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 3.6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 82.2градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-20градусовС до +45градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

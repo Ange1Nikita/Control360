@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HDC-B020(B)(3.6mm)</name>
+  <model>HDC-B020(B)(3.6mm)</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/hdc-b020-b-3-6mm-</product_url>
+  <description>
+    <paragraph>Уличная цилиндрическая HD-TVI камера 2 Мп с EXIR ИК-подсветкой до 20 м. Разрешение видеозаписи до 1920x1080. Фокусное расстояние объектива составляет 3.6 мм, благодаря чему угол обзора достигает 92градусов. Апертура F1.2 и технологии DNR (шумоподавление), DWDR (расширение динамического диапазона), BLC (компенсация излишков освещения) обеспечат отличные рабочие характеристики в сложных условиях освещенности. Видеовыход: 1 х HD-TVI/AHD/CVI/CVBS2Мп уличная цилиндрическая HD-TVI камера с EXIR ИК-подсветкой до 20м</paragraph>
+    <paragraph>2MP CMOS матрица; объектив 3.6мм; угол обзора 92градусов; механический ИК-фильтр; 0.02 Лк@F1.2 с AGN; OSD, DWDR, BLC, DNR; Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 3.3Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2MP CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 3.6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 92градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.02 Лк@F1.2 с AGN</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 3.3Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

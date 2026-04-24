@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I252M (2.8 mm)</name>
+  <model>DS-I252M (2.8 mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i252m-2-8-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>• Четкое изображение при яркой задней засветке благодаря технологии DWDR</paragraph>
+    <paragraph>• Защита от влаги и пыли (IP67) и антивандальная защита (IK10)</paragraph>
+    <paragraph>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ</paragraph>
+    <paragraph>• Встроенный микрофон, аудиосвязь в режиме реального времени2Мп уличная IP-камера с EXIR-подсветкой до 30м и встроенным микрофоном</paragraph>
+    <paragraph>1/2.7'' Progressive Scan CMOS матрица; объектив 2.8мм; угол обзора 112.1градусов; механический ИК-фильтр; 0.01Лк@F2.0; H.265/H.265+/H.264/H.264+/MJPEG,  DWDR; 3D DNR; ROI, BLC; Smart ИК; видеобитрейт 32кбит/с-8Мбит/с; G.711/G.722.1/G.726/MP2L2/PCM, IK10, IP67; -40градусовC до +60градусовC; DC12В+-25%/PoE(IEEE 802.3af); 6,5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Четкое изображение при яркой задней засветке благодаря технологии DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли (IP67) и антивандальная защита (IK10)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон, аудиосвязь в режиме реального времени2Мп уличная IP-камера с EXIR-подсветкой до 30м и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 112.1градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01Лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG,  DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ROI, BLC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711/G.722.1/G.726/MP2L2/PCM, IK10, IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6,5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

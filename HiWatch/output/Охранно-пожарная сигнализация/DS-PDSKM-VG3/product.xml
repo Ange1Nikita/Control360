@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDSKM-VG3</name>
+  <model>DS-PDSKM-VG3</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdskm-vg3</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• G-датчик (датчик удара) обеспечивает высокую скорость обнаружения</paragraph>
+    <paragraph>• Регулировка чувствительности</paragraph>
+    <paragraph>• Современный фильтр цифрового фонового шумаВибрационный извещатель</paragraph>
+    <paragraph>Настройка чуствительности; распознавание удара и вибрациии; индикаторы состояния; DC9-16В; -30градусовC...+70градусовC; IK10; размер 108 30 22мм; металл.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• G-датчик (датчик удара) обеспечивает высокую скорость обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Регулировка чувствительности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Современный фильтр цифрового фонового шумаВибрационный извещатель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка чуствительности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>распознавание удара и вибрациии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>индикаторы состояния</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IK10</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 108 30 22мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>металл.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-EPOE2.1</name>
+  <article>FX-EPOE2-1</article>
+  <brand>FOX</brand>
+  <category>PoE коммутаторы</category>
+  <price>11110001990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/4bd/440_370_0/IMG_4469-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/217/440_370_0/IMG_4470-768-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/18a/440_370_0/IMG_4471-768-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/da6/440_370_0/IMG_4472-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/4bd/38_24_2/IMG_4469-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/217/38_24_2/IMG_4470-768-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/18a/38_24_2/IMG_4471-768-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/da6/38_24_2/IMG_4472-768.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/4bd/440_370_0/IMG_4469-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-EPOE2.1</spec>
+    <spec name="Тип">Водонепроницаемый PoE Удлинитель/Делитель</spec>
+    <spec name="Стандарт">IEEE802.3af/at питания POE</spec>
+    <spec name="Сетевой интерфейс">1 порт(вход) 10/100 Base-T (PoE) до 100 метров</spec>
+    <spec name="Входная мощность порта POE">30 Вт (макс.)</spec>
+    <spec name="Выходная мощность порта POE">25,5 Вт (макс.), распределение POE на порты 1-2</spec>
+    <spec name="Световой индикатор">Индикатор POE и индикатор сетевого сигнала</spec>
+    <spec name="Степень защиты">IP66</spec>
+    <spec name="Диапазон рабочих температур">-20 ℃ ~ +60 ℃</spec>
+    <spec name="Материал корпуса">Пластик</spec>
+    <spec name="Габариты, Ш × Г × В">92 x 46 x 22 мм</spec>
+    <spec name="Вес">0,1 кг.</spec>
+    <spec name="Модель">Общее количество портов</spec>
+    <spec name="FX-POE4.2">6</spec>
+    <spec name="FX-POE8.2">10</spec>
+    <spec name="FX-POE16.2">18</spec>
+    <spec name="FX-POE24.2">26</spec>
+    <spec name="FX-POE8.2G">10</spec>
+    <spec name="Особенности аксессуара">Все технические параметры</spec>
+    <spec name="2 порта(выход) 10/100 Base-T (PoE) до 100 метров">Входная мощность порта POE</spec>
+    <spec name="30 Вт (макс.)">Выходная мощность порта POE</spec>
+    <spec name="25,5 Вт (макс.), распределение POE на порты 1-2">Световой индикатор</spec>
+    <spec name="Индикатор POE и индикатор сетевого сигнала">Степень защиты</spec>
+    <spec name="IP66">Диапазон рабочих температур</spec>
+    <spec name="-20 ℃ ~ +60 ℃">Материал корпуса</spec>
+    <spec name="Пластик">Габариты, Ш × Г × В</spec>
+    <spec name="92 x 46 x 22 мм">Вес</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(8.231МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/poe-kommutatory/fx-epoe2-1/</source_url>
+</product>

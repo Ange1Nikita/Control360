@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>TC-C32HS Spec:I3/E/Y/C/SD/2.8mm/V4.2</name>
+  <article>352770</article>
+  <sku>1D.20010.003565</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Видеокамера IP купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>7490</price>
+  <price_wholesale>2988.51</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/352770/</product_url>
+  <description>
+    <paragraph>Видеокамера IP 2 Мп купольная; 1/2.8" CMOS; 1920х1080 - 25 к/с; H.264/H.265; объектив 2.8 мм; ИК подсветка до 30 м; 0.002 лк; микрофон; micro SD до 512 Гб; WDR 120 Дб, 3D DNR, HLC, BLC; P2P, RTSP, ONVIF (S/T/G); PoE, 5 Вт; IP66; -40...+60°C; 138х138х110 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.002</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>138х138х110</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="672.8 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/9/79ADC74155F63F2FACF8A497240A8ED2.pdf</document>
+  </documents>
+</product>

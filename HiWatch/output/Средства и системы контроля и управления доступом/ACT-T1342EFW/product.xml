@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Биометрический терминал HiWatch ACT-T1342EFW</name>
+  <model>ACT-T1342EFW</model>
+  <article>323178</article>
+  <sku>302919021</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>СКУД «HiWatch Pro»</subcategory>
+  <functional_name>Биометрический терминал</functional_name>
+  <nomenclature>Биометрический терминал</nomenclature>
+  <price>15468.54</price>
+  <price_wholesale>14050.59</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323178/</product_url>
+  <description>
+    <paragraph>Терминал доступа с распознаванием лиц и считывателем отпечатков пальцев (Em-marine) 4.3" цветной  LCD сенсорный экран; 2 объектива 2Мп, H.264; WDR; режим аутентификации лиц: 1:1 или 1:N, до 1,500 лиц; до 3,000 отпечатков, до 3,000 карт; 150,000 событий; функции домофона; дальность распознавания 0.3м до 1.5м; скорость распознавания ≤0.2с, Ethernet 10/100/1000; RS-485;  WiFi, Wiegand 26/34; USB; замок; магнитный контакт; кнопка выхода; темпер; DC12В, 1А; -30...+60°C; IP65; пластик/металл, 92×182×25 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество отпечатков, шт</name>
+      <value>3 000</value>
+    </spec>
+    <spec>
+      <name>Количество шаблонов лиц</name>
+      <value>1 500</value>
+    </spec>
+    <spec>
+      <name>Количество карт proximity</name>
+      <value>3 000</value>
+    </spec>
+    <spec>
+      <name>Количество событий</name>
+      <value>150 000</value>
+    </spec>
+    <spec>
+      <name>Считыватель</name>
+      <value>EM-Marine</value>
+    </spec>
+    <spec>
+      <name>Время идентификации, с</name>
+      <value>менее 0.2</value>
+    </spec>
+    <spec>
+      <name>Выходной интерфейс</name>
+      <value>WIFI; USB; TCP/IP</value>
+    </spec>
+    <spec>
+      <name>Дисплей</name>
+      <value>4.3" TFT цветной</value>
+    </spec>
+    <spec>
+      <name>Напряжение, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Управление замком</name>
+      <value>1 Выход (Реле)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-30…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>92х182х25</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>instruction.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="308.42 КБ">https://www.tinko.ru/upload/exchange/public/documentation/D/C/DC0A2BFEBF6751A51200EC644222EB69.pdf</document>
+    <document title="Инструкция" size="2.76 МБ">https://www.tinko.ru/upload/exchange/public/documentation/9/9/99705B0195CE162A98DC7681FFFC82B7.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDC15-EG2-WE(B)</name>
+  <model>DS-PDC15-EG2-WE(B)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdc15-eg2-we-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Передача информации на большие расстояния</paragraph>
+    <paragraph>• Удаленная настройка через приложение</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>• Легко заменяемая батарея с защитой платы</paragraph>
+    <paragraph>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигнала</paragraph>
+    <paragraph>Метод детекции</paragraph>
+    <paragraph>PIR-датчик</paragraph>
+    <paragraph>Дальность обнаружения</paragraph>
+    <paragraph>15 м</paragraph>
+    <paragraph>Угол детекции</paragraph>
+    <paragraph>6.3°</paragraph>
+    <paragraph>Зоны обнаружения</paragraph>
+    <paragraph>18</paragraph>
+    <paragraph>Скорость обнаружения</paragraph>
+    <paragraph>От 0.3 до 2 м/с</paragraph>
+    <paragraph>Фильтр белого света</paragraph>
+    <paragraph>6500 лк</paragraph>
+    <paragraph>Цифровая температурная компенсация</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Защита нижней зоны</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</paragraph>
+    <paragraph>—</paragraph>
+    <paragraph>Цифровая обработка</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Герметичная оптика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Защита передней и задней панели</paragraph>
+    <paragraph>Индикатор температуры окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Индикатор уровня сигнала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Технология передачи</paragraph>
+    <paragraph>Беспроводная технология Tri-X</paragraph>
+    <paragraph>Метод передачи</paragraph>
+    <paragraph>Беспроводная технология двойного РЧ-сигнала</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Безопасность передачи данных</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Дальность передачи данных (открытое пространство)</paragraph>
+    <paragraph>1.6 км</paragraph>
+    <paragraph>Автоматическое переключение РЧ канала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Методы регистрации</paragraph>
+    <paragraph>Включение, удаленный ввод ID и QR-код</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>До 5 лет (в режиме ожидания)</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>CR123A  1</paragraph>
+    <paragraph>Стандартная потребляемая мощность</paragraph>
+    <paragraph>3 В</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>65.5  103  48.5 мм</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>128 г</paragraph>
+    <paragraph>Высота установки</paragraph>
+    <paragraph>От 2.4 до 3.6 м</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>На стену</paragraph>
+    <paragraph>Сценарии применения</paragraph>
+    <paragraph>Установка внутри помещений</paragraph>
+    <paragraph>Кронштейн</paragraph>
+    <paragraph>Кронштейн для установки на стену и потолок (опционально)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Передача информации на большие расстояния</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Легко заменяемая батарея с защитой платы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIR-датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6.3°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтр белого света</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6500 лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита нижней зоны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая обработка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Герметичная оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор температуры окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор уровня сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность передачи данных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи данных (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1.6 км</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматическое переключение РЧ канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Методы регистрации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 5 лет (в режиме ожидания)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A  1</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартная потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>65.5  103  48.5 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>128 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 2.4 до 3.6 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сценарии применения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка внутри помещений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кронштейн</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кронштейн для установки на стену и потолок (опционально)</value>
+    </spec>
+    <spec>
+      <name>Метод детекции</name>
+      <value>PIR-датчик</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name>Угол детекции</name>
+      <value>6.3°</value>
+    </spec>
+    <spec>
+      <name>Зоны обнаружения</name>
+      <value>18</value>
+    </spec>
+    <spec>
+      <name>Скорость обнаружения</name>
+      <value>От 0.3 до 2 м/с</value>
+    </spec>
+    <spec>
+      <name>Фильтр белого света</name>
+      <value>6500 лк</value>
+    </spec>
+    <spec>
+      <name>Цифровая температурная компенсация</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Защита нижней зоны</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</name>
+      <value>—</value>
+    </spec>
+    <spec>
+      <name>Цифровая обработка</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Герметичная оптика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name>Индикатор температуры окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Индикатор уровня сигнала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Технология передачи</name>
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name>Метод передачи</name>
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Безопасность передачи данных</name>
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи данных (открытое пространство)</name>
+      <value>1.6 км</value>
+    </spec>
+    <spec>
+      <name>Автоматическое переключение РЧ канала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Методы регистрации</name>
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>До 5 лет (в режиме ожидания)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>CR123A  1</value>
+    </spec>
+    <spec>
+      <name>Стандартная потребляемая мощность</name>
+      <value>3 В</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>65.5  103  48.5 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>128 г</value>
+    </spec>
+    <spec>
+      <name>Высота установки</name>
+      <value>От 2.4 до 3.6 м</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name>Сценарии применения</name>
+      <value>Установка внутри помещений</value>
+    </spec>
+    <spec>
+      <name>Кронштейн</name>
+      <value>Кронштейн для установки на стену и потолок (опционально)</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

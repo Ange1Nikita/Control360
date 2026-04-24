@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная цилиндрическая HiWatch DS-T200 (B) (2.8 mm)</name>
+  <model>DS-T200 (B) (2.8 mm)</model>
+  <article>283840</article>
+  <sku>300511993</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>1342.8</price>
+  <price_wholesale>1219.71</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/283840/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная уличная со встроенной ИК подсветкой (механический ИК фильтр), ДЕНЬ/НОЧЬ; 1/2.7" Progressive Scan CMOS 2МП (1920х1080); 0.01/0 лк (ИК-подсветка); f=2,8мм ; дальность EXIR-ИК подсветки 20 м; S/N: 65 dB; OSD, DWDR, BLC, DNR; Smart ИК ; DC12В/330 мА; IP66; 165 х 62 х 58мм; -40°…+60°C</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>2 Мп (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Степень защиты</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>69.1х66х172.7</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Цилиндрическая IP-видеокамера Hiwatch DS-I250W(C)(2.8mm)</name>
+  <model>DS-I250W(C)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i250w-c-2-8-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>• Четкое изображение при яркой задней засветке благодаря технологии DWDR</paragraph>
+    <paragraph>• Прямое Wi-Fi-подключение к Hik-Connect</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP66</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ</paragraph>
+    <paragraph>• Встроенный микрофон: есть2Мп уличная цилиндрическая IP-камера c EXIR-подсветкой до 30м и WiFi</paragraph>
+    <paragraph>1/2.7'' CMOS матрица; объектив 2.8мм; угол обзора 114,5градусов; механический ИК-фильтр; 0.028лк @F2.0; H.265+/H.265/H.264+/H.264/MJPEG, DWDR, 3D DNR, BLC; встроенный и микрофон G.711/G.722.1/G.726/MP2L2/PCM; видеобитрейт 32кбит/с -8Мбит/с; встроенный слот для microSD карты до 256Гб; IP66, -30градусовC ...+60градусовC; 12В +-25%; 5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Четкое изображение при яркой задней засветке благодаря технологии DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Прямое Wi-Fi-подключение к Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: есть2Мп уличная цилиндрическая IP-камера c EXIR-подсветкой до 30м и WiFi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7'' CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 114,5градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.028лк @F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, DWDR, 3D DNR, BLC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный и микрофон G.711/G.722.1/G.726/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с -8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66, -30градусовC ...+60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В +-25%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

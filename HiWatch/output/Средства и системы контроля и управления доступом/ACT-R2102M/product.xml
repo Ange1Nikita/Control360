@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ACT-R2102M</name>
+  <article>309853</article>
+  <sku>302918581</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Считыватели различных производителей</subcategory>
+  <functional_name>Считыватель</functional_name>
+  <nomenclature>Считыватель</nomenclature>
+  <price>2257.91</price>
+  <price_wholesale>2050.94</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/309853/</product_url>
+  <description>
+    <paragraph>Считыватель карт Mifare (13.56 МГц);  дальность считывания до 50 мм;  RS485;  Wiegand 26/34;  DC 12В;  500 мА;  -20 °C...+65°C;  IP64;  размеры: 121×86.5×14мм;  корпус: пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Метод идентификации</name>
+      <value>RFID</value>
+    </spec>
+    <spec>
+      <name>Стандарт идентификатора</name>
+      <value>Mifare</value>
+    </spec>
+    <spec>
+      <name>Выходной интерфейс</name>
+      <value>Wiegand; RS485</value>
+    </spec>
+    <spec>
+      <name>Расстояние считывания, см</name>
+      <value>до 5</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Ток потребления, мА</name>
+      <value>500</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>ABS пластик</value>
+    </spec>
+    <spec>
+      <name>Степень защиты</name>
+      <value>IP64</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>121х86.5х14</value>
+    </spec>
+    <spec>
+      <name>Масса, не более, кг</name>
+      <value>0,14</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="637.1 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/4/04DAE3C6CDC19A8E1E450230CA24BFE9.pdf</document>
+  </documents>
+</product>

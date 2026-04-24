@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-N308(D)</name>
+  <model>DS-N308(D)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n308-d-</product_url>
+  <description>
+    <paragraph>8-ми канальный IP-регистратор</paragraph>
+    <paragraph>Видеовход: 8 IP@8Мп; Аудиовход: 1 канал RCA;  Видеовыход: 1 VGA и 1 HDMI до 4К; Аудиовыход; 1 канал RCA; Видеосжатие H.265+/H.265/H.264+/H.264; Входящий поток 80 Мбит/с; Исходящий поток 80 Мбит/с, поддержка событий MD2.0 IP-камер,  Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 6 каналов@1080P; обнаружение движения 2.0 (для 4 каналов); 1 SATA для HDD до 8Тб, 1 10M/100M Ethernet интерфейс; тревожные вход/выход 4/1, 2 х USB 2.0; -10градусовC до +55градусовC; 12В DC; 10Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>8-ми канальный IP-регистратор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 8 IP@8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 4К</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исходящий поток 80 Мбит/с, поддержка событий MD2.0 IP-камер,  Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 6 каналов@1080P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения 2.0 (для 4 каналов)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 8Тб, 1 10M/100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные вход/выход 4/1, 2 х USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

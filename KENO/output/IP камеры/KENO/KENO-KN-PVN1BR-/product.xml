@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Проектные решения "Безопасный регион"/KENO KN-PVN1BR</name>
+  <article>KENO-KN-PVN1BR-</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>31990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/93d/704syq6wg0202tf2er4447rx6ymponsv/440_370_0/KN_PVN1BR-_L_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/dcf/l9kfvkg689rc128bjlfxe6fx0oxqjhea/440_370_0/KN_PVN1BR-_L2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/e6f/9bc7cawkr6hntj7jfs1nwkupadptmq6x/440_370_0/KN_PVN1BR-_L3_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/982/rny5ja4lcf7f6rijybi3z6h2chge7ieq/440_370_0/KN_PVN1BR-_L4_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/188/2560iiwfwuuo0c1hm2rf8puqcbpvbn10/440_370_0/KN_PVN1BR-_L5_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/860/mul7ezfwmuqx95kxmtuqkimn8vzovbqf/440_370_0/KN_PVN1BR-_L6_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/93d/704syq6wg0202tf2er4447rx6ymponsv/38_24_2/KN_PVN1BR-_L_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/dcf/l9kfvkg689rc128bjlfxe6fx0oxqjhea/38_24_2/KN_PVN1BR-_L2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/e6f/9bc7cawkr6hntj7jfs1nwkupadptmq6x/38_24_2/KN_PVN1BR-_L3_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/982/rny5ja4lcf7f6rijybi3z6h2chge7ieq/38_24_2/KN_PVN1BR-_L4_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/188/2560iiwfwuuo0c1hm2rf8puqcbpvbn10/38_24_2/KN_PVN1BR-_L5_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/860/mul7ezfwmuqx95kxmtuqkimn8vzovbqf/38_24_2/KN_PVN1BR-_L6_.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink apple.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink андроид.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>Модель KENO KN-PVN1BR Система Тип матрицы 1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей) Эффективные    пиксели 1945(H)    × 1097(V) Размер пикселя 2.9x2.9 [μm] Электронный    затвор Auto/    1/5s-1/10000s Мин.    Освещенность Цвет: 0.005 Лк / F1.2, Ч/Б: 0.0005 Лк / F1.2, SNR1s: 0.24 Лк Сигнал / шум ≥50db (AGC выкл ) Переключение день / ночь Электромеханический ИК-фильтр ИК подсветка ИК прожектор OSRAM IR LED III (850нм) до 10м ИК компенсация Компенсация засветки лица в ближней зоне (Smart IR) Компенсация засветки HLC / BLC / WDR 120дБ / Накопление заряда / Антитуман Видео режим ROI / Стабилизация изображения Шумоподавление 2DNR (1-100%) / 3DNR (6 уровней) Объектив 3.7 мм типа "Пинхол" (3.0МР), F1.4 Светосила F1.4 Угол обзора Г: 90° (Широкий) Формат    кодирования HEVK H.265 H.264 (HP/MP/BP) Основной поток 1920 x 1080 / 1280 x 720 (1 ~ 25 к/с) Второстепенный    поток 960 х 540 / 720 x 576 (1 ~ 25 к/с) Поток Одновременная трансляция двух видео потоков с аудио Битрейт 32K ~ 8192Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR Сетевой интерфейс RJ-45 (10/100Base-T) Протокол SIP, TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif 2.6 (18.06) Profile-S/G/T (Движение, Тревога, Meta данные) Открытый API интерфейс API методом JSON, текст или Token/Digest аутентификация Аналитика Детектор лиц, людей, транспорта, пересечение области,
+с отправкой Meta снимка на сервер обработки данных Аудио Встроенный микрофон с АРУ и ШП, Встроенный Динамик,  Двухстороннее SIP Аудио G.711 (a-law, μ-law) Звуковое сопровождения при нажатии кнопки вызова  (звуковой файл в формате WAV) для ЧС оповещения граждан Кнопка вызова Настройка задержки вызова от 0,1 до 5-ти секунд Реле Сухой контакт для управления замком двери NO/NC Технические параметры Питание DC12В В ±25%, POE (802.3af) Потребление не более 5Вт Рабочая    температура -40°C ... +60°C,    10% ... 90% Степень защиты IP66, IK08, Подавитель импульсов TVS 8000В Габариты 165 (В) х </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">1945(H)    × 1097(V) Размер пикселя 2.9x2.9 [μm]</spec>
+    <spec name="Электронный    затвор">Auto/    1/5s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.005 Лк / F1.2, Ч/Б: 0.0005 Лк / F1.2, SNR1s: 0.24 Лк</spec>
+    <spec name="Сигнал / шум">≥50db (AGC выкл )</spec>
+    <spec name="Переключение день / ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">ИК прожектор OSRAM IR LED III (850нм) до 10м</spec>
+    <spec name="ИК компенсация">Компенсация засветки лица в ближней зоне (Smart IR)</spec>
+    <spec name="Компенсация засветки">HLC / BLC / WDR 120дБ / Накопление заряда / Антитуман</spec>
+    <spec name="Видео режим">ROI / Стабилизация изображения</spec>
+    <spec name="Объектив">3.7 мм типа "Пинхол" (3.0МР), F1.4</spec>
+    <spec name="Светосила">F1.4</spec>
+    <spec name="Угол обзора">Г: 90° (Широкий)</spec>
+    <spec name="Формат    кодирования">HEVK H.265H.264 (HP/MP/BP)</spec>
+    <spec name="Основной поток">1920 x 1080 / 1280 x 720 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">960 х 540 / 720 x 576 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">Одновременная трансляция двух видео потоков с аудио</spec>
+    <spec name="Битрейт">32K ~ 8192Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR</spec>
+    <spec name="Сетевой интерфейс">RJ-45 (10/100Base-T)</spec>
+    <spec name="Протокол">SIP, TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 (18.06) Profile-S/G/T (Движение, Тревога, Meta данные)</spec>
+    <spec name="Открытый API интерфейс">API методом JSON, текст или Token/Digest аутентификация</spec>
+    <spec name="Аналитика">Детектор лиц, людей, транспорта, пересечение области,
+с отправкой Meta снимка на сервер обработки данных</spec>
+    <spec name="Аудио">Встроенный микрофон с АРУ и ШП,Встроенный Динамик,  Двухстороннее SIP Аудио G.711 (a-law, μ-law)Звуковое сопровождения при нажатии кнопки вызова  (звуковой файл в формате WAV) для ЧС оповещения граждан</spec>
+    <spec name="Кнопка вызова">Настройка задержки вызова от 0,1 до 5-ти секунд</spec>
+    <spec name="Реле">Сухой контакт для управления замком двери NO/NC</spec>
+    <spec name="Питание">DC12В В ±25%, POE (802.3af)</spec>
+    <spec name="Потребление">не более 5Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66, IK08, Подавитель импульсов TVS 8000В</spec>
+    <spec name="Габариты">165 (В) х 73 (Ш) х 50 (Г)</spec>
+    <spec name="Вес">0.6кг</spec>
+    <spec name="KN-CE204A2812BR">2.0</spec>
+    <spec name="KN-CE204A5050BR">2.0</spec>
+    <spec name="KENO KN-PVN1BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-SDE204X23BR">2Мп</spec>
+    <spec name="KN-SDE204X33BR">2Мп</spec>
+    <spec name="KN-FRT7FBR">1920*1080</spec>
+    <spec name="KN-FRT5WBR">1920*1080</spec>
+    <spec name="KN-FRT5FBR">1920*1080</spec>
+    <spec name="KN-CE505A2812BR">5.0</spec>
+    <spec name="KN-DE505A2812BR">5.0</spec>
+    <spec name="KN-DE508F28BR">5.0</spec>
+    <spec name="KN-CE203A2812BR">2.0</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/proektnye-resheniya/keno-kn-pvn1br-/</source_url>
+</product>

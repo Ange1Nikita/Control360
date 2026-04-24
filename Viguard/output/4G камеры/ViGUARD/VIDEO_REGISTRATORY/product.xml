@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Video Registratory</name>
+  <article>VIDEO_REGISTRATORY</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f9a/450_450_1/f9a864bc2f3718298da7774a3b9410e7.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e03/450_450_1/viguard-mdvr-4-kh-kanalnyy-avtomobilnyy-registrator-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/639/450_450_1/6393b25f884d8f1e50c5ee868318ac17.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/715/450_450_1/7155bd3edb63c990336bf6e6e9b1b4d8.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/620/450_450_1/620364091e3e9f9e9553bb056152cac1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a74/450_450_1/a741bcb00ced4b0351071f321b446da6.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/25b/450_450_1/25bfeac2802072b566c10c6c006af105.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/79f/450_450_1/79f6b85023f6b237753f922dcd307ead.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2ac/450_450_1/2accbc1a888d8e091cf6a3332b3148f1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/acb/450_450_1/acb2ad57a3703ae40d0011dd6b1c5b53.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/450_450_1/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1d0/450_450_1/1d04201b0e5912de4910e95e947761fb.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/cf8/450_450_1/cf8e458c980490736ca07a5d35514188.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0c2/450_450_1/0c28969127b2664628acbfd7e2252365.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/video_registratory/</source_url>
+</product>

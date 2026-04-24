@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Тепловизионная камера Hikvision DS-2TD2615-7 с 2 Мп IP-видеомодулем</name>
+  <model>DS-2TD2615-7</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2td2615-7-teplovizionnaya-kamera/</product_url>
+  <description>
+    <paragraph>PoE-коммутатор OSNOVO SW-8062/IC</paragraph>
+    <paragraph>30 431</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>PoE-инжектор OSNOVO Midspan-1/300G</paragraph>
+    <paragraph>3 353</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>Кабель NETLAN EC-UU004-5E-PVC-GY, 305 м</paragraph>
+    <paragraph>8 706</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тепловизионная матрица</name>
+      <value>неохлаждаемый микроболометрический сенсор</value>
+    </spec>
+    <spec>
+      <name>Спектральный диапазон</name>
+      <value>8 ~ 14 мкм</value>
+    </spec>
+    <spec>
+      <name>Температурная чувствительность</name>
+      <value>40 мк (25 °C, F#=1.0)</value>
+    </spec>
+    <spec>
+      <name>Размер объекта обнаружения</name>
+      <value>человек: 1.8 ×0.5 м, транспорт: 1.4×4 м</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>7 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>33.9° — 25°</value>
+    </spec>
+    <spec>
+      <name>Пространственное разрешение</name>
+      <value>1,0</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения транспорт/человек</name>
+      <value>429/ 140 м</value>
+    </spec>
+    <spec>
+      <name>Дальность распознавания транспорт/человек</name>
+      <value>107/ 35 м</value>
+    </spec>
+    <spec>
+      <name>Дальность идентификации транспорт/человек</name>
+      <value>54/ 18 м</value>
+    </spec>
+    <spec>
+      <name>Светочувствительная матрица</name>
+      <value>1/2.8″ Progressive CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.002 лк F1/2</value>
+    </spec>
+    <spec>
+      <name>Объектив IP-камеры</name>
+      <value>8 мм, 30x</value>
+    </spec>
+    <spec>
+      <name>Угол обзора IP-камеры</name>
+      <value>52.8° — 30°</value>
+    </spec>
+    <spec>
+      <name>Цифровое увеличение</name>
+      <value>16х</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265+/ H.265/ H.264+/ H.264/ MJPEG/ MPEG4</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile / Main Profile / High Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с — 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711u/ G.711a/ G.722.1/ MP2L2/ G.726/ PCM</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>тепловое излучение: 384×288 видимый свет: 1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>тепловое излучение: 25 к/с (384×288) видимый свет:
+25 к/с (1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>тепловое излучение: 25 к/с (160×120) видимый свет:
+25 к/с (704×576)</value>
+    </spec>
+    <spec>
+      <name>Настройки тепловизионного изображения</name>
+      <value>контраст</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>яркостьконтрастностьFFCфоновая коррекциякоррекция вручнуюцифровое шумоподавлениеDDEзеркалирование</value>
+    </spec>
+    <spec>
+      <name>Режимы отображения тепловизора</name>
+      <value>14 псевдоцветов</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, входа/выхода из области</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>обнаружение огня</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/ CIFS)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/ IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя (ID и PW), аутентификация хоста (MAC), фильтрация IP-адресов, HTTPS</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>API, ONVIF, PSIA, CGI, HIKVISION SDK</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/ 100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход (микрофонный вход/ линейный вход) 2-2.4V[p-p], сопротивление: 1КОм, ±10%</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход (линейный выход), сопротивление: 600Ом</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>2 входа/2 выхода</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1.0V[p-p] / 75Ω, композитный, BNC</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/ SDHC до 64 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В/ DC 12 В/ PoE+</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>20 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +60 °C, влажность 90% или меньше</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66, подавитель напряжения переходных процессов TVS 6000В для грозозащиты</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>314×104×292.7мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>1,55 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/e25/140_140_1/DS_2TD2615_7_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2td2615-7-teplovizionnaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2TD2615-7&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

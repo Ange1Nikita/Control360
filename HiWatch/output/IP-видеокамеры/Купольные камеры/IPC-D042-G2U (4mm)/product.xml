@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная -видеокамера Hiwatch IPC-D042-G2/U (4mm)</name>
+  <model>IPC-D042-G2/U (4mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ipc-d042-g2-u-4mm-</product_url>
+  <description>
+    <paragraph>СНЯТО С ПРОИЗВОДСТВА, ЗАМЕНА DS-I452M(B)(4 mm), DS-2CD2143G2-IU(4mm), DS-2CD2143G2-LIS2U(4mm)</paragraph>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Высокое качество изображения с разрешением 4 Мп</paragraph>
+    <paragraph>Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR</paragraph>
+    <paragraph>Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>Встроенный микрофон обеспечивает безопасность в режиме реального времени при помощи аудиосвязи</paragraph>
+    <paragraph>Защита от влаги и пыли (IP67) и антивандальная защита (IK10)</paragraph>
+    <paragraph>Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ</paragraph>
+    <paragraph>Встроенный микрофон: есть4Мп уличная купольная IP-камера с EXIR-подсветкой до 30м</paragraph>
+    <paragraph>1/3" Progressive Scan CMOS; объектив 4мм; угол обзора 84градусов; механический ИК-фильтр; 0.005лк@F1.6; сжатие H.265/H.265+/H.264/H.264+/MJPEG; тройной поток; 2688   1520@25к/с; WDR 120дБ, 3D DNR, BLC, ROI; motion detection 2.0, детектор лиц, вторжения в область и пересечения линии; слот для microSD до 256Гб; встроенный микрофон; 1 RJ45 10M/100M Ethernet; DC12В+- 25%/PoE(802.3af); 6.5Вт макс; -40 градусовC...+60 градусовC; IP67; IK10; вес 0.57кг.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>СНЯТО С ПРОИЗВОДСТВА, ЗАМЕНА DS-I452M(B)(4 mm), DS-2CD2143G2-IU(4mm), DS-2CD2143G2-LIS2U(4mm)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высокое качество изображения с разрешением 4 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон обеспечивает безопасность в режиме реального времени при помощи аудиосвязи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита от влаги и пыли (IP67) и антивандальная защита (IK10)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для microSD/SDHC/SDXC: есть, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон: есть4Мп уличная купольная IP-камера с EXIR-подсветкой до 30м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 4мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 84градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005лк@F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>сжатие H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тройной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2688   1520@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WDR 120дБ, 3D DNR, BLC, ROI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>motion detection 2.0, детектор лиц, вторжения в область и пересечения линии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>слот для microSD до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+- 25%/PoE(802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6.5Вт макс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40 градусовC...+60 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IK10</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вес 0.57кг.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

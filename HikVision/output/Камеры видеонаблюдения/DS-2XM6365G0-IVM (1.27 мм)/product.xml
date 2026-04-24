@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XM6365G0-IVM (1.27 мм)</name>
+  <model>DS-2XM6365G0-IVM (1.27 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6365g0-ivm-1-27-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 6 Мп</paragraph>
+    <paragraph>ИК-подсветка 15 м</paragraph>
+    <paragraph>H.265+, H.264+, H.265, H.264</paragraph>
+    <paragraph>Слот для microSD до 256 Гбайт</paragraph>
+    <paragraph>⛅ ☔ ❄ IP66, IK10, –30 ºС… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк при F/1.2, AGC вкл., 0.001 лк при F/1.2, AGC вкл.</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с. ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>двухполосный фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>1.27 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>180° (настенный монтаж), 360° (потолочный монтаж)</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.6</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>до 15 м, 3 независимых LED-диода</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>H.264+</name>
+      <value>основной поток</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>H.265+</name>
+      <value>основной поток</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>поддержка H.265 и H.264</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>3072×2048</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (3072×2048, 2048×2048, 1280×1280)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (720×720)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, АРУ и баланс белого регулируются клиентским программным обеспечением или веб-браузером</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 120 дБ, 3D DNR, HLC, BLC, антитуман</value>
+    </spec>
+    <spec>
+      <name>Переключение день ночь</name>
+      <value>автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Анализ поведения</name>
+      <value>обнаружение пересечения линии, вторжения в область, входа/выхода из области, оставленных и пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Обнаружение исключений</name>
+      <value>обнаружение звуковых исключений</value>
+    </spec>
+    <spec>
+      <name>Область исследования</name>
+      <value>4 фиксированных области для основного потока</value>
+    </spec>
+    <spec>
+      <name>Тип крепления</name>
+      <value>настольный, настенный, потолочный</value>
+    </spec>
+    <spec>
+      <name>Режим декодирования</name>
+      <value>поддержка аппаратного декодирования и программного декодирования</value>
+    </spec>
+    <spec>
+      <name>Режимы вывода видео на дисплей</name>
+      <value>всего 16 режимовпрограммное декодирование:крепление на потолке: вид рыбий глаз, панорама 180°, панорама 360°, панорама 360° + PTZ, 360° панорама + 3 PTZ, панорама 360° + 6 PTZ, панорама 360° + 8 PTZ, 2 PTZ, 4 PTZ, рыбий глаз + 3 PTZ, рыбий глаз +8 PTZ, полусферанастенное крепление: вид рыбий глаз, панорама, панорама + 3 PTZ, панорама + 8PTZ, 4 PTZ, рыбий глаз + 3 PTZ, рыбий глаз +8 PTZаппаратное декодирование:крепление на потолке: вид рыбий глаз, панорама 180°, вид панорама, 4 PTZ, рыбий глаз + 3 PTZнастенное крепление: вид рыбий глаз, панорама 180°, панорама, 4 PTZ, рыбий глаз + 3 PTZ</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>поддержка карт microSD/SDHC/SDXC (256 Гбайт), локальное хранение и NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>обнаружение движения, тревога несанкционированного доступа, сеть отключена, конфликт IP-адресов, неправильный вход в систему, жесткий диск заполнен, ошибка жесткого диска</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, шифрование HTTPS, управление доступом к сети на основе портов IEEE 802.1x, фильтр IP-адресов, базовая и дайджест-аутентификация для HTTP / HTTPS, WSSE и дайджест-аутентификация для ONVIF</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>сброс одним нажатием кнопки, антимерцание, сердцебиение, зеркало, защита паролем, маска конфиденциальности, водяной знак, IP адресный фильтр</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (Profile S, Profile G), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Версия прошивки</name>
+      <value>5.5.73</value>
+    </spec>
+    <spec>
+      <name>Одновременный показ в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, iVMS-4500, iVMS-5200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>IE8+, Chrome31.0-44, Firefox30.0-51, Safari8.0+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>4-ядерный авиационный разъем M12</value>
+    </spec>
+    <spec>
+      <name>Бортовое хранилище</name>
+      <value>встроенный слот micro SD/SDHC/SDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>12 В DC ±20 %, PoE (802.3af, класс 3), двухжильный клеммный блок</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность и ток</name>
+      <value>12 В DC, 0.9 А, макс. 11 ВтPoE (802.3af, 36 В ~ 57 В), 0.3 ~ 0.2 A, макс. 12 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–30 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66, IK10</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø136×61.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>600 г</value>
+    </spec>
+    <spec>
+      <name>Стандарты EMC</name>
+      <value>47 CFR Part 15, Subpart BEN 55032: 2015, EN 61000-3-2: 2014, EN 61000-3-3: 2013, EN 50130-4: 2011 +A1: 2014AS/NZS CISPR 32: 2015ICES-003: Issue 6, 2016KN 32: 2015, KN 35: 2015</value>
+    </spec>
+    <spec>
+      <name>Стандарты по безопасности</name>
+      <value>UL 60950-1, IEC 60950-1:2005 + Am 1:2009 + Am 2:2013, EN 60950-1:2005 + Am 1:2009 + Am 2:2013, IS 13252 (Part 1):2010+A1:2013+A2:2015</value>
+    </spec>
+    <spec>
+      <name>Химия</name>
+      <value>2011/65/EU, 2012/19/EU, Regulation (EC) No 1907/2006</value>
+    </spec>
+    <spec>
+      <name>Транспортные и ж/д стандарты</name>
+      <value>E-MARK, EN45545, EN50155-2017, R118</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 6 МпИК-подсветка 15 мH.265+, H.264+, H.265, H.264Слот для microSD до 256 Гбайт⛅ ☔ ❄ IP66, IK10, –30 ºС… +60 ºСПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/d13/140_140_1/DS_2XM6365G0_IVS-_1.27-mm_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6365g0-ivm-1-27-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XM6365G0-IVM (1.27 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

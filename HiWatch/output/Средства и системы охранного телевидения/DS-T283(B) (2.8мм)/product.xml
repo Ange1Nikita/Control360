@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная купольная HiWatch DS-T283(B) (2.8мм)</name>
+  <model>DS-T283(B) (2.8мм)</model>
+  <article>355468</article>
+  <sku>300614653</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные купольные</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная купольная</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>1542.24</price>
+  <price_wholesale>1400.87</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/355468/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная купольная уличная со встроенной ИК подсветкой (механический ИК фильтр), ДЕНЬ/НОЧЬ; 1/2.7" Progressive Scan CMOS 2МП (1920х1080); 0.1/0 лк (ИК-подсветка); f=2.8мм ; дальность EXIR-ИК подсветки 20 м; S/N: 65 dB; Smart ИК EXIR; OSD, BLC, DWDR, AGC, DNR ; DC12В/330 мА; IP66; D89.5х69.8; -40°…+60°C; 82,6х69,66; Металл</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" 2МП Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.1/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>89.5х69.8</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

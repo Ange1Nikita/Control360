@@ -1,0 +1,305 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDMCS-EG2-WE black</name>
+  <model>DS-PDMCS-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-pdmcs-eg2-we-black</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Тонкая конструкция для незаметной установки</paragraph>
+    <paragraph>Удаленная настройка через приложение</paragraph>
+    <paragraph>Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>Скачкообразная смена частоты для предотвращения помех и надежной передачи</paragraph>
+    <paragraph>Геркон</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Передняя панель, задняя панель</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>Тревога (синий)</paragraph>
+    <paragraph>Технология беспроводного подключения</paragraph>
+    <paragraph>Беспроводная технология Tri-X</paragraph>
+    <paragraph>Двусторонняя беспроводная связь</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Расстояние передачи</paragraph>
+    <paragraph>1200 м (открытое пространство)</paragraph>
+    <paragraph>Шифрование передачи</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Методы регистрации</paragraph>
+    <paragraph>Включение, удаленный ввод ID и QR-код</paragraph>
+    <paragraph>Скачкообразная смена частоты</paragraph>
+    <paragraph>Многоканальная передача</paragraph>
+    <paragraph>Индикатор уровня сигнала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Индикатор температуры окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>CR2450 x 1 (включена в комплект поставки)</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>3 года</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>29  69  10 мм 14  69  10 мм</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>38 г</paragraph>
+    <paragraph>Температура хранения</paragraph>
+    <paragraph>От -20 до +60 °C</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тонкая конструкция для незаметной установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скачкообразная смена частоты для предотвращения помех и надежной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Геркон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Передняя панель, задняя панель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревога (синий)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология беспроводного подключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя беспроводная связь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Расстояние передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1200 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Методы регистрации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скачкообразная смена частоты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Многоканальная передача</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор уровня сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор температуры окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR2450 x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>29  69  10 мм 14  69  10 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>38 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Температура хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -20 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Геркон</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Передняя панель, задняя панель</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>Тревога (синий)</value>
+    </spec>
+    <spec>
+      <name>Технология беспроводного подключения</name>
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name>Двусторонняя беспроводная связь</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Расстояние передачи</name>
+      <value>1200 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Шифрование передачи</name>
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name>Методы регистрации</name>
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name>Скачкообразная смена частоты</name>
+      <value>Многоканальная передача</value>
+    </spec>
+    <spec>
+      <name>Индикатор уровня сигнала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Индикатор температуры окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Батарея</name>
+      <value>CR2450 x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>29  69  10 мм 14  69  10 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>38 г</value>
+    </spec>
+    <spec>
+      <name>Температура хранения</name>
+      <value>От -20 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Домофоны/KN-70H</name>
+  <article>KN-70H</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3d5/440_370_0/kn_70h-_1_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7d3/440_370_0/2.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/e5f/440_370_0/3.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/da3/440_370_0/4.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3d5/38_24_2/kn_70h-_1_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7d3/38_24_2/2.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/e5f/38_24_2/3.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/da3/38_24_2/4.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/domofony.detail/templates/.default/images/diagonal.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/domofony.detail/templates/.default/images/diagonal.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/domofony.detail/templates/.default/images/hands-free.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/domofony.detail/templates/.default/images/hands-free.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/domofony.detail/templates/.default/images/ip.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/domofony.detail/templates/.default/images/ip.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 4 5 7 Да Да Короткое описание IP видеодомофон KN-70H предназначен для осуществления аудио и видео контроля, управления доступом в жилые или общественные помещения (квартиры, дома, офисы, загородные резиденции). Работа по сети TCP/IP. Поддержка внешних IP камер и сетевых регистраторов. Удаленное управление открыванием замка с помощью мобильного телефона. Особенности IP домофона Все технические параметры Модель КN-70H Система Процессор Motorolla Система LINUX    OC Видео Сжатие H.264 Разрешение 800х480 Аудио Вход Встроенный    микрофон Выход Встроенные    динамики Разговор Поддерживается    двусторонняя связь с устройствами Экран Размер Цветной    TFT LCD размером 7" Функции Вход Кнопки    на корпусе (Тревога, просмотр, разговор, селектирование, открытие двери ) и тачскрин на экране Тревога Тревожный    вход До    8 внешних датчиков (Движения, разбития стекла, дымовые и т.д.) Сеть Сеть 10/100    Mbps Протокол TCP/IP Основные Питание Постоянное  10~15 В Потребление В    ожидании ≤1.5 Вт，при работе ≤7 Вт Рабочая температура 10℃~+60℃ 10 ~ 90% RH Размер 261.0 мм×192.0 мм×24.1 мм (Д*Ш*Г) Вес 1.0 Кг 7 Да Да Цветной TFT LCD дисплей размером 7" 800х480 Поддержка до 20 IP панелей Поддержка до 8 Onvif IP камер Открытие замка с мобильного устройства Поддержка до 8 проводных тревожных датчиков SD карта до 64Гб Материалы и особенности ПО Руководство по установке и настройке IP домофонов KENO (2.472МБ)</description>
+  <specs>
+    <spec name="Модель">Диагональ</spec>
+    <spec name="Система">LINUX    OC</spec>
+    <spec name="Видео">Сжатие</spec>
+    <spec name="Разрешение">800х480</spec>
+    <spec name="Аудио">Вход</spec>
+    <spec name="Выход">Встроенные    динамики</spec>
+    <spec name="Разговор">Поддерживается    двусторонняя связь с устройствами</spec>
+    <spec name="Экран">Размер</spec>
+    <spec name="Функции">Вход</spec>
+    <spec name="Тревога">Тревожный    вход</spec>
+    <spec name="Сеть">Сеть</spec>
+    <spec name="Протокол">TCP/IP</spec>
+    <spec name="Основные">Питание</spec>
+    <spec name="Потребление">В    ожидании ≤1.5 Вт，при работе ≤7 Вт</spec>
+    <spec name="Рабочая температура">10℃~+60℃</spec>
+    <spec name="Размер">261.0 мм×192.0 мм×24.1 мм (Д*Ш*Г)</spec>
+    <spec name="Вес">1.0 Кг</spec>
+    <spec name="KN-70A">7</spec>
+    <spec name="KN-70G">7</spec>
+    <spec name="KN-71P">7</spec>
+    <spec name="KN-70H">7</spec>
+    <spec name="KN-70C2">7</spec>
+    <spec name="KN-100C2">10</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/domofony/KN-70H/</source_url>
+</product>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DE806F36</name>
+  <article>8-0-MPX-</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f9a/440_370_0/8.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/361/440_370_0/2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f9a/38_24_2/8.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/361/38_24_2/2.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+  </images>
+  <description>1 2 Уличная 8.0 3.6 20 Короткое описание IP камера KN-DE806F36 - устройство для высококачественного видеонаблюдения с разрешением видео до 8 Мп (3840×2160 пикселей). 
+Это высокая детализация картинки с широким углом обзора 88° , которая позволит рассмотреть самые мелкие детали в большой зоне покрытия. 
+Управлять функциями и настройками IP камеры с разрешением 8 мегапикселей можно через веб интерфейс 
+или приложение на мобильном телефоне. Независимо от того, где вы находитесь, вы можете удаленно получить доступ
+к камера, чтобы увидеть потоковую передачу в реальном времени и оставаться на связи. IP Видеокамера KN-DE806F36 исполнена в компактном металлическом корпусе купольного типа. KN-DE806F36 возможно применять 
+как на улице, так и внутри помещения, рабочий диапазон температур: -40°С...+60°С. Видеообзор данной модели смотрите здесь: KN-DE806F36 Особенности IP видеокамеры Все технические параметры Модель KN-DE806F36 Система MSTAR SSC328Q Тип матрицы Матрица 1/1.8” 8,51 Megapixel OmniVision OSO8A10 sensor Эффективные    пиксели 4K 3864x2202 (25к/с) / 1080P (25к/с) Размер пикселя 2.0 μm x 2.0 μm Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 lux / F 0.95, Ч/Б: 0.001 lux, 0 lux ИК вкл. Сигнал / шум 50db(AGC    OFF) Камера ИК фильтр Активный ИК-фильтр для корректной цветопередачи ИК подсветка Управляемый ИК прожектор OSRAM IR LED III (850нм) 20-25 м Компенсация    засветки BLC / DWDR / Slow Shutter / Антитуман Баланс белого Авто Усиление Авто/Ручной Шумоподавление 2DNR/3DNR Приватные зоны До    4-х зон Оптика Объектив 3.6mm YTW10035A01 (8.0MP) F1.6 4K серия с ИК коррекцией Угол обзора H: 88° Видео Формат    кодирования HEVC H.265+ / H.265 / H.264+ / H.264 (H/M/B) Основной поток 4K 3840*2160 (1 ~ 20 к/с) / 4MP/1080P (1 ~ 25 к/с) Второстепенный    поток D1 / 640x360 (1 ~ 25 к/с) Поток 160K~20480 Kbps, CBR, VBR Сеть Порт RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Система">MSTAR SSC328Q</spec>
+    <spec name="Тип матрицы">Матрица 1/1.8” 8,51 Megapixel OmniVision OSO8A10 sensor</spec>
+    <spec name="Эффективные    пиксели">4K 3864x2202 (25к/с) / 1080P (25к/с)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 lux / F 0.95, Ч/Б: 0.001 lux, 0 lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Активный ИК-фильтр для корректной цветопередачи</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED III (850нм) 20-25 м</spec>
+    <spec name="Компенсация    засветки">BLC / DWDR / Slow Shutter / Антитуман</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">2DNR/3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">3.6mm YTW10035A01 (8.0MP) F1.6 4K серия с ИК коррекцией</spec>
+    <spec name="Угол обзора">H: 88°</spec>
+    <spec name="Формат    кодирования">HEVC H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">4K 3840*2160 (1 ~ 20 к/с) / 4MP/1080P (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / 640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">160K~20480 Kbps, CBR, VBR</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 Profile-S/G (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="P2P">VSSweb.net / Vssmobile / Smart IMS3</spec>
+    <spec name="Аналитика">Детектор движения / Саботаж</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Питание">DC 12 В ±25%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 6Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C (Холодный старт),    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66,  грозозащита до  TVS4000В (Земля – Корпус)</spec>
+    <spec name="Габариты">⌀127 * 163(В) мм</spec>
+    <spec name="Вес">0.385кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/8-0-mpx-/</source_url>
+</product>

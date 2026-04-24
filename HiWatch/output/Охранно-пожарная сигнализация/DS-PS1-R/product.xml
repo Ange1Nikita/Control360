@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PS1-R</name>
+  <model>DS-PS1-R</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-ps1-r</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Звуковой децибел: 105 дБ при 30 см</paragraph>
+    <paragraph>Степень защиты IP54</paragraph>
+    <paragraph>Звуковая и светодиодная индикация вспышки отдельно</paragraph>
+    <paragraph>Простая установка с новой конструкциейСирена проводая внутренняя (Красная)</paragraph>
+    <paragraph>Звуковое давление 105 дБ,  свет 3Вт; питание DC9~16В/1А; -20градусовC...+60градусовC; IP54; размер 140х134х33мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Звуковой децибел: 105 дБ при 30 см</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Степень защиты IP54</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Звуковая и светодиодная индикация вспышки отдельно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Простая установка с новой конструкциейСирена проводая внутренняя (Красная)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Звуковое давление 105 дБ,  свет 3Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>питание DC9~16В/1А</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-20градусовC...+60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP54</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 140х134х33мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

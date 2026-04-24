@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IPC-E20WP-IR</name>
+  <article>FX-IPC-E20WP-IR</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110004790</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3d8/440_370_0/1_900X576_45.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/528/440_370_0/2_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/cf3/440_370_0/3_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ee5/440_370_0/komplektatsiya_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d66/440_370_0/4_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3d8/38_24_2/1_900X576_45.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/528/38_24_2/2_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/cf3/38_24_2/3_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ee5/38_24_2/komplektatsiya_900X576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d66/38_24_2/4_900X576.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/3d8/440_370_0/1_900X576_45.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">FX-IPC-E20WP-IR</spec>
+    <spec name="Тип матрицы">1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">1945(Г) × 1097(В), Размер пикселя 2.9x2.9 [µm]</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">цвет: 0.005 Лк / F1.3, Ч/Б: 0.0005 Лк, SNR1s: 0.24 Лк</spec>
+    <spec name="Сигнал / шум">≥ 50db (AGC    OFF)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED II (850нм) до 30м</spec>
+    <spec name="ИК компенсация">Компенсация засветки лица в ближней зоне (Smart IR)</spec>
+    <spec name="Шумоподавление">2DNR (0 - 100%) / 3DNR (6 уровней)</spec>
+    <spec name="Компенсация засветки">Компенсация засветки лица в ближней зоне (Smart IR)</spec>
+    <spec name="Видео режим">Режим «Коридор» поворот изображения на 90° / ROI</spec>
+    <spec name="Объектив">2.8mm (4.0MP) F1.8</spec>
+    <spec name="Угол обзора">H:    110°</spec>
+    <spec name="Формат    кодирования">H.265+ / H.264+ / H.264 (H/M/B)/ Mjpeg</spec>
+    <spec name="Основной поток">1920х1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">960x540 / 720x480 / 640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K ~ 8192Kbps, CBR±10%, VBR</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="WIFI">IEEE802.11b/g/n, 2,4 ГГц, 20/40МГц, WPA, WPA2, прием до 50м</spec>
+    <spec name="Протокол">CP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, 
+RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF 2.6">Profile S/G/Т (Движение, Тревога, Metadata)</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">Встроенный микрофон с АРУ и ШП, Встроенный Динамик,
+Аудио G.711 (a-law, μ-law)</spec>
+    <spec name="Memory Slot">Микро SD, Макс 128GB (Карта приобретается отдельно)</spec>
+    <spec name="Питание">DC 12 В ±10%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 5Вт</spec>
+    <spec name="Рабочая    температура">0°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">Грозозащита до TVS4000В</spec>
+    <spec name="Габариты">73(Ш)*128(В)*85(Г) мм</spec>
+    <spec name="Вес">0.15 кг</spec>
+    <spec name="FX-IPC-E20WP-IR">2Мп</spec>
+    <spec name="FX-IPC-C20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-C40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-C40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-D40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-D2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-C450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-D450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-T20FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-T40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-H2C-WIR">2Мп</spec>
+    <spec name="FX-IPC-H2D-WIR">2Мп</spec>
+    <spec name="FX-IPC-H4C-WIR">4Мп</spec>
+    <spec name="FX-IPC-H4D-WIR">4Мп</spec>
+    <spec name="FX-IPEYE/2Q">2Мп</spec>
+    <spec name="Внутренняя">2Мп</spec>
+    <spec name="2.8 mm">30</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="СИСТЕМА">Тип матрицы</spec>
+    <spec name="1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей)">Эффективные    пиксели</spec>
+    <spec name="1945(Г) × 1097(В), Размер пикселя 2.9x2.9 [µm]">Электронный    затвор</spec>
+    <spec name="Auto/    1/25s-1/10000s">Мин.    Освещенность</spec>
+    <spec name="цвет: 0.005 Лк / F1.3, Ч/Б: 0.0005 Лк, SNR1s: 0.24 Лк">Сигнал / шум</spec>
+    <spec name="≥ 50db (AGC    OFF)">КАМЕРА</spec>
+    <spec name="ОПТИКА">Объектив</spec>
+    <spec name="2.8mm (4.0MP) F1.8">Угол обзора</spec>
+    <spec name="H:    110°">ВИДЕО</spec>
+    <spec name="СЕТЬ">Порт</spec>
+    <spec name="RJ-45    (10/100Base-T)">WIFI</spec>
+    <spec name="IEEE802.11b/g/n, 2,4 ГГц, 20/40МГц, WPA, WPA2, прием до 50м">Протокол</spec>
+    <spec name="Profile S/G/Т (Движение, Тревога, Metadata)">Кол-во    пользователей</spec>
+    <spec name="До    10 пользователей">Мобильные    устройства</spec>
+    <spec name="iPhone,    iPad, Android, Windows">ДОПОЛНИТЕЛЬНО</spec>
+    <spec name="ТЕХНИЧЕСКИЕ ПАРАМЕТРЫ">Питание</spec>
+    <spec name="DC 12 В ±10%, PoE (802.3af)">Потребление</spec>
+    <spec name="Не более 5Вт">Рабочая    температура</spec>
+    <spec name="0°C ... +50°C,    10% ... 90%">Степень защиты</spec>
+    <spec name="Грозозащита до TVS4000В">Габариты</spec>
+    <spec name="73(Ш)*128(В)*85(Г) мм">Вес</spec>
+    <spec name="Материалы и особенности ПО">Сертификат № МВД РФ.03.000808 FOX</spec>
+    <spec name="(2.539МБ)">Приложение к сертификату № МВД РФ.03.000808 FOX</spec>
+    <spec name="(0.773МБ)">Паспорт_FX-IPC-E20WP-IR</spec>
+    <spec name="Сертификат № МВД РФ.03.000808 FOX">(2.539МБ)</spec>
+    <spec name="Приложение к сертификату № МВД РФ.03.000808 FOX">(0.773МБ)</spec>
+    <spec name="Паспорт_FX-IPC-E20WP-IR">(0.239МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ip-kamery/fx-ipc-e20wp-ir/</source_url>
+</product>

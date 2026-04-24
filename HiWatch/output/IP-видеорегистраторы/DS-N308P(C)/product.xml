@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch DS-N308P(C)</name>
+  <model>DS-N308P(C)</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n308p-s-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• 8 каналов c PoE</paragraph>
+    <paragraph>• Запись с разрешением до 8Мп</paragraph>
+    <paragraph>• Вывод видео с разрешением до 4K</paragraph>
+    <paragraph>• 1 SATA HDD до 8ТБ</paragraph>
+    <paragraph>• EXTEND PoE до 250 м 10 Мбит Cat 5e</paragraph>
+    <paragraph>• 1/1 аудиовход/ выход</paragraph>
+    <paragraph>• Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet8-ми канальный IP-регистратор c 8-ю PoE интерфейсами</paragraph>
+    <paragraph>Видеовход: 8 IP@8Мп; Аудиовход: 1 канал RCA;  Видеовыход: 1 VGA и 1 HDMI до 4К; Аудиовыход; 1 канал RCA;  Видеосжатие H.265+/H.265/H.264+/H.264; Входящий поток 80 Мбит/с; Исходящий поток 80 Мбит/с. Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 4 канала@1080P;  1 SATA для HDD до 6Тб, 1 10M/100M/1000M Ethernet интерфейс; 8 независимых PoE интерфейса 10M/100M; поддержка режима передачи до 250м,10Мбит/с, CAT5e; тревожные вход/выход 4/1, 2 х USB 2.0; -10градусовC до +55градусовC;  220В АC; 95Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 8 каналов c PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Запись с разрешением до 8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Вывод видео с разрешением до 4K</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 SATA HDD до 8ТБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXTEND PoE до 250 м 10 Мбит Cat 5e</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1/1 аудиовход/ выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet8-ми канальный IP-регистратор c 8-ю PoE интерфейсами</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 8 IP@8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 4К</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исходящий поток 80 Мбит/с. Разрешение записи: до 8Мп. Синхр.воспр. 1 канал@8Мп, 4 канала@1080P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 6Тб, 1 10M/100M/1000M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 независимых PoE интерфейса 10M/100M</value>
+    </spec>
+    <spec>
+      <name />
+      <value>поддержка режима передачи до 250м,10Мбит/с, CAT5e</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные вход/выход 4/1, 2 х USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>220В АC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>95Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

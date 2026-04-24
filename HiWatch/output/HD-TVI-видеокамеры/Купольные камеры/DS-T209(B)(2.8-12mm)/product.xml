@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T209(B)(2.8-12mm)</name>
+  <model>DS-T209(B)(2.8-12mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t209-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>2 Мп High Performance CMOS</paragraph>
+    <paragraph>Разрешение 1920  1080</paragraph>
+    <paragraph>Вариофокальный объектив от 2.8 до 12 мм</paragraph>
+    <paragraph>Переключение режима «день/ночь»</paragraph>
+    <paragraph>EXIR 2.0, интеллектуальная ИК-подсветка, дальность ИК-подсветки до 40 м</paragraph>
+    <paragraph>IP66</paragraph>
+    <paragraph>Встроенный слот для microSD/SDHC/SDXC: нет</paragraph>
+    <paragraph>Встроенный микрофон: нет2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 40м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; вариообъектив 2.8-12мм; угол обзора 111.5градусов - 33,4градусов; механический ИК-фильтр; 0.01 Лк@F1.2; DNR; BLC, DWDR, Smart ИК; видеовыход:1 х HD-TVI/AHD/CVI/CVBS; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 Мп High Performance CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение 1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вариофокальный объектив от 2.8 до 12 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключение режима «день/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EXIR 2.0, интеллектуальная ИК-подсветка, дальность ИК-подсветки до 40 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для microSD/SDHC/SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон: нет2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 40м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вариообъектив 2.8-12мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 111.5градусов - 33,4градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BLC, DWDR, Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход:1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

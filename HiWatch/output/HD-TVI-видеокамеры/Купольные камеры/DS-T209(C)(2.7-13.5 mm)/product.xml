@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T209(C)(2.7-13.5 mm)</name>
+  <model>DS-T209(C)(2.7-13.5 mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t209-c-2-7-13-5-mm-</product_url>
+  <description>
+    <paragraph>2Мп уличная купольная HD-TVI камера с ИК-подсветкой до 40м</paragraph>
+    <paragraph>2Мп CMOS матрица; вариообъектив 2.7-13.5мм; угол обзора 100градусов - 30градусов; механический ИК-фильтр; 0.01 Лк@F1.6; DNR; BLC, HLC, DWDR, Smart ИК; видеовыход:1 х HD-TVI/AHD/CVI/CVBS; IP67; -40градусовС до +60градусовС; 12В DC+-25%, 5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная купольная HD-TVI камера с ИК-подсветкой до 40м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2Мп CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вариообъектив 2.7-13.5мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 100градусов - 30градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BLC, HLC, DWDR, Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход:1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

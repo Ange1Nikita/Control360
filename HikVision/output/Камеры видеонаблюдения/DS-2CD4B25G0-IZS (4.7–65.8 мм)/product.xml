@@ -1,0 +1,234 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD4B25G0-IZS (4.7–65.8 мм)</name>
+  <model>DS-2CD4B25G0-IZS (4.7–65.8 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd4b25g0-izs-4-7-65-8-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>IP66, –40 °C… +60 ºС</paragraph>
+    <paragraph>ИК-подсветка до 120 м</paragraph>
+    <paragraph>Слот для microSD до 128 Гбайт</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.005 лк (F/1.2, AGC вкл.), 0.007лк (F/1.2, AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1с ~ 1/100 000с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>4.7 мм ~ 65.8 мм, F/1.4, моторизованный вариообъектив</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>горизонтальный: 54.84° ~ 3.12°вертикальный: 31.62° ~ 1.76°диагональный: 62.08° ~ 3.58°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>автофокус</value>
+    </spec>
+    <spec>
+      <name>Регулировка диафрагмы</name>
+      <value>электропривод</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>H.264+</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>H.265+</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Kbps (G.711), 16 Kbps (G.722.1), 16 Kbps (G.726), 32–192 Kbps (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (640×480, 640×360, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 640×360, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора и наложение изображения настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, HLC, антитуман, ROI, коррекция искажений</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>авто, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, входа и выхода из области, оставленных и пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>обнаружение смены сцены съемки, превышения и принижения звукового порога, потери аудио, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>обнаружение лиц</value>
+    </spec>
+    <spec>
+      <name>Бизнес аналитика</name>
+      <value>подсчет людей</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>HikCentral Pro (рекомендуемое), iVMS-4200, iVMS-4500, iVMS-5200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов, анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (профили S, G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, обнаружение несанкционированных действий, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>запись на microSD/SDHC карту, активация реле, уведомление клиента, отправка e-mail, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>16 кГц, 32 кГц, 44.1кГц, 48кГц</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>1 вход, 1 выход (DC 24 В 1A или AC 110 В 500 мA)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD, SDHC, SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В, PoE(802.3at, class 4), трехядерный терминальный блок</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>12 В DC ±20 %: макс. 12 Вт, 1 APoE (802.3at, 42.5В-57В), 0.2 A ~ 0.3 A</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–30 °C… +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>120 м</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>камера: 348.38×114.18×111.73 ммкоробка: 386×156×155 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>камера: 1740 гс упаковкой: 2125 г</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпIP66, –40 °C… +60 ºСИК-подсветка до 120 мСлот для microSD до 128 ГбайтH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/4a9/140_140_1/DS_2CD4B25G0_IZS-_4.7_65.8-mm_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd4b25g0-izs-4-7-65-8-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD4B25G0-IZS (4.7-65.8 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

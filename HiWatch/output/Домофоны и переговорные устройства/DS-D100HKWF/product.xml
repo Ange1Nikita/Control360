@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Комплект IP-видеодомофона HiWatch DS-D100HKWF</name>
+  <model>DS-D100HKWF</model>
+  <article>327119</article>
+  <sku>305304256</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Мониторы видеодомофонов</subcategory>
+  <functional_name>Комплект IP-видеодомофона</functional_name>
+  <nomenclature>Комплект видеодомофона</nomenclature>
+  <price>9247.2</price>
+  <price_wholesale>8399.54</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/327119/</product_url>
+  <description>
+    <paragraph>Комплект гибридной видеодомофонии в составе:&lt;br /&gt;</paragraph>
+    <paragraph>—   VDP-H3212W - гибридный монитор домофона с 7'' цветным емкостным сенсорным экраном (1024×600);  до 2х аналоговых вызывных панелей;  до 15 IP-видеопанелей;  до 16 IP-камер;  до 5 мониторов.  Wi-Fi; Ethernet (RJ45); SIP; RTSP;  RS-485;  2 тревожных вход/выход;  переадресация звонков на мобильное приложение Hik-Connect.  DC 12В; не более 6Вт.  -10...+50°C.  Габ.размеры: 200×140×23.6 мм.&lt;br /&gt;</paragraph>
+    <paragraph>—   DS-D100P - вызывная панель 4х проводная; 960х576;  угол обзор</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей/камер</name>
+      <value>15</value>
+    </spec>
+    <spec>
+      <name>Количество дополнительных видеокамер</name>
+      <value>до 16 IP камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Стандарт видеосигнала</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>4-х проводная|IP|</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры монитора, мм</name>
+      <value>200×140×23.6</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>CVBS/IP (2.0 МП)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора, град</name>
+      <value>67</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>4-х проводная|IP|</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50|-30…+70|</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры вызывной панели, мм</name>
+      <value>145.5×51.5×49</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="802.3 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/1/71D7A969E783AEFD5B024605F60ED8D3.pdf</document>
+    <document title="Руководство пользователя" size="5.84 МБ">https://www.tinko.ru/upload/exchange/public/documentation/B/6/B638B9DA0F46395A63E89154EF716A0C.pdf</document>
+  </documents>
+</product>

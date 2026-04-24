@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1271ZJ-110</name>
+  <model>DS-1271ZJ-110</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1271zj-110</product_url>
+  <description>
+    <paragraph>Подвесной кронштейн, белый, для купольных камер, алюминий,  150 560мм</paragraph>
+    <paragraph>Характеристики</paragraph>
+    <paragraph>Подвесной монтаж для компактных купольных камеры</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Алюминиевый сплав</paragraph>
+    <paragraph>Размер (мм)</paragraph>
+    <paragraph>150х560мм</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>1270г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Подвесной кронштейн, белый, для купольных камер, алюминий,  150 560мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Характеристики</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подвесной монтаж для компактных купольных камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер (мм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>150х560мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1270г</value>
+    </spec>
+    <spec>
+      <name>Характеристики</name>
+      <value>Подвесной монтаж для компактных купольных камеры</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name>Размер (мм)</name>
+      <value>150х560мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1270г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

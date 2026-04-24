@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H104GA</name>
+  <model>DS-H104GA</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h104ga</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Обнаружение движения 2.0 («Человек», «ТС») на основе алгоритма глубокого обучения</paragraph>
+    <paragraph>• Видеосжатие H.265 Pro+ / H.265 Pro / H.265 / H.264+ / H.264</paragraph>
+    <paragraph>• Видеовходы HDTVI / AHD / CVI / CVBS / IP</paragraph>
+    <paragraph>• Аудио по коаксиальному кабелю</paragraph>
+    <paragraph>• IP-видеовходы: до 5 каналов (до 2 Мп)</paragraph>
+    <paragraph>• Возможность кодирования до 1080p Lite @ 15 к/с</paragraph>
+    <paragraph>• Макс. 1200 м для сигнала HDTVI 720p4-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал (до 5 с замещением аналоговых)</paragraph>
+    <paragraph>Видеовход: 4 канала BNC; Аудиовход: 1 канал RCA (до 4-х каналов AoC);  Видеовыход: 1 VGA и 1 HDMI до 1080p; Аудиовыход: 1 канал RCA; видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+; аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</paragraph>
+    <paragraph>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с;  аналоговые камеры: WD1@25к/с; IP: до 2Мп - входящий битрейт 72Мбит/с. 1 SATA для HDD до 4Тб; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0;  -10градусовC до +55градусовC;12В DC; 17Вт макс (без HDD).*</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Обнаружение движения 2.0 («Человек», «ТС») на основе алгоритма глубокого обучения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Видеосжатие H.265 Pro+ / H.265 Pro / H.265 / H.264+ / H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Видеовходы HDTVI / AHD / CVI / CVBS / IP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Аудио по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP-видеовходы: до 5 каналов (до 2 Мп)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Возможность кодирования до 1080p Lite @ 15 к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Макс. 1200 м для сигнала HDTVI 720p4-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал (до 5 с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 канала BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA (до 4-х каналов AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 2Мп - входящий битрейт 72Мбит/с. 1 SATA для HDD до 4Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>17Вт макс (без HDD).*</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

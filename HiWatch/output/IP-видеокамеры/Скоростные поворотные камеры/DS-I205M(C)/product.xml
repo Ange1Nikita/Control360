@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Скоростная поворотная IP-видеокамера Hiwatch DS-I205M(C)</name>
+  <model>DS-I205M(C)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Скоростные поворотные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i205m-s-</product_url>
+  <description>
+    <paragraph>Основная информация</paragraph>
+    <paragraph>Высокое качество изображения с разрешением 2 Мп</paragraph>
+    <paragraph>Отличная производительность при низкой освещенности благодаря технологии DarkFighter</paragraph>
+    <paragraph>Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR</paragraph>
+    <paragraph>Функции панорамирования и наклона позволяют камере следить за состоянием в зонах интереса</paragraph>
+    <paragraph>Высокая детализация обширных областей благодаря объективу с 4  оптическим зумом</paragraph>
+    <paragraph>Дальность ИК-подсветки до 20 м обеспечивает безопасность в ночное время</paragraph>
+    <paragraph>Защита от влаги и пыли (IP66) и антивандальная защита (IK10)</paragraph>
+    <paragraph>Встроенный слот для microSD / SDHC / SDXC: есть, до 256 ГБ</paragraph>
+    <paragraph>Встроенный микрофон: есть</paragraph>
+    <paragraph>Чувствительный элемент</paragraph>
+    <paragraph>1/2.8" Progressive Scan CMOS</paragraph>
+    <paragraph>Разрешение</paragraph>
+    <paragraph>1920х1080</paragraph>
+    <paragraph>Кодек сжатия видео</paragraph>
+    <paragraph>H.265/H.265+/H.264/H.264+/MJPEG</paragraph>
+    <paragraph>Объектив, мм</paragraph>
+    <paragraph>ZOOM 2.8-12</paragraph>
+    <paragraph>Дальность подсветки, м</paragraph>
+    <paragraph>20</paragraph>
+    <paragraph>Скорость передачи макс. к/сек</paragraph>
+    <paragraph>25</paragraph>
+    <paragraph>Чувствительность, лк</paragraph>
+    <paragraph>0.005/0.001</paragraph>
+    <paragraph>Аудиовход/выход</paragraph>
+    <paragraph>1/1 (Микрофон)</paragraph>
+    <paragraph>Тревожные входы/выходы</paragraph>
+    <paragraph>Нет</paragraph>
+    <paragraph>Слот для карты памяти</paragraph>
+    <paragraph>MicroSD 256 Гб</paragraph>
+    <paragraph>Напряжение питания, В</paragraph>
+    <paragraph>12 DC/PoE</paragraph>
+    <paragraph>Потребляемая мощность, Вт</paragraph>
+    <paragraph>9</paragraph>
+    <paragraph>Диапазон рабочих температур, °С</paragraph>
+    <paragraph>-20…+60</paragraph>
+    <paragraph>Габаритные размеры. мм</paragraph>
+    <paragraph>130х102</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Основная информация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высокое качество изображения с разрешением 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Отличная производительность при низкой освещенности благодаря технологии DarkFighter</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Функции панорамирования и наклона позволяют камере следить за состоянием в зонах интереса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высокая детализация обширных областей благодаря объективу с 4  оптическим зумом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность ИК-подсветки до 20 м обеспечивает безопасность в ночное время</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита от влаги и пыли (IP66) и антивандальная защита (IK10)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный слот для microSD / SDHC / SDXC: есть, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон: есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительный элемент</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кодек сжатия видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив, мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ZOOM 2.8-12</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки, м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость передачи макс. к/сек</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность, лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005/0.001</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход/выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/1 (Микрофон)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожные входы/выходы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Слот для карты памяти</value>
+    </spec>
+    <spec>
+      <name />
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Напряжение питания, В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность, Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диапазон рабочих температур, °С</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-20…+60</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Габаритные размеры. мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>130х102</value>
+    </spec>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 2.8-12</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005/0.001</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1 (Микрофон)</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>9</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры. мм</name>
+      <value>130х102</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

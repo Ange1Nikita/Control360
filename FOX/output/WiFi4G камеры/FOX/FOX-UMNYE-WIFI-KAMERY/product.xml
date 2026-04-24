@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FOX УМНЫЕ WIFI КАМЕРЫ</name>
+  <article>FOX-UMNYE-WIFI-KAMERY</article>
+  <brand>FOX</brand>
+  <category>WiFi/4G камеры</category>
+  <price>585507490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/941/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/17d/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/6d8/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/892/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/f5b/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/7b0/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/1d5/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/30b/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/2ef/WIFI4GKAMERY.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FX-C5SE (Неясыть)">5Мп</spec>
+    <spec name="FX-C3SE (Сова)">3Мп</spec>
+    <spec name="FX-C6SDE(Cплюшка)">3Мп + 3Мп</spec>
+    <spec name="FX-C4MW (Чеглок)">4Мп</spec>
+    <spec name="FX-C4MB (Чеглок)">4Мп</spec>
+    <spec name="FX-C3S (Сыч)">3Мп</spec>
+    <spec name="FX-C3M (Лунь)">3Мп</spec>
+    <spec name="FX-C3BE (Cтриж)">3Мп</spec>
+    <spec name="FX-C5BE (Сапсан)">5Мп</spec>
+    <spec name="19,5">9,5</spec>
+    <spec name="8">400</spec>
+    <spec name="7 490">руб.</spec>
+    <spec name="купить">FX-C5BE (Сапсан)</spec>
+    <spec name="Уличная">5Мп</spec>
+    <spec name="4мм">до 10м</spec>
+    <spec name="6 290">руб.</spec>
+    <spec name="2,8мм">до 20м</spec>
+    <spec name="1">400</spec>
+    <spec name="8 290">руб.</spec>
+    <spec name="4мм + 6мм">до 20м</spec>
+    <spec name="9,8">5,6</spec>
+    <spec name="8,7">200</spec>
+    <spec name="4 990">руб.</spec>
+    <spec name="Внутренняя">3Мп</spec>
+    <spec name="4 790">руб.</spec>
+    <spec name="4 390">руб.</spec>
+    <spec name="3 690">руб.</spec>
+    <spec name="5 790">руб.</spec>
+    <spec name="6 790">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/wifi-4g-kamery/fox-umnye-wifi-kamery/</source_url>
+</product>

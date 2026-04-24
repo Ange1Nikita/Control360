@@ -1,0 +1,117 @@
+# -*- coding: utf-8 -*-
+"""Генерация XML и CSV для товаров"""
+
+from xml.etree.ElementTree import Element, SubElement, ElementTree, indent
+from pathlib import Path
+from datetime import datetime
+import csv
+
+
+def build_product_xml(product: dict) -> Element:
+    """XML-элемент одного товара"""
+    root = Element('product')
+
+    SubElement(root, 'name').text = product.get('name', '')
+    SubElement(root, 'model').text = product.get('model', '')
+    SubElement(root, 'article').text = product.get('article', '')
+    SubElement(root, 'sku').text = product.get('sku', '')
+    SubElement(root, 'brand').text = product.get('brand', '')
+    SubElement(root, 'category').text = product.get('category', '')
+    SubElement(root, 'subcategory').text = product.get('subcategory', '')
+    SubElement(root, 'functional_name').text = product.get('functional_name', '')
+    SubElement(root, 'nomenclature').text = product.get('nomenclature', '')
+    SubElement(root, 'price').text = product.get('price', '')
+    SubElement(root, 'price_wholesale').text = product.get('price_wholesale', '')
+    SubElement(root, 'availability').text = product.get('availability', '')
+    SubElement(root, 'product_url').text = product.get('url', '')
+
+    # Описание
+    desc_el = SubElement(root, 'description')
+    desc = product.get('description', '')
+    if desc:
+        for para in desc.split('\n'):
+            para = para.strip()
+            if para:
+                SubElement(desc_el, 'paragraph').text = para
+
+    # Характеристики
+    specs_el = SubElement(root, 'specifications')
+    for spec in product.get('specs', []):
+        s = SubElement(specs_el, 'spec')
+        SubElement(s, 'name').text = spec.get('name', '')
+        SubElement(s, 'value').text = spec.get('value', '')
+
+    # Файлы
+    files_el = SubElement(root, 'files')
+    for img in product.get('local_images', []):
+        SubElement(files_el, 'image').text = img
+    for pdf in product.get('local_passports', []):
+        SubElement(files_el, 'passport').text = pdf
+
+    # Ссылки на документы
+    docs_el = SubElement(root, 'documents')
+    for doc in product.get('passports', []):
+        d = SubElement(docs_el, 'document')
+        if isinstance(doc, dict):
+            d.set('title', doc.get('title', ''))
+            if doc.get('size'):
+                d.set('size', doc['size'])
+            d.text = doc.get('url', '')
+        else:
+            d.text = doc
+
+    return root
+
+
+def save_product_xml(product: dict, dest: Path):
+    """Сохранить XML одного товара"""
+    root = build_product_xml(product)
+    indent(root)
+    tree = ElementTree(root)
+    tree.write(str(dest), encoding='utf-8', xml_declaration=True)
+
+
+def save_all_products_xml(products: list[dict], dest: Path, brand: str = ''):
+    """Общий XML всех товаров"""
+    catalog = Element('catalog')
+    catalog.set('date', datetime.now().strftime('%Y-%m-%d %H:%M'))
+    catalog.set('total', str(len(products)))
+    catalog.set('source', 'tinko.ru')
+    if brand:
+        catalog.set('brand', brand)
+
+    for p in products:
+        catalog.append(build_product_xml(p))
+
+    indent(catalog)
+    tree = ElementTree(catalog)
+    tree.write(str(dest), encoding='utf-8', xml_declaration=True)
+
+
+def save_all_products_csv(products: list[dict], dest: Path):
+    """Общий CSV всех товаров"""
+    with open(dest, 'w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f, delimiter=';')
+        writer.writerow([
+            'category', 'subcategory', 'name', 'model', 'article', 'sku', 'brand',
+            'functional_name', 'nomenclature', 'price', 'price_wholesale',
+            'availability', 'product_url', 'image_file', 'passport_file',
+        ])
+        for p in products:
+            writer.writerow([
+                p.get('category', ''),
+                p.get('subcategory', ''),
+                p.get('name', ''),
+                p.get('model', ''),
+                p.get('article', ''),
+                p.get('sku', ''),
+                p.get('brand', ''),
+                p.get('functional_name', ''),
+                p.get('nomenclature', ''),
+                p.get('price', ''),
+                p.get('price_wholesale', ''),
+                p.get('availability', ''),
+                p.get('url', ''),
+                p.get('local_images', [''])[0] if p.get('local_images') else '',
+                p.get('local_passports', [''])[0] if p.get('local_passports') else '',
+            ])

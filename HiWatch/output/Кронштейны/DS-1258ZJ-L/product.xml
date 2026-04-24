@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1258ZJ-L</name>
+  <model>DS-1258ZJ-L</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1258zj-l</product_url>
+  <description>
+    <paragraph>Настенный кронштейн, белый, для купольных камер, пластик, 136 183 213мм</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Пластик</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>136183213мм</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>260гр</paragraph>
+    <paragraph>Монтаж</paragraph>
+    <paragraph>Крепление на стену</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Настенный кронштейн, белый, для купольных камер, пластик, 136 183 213мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>136183213мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>260гр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Монтаж</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление на стену</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>136183213мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>260гр</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Крепление на стену</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

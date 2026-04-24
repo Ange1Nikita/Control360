@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ВИДЕОДОМОФОНЫ РАМКИ</name>
+  <article>RAMKI-IZ-NATURALNOGO-KAMNYA</article>
+  <brand>FOX</brand>
+  <category>Домофоны рамки</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/e25/YASHMA_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3e0/KREONID_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/a84/MRAMOR-SVETLYY_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/2a9/MRAMOR-TEMNYY_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/677/NEFRIT_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d74/ZMEEVIK_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/86b/ZMEEVIK-SVETLYY_1.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="1">1000</spec>
+    <spec name="По запросу">руб.</spec>
+    <spec name="купить">ЗМЕЕВИК ТЕМНЫЙ</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/vd-ramki/ramki-iz-naturalnogo-kamnya/</source_url>
+</product>

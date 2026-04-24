@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеорегистраторы/KN-RECORD32/8 - 4K</name>
+  <article>KN-RECORD32-8</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/6c9/440_370_0/recordb.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/6c9/38_24_2/recordb.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 32 8 32 Короткое описание Супер мощный IP видеорегистратор нового поколения KENO KN-RECORD32/8 - это 32-х потоковый NVR, поддержка IP камер до 8 Mpx, выход HDMI поддерживает разрешение 4К, общий поток 320 Mbps Особенности IP видеорегистратора Все технические параметры Модель KN-RECORD32/8 Система Операционная    система Embedded Linux OS Процессор HiSilicon HI3536 High Performance Режим работы Пентаплекс Сжатие H.265/H.265+/H.264/H.264+/MPEG4 Управление Мышкой и по сети Поддержка камер KENO, DAHUA, Hikvision, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры Видео Видео вход 2xLAN (WAN 10/100/1000M) выход 2xHDMI, 1xVGA, 1xBNC Дисплей 1/4/9/16/25/32/Zoom Отображение 3840×2160 ,1920x1080,1280x1024, 1280x720, 1024 × 768 Аудио Кодирования    аудио G.711a/ G.711Mu/ AAC/ G.726 и др. Битрейт аудио 64 кб/с Двусторонняя связь вход 1 x RCA выход 1 x RCA Запись Максимальный    поток 256 Mbps Режим работы 32 x 8Mpx    (3840x2160)             800 к/с 32 x 6Mpx    (3072x2048)               800 к/с 32 x 4Mpx    (2560×1440)                800 к/с 32 x 2Mpx    (1920×1080)                800 к/с Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Воспроизведение IP:4*4K (25 к/с) / 8*4Мп (25 к/с) / 16*1080p (25 к/с) / 32*WD1 (25 к/с) Жесткий диск 8x3,5`HDD    (без ограничения объема) (в комплект не входит) Сеть Сетевой    протокол HTTP, HTTPS, TCP/IP, IPv4/IPv6, UPnP, SNMP, RTSP, UDP, SMTP,
+NTP, DHCP, DNS, IP Filter, PPPoE, DDNS, FTP, Alarm Server Открытый API интерфейс API методом CGI,
+Открытый текст или Token/Digest аутентификация Аналитика IVS аналитика с IP камер KENO 406/506 серии Сетевой интерфейс 2 порта 10Base-T/100Base-TX/1000Base-TX Ethernet Сетевые функции Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры. Оповещение PUSH уведомления, запись на FTP/NAS, DropBox, Google Drive, пересылка снимка на email пользователя Удаленный доступ </description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Процессор">HiSilicon HI3536 High Performance</spec>
+    <spec name="Режим работы">32 x 8Mpx    (3840x2160)             800 к/с</spec>
+    <spec name="Сжатие">H.265/H.265+/H.264/H.264+/MPEG4</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Поддержка камер">KENO, DAHUA, Hikvision, Panasonic, SAMSUNG, SANYO, SONY, ONVIF IP камеры</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1 x RCA</spec>
+    <spec name="Дисплей">1/4/9/16/25/32/Zoom</spec>
+    <spec name="Отображение">3840×2160,1920x1080,1280x1024, 1280x720, 1024 × 768</spec>
+    <spec name="Аудио">Кодирования    аудио</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Запись">Максимальный    поток</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">IP:4*4K (25 к/с) / 8*4Мп (25 к/с) / 16*1080p (25 к/с) / 32*WD1 (25 к/с)</spec>
+    <spec name="Жесткий диск">8x3,5`HDD    (без ограничения объема) (в комплект не входит)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Открытый API интерфейс">API методом CGI,
+Открытый текст или Token/Digest аутентификация</spec>
+    <spec name="Аналитика">IVS аналитика с IP камер KENO 406/506 серии</spec>
+    <spec name="Сетевой интерфейс">2 порта 10Base-T/100Base-TX/1000Base-TX Ethernet</spec>
+    <spec name="Сетевые функции">Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">PUSH уведомления, запись на FTP/NAS, DropBox, Google Drive, пересылка снимка на email пользователя</spec>
+    <spec name="Удаленный доступ">Smart IMS3 (с поддержкой камер Hikvision, Dahua, ONVIF) Chrome, FireFox, IE, с мобильного телефона VSS mobile, P2P сервер</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной), DropBox, Google Dirve</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">20 Вт (без HDD)</spec>
+    <spec name="Рабочий диапазон температуры">-10℃...+55℃</spec>
+    <spec name="Рабочий диапазон влажности">0%~90%</spec>
+    <spec name="Габариты (мм)">441(Ш) х 448(Д) х 88(В),    7 Кг</spec>
+    <spec name="KN-0404FHD/1 aPOE4">4</spec>
+    <spec name="KN-RECORD64/8-4K-AI">64</spec>
+    <spec name="KN-WiFi 4/1">4</spec>
+    <spec name="KN-PRO16/2 - 8P- 4K">16</spec>
+    <spec name="KN-PRO32/2-16P -4K">32</spec>
+    <spec name="KN-PRO16/2-4K">16</spec>
+    <spec name="KN-PRO32/2-4K AI">32</spec>
+    <spec name="KN-CORE36/2-4K-AI">36</spec>
+    <spec name="KN-RECORD36/8-4K-AI">36</spec>
+    <spec name="KN-PRO8/1-4K">8</spec>
+    <spec name="KN-PRO8/1-4P-4K">8</spec>
+    <spec name="KN-PRO16/1-4K">16</spec>
+    <spec name="KN-PRO16/1-8P-4K">16</spec>
+    <spec name="KN-PRO16/2-16P-4K">16</spec>
+    <spec name="KN-PRO16/2-8P-4K">16</spec>
+    <spec name="KN-CORE64/4-4K-AI">64</spec>
+    <spec name="KN-PRO32/2-16P-4K-AI">32</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-dvr/kn-record32-8/</source_url>
+</product>

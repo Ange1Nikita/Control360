@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T203A(B)(3.6mm)</name>
+  <model>DS-T203A(B)(3.6mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t203a-b--3-6-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высокое качество изображения с помощью 2 Мп камеры с разрешением 1920  1080</paragraph>
+    <paragraph>• Фиксированный объектив 2.8 мм, 3.6 мм</paragraph>
+    <paragraph>• Дальность ИК-подсветки до 30 м для получения ярких изображений в ночное время</paragraph>
+    <paragraph>• Дальность подсветки белым светом до 20 м для получения ярких изображений в ночное время</paragraph>
+    <paragraph>• Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP67</paragraph>
+    <paragraph>• Встроенный слот для microSD / SDHC / SDXC: нет</paragraph>
+    <paragraph>• Встроенный микрофон: есть</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>2 Мп CMOS</paragraph>
+    <paragraph>Максимальное разрешение</paragraph>
+    <paragraph>1920  1080</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>0.01 лк @ (F1.2, AGC вкл), 0 лк с ИК-подсветкой</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>PAL: от 1/25 до 1/50,000 с; NTSC: от 1/30 до 1/50,000 с</paragraph>
+    <paragraph>Режим «День/ночь»</paragraph>
+    <paragraph>Механический ИК-фильтр</paragraph>
+    <paragraph>Регулировка угла</paragraph>
+    <paragraph>Поворот: от 0 до 360°, наклон: от 0 до 180°; вращение: от 0 до 360°</paragraph>
+    <paragraph>Стандарт передачи сигнала</paragraph>
+    <paragraph>PAL / NTSC</paragraph>
+    <paragraph>Тип объектива</paragraph>
+    <paragraph>Фиксированный объектив 3.6 мм</paragraph>
+    <paragraph>Фокусное расстояние и угол обзора</paragraph>
+    <paragraph>по горизонтали: 78°, по вертикали: 42°, по диагонали: 92°</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>M12</paragraph>
+    <paragraph>Тип подсветки</paragraph>
+    <paragraph>Подсветка белым светом, ИК-подсветка</paragraph>
+    <paragraph>Дальность подсветки</paragraph>
+    <paragraph>ИК-подсветка: до 30 м Подсветка белым светом: до 20 м</paragraph>
+    <paragraph>Настройки изображения</paragraph>
+    <paragraph>Яркость, резкость, интеллектуальная ИК-подсветка</paragraph>
+    <paragraph>Частота кадров</paragraph>
+    <paragraph>TVI: 1080р @ 30 к/с, 1080р @ 25 к/с AHD: 1080р @ 30 к/с, 1080р @ 25 к/с CVI: 1080р @ 30 к/с, 1080р @ 25 к/с CVBS: PAL / NTSC</paragraph>
+    <paragraph>Режим «День / ночь»</paragraph>
+    <paragraph>ИК-подсветка и подсветка белым светом</paragraph>
+    <paragraph>Широкий динамический диапазон (WDR)</paragraph>
+    <paragraph>Цифровой WDR</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Видеовыход</paragraph>
+    <paragraph>Переключаемые TVI / AHD / CVI / CVBS</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>80   85.1 мм (3.1   3.4)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>Приблиз. 296 г</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -40 до +60 °C, влажность: 90 % или меньше (без конденсата)</paragraph>
+    <paragraph>Протокол</paragraph>
+    <paragraph>HIKVISION-C</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>Макс. 3.3 Вт</paragraph>
+    <paragraph>Языки</paragraph>
+    <paragraph>Английский</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 % * Рекомендуется использовать отдельный адаптер питания для каждой камеры.</paragraph>
+    <paragraph>Стандарты по защите</paragraph>
+    <paragraph>IP67</paragraph>
+    <paragraph>Баланс белого</paragraph>
+    <paragraph>Автоматич. / Ручн.</paragraph>
+    <paragraph>AGC</paragraph>
+    <paragraph>Есть</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с помощью 2 Мп камеры с разрешением 1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Фиксированный объектив 2.8 мм, 3.6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность ИК-подсветки до 30 м для получения ярких изображений в ночное время</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность подсветки белым светом до 20 м для получения ярких изображений в ночное время</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD / SDHC / SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Максимальное разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 лк @ (F1.2, AGC вкл), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL: от 1/25 до 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>NTSC: от 1/30 до 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: от 0 до 360°, наклон: от 0 до 180°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарт передачи сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный объектив 3.6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние и угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>по горизонтали: 78°, по вертикали: 42°, по диагонали: 92°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка белым светом, ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка: до 30 м Подсветка белым светом: до 20 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройки изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Яркость, резкость, интеллектуальная ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота кадров</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TVI: 1080р @ 30 к/с, 1080р @ 25 к/с AHD: 1080р @ 30 к/с, 1080р @ 25 к/с CVI: 1080р @ 30 к/с, 1080р @ 25 к/с CVBS: PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка и подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Широкий динамический диапазон (WDR)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключаемые TVI / AHD / CVI / CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>80   85.1 мм (3.1   3.4)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 296 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +60 °C, влажность: 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HIKVISION-C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Макс. 3.3 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Языки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Английский</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 % * Рекомендуется использовать отдельный адаптер питания для каждой камеры.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарты по защите</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Баланс белого</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / Ручн.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>2 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк @ (F1.2, AGC вкл), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>PAL: от 1/25 до 1/50,000 с; NTSC: от 1/30 до 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла</name>
+      <value>Поворот: от 0 до 360°, наклон: от 0 до 180°; вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name>Стандарт передачи сигнала</name>
+      <value>PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Фиксированный объектив 3.6 мм</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>по горизонтали: 78°, по вертикали: 42°, по диагонали: 92°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>Подсветка белым светом, ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>ИК-подсветка: до 30 м Подсветка белым светом: до 20 м</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Яркость, резкость, интеллектуальная ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>TVI: 1080р @ 30 к/с, 1080р @ 25 к/с AHD: 1080р @ 30 к/с, 1080р @ 25 к/с CVI: 1080р @ 30 к/с, 1080р @ 25 к/с CVBS: PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name>Режим «День / ночь»</name>
+      <value>ИК-подсветка и подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>Переключаемые TVI / AHD / CVI / CVBS</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>80   85.1 мм (3.1   3.4)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>Приблиз. 296 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -40 до +60 °C, влажность: 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Протокол</name>
+      <value>HIKVISION-C</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>Макс. 3.3 Вт</value>
+    </spec>
+    <spec>
+      <name>Языки</name>
+      <value>Английский</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 % * Рекомендуется использовать отдельный адаптер питания для каждой камеры.</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>Автоматич. / Ручн.</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>Есть</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

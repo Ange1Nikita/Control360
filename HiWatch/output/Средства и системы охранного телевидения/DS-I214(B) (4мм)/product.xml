@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера компактная HiWatch DS-I214(B) (4мм)</name>
+  <model>DS-I214(B) (4мм)</model>
+  <article>289351</article>
+  <sku>311311665</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP корпусные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера компактная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>6257.94</price>
+  <price_wholesale>5684.3</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289351/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 2Мп компактная с ИК подсветкой до 10м; 1/2.7" Progressive Scan CMOS; объектив 4 мм; механический ИК-фильтр; 0.028лк; сжатие H.265/H.264/H.265+/H.264+/MJPEG; 1920х1080-25к/с; DWDR, 3D DNR, BLC; слот для microSD до 128Гб; встроенные микрофон и динамик; PIR-датчик; 1 RJ45 10M/100M Ethernet; DC12В±10%/PoE(802.3af); 6Вт; -10°C...+40°C; 103х65х33 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" 2МП Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.028/0</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон/Динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>102.9х65.2х32.6</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="375.25 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/F/AF113EDFB4D7EA80EF263AE4B79E2B42.pdf</document>
+  </documents>
+</product>

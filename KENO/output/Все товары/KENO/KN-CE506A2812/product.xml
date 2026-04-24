@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE506A2812</name>
+  <article>KN-CE506A2812</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/779/440_370_0/KENO_4MPX_IPC_CE406V2812.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/779/38_24_2/KENO_4MPX_IPC_CE406V2812.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 5.0 2.8-12 50 Короткое описание Профессиональная 5МП IP видеокамера KN-CE506A2812 , предназначена для охранного видеонаблюдения на парковках, складах, улице (без применения дополнительных гермокожухов и устройств подогрева). Камера KN-CE506A2812 антивандальная - исполнена в металлическом корпусе, с классом защиты от пыли и влаги IP 66/67. AvtoZoom вариообъектив 2,8-12мм , установленный в камере, делает ее удобной в монтаже и настройке. Особенности IP видеокамеры Все технические параметры Модель KN-CE506A2812 Система Тип матрицы 1/2,8” SONY STARVIS IMX335 (5.14 Мегапикселей) Эффективные    пиксели 2616(Г) × 1964(В) Размер пикселя 2.0 μm x 2.0 μm Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.33 Лк в Ч/Б. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка Управляемый ИК прожектор OSRAM IR LED III (850нм) до 50м Компенсация    засветки BLC / DWDR / Антитуман Видео режим ROI / “Коридор” / Стабилизация изображения Шумоподавление 2DNR / 3DNR Оптика Объектив Моторизированный 2.8~12mm (6.0MP) F1.6~2.8 с ИК коррекцией Угол обзора Г: 98°(Широкий)~26°(Узкий) Видео Формат    кодирования HEVC H.265+ / H.265 / H.264+ / H.264 (H/M/B) Основной поток 5M (1 ~ 20 к/с) / 4MP /3MP / 1080P (1 ~ 25 к/с) Второстепенный    поток D1 / 640x360 (1 ~ 25 к/с) Поток 32K ~ 8192Kbps, Авто Сеть Сетевой интерфейс RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF 2.6 ONVIF Profile-S/G (Движение, Тревога, Metadata) CGI / API P2P VSSweb.net / Vssmobile / Smart IMS3 Аналитика Детектор движения / Саботаж Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows Сброс Кнопка сброса на корпусе камеры Язык интерфейса Русский / Английский Карта памяти Микро SD, Макс 128GB Технические параметры Питание DC 12 В ±25%, PoE (802.3af) Потребление Не более 8Вт</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY STARVIS IMX335 (5.14 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">2616(Г) × 1964(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.33 Лк в Ч/Б.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED III (850нм) до 50м</spec>
+    <spec name="Компенсация    засветки">BLC / DWDR / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Объектив">Моторизированный 2.8~12mm (6.0MP) F1.6~2.8 с ИК коррекцией</spec>
+    <spec name="Угол обзора">Г: 98°(Широкий)~26°(Узкий)</spec>
+    <spec name="Формат    кодирования">HEVC H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">5M (1 ~ 20 к/с) / 4MP /3MP / 1080P (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / 640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K ~ 8192Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF 2.6">ONVIF Profile-S/G (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P">VSSweb.net / Vssmobile / Smart IMS3</spec>
+    <spec name="Аналитика">Детектор движения / Саботаж</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Сброс">Кнопка сброса на корпусе камеры</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Карта памяти">Микро SD, Макс 128GB</spec>
+    <spec name="Питание">DC 12 В ±25%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 8Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C (Холодный старт),    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS4000В (Земля – Корпус)</spec>
+    <spec name="Габариты">102,5(Ш)*87,4(В)*265(Д) мм</spec>
+    <spec name="Вес">0,8 кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ce506a2812/</source_url>
+</product>

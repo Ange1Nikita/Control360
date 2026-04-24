@@ -1,0 +1,258 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD2443G0-IW (2.8 мм)</name>
+  <model>DS-2CD2443G0-IW (2.8 мм)</model>
+  <sku>55818</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd2443g0-iw-2-8-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>IP-камера, матрица 1/3" CMOS, 0.01 лк (при F/1.2), 2688×1520, 25 к/с, объектив 2.8 мм, F/2.0, день/ночь, механический ИК-фильтр, H.265, H.264, MJPEG, 120 дБ WDR, BLC, 3D DNR, ROI, детекция движения, модуль Wi-Fi до 50 м, RJ-45, аудио-вход-выход (1 микрофон/1 динамик), тревожный вход/выход (1/1), слот для microSD/SDHC/SDXC до 128 Гбайт, PIR-датчик до 10 м, EXIR-подсветка до 10 м, -20 °C… +60 °C, питание: DC 12 В ± 25 %, PoE, макс. 7.5 Вт.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.01 лк при F/1.2, AGC вкл.ч/б: 0.018 лк при F/2.0, AGC вкл., 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 с ~ 1/100,000 с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 мм при F/2.0</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 98°по вертикали: 55°по диагонали: 114°</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0 ° - 360°; наклон: 0 ° - 90 °; вращение: 0 ° - 360 °</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265/H.264дополнительный поток: H.265/H.264/MJPEGтретий поток: H.265/H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с – 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.722.1), 16 кбит/с (G.726), 32–192 кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2688×1520</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2688×1520, 2304×1296, 1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (640×480, 640×360, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1280×720, 640×360, 352×288)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора , зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Переключение день ночь</name>
+      <value>автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Smart видеоаналитика</name>
+      <value>детекция движения, обнаружение пересечения линии, вторжения в область, антисаботаж</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP™, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователяводяные знакифильтрация IP-адресованонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (Profile S, Profile G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>запись на microSD/SDHC карту, активация реле, уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Стандарт Wi-Fi</name>
+      <value>IEEE802.11b/g/n</value>
+    </spec>
+    <spec>
+      <name>Диапазон частот</name>
+      <value>22,4 ГГц ~ 2.4835 ГГц</value>
+    </spec>
+    <spec>
+      <name>Ширина канала</name>
+      <value>20/40 МГц</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>802.11b: CCK, QPSK, BPSK802.11g/n: OFDM/64-QAM, 16-QAM, QPSK, BPSK</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>64/128-бит WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS</value>
+    </spec>
+    <spec>
+      <name>Мощность передатчика</name>
+      <value>11b: 17±1.5 dBm @ 11 Мбит/с11g: 14±1.5 dBm @ 54 Мбит/с11n: 12.5±1.5 dBm</value>
+    </spec>
+    <spec>
+      <name>Чувствительность приемника</name>
+      <value>11b: -90 dBm @ 11 Мбит/с (Типичная)11g: -75 dBm @ 54 Мбит/с (Типичная)11n: -74 dBm (Типичная)</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи данных</name>
+      <value>11b: 11 Мбит/с, 11g: 54 Мбит/с, 11n: 150 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Радиус приема</name>
+      <value>50 м (зависит от условий окружающей среды)</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 встроенный динамик</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, PoE (802.3af, class 3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>7.5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-20 °C…+60 °C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>PIR-датчик</name>
+      <value>дальность до 10 м, горизонтальный угол 90°, вертикальный угол 80°</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>до 10 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>пластик</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>102.8×65.2×32.6 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.128 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>IP-камера, матрица 1/3" CMOS, 0.01 лк (при F/1.2), 2688×1520, 25 к/с, объектив 2.8 мм, F/2.0, день/ночь, механический ИК-фильтр, H.265, H.264, MJPEG, 120 дБ WDR, BLC, 3D DNR, ROI, детекция движения, модуль Wi-Fi до 50 м, RJ-45, аудио-вход-выход (1 микрофон/1 динамик), тревожный вход/выход (1/1), слот для microSD/SDHC/SDXC до 128 Гбайт, PIR-датчик до 10 м, EXIR-подсветка до 10 м, -20 °C… +60 °C, питание: DC 12 В ± 25 %, PoE, макс. 7.5 Вт.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/2c7/140_140_1/ds_2cd2443g0_iw_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd2443g0-iw-2-8-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD2443G0-IW (2.8 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

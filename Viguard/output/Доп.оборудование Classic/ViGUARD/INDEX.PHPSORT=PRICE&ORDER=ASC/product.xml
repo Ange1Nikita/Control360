@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=price&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=PRICE&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Доп.оборудование Classic</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/iblock/4a5/4a52089101e7b5d9b67e5d581feff570.jpg</image>
+    <image>https://viguard.pro/upload/iblock/76c/76ca58c4e06453494b405cd3d1cac076.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/dop_oborudovanie_classic_line/index.php?sort=price&amp;order=asc</source_url>
+</product>

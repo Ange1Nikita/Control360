@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T200L(C)(2.8 mm)</name>
+  <model>DS-T200L(C)(2.8</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t200l-c-2-8-mm-</product_url>
+  <description>
+    <paragraph>2Мп уличная цилиндрическая HD-TVI камера с LED-подсветкой до 20м, встроенным микрофоном (AoC) и технологией ColorVu</paragraph>
+    <paragraph>1/3" CMOS матрица; объектив 2.8мм; угол обзора 105градусов; механический ИК-фильтр; 0.001 Лк@F1.0; DWDR, HLC, 3D DNR; LED; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; аудио по коаксиальному кабелю (AoC), IP66; -40градусовС до +60градусовС; 12В DC+-25%, 2Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная цилиндрическая HD-TVI камера с LED-подсветкой до 20м, встроенным микрофоном (AoC) и технологией ColorVu</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/3" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 105градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.001 Лк@F1.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудио по коаксиальному кабелю (AoC), IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 2Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>отсутствует</passport>
+  </files>
+</product>

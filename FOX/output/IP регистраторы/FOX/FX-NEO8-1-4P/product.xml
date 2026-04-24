@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>1-4P</name>
+  <article>FX-NEO8-1-4P</article>
+  <brand>FOX</brand>
+  <category>IP регистраторы</category>
+  <price>11120006590</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d01/440_370_0/FOX-NVR-NEO2_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d01/38_24_2/FOX-NVR-NEO2_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/d01/440_370_0/FOX-NVR-NEO2_1-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">FX-NEO8/1-4P</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Сжатие">H.265 / H.265+ / H.264 / H.264+ / MPEG4 / MJPEG</spec>
+    <spec name="POE порты">4 x RJ-45 10M/100M (IEEE802.3at/af) | 50Вт</spec>
+    <spec name="Видео">Разрешение (отображение)</spec>
+    <spec name="Входящий поток, Поток на запись, Исходящий поток">До 88 Мбит/с</spec>
+    <spec name="Битрейт видео">32 кб/с – 32 Мб/с</spec>
+    <spec name="Аудио">Аудио кодек</spec>
+    <spec name="Битрейт аудио">8 ~ 64 кб/с (16bit)</spec>
+    <spec name="Аудио входы/выходы">вход</spec>
+    <spec name="выход">1 x RCA</spec>
+    <spec name="Запись">Тип и количество HDD</spec>
+    <spec name="Тип и количество USB интерфейсов">2 × USB 2.0</spec>
+    <spec name="Сеть">Сетевые протоколы</spec>
+    <spec name="ONVIF 2.6">Onvif Profile-S/G/T (Движение, Тревога, Metadata)</spec>
+    <spec name="Дополнительные функции">Интеграция</spec>
+    <spec name="Аналитика">Умный детектор движения (SMD), IVS аналитика с IP камер (Dahua / KENO),</spec>
+    <spec name="Управление PTZ">LAN</spec>
+    <spec name="Тревожный Вход / Выход">Нет</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Электропитание">DC 52В (1.25A), до 6 Вт без HDD, до 65Вт при полной загрузке</spec>
+    <spec name="Диапазон рабочих температур">-10°C...+55°C</spec>
+    <spec name="Рабочий диапазон влажности">0%...90%</spec>
+    <spec name="Габариты (мм)">215(Ш) × 235(Г) × 45(В),Размещение настольное / подвесное</spec>
+    <spec name="FX-4N">4</spec>
+    <spec name="FX-8N">8</spec>
+    <spec name="FX-16N">16</spec>
+    <spec name="FX-4NF">4</spec>
+    <spec name="FX-8NL">8</spec>
+    <spec name="FX-32HN">32</spec>
+    <spec name="FX-16N+">16</spec>
+    <spec name="FX-NVR4/1-4P">4</spec>
+    <spec name="FX-NVR8/1-4P">8</spec>
+    <spec name="FX-NVR16/1-8P">16</spec>
+    <spec name="FX-NVR8/1-8P">8</spec>
+    <spec name="FX-NVR24/2">24</spec>
+    <spec name="FX-iNVR4/1-4P">4</spec>
+    <spec name="FX-iNVR8/1-8P">8</spec>
+    <spec name="FX-iNVR16/2">16</spec>
+    <spec name="FX-iNVR4/1">4</spec>
+    <spec name="FX-iNVR8/1">8</spec>
+    <spec name="FX-NVR16/1-4K">16</spec>
+    <spec name="FX-NVR8/1-4K">8</spec>
+    <spec name="FX-NEO8/1-4P">8</spec>
+    <spec name="FX-NEO8/1">8</spec>
+    <spec name="FX-NEO16/1-8P">16</spec>
+    <spec name="FX-NEO16/1">16</spec>
+    <spec name="8">1 до 14Тб</spec>
+    <spec name="Особенности IP видеорегистратора">Все технические параметры</spec>
+    <spec name="Embedded Linux OS">Процессор</spec>
+    <spec name="Novatek NT98631">Режим работы</spec>
+    <spec name="Пентаплекс">Сжатие</spec>
+    <spec name="H.265 / H.265+ / H.264 / H.264+ / MPEG4 / MJPEG">POE порты</spec>
+    <spec name="4 x RJ-45 10M/100M (IEEE802.3at/af)">50Вт</spec>
+    <spec name="3288×1850, 1920 × 1080, 1280 × 1024, 1280 × 720">Разрешение потока</spec>
+    <spec name="8 IP камер: до 6МП (3288×1850) по каждому каналу">Входящий поток, Поток на запись, Исходящий поток</spec>
+    <spec name="До 88 Мбит/с">Битрейт видео</spec>
+    <spec name="32 кб/с – 32 Мб/с">Воспроизведение архива</spec>
+    <spec name="G.711a / G.711Mu / AAC / PCM / G.726 и др.">Битрейт аудио</spec>
+    <spec name="8 ~ 64 кб/с (16bit)">Аудио входы/выходы</spec>
+    <spec name="вход">1 x RCA</spec>
+    <spec name="1 × 3,5” HDD (SATA3 до 14 Тб) в комплект не входит">Тип и количество USB интерфейсов</spec>
+    <spec name="2 × USB 2.0">Сеть</spec>
+    <spec name="Сетевые протоколы">HTTP, HTTPS, TCP/IP, IPv4/IPv6, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPoE, DDNS, FTP, Alarm Server</spec>
+    <spec name="Сетевые инструменты">Web – интерфейс, ПО для ПК KENO SVMS, APP KENO LINK</spec>
+    <spec name="Открытый API интерфейс">HTTP API методом CGI-BIN, Открытый текст или Token/Digest аутентификация</spec>
+    <spec name="Подключения цифровых видеорегистраторов и IP-серверов">Аналитика</spec>
+    <spec name="Умный детектор движения (SMD), IVS аналитика с IP камер (Dahua / KENO),">Управление PTZ</spec>
+    <spec name="LAN">Тревожный Вход / Выход</spec>
+    <spec name="Нет">Технические параметры</spec>
+    <spec name="Блок    питания">Электропитание</spec>
+    <spec name="DC 52В (1.25A), до 6 Вт без HDD, до 65Вт при полной загрузке">Диапазон рабочих температур</spec>
+    <spec name="-10°C...+55°C">Рабочий диапазон влажности</spec>
+    <spec name="0%...90%">Габариты (мм)</spec>
+    <spec name="215(Ш) × 235(Г) × 45(В),">Размещение настольное / подвесное</spec>
+    <spec name="Вес">1,7 кг без HDD</spec>
+    <spec name="Материалы и особенности ПО">Паспорт FX-NEO8/1-4P</spec>
+    <spec name="Паспорт FX-NEO8/1-4P">(0.211МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ip-dvr/fx-neo8-1-4p/</source_url>
+</product>

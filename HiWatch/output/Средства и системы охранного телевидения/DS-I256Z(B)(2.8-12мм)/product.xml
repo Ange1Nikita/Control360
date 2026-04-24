@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера цилиндрическая HiWatch DS-I256Z(B)(2.8-12мм)</name>
+  <model>DS-I256Z(B)(2.8-12мм)</model>
+  <article>325759</article>
+  <sku>311323122</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Бюджетная IP-видеокамера цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>6887.45</price>
+  <price_wholesale>6256.1</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/325759/</product_url>
+  <description>
+    <paragraph>Бюджетная IP камера 2Мп цилиндрическая с ИК-подсветкой до 50м; 1/2.7'' Progressive Scan CMOS; 1920x1080-25 к/с; zoom 2.8-12мм; 0.005Лк; H.265/H.265+/H.264/H.264+/MJPEG, ROI, ; режим коридора; интеллектуальная видеоаналитика: («человек», «ТС»); DWDR; 3D DNR; HLC, BLC; microSD до 256 Гб; IP67; -40...+60°C; DC12В/PoE(IEEE 802.3af); 13Вт; 105х245мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 2.8-12</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>50</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC|12 DC/PoE|</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>13</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>105х245</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="647.3 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/3/13EB00D604361EA56AF7CF5ABB7BD1D7.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DX530A2713-DL</name>
+  <article>KN-DX530A2713-DL</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>19990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/d8c/ajemwue6nldvcao085j3fe3c687xoymj/440_370_0/GX_5D_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/d8c/ajemwue6nldvcao085j3fe3c687xoymj/38_24_2/GX_5D_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>Ваша цена: 19 990 руб. Короткое описание Профессиональная 5МП купольная IP видеокамера KN-DX530A2713-DL , предназначенная для охранного видеонаблюдения как внутри, так и вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Служит для передачи оцифрованного видеосигнала к устройству сбора, обработки и хранения. Видеокамера оснащена современной матрицей 1/2.7’’ GalaxyCore GC5603 ,
+объективом YTOT с переменным фокусным расстоянием 2.7-13.5мм (6.0MP) F1.6 с ИК коррекцией, 
+встроенным микрофоном G.711a; G.711Mu; G.726, AAC с автоматической регулировкой усиления (АРУ) и ШП,
+электромеханическим ИК-фильтром и встроенной управляемой ИК-подсветкой двух типов- ИК и белую (WLED). Доступны три режима работы подсветки: постоянная ИК (850нм) до 50м, постоянная WLED Белый теплый до 40м, 
+гибридный режим (в сочетании с аналитикой), что позволяет вести круглосуточное наблюдение при любых условиях съемки. Для более удобной работы с изображением предусмотрены функции: «ROI» (область интереса – передается в более высоком разрешении, 
+качество остальной части кадра снижается для оптимизации потока). «Коридор» (смена ориентации изображения с горизонтального формата 16:9 на вертикальный 9:16 – для уменьшения количества неинформативных участков кадра в вытянутых пространствах). «EIS» электронная стабилизация изображения для компенсации эффекта «дрожания» изображения (при смене фокусного расстояния, на ветру, 
+при наличии движения транспорта и т.д.). Интеллектуальные камеры поддерживают аналитику (функции переключаемые): Детекция человека / транспорта (Smart Motion Detection), Охрана периметра (в том числе в сочетании с SMD). В камерах, при срабатывании тревоги, есть возможность запускать световую тревогу. С видеорегистраторами Dahua камера работает по нативному протоколу с поддержкой всей аналитики на камерах. Для работы с оборудованием других производителей используется протокол ONVIF. При этом каме</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Система">GOKI GK7205V510 / ROM: 128Мб / RAM: 128Мб</spec>
+    <spec name="Мощность AI">NPU 1.0Tops</spec>
+    <spec name="Тип матрицы">1/2.7” GalaxyCore GC5603 (5 МП)</spec>
+    <spec name="Эффективные    пиксели">2960(Г) × 1664(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/25s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.006 Лк / F1.2, Ч/Б: 0.0006 Лк, 2418mV/LUX*S</spec>
+    <spec name="Сигнал / шум">≥ 56 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 40м / Белый теплый до 40м</spec>
+    <spec name="Компенсация засветки">BLC / HLC / DWDR / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения EIS</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, G.711a; G.711Mu; G.726, AAC</spec>
+    <spec name="Тревога">Световая тревога</spec>
+    <spec name="Карта памяти / Архив">Микро SD, Макс 256GB (FAT), FTP, ANR</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Объектив">YTOT 2.7-13.5мм (6.0MP) F1.6 с ИК коррекцией</spec>
+    <spec name="Угол обзора">Г: 114°(Широкий) ~ 32°(Узкий)В: 58°(Широкий) ~ 17°(Узкий)Д: 138°(Широкий) ~ 36°(Узкий)</spec>
+    <spec name="DORI">Д: 64~ 210м,О: 25.6 ~ 84м,Р: 12.8 ~ 42м,И: 6.4 ~ 21м</spec>
+    <spec name="Формат    кодирования">AI HEVC, H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">5МП (2960x1664) / 4МП (2560x1440) / 1080P (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 / CIF (1 ~ 25 к/с)</spec>
+    <spec name="Третий поток">720Р (1 ~ 25 к/с)</spec>
+    <spec name="Поток">3K ~ 20480Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Подключение">До 20 пользователей / Исходящий поток до 80М</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF 2.6">Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P / CMS">KENO LINK / KENO SVMS</spec>
+    <spec name="Аналитика">SMD (Человек / Транспорт), Защита периметра</spec>
+    <spec name="Питание">DC 12 В ±30%, PoE (802.3af)</spec>
+    <spec name="Потребление">Без ИК/WLED не более 2.8Вт, Макс потребление не более 6.5Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C (Холодный старт),    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS8000В (Земля – Корпус)</spec>
+    <spec name="Антивандальное исполнение">По ГОСТ IEC 62262-2015 степень IK10 (20 Дж)</spec>
+    <spec name="Материал">Металлический корпус, ударопрочный купол из акрила</spec>
+    <spec name="Габариты">Ø122*102 мм</spec>
+    <spec name="Вес">0,52кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-dx530a2713-dl/</source_url>
+</product>

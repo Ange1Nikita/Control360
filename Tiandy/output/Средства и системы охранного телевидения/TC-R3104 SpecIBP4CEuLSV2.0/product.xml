@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор NVR Tiandy TC-R3104 Spec:I/B/P4/C/Eu/L/S/V2.0</name>
+  <model>TC-R3104 Spec:I/B/P4/C/Eu/L/S/V2.0</model>
+  <article>354276</article>
+  <sku>1D.20030.020801</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>Видеорегистратор NVR</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>7490</price>
+  <price_wholesale>4269.3</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354276/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 4 канальный с PoE; 1xHDMI, 1xVGA; битрейт вход/выход- 60/40 Мбит/с; разрешение камер до 6 Мп; H.265/H.264; 1 SATA до 8 Тб; P2P, RTSP, ONVIF (S/T); 2×USB2.0; 1xRJ45 10/100 Мбит/с; 4хRJ45 10/100 Мбит/с PоE (af/at), PоE бюджет 28 Вт; поддержка аналитики камер Tiandy, DC 48В; 10Вт(без HDD); -10°C...+55°C; 200х200х43 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI; VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>1 SATA х 8 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>200х200х43</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="749.92 КБ">https://www.tinko.ru/upload/exchange/public/documentation/6/C/6C2A06FAB5D28C5D28903D9B60452006.pdf</document>
+  </documents>
+</product>

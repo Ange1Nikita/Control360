@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP цилиндрическая HiWatch IPC-B082-G2/U (2.8mm)</name>
+  <model>IPC-B082-G2/U (2.8mm)</model>
+  <article>304495</article>
+  <sku>311317371</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Профессиональная видеокамера IP цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>11626.41</price>
+  <price_wholesale>10560.65</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/304495/</product_url>
+  <description>
+    <paragraph>Профессиональная IP камера 8 Мп цилиндрическая; EXIR подсветка 40м; 1/2.8" Progressive Scan CMOS; 3840х2160 - 20к/с; объектив 2.8мм; механический ИК-фильтр; 0.005лк-F1.6; сжатие H.265/H.265+/H.264/H.264+/MJPEG; тройной поток; WDR 120дБ, 3D DNR, BLC, HLC, ROI, ONVIF, RTSP, P2P Hik-Connect; Микрофон; слот microSD до 256Гб; интеллектуальная видеоаналитика: («человек», «ТС»), детекция лиц, обнаружение движения, вторжения в область и пересечения линии; 1 RJ45 10M/100M Ethernet; DC12В/PoE(802.3af); 7.5Вт; -40°C...+60°C; IP67; IK10; D 162х70 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>3840х2160</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>40</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.0005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>7.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>162х70</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="956.7 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/F/2F588DF285713056458B5E3D74586758.pdf</document>
+  </documents>
+</product>

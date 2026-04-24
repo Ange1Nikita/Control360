@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I252W(E)(4mm)</name>
+  <model>DS-I252W(E)(4mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i252w-e-4mm-</product_url>
+  <description>
+    <paragraph>2Мп купольная IP-камера c EXIR-подсветкой до 30м и WiFi 1/2.7'' CMOS матрица; объектив 4мм; угол обзора 91градусов; механический ИК-фильтр; 0.005лк @F1.6; H.265+/H.265/H.264+/H.264/MJPEG, WDR(120dB), 3D DNR, BLC; встроенный микрофон и динамик, G.711/G.722.1/G.726/MP2L2/PCM/AAC; видеобитрейт 32кбит/с -8Мбит/с; встроенный слот для microSD карты до 256Гб, IP66, -30градусовC ...+60градусовC; 12В +-25%; 6Вт макс.</paragraph>
+    <paragraph>Вид камеры</paragraph>
+    <paragraph>IP камеры</paragraph>
+    <paragraph>Производитель</paragraph>
+    <paragraph>HiWatch</paragraph>
+    <paragraph>Вид объектива</paragraph>
+    <paragraph>Стандартный</paragraph>
+    <paragraph>Исполнение камеры</paragraph>
+    <paragraph>Купольная</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>Фиксированный</paragraph>
+    <paragraph>Фокусное расстояние не менее (мм)</paragraph>
+    <paragraph>4</paragraph>
+    <paragraph>Разрешение (Мп)</paragraph>
+    <paragraph>2</paragraph>
+    <paragraph>Подсветка (ИК или LED)</paragraph>
+    <paragraph>ИК подсветка</paragraph>
+    <paragraph>SD карта</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Zoom (кратность)</paragraph>
+    <paragraph>Нет</paragraph>
+    <paragraph>Аудиоканал</paragraph>
+    <paragraph>Встроенный динамик, Встроенный микрофон</paragraph>
+    <paragraph>Дальность подсветки (м)</paragraph>
+    <paragraph>30</paragraph>
+    <paragraph>Место установки</paragraph>
+    <paragraph>На улице</paragraph>
+    <paragraph>Сенсор</paragraph>
+    <paragraph>1/2.7 CMOS</paragraph>
+    <paragraph>Тип питания камеры</paragraph>
+    <paragraph>12 В</paragraph>
+    <paragraph>Параметры объектива</paragraph>
+    <paragraph>80°(3.6...4мм)</paragraph>
+    <paragraph>Формат сжатия</paragraph>
+    <paragraph>H.264, MJPEG, H.265</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп купольная IP-камера c EXIR-подсветкой до 30м и WiFi 1/2.7'' CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 4мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 91градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005лк @F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, WDR(120dB), 3D DNR, BLC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон и динамик, G.711/G.722.1/G.726/MP2L2/PCM/AAC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с -8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 256Гб, IP66, -30градусовC ...+60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В +-25%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6Вт макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вид камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Производитель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HiWatch</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вид объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исполнение камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Купольная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние не менее (мм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение (Мп)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка (ИК или LED)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Zoom (кратность)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиоканал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный динамик, Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки (м)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Место установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>На улице</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сенсор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7 CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип питания камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Параметры объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>80°(3.6...4мм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Формат сжатия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.264, MJPEG, H.265</value>
+    </spec>
+    <spec>
+      <name>Вид камеры</name>
+      <value>IP камеры</value>
+    </spec>
+    <spec>
+      <name>Производитель</name>
+      <value>HiWatch</value>
+    </spec>
+    <spec>
+      <name>Вид объектива</name>
+      <value>Стандартный</value>
+    </spec>
+    <spec>
+      <name>Исполнение камеры</name>
+      <value>Купольная</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>Фиксированный</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние не менее (мм)</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Разрешение (Мп)</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Подсветка (ИК или LED)</name>
+      <value>ИК подсветка</value>
+    </spec>
+    <spec>
+      <name>SD карта</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Zoom (кратность)</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Аудиоканал</name>
+      <value>Встроенный динамик, Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки (м)</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Место установки</name>
+      <value>На улице</value>
+    </spec>
+    <spec>
+      <name>Сенсор</name>
+      <value>1/2.7 CMOS</value>
+    </spec>
+    <spec>
+      <name>Тип питания камеры</name>
+      <value>12 В</value>
+    </spec>
+    <spec>
+      <name>Параметры объектива</name>
+      <value>80°(3.6...4мм)</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия</name>
+      <value>H.264, MJPEG, H.265</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

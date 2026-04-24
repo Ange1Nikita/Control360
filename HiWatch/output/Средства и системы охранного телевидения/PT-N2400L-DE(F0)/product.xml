@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера поворотная HiWatch PT-N2400L-DE(F0)</name>
+  <model>PT-N2400L-DE(F0)</model>
+  <article>322843</article>
+  <sku>327001158</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP поворотные</subcategory>
+  <functional_name>Профессиональная IP-видеокамера поворотная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>10205.34</price>
+  <price_wholesale>9269.85</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/322843/</product_url>
+  <description>
+    <paragraph>Профессиональная IP-видеокамера 4 Мп уличная поворотная с LED-подсветкой; 1/1.18’’ Progressive Scan CMOS; 2560×1440 - 20 к/с; 2.8 мм; ИК-фильтр; 0.001 лк; LED подсветка 30 м; H.265/H.264/MJPEG; DWDR, 3D DNR, BLC, HLC; обнаружение движения; с microSD до 256Гб; встроенный микрофон и динамик; DC 12В/PoE; 10Вт; IP66; грозозащита TVS; -30 °C...+40°C; 162×120×234.2 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560х1440</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265; H.264; MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>LED</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.001</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон/Динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-30…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>162х120х234.2</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="591.77 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/C/BCC518FC52A7E77E9E325E5D5F5F6293.pdf</document>
+  </documents>
+</product>

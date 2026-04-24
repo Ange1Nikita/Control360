@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDD12P-EG2</name>
+  <model>DS-PDD12P-EG2</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdd12p-eg2</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>3D-оптика, в том числе поддержка защиты нижней зоны, полный охват без «мертвых» углов</paragraph>
+    <paragraph>24Ггц СВЧ + ИК датчик движения</paragraph>
+    <paragraph>Цифровая температурная компенсация</paragraph>
+    <paragraph>Удаленная настройка через приложение</paragraph>
+    <paragraph>Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>Легко заменяемая батарея с защитой PCB</paragraph>
+    <paragraph>Автоматическое переключение канала для предотвращения помех и надежной передачиОптический извещатель инфракрасный + СВЧ</paragraph>
+    <paragraph>Область обнаружения - до 12м, 86 град.; технология подавления помех "Blue Wave"; температурная компенсация IFT; иммунитет к животным до 30кг; встроенные оконечные резисторы (EOL);  EN-Grade 2; кронштейн продается отдельно;  DC9-16В; -30градусовC...+70градусовC; размер 103 66 49мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D-оптика, в том числе поддержка защиты нижней зоны, полный охват без «мертвых» углов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>24Ггц СВЧ + ИК датчик движения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Легко заменяемая батарея с защитой PCB</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматическое переключение канала для предотвращения помех и надежной передачиОптический извещатель инфракрасный + СВЧ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область обнаружения - до 12м, 86 град.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>технология подавления помех "Blue Wave"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>температурная компенсация IFT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>иммунитет к животным до 30кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенные оконечные резисторы (EOL)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EN-Grade 2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>кронштейн продается отдельно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 103 66 49мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

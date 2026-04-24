@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I259M(C)(2.8mm)</name>
+  <model>DS-I259M(C)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i259m-c--2-8-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• 2 Мп 1/2.7" Progressive Scan CMOS</paragraph>
+    <paragraph>• 1920  1080 @ 25 к/с</paragraph>
+    <paragraph>• BLC/HLC/3D DNR/ROI</paragraph>
+    <paragraph>• DWDR</paragraph>
+    <paragraph>• Интеллектуальная видеоаналитика</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC-карты: есть, до 128 ГБ</paragraph>
+    <paragraph>• Встроенный микрофон: есть</paragraph>
+    <paragraph>• EXIR-подсветка до 10 м</paragraph>
+    <paragraph>• IP66, IK082Мп IP-камера с EXIR-подсветкой до 10м и встроенным микрофоном</paragraph>
+    <paragraph>1/2.7'' Progressive Scan CMOS матрица; объектив 2.8мм; угол обзора 115градусов; механический ИК-фильтр; 0.01Лк@F1.2; H.265/H.265+/H.264/H.264+/MJPEG, DWDR; коридорный режим, 3D DNR; BLC; ROI, обнаружение движения, вторжения в область и пересечения линии; Smart ИК; видеобитрейт 32кбит/с-8Мбит/с; встроенный слот для microSD карты до 128Гб, G.711/G.722.1/G.726/MP2L2/PCM, IK08, комплект герметизации, -20градусовC до +45градусовC; DC12В+-25%/PoE (IEEE 802.3af); 6,5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 Мп 1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1920  1080 @ 25 к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• BLC/HLC/3D DNR/ROI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Интеллектуальная видеоаналитика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC-карты: есть, до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR-подсветка до 10 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP66, IK082Мп IP-камера с EXIR-подсветкой до 10м и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 115градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>коридорный режим, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ROI, обнаружение движения, вторжения в область и пересечения линии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 128Гб, G.711/G.722.1/G.726/MP2L2/PCM, IK08, комплект герметизации, -20градусовC до +45градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE (IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6,5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-HVD70F (МАЛАХИТ 7) WiFi Черный</name>
+  <article>FX-HVD70F-MALAKHIT-7-WIFI-CHERNYY-</article>
+  <brand>FOX</brand>
+  <category>MHD домофоны</category>
+  <price>111100022990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/752/440_370_0/FX_HVD70F_B3_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/752/38_24_2/FX_HVD70F_B3_1_.png</image>
+    <image>https://www.fox-cctv.ru/upload/Tuya Smart Lifi apple 1+.png</image>
+    <image>https://www.fox-cctv.ru/upload/Tuya Smart apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/Tuya Smart android 1.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/752/440_370_0/FX_HVD70F_B3_1_.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-HVD70F (МАЛАХИТ 7)</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Размер экрана</spec>
+    <spec name="Разрешение">1024 X 600. Touch Screen</spec>
+    <spec name="Стандарт видео">1080P/720P (AHD/TVI/CVI), CVBS (960H)</spec>
+    <spec name="Интерфейс">2 панели + 2 камеры</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть. До 6-ти устройств</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Class 10, до 128 Гб</spec>
+    <spec name="Формат изображений">JPG, AVI</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">Панель/ Ворота</spec>
+    <spec name="Тип замка">электромагнитный/электромеханический</spec>
+    <spec name="Детектор движения">Да</spec>
+    <spec name="Режим «Монитор»">Да</spec>
+    <spec name="Часы/Фоторамка">Да</spec>
+    <spec name="Автоответчик">Да</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">4-х проводное</spec>
+    <spec name="Питание">100…240В AC</spec>
+    <spec name="Рабочая температура">-10°C … +60°C</spec>
+    <spec name="Габаритные размеры (мм)">184(Ш) х 126(В) х 22.5(Г)</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-HVD100A V2 (АЛМАЗ 10S)">10”</spec>
+    <spec name="FX-HVD100C V2 (РУБИН 10S)">10”</spec>
+    <spec name="FX-HVD100A V2 (АЛМАЗ 10G)">10”</spec>
+    <spec name="FX-HVD100C V2 (РУБИН 10G)">10”</spec>
+    <spec name="FX-HVD100T V3 (НЕФРИТ 10B)">10”</spec>
+    <spec name="FX-HVD70T V3 (ОПАЛ 7B)">7”</spec>
+    <spec name="FX-HVD70A V2 (АЛМАЗ 7S)">7”</spec>
+    <spec name="FX-HVD70A V2 (АЛМАЗ 7G)">7”</spec>
+    <spec name="FX-HVD70C V2 (РУБИН 7S)">7”</spec>
+    <spec name="FX-HVD70C V2 (РУБИН 7G)">7”</spec>
+    <spec name="FX-HVD77E V2 (САПФИР 7S)">7”</spec>
+    <spec name="FX-HVD77E V2 (САПФИР 7G)">7”</spec>
+    <spec name="FX-HVD77Е (САПФИР 7)">7”</spec>
+    <spec name="FX-HVD70A (АЛМАЗ 7)">7”</spec>
+    <spec name="FX-HVD70M V2 (ТОПАЗ 7W)">7”</spec>
+    <spec name="FX-HVD70M V2 (ТОПАЗ 7B)">7”</spec>
+    <spec name="FX-HVD100T V2 WIFI (НЕФРИТ 10W)">10”</spec>
+    <spec name="FX-HVD70T V2 WIFI (ОПАЛ 7W)">7”</spec>
+    <spec name="FX-HVD100M V2 (ТОПАЗ 10W)">10”</spec>
+    <spec name="FX-HVD100M V2 (ТОПАЗ 10B)">10”</spec>
+    <spec name="FX-HVD7C (КИПАРИС 7B)">7”</spec>
+    <spec name="FX-HVD7C (КИПАРИС 7W)">7”</spec>
+    <spec name="FX-HVD156T WIFI (БИКСБИТ 15S)">15,6"</spec>
+    <spec name="FX-HVD100F (МАЛАХИТ 10) WiFi Белый">10”</spec>
+    <spec name="FX-HVD100F (МАЛАХИТ 10) WiFi Черный">10”</spec>
+    <spec name="FX-HVD100Н (Турмалин) WiFi">10”</spec>
+    <spec name="FX-HVD70F (МАЛАХИТ 7) WiFi Белый">7”</spec>
+    <spec name="FX-HVD70F (МАЛАХИТ 7) WiFi Черный">7”</spec>
+    <spec name="FX-HVD70М (ТОПАЗ 7W) WiFi Белый">7”</spec>
+    <spec name="FX-HVD100R (Аквамарин 10W)">10”</spec>
+    <spec name="FX-HVD100R (Аквамарин 10B)">10”</spec>
+    <spec name="FX-HVD800Q (СЕКВОЙЯ 8B) WiFi Черный">8”</spec>
+    <spec name="FX-HVD800Q (СЕКВОЙЯ 8W) WiFi Белый">8”</spec>
+    <spec name="FX-HVD800Q (СЕКВОЙЯ 8S) WiFi Серебро">8”</spec>
+    <spec name="FX-HVD70C (ФИАНИТ 7W)">7”</spec>
+    <spec name="FX-HVD70C (ФИАНИТ 7А)">7”</spec>
+    <spec name="FX-VD70N (Янтарь 7W)">7”</spec>
+    <spec name="FX-VD70N (ЯНТАРЬ 7А)">7”</spec>
+    <spec name="FX-HVD70М (ТОПАЗ 7B) WiFi Черный">7”</spec>
+    <spec name="FX-HVD100HQ WIFI (БИКСБИТ 10S)">10”</spec>
+    <spec name="FX-PVD70GT ВАН ГОГ 7B">7”</spec>
+    <spec name="FX-PVD70GT ВАН ГОГ 7W">7”</spec>
+    <spec name="FX-PVD100GT  ВАН ГОГ 10B">10”</spec>
+    <spec name="FX-PVD100GT  ВАН ГОГ 10W">10”</spec>
+    <spec name="FX-PVD74GM ВИНСЕНТ 7B">7”</spec>
+    <spec name="FX-PVD74GM ВИНСЕНТ 7W">7”</spec>
+    <spec name="FX-PVD72С ЭШЕР 7W">7”</spec>
+    <spec name="FX-PVD72С ЭШЕР 7A">7”</spec>
+    <spec name="FX-HVD100D V2 БРИЛЛИАНТ 10S WIFI">10”</spec>
+    <spec name="7”">128 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Акрил / Пластик">Видео</spec>
+    <spec name="Размер экрана">7" (17,5 см) TFT LCD</spec>
+    <spec name="Hands Free">Интерком</spec>
+    <spec name="Есть. До 6-ти устройств">Запись</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Сенсорные">Управление замком</spec>
+    <spec name="Панель/ Ворота">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="4-х проводное">Питание</spec>
+    <spec name="100…240В AC">Рабочая температура</spec>
+    <spec name="-10°C … +60°C">Габаритные размеры (мм)</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(3.504МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/mhd-vd/fx-hvd70f-malakhit-7-wifi-chernyy-/</source_url>
+</product>

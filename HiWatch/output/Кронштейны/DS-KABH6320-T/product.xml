@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-KABH6320-T</name>
+  <model>DS-KABH6320-T</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-kabh6320-t</product_url>
+  <description>
+    <paragraph>Настольный кронштейн для домофонов, материал: SUS430, силикагель.</paragraph>
+    <paragraph>Настольный кронштейн для домофонов DS-KH6320/8520 серий, Металл.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Настольный кронштейн для домофонов, материал: SUS430, силикагель.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настольный кронштейн для домофонов DS-KH6320/8520 серий, Металл.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

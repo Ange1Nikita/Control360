@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T503A(B)(2.8mm)</name>
+  <model>DS-T503A(B)(2.8mm)</model>
+  <category>HD-TVI-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-t503a-b--2-8mm-</product_url>
+  <description>
+    <paragraph>3К (5Мп 16:9) уличная HD-TVI камера с гибридной подсветкой EXIR/LED до 30/20м и встроенным микрофоном (AoC)</paragraph>
+    <paragraph>3К CMOS матрица; объектив 2.8мм; угол обзора 107градусов; 3К@20к/с, 2560x1440/1920x1080@25к/с; механический ИК-фильтр; 0.01 Лк@F1.2; OSD, DWDR, BLC, DNR; Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; аудио по коаксиальному кабелю (AoC); IP67; -40градусовС до +60градусовС; 12В DC+-25%, 3,3Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>3К (5Мп 16:9) уличная HD-TVI камера с гибридной подсветкой EXIR/LED до 30/20м и встроенным микрофоном (AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3К CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 107градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3К@20к/с, 2560x1440/1920x1080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудио по коаксиальному кабелю (AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 3,3Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

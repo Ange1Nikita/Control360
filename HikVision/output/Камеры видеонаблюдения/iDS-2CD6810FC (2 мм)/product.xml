@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2CD6810F/C (2 мм)</name>
+  <model>iDS-2CD6810F/C (2 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2cd6810f-c-2-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>0.3 Мп DeepinView IP-камера с функцией подсчета людей, 1/3’ Progressive Scan CMOS; объектив 2 мм; угол обзора 105°; сжатие H.264; двойной поток; 640×480 25 к/с; 3D DNR; тревожные вход/выход 1/1; 1 RJ45 10M/100M Ethernet; 1 RS-485; питание DC 12 В  25 %/ PoE(802.3af, class 3); 7 Вт макс.; -10 °C...+40 °C; вес 0.3 кг.</paragraph>
+    <paragraph>Подсчет людей: отдельный подсчет входящих, выходящих и проходящих мимо людей.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3’’ Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с ~ 1/10 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>105° (горизонтальный), 89° (вертикальный)</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Управление диафрагмой</name>
+      <value>вручную</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile / Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с — 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>640×960</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (640×480)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>яркость настраивается через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>3D DNR, ROI</value>
+    </spec>
+    <spec>
+      <name>Бизнес аналитика</name>
+      <value>подсчет людей</value>
+    </spec>
+    <spec>
+      <name>Статистика</name>
+      <value>раздельный подсчет вошедших, вышедших и прошедших мимо людей</value>
+    </spec>
+    <spec>
+      <name>Email-отчеты</name>
+      <value>поддержка отчетов за день, неделю, месяц и год</value>
+    </spec>
+    <spec>
+      <name>Фильтр по высоте</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов, анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S,PROFILE G),PSIA,CGI,ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>smart-функции, обнаружение несанкционированных действий, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>1 вход/1 выход (DC12В 1A, 30мA )</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В  25%/ PoE (802.3af, class 3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>7 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-10 °C…+40 °C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл, пластик</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>194×70.2×35.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>0,48 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>0.3 Мп DeepinView IP-камера с функцией подсчета людей, 1/3’ Progressive Scan CMOS; объектив 2 мм; угол обзора 105°; сжатие H.264; двойной поток; 640×480 25 к/с; 3D DNR; тревожные вход/выход 1/1; 1 RJ45 10M/100M Ethernet; 1 RS-485; питание DC 12 В  25 %/ PoE(802.3af, class 3); 7 Вт макс.; -10 °C...+40 °C; вес 0.3 кг.Подсчет людей: отдельный подсчет входящих, выходящих и проходящих мимо людей.Лицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/8a9/140_140_1/iDS_2CD6810FC_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2cd6810f-c-2-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2CD6810F/C (2 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

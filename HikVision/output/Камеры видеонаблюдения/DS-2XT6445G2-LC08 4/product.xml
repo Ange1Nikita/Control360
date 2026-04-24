@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера HikVision DS-2XT6445G2-L/C08 4</name>
+  <model>DS-2XT6445G2-L/C08 4</model>
+  <sku>56131</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xt6445g2-l-c08-4-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>LED-подсветка 10 м</paragraph>
+    <paragraph>–10 ºC… +85 ºC, IP67</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0005 лк (F/1.2, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>4 мм, по горизонтали: 91.1°, вертикали: 47.9°, диагонали: 108.1°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M16</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.8</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 69.7 м, O: 27.6 м, R: 13.9 м, I: 7.0 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>белым светом</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>10 м</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 10 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile, Baseline Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>5 фиксированных областей для основного потока</value>
+    </spec>
+    <spec>
+      <name>Обрезка изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, SSL/TLS, WebSocket, WebSockets, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки управления временем ожидания, журнал проверки безопасности, TLS 1.2</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE 11, не требуется плагин для просмотра в режиме реального времени: Safari 12+, локальные сервисы: Chrome 57.0+, Firefox 52.0+ Не рекомендуется: Safari11+, Edge</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость, AGC и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥ 50 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Наложение изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ-45 auto 10/100М Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 RS-485 (полудуплекс, Hikvision, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Индикатор</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя, диагностика качества видео</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, изменения сцены, расфокусировки, оставленного багажа, перемещения объекта</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±20 %, 1.5 А, макс. 18 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>138.2×90.2×90.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1.005 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–10 до +85 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>33 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, подсчет пикселей, защита паролем</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67: IEC 60529-2013</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпLED-подсветка 10 м–10 ºC… +85 ºC, IP67WDR 120 дБ, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/899/140_140_1/DS_2XT6445G2_LC08-2.8-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xt6445g2-l-c08-4-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XT6445G2-L/C08 4&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

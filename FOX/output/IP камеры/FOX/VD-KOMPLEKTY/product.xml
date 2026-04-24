@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ВИДЕОДОМОФОНЫ КОМПЛЕКТЫ</name>
+  <article>VD-KOMPLEKTY</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110009990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/4ab/Oniks_250-2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d96/fufn_250-2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/5e5/fufn_250_w-3.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/4f3/fufn_250_w-3.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/da7/korall-grafit.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/70c/korall-belyy.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3c6/Morion_komplekt_belyy7-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/ac4/YAntar_70.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/205/YAntar_70.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-VD5N-KIT (ОНИКС 5)">4.3”</spec>
+    <spec name="FX-VD5SL-KIT (АГАТ 5B)">4.3”</spec>
+    <spec name="FX-VD5SL-KIT (АГАТ 5W)">4.3”</spec>
+    <spec name="FX-VD5S-KIT (АГАТ 5W)">4.3”</spec>
+    <spec name="FX-VD7P-KIT КОРАЛЛ 7A">7”</spec>
+    <spec name="FX-VD7P-KIT КОРАЛЛ 7W">7”</spec>
+    <spec name="FX-VD7M-KIT МОРИОН 7W">7”</spec>
+    <spec name="FX-HVD70C-KIT (ФИАНИТ 7W)">7”</spec>
+    <spec name="FX-PVD72С-KIT ЭШЕР 7W">7”</spec>
+    <spec name="1">1000</spec>
+    <spec name="9 990">руб.</spec>
+    <spec name="купить">FX-VD7M-KIT МОРИОН 7W</spec>
+    <spec name="4.3”">нет</spec>
+    <spec name="нет">CVBS</spec>
+    <spec name="10 490">руб.</spec>
+    <spec name="11 490">руб.</spec>
+    <spec name="10 990">руб.</spec>
+    <spec name="7”">нет</spec>
+    <spec name="12 490">руб.</spec>
+    <spec name="64 Гб">1080P</spec>
+    <spec name="128 Гб">1080P</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/vd-komplekty/</source_url>
+</product>

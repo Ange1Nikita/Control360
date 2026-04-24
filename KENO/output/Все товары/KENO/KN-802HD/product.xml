@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Аналоговые видеорегистраторы/KN-802HD</name>
+  <article>KN-802HD</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0fc/440_370_0/9_keno_kn_402hd_kn_802hd_kn_402sdi_kn_162hd.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0fc/38_24_2/9_keno_kn_402hd_kn_802hd_kn_402sdi_kn_162hd.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>1 8 2 4 Короткое описание Сетевой видеорегистратор с поддержкой одновременной записи до восьми видеокамер с разрешением WD1 960H в реальном времени. Является основой недорогой системы видеонаблюдения. Особенности видеорегистратора Все технические параметры Модель KN-802HD Система Система Embedded    Linux OS Режим работы Пентаплекс Формат кодирования Main Profile H.264 Управление С    лицевой панели, мышкой и пультом ДУ, по сети Видео Видео вход 8xBNC выход 1xBNC,    1xVGA, 1xHDMI Дисплей 1/4/9/Zoom Отображение 704    x 576 в реальном времени Аудио Метод    кодирования 8кГц    × 16бит G.711 Аудио вход 4xBNC выход 1xBNC Двусторонняя связь вх/вых 1    / 1 BNC Сигнализация Тревожные     вх/вых 4    / 2 Запись Воспроизвдение по каналам 960H(944×576)    200 к/с D1(704×576)          200 к/с CIF(352×288)          200 к/с Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Одновременное воспроизведение 1/4/9/Zoom Жесткий диск 2xHDD    (до 8Тб) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, P2P, 3G, WiFi Сетевой интерфейс RJ45    10M/100M/1000M Сетевые функции Отображение,    воспроизведение, архивирование, доступ с мобильного телефона    (Android/iPhone/WM/Symbian/BlackBarry) Оповещение Запись,    пересылка снимка на E_Mail пользователя с тревожной камеры, фокусировка PTZ    камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др. Удаленный доступ Префессиональный    VSC клиент, IE, с мобильного телефона, P2P Дополнительные функции Управление    PTZ RS-485,     Pelco-D И Pelco-P Резервное копирование USB    - флешка, HDD (переносной) Технические параметры Блок    питания DC12V/3A Потребляемая мощность 10W Рабочая температура -20℃~    +55℃ Диапазон влажности 10%~90% Габариты (мм) 360x250x44мм,    2 Кг 8 2 4 Поддержка HDMI видеовыхода упрощает подключение систем отображения видео и звука. Запись в</description>
+  <specs>
+    <spec name="Модель">Кол-во каналов видео</spec>
+    <spec name="Система">Система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Формат кодирования">Main Profile H.264</spec>
+    <spec name="Управление">С    лицевой панели, мышкой и пультом ДУ, по сети</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1xBNC</spec>
+    <spec name="Дисплей">1/4/9/Zoom</spec>
+    <spec name="Отображение">704    x 576 в реальном времени</spec>
+    <spec name="Аудио">вход</spec>
+    <spec name="Двусторонняя связь вх/вых">1    / 1 BNC</spec>
+    <spec name="Сигнализация">Тревожные     вх/вых</spec>
+    <spec name="Запись">Воспроизвдение по каналам</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Одновременное воспроизведение">1/4/9/Zoom</spec>
+    <spec name="Жесткий диск">2xHDD    (до 8Тб)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">RJ45    10M/100M/1000M</spec>
+    <spec name="Сетевые функции">Отображение,    воспроизведение, архивирование, доступ с мобильного телефона    (Android/iPhone/WM/Symbian/BlackBarry)</spec>
+    <spec name="Оповещение">Запись,    пересылка снимка на E_Mail пользователя с тревожной камеры, фокусировка PTZ    камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др.</spec>
+    <spec name="Удаленный доступ">Префессиональный    VSC клиент, IE, с мобильного телефона, P2P</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной)</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">10W</spec>
+    <spec name="Рабочая температура">-20℃~    +55℃</spec>
+    <spec name="Диапазон влажности">10%~90%</spec>
+    <spec name="Габариты (мм)">360x250x44мм,    2 Кг</spec>
+    <spec name="KN-402HD">4</spec>
+    <spec name="KN-802HD">8</spec>
+    <spec name="KN-162HD">16</spec>
+    <spec name="KN-168HD">16</spec>
+    <spec name="KN-802AHD">8</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/analogovye-videoregistratory/KN-802HD/</source_url>
+</product>

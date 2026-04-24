@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PS1-I-WE (Red Indicator)</name>
+  <model>DS-PS1-I-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-ps1-i-we-red-indicator-</product_url>
+  <description>
+    <paragraph>DS-PS1-I-WE является беспроводной сиреной для установки внутри помещений с поддержкой беспроводной связи 868 МГц, беспроводным протоколом Tri-X, несколькими методами регистрации, двусторонней беспроводной связью, несколькими звуковыми сигналами тревоги и стробоскопом. Сирена используется для мгновенного оповещения о тревоге.Беспроводной внутренний оповещатель (красный индикатор)</paragraph>
+    <paragraph>Беспроводной оповещатель внутренний (красный LED); 868МГц двухсторонная связь с TRI-X технологией; дальность до 1600м; уровень звукового давления до 110дБ; защита от помех, температурная компенсация; срок службы батареи - 3 года;  -10градусовC...+55градусовC; размер 88 88 32мм; пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Беспроводной оповещатель внутренний (красный LED)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность до 1600м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>уровень звукового давления до 110дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 3 года</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 88 88 32мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

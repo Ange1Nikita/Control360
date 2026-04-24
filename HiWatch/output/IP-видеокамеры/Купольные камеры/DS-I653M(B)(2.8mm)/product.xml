@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная IP-видеокамера Hiwatch DS-I653M(B)(2.8mm)</name>
+  <model>DS-I653M(B)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i653m-b-2-8mm-</product_url>
+  <description>
+    <paragraph>6Мп уличная купольная IP-камера с EXIR-подсветкой до 30м и встроенным микрофоном</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 6 Мп</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>• Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP67</paragraph>
+    <paragraph>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки</paragraph>
+    <paragraph>• Встроенный микрофон, аудиосвязь в режиме реального времени</paragraph>
+    <paragraph>• Локальное хранение: до 256 ГБ (слот для SD-карты)6Мп уличная купольная IP-камера с EXIR-подсветкой до 30м  и встроенным микрофоном</paragraph>
+    <paragraph>1/2.8'' Progressive Scan CMOS матрица; 20 к/с @ 3200x1800, 2560 1440, 1920 1080, объектив 2.8мм; угол обзора 108градусов; механический ИК-фильтр; 0.01Лк@F2.0; H.265+/H.264+/MJPEG, WDR 120дБ; ROI, 3D DNR; BLC; Smart ИК; видеобитрейт 32кб/с-16Мб/с; IP67; -40градусовC до +60градусовC; DC12В+-25%/PoE(IEEE 802.3af); 6,5Вт макс. G.711/G.722.1/G.726/MP2L2/PCM/AAC, встроенный слот для microSD карты до 256Гб</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>6Мп уличная купольная IP-камера с EXIR-подсветкой до 30м и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 6 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Четкое изображение при яркой задней засветке благодаря технологии 120 дБ WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон, аудиосвязь в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Локальное хранение: до 256 ГБ (слот для SD-карты)6Мп уличная купольная IP-камера с EXIR-подсветкой до 30м  и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>20 к/с @ 3200x1800, 2560 1440, 1920 1080, объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 108градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01Лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.264+/MJPEG, WDR 120дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ROI, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кб/с-16Мб/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6,5Вт макс. G.711/G.722.1/G.726/MP2L2/PCM/AAC, встроенный слот для microSD карты до 256Гб</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

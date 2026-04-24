@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Коммутатор с питанием POE HiWatch DS-S1008P</name>
+  <model>DS-S1008P</model>
+  <article>294953</article>
+  <sku>301802014</sku>
+  <brand>HiWatch</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы с PoE</subcategory>
+  <functional_name>Коммутатор с питанием POE</functional_name>
+  <nomenclature>Коммутатор с PoE</nomenclature>
+  <price>5731.2</price>
+  <price_wholesale>5205.84</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/294953/</product_url>
+  <description>
+    <paragraph>Коммутатор сетевой неуправляемый 10 портовый; 8хRJ45 10/100M PoE(802.3af/at) до 30 Вт; 2хRJ45 10/100/1000M; таблица MAC адресов на 16К записей; пропускная способность 5.6Гб/с; бюджет PoE 60Вт; поддержка режима передачи до 250м; DC 48В; 10 °C...+40°C; 217×103×27 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор гигабитный неуправляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>8/2</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>7.5/60</value>
+    </spec>
+    <spec>
+      <name>Дополнительные порты</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Стандарт беспроводной связи</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Настольный</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>70</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>+10…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>217х103х27</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="791.18 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/7/87B1089EC484380169801B7D0CCC0DD8.pdf</document>
+  </documents>
+</product>

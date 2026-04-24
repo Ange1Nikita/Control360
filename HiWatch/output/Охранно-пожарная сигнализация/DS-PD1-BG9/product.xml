@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PD1-BG9</name>
+  <model>DS-PD1-BG9</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pd1-bg9</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Микропроцессор</paragraph>
+    <paragraph>• Двухцветный LED-индикатор</paragraph>
+    <paragraph>• Режим блокировки тревоги</paragraph>
+    <paragraph>• Высокая / низкая чувствительность</paragraph>
+    <paragraph>• Защита от электромагнитной и радиочастотной интерференцииДатчик разбития стекла</paragraph>
+    <paragraph>Область обнаружения - до 9м, 146 град.; микропроцессорная обработка сигнала; защита от вырезания стекла; настройка под тип стекла;  режим тестирования;  DC9-16В; -10градусовC...+70градусовC; размер 92 67 25мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Микропроцессор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Двухцветный LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Режим блокировки тревоги</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокая / низкая чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от электромагнитной и радиочастотной интерференцииДатчик разбития стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область обнаружения - до 9м, 146 град.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>микропроцессорная обработка сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от вырезания стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>настройка под тип стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>режим тестирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 92 67 25мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

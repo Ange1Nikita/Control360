@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP ВИДЕОДОМОФОНЫ</name>
+  <article>IP-VIDEODOMOFONY-SOZVEZDIE</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100029990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/858/FX_IVD70WPE-LIRA-7W-250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/931/FX_IVD70WPE-KIT-LIRA-7B-250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/848/FX_IVD70WPE-LIRA-7W-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/30c/FX_IVD70WPE-LIRA-7B-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/80e/IVD800_w_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9ef/IVD800_b_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/fdf/IVD800_w_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/1e5/IVD800_b_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/855/IVD100_w_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/7d4/IVD100_b_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/131/IVD800_b_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/0aa/IVD800_w_small.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d61/IP880-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/b9f/IP770_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/797/SMALL_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/a01/SMALL_ICP238W.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/dd0/FX_ICP236A_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/81a/FX_ICP236B_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/be9/SMALL_ICP238W-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/f59/FX_ICP232_5_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/848/FX_CORN1_1_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9c6/IMG_1678-360-1.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="1">1000</spec>
+    <spec name="29 990">руб.</spec>
+    <spec name="купить">FX-PS15/0.8A</spec>
+    <spec name="7”">512 Гб</spec>
+    <spec name="15 990">руб.</spec>
+    <spec name="19 990">руб.</spec>
+    <spec name="8”">512 Гб</spec>
+    <spec name="22 990">руб.</spec>
+    <spec name="28 990">руб.</spec>
+    <spec name="10”">512 Гб</spec>
+    <spec name="32 990">руб.</spec>
+    <spec name="44 990">руб.</spec>
+    <spec name="IP">125°</spec>
+    <spec name="33 990">руб.</spec>
+    <spec name="16 990">руб.</spec>
+    <spec name="19 900">руб.</spec>
+    <spec name="21 990">руб.</spec>
+    <spec name="890">руб.</spec>
+    <spec name="1 190">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/</source_url>
+</product>

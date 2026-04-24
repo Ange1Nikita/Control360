@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP купольная HiWatch IPC-D082-G2/U(4mm)</name>
+  <model>IPC-D082-G2/U(4mm)</model>
+  <article>312956</article>
+  <sku>311317377</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Профессиональная видеокамера IP купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>11626.41</price>
+  <price_wholesale>10560.65</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/312956/</product_url>
+  <description>
+    <paragraph>Профессиональная видеокамера IP 8 Мп уличная  купольная с ИК подсветкой до 30м, AcuSense 1/2.8" Progressive Scan CMOS; объектив 4 мм; механический ИК-фильтр; 0.005лк F1.6; сжатие H.265/H.265+/H.264/H.264+/MJPEG; тройной поток;  3840 × 2160 -20 к/с; WDR 120дБ, 3D DNR, BLC, HLC, ROI, слот для microSD до 256Гб; встроенный микрофон; обнаружение движения, вторжения в область и пересечения линии; классификация «человек/ТС»; 1 RJ45 10M/100M Ethernet; DC12В/PoE(802.3af); 7.5 Вт; -30 °C...+60 °C; IP67; 127.3 × 95.9 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>3840х2160</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>7.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>127.3х95.9</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

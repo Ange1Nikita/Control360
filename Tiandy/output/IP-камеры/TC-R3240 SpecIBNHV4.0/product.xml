@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор-IP TC-R3240 I/B/N/H/V4.0</name>
+  <model>TC-R3240 Spec:I/B/N/H/V4.0</model>
+  <sku>864</sku>
+  <brand>Tiandy</brand>
+  <category>IP-камеры</category>
+  <subcategory>Видеорегистраторы</subcategory>
+  <price>46590</price>
+  <product_url>https://tiandy-russia.ru/ip-kamery-videonablyudeniya/ip-videoregistrator/videoregistrator-ip-tc-r3240-ibnhv40-864/</product_url>
+  <description>
+    <paragraph>40-кан, 400Mbps/400Mbps, разрешение записи до 12MP, способность к декодированию4*8MP, 16*1080p, 32*720p, видеовыход: 1 HDMI &amp; 1VGA non-параллельный выход, вход/выход тревог 16/4, USB интерфейс: 1xUSB 3.0 1xUSB 2.0,  ANR, N+M</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>specification.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" original_url="https://drive.google.com/file/d/13lLxfBHmbWMhAHXBbFqSKqhKdRvx_0PL/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=13lLxfBHmbWMhAHXBbFqSKqhKdRvx_0PL</document>
+    <document title="Спецификация" original_url="https://drive.google.com/file/d/1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir</document>
+    <document title="Программное обеспечение" original_url="https://drive.google.com/file/d/10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE</document>
+  </documents>
+</product>

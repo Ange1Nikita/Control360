@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch DS-N204P(C)</name>
+  <model>DS-N204P(C)</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n204p-c-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Видеосжатие H.265+/H.265/H.264+/H.264</paragraph>
+    <paragraph>Входная пропускная способность до 40/ 60 Мбит/с, выходная пропускная способность до 60 Мбит/с</paragraph>
+    <paragraph>Сетевое подключение-видеовходы: до 4/ 8 каналов</paragraph>
+    <paragraph>Возможность декодирования до 4 каналов 1080p</paragraph>
+    <paragraph>Одновременный вывод HDMI/VGA4-х канальный IP-регистратор c 4-мя PoE интерфейсами</paragraph>
+    <paragraph>Видеовход: 4 IP@4Мп; Аудиовход: 1 канал RCA; Видеовыход: 1 VGA и 1 HDMI до 1080Р; Аудиовыход; 1 канал RCA;  Видеосжатие H.265+/H.265/H.264+/H.264; Входящий поток 40 Мбит/с; Исходящий поток 60Мбит/с. Разрешение записи: до 4Мп. Синхр.воспр. 4 канала@2Мп; 1 канал@4Мп; 4 независимых PoE интерфейса 10M/100M; поддержка режима передачи до 250м,10Мбит/с, CAT5e; 1 SATA для HDD до 8Тб, 1 10M/100M Ethernet интерфейс; 2 х USB2.0; -10градусовC до +55градусовC;  48В DC; 50Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входная пропускная способность до 40/ 60 Мбит/с, выходная пропускная способность до 60 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевое подключение-видеовходы: до 4/ 8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Возможность декодирования до 4 каналов 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный вывод HDMI/VGA4-х канальный IP-регистратор c 4-мя PoE интерфейсами</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 IP@4Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080Р</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 40 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исходящий поток 60Мбит/с. Разрешение записи: до 4Мп. Синхр.воспр. 4 канала@2Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал@4Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 независимых PoE интерфейса 10M/100M</value>
+    </spec>
+    <spec>
+      <name />
+      <value>поддержка режима передачи до 250м,10Мбит/с, CAT5e</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 8Тб, 1 10M/100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 х USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>48В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

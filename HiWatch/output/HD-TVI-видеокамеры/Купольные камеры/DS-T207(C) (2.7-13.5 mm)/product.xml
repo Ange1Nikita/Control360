@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T207(C) (2.7-13.5 mm)</name>
+  <model>DS-T207(C) (2.7-13.5 mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t207-s--2-7-13-5-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Разрешение 2 Мп</paragraph>
+    <paragraph>• Видеовыход HD-TVI/AHD/CVI/CVBS</paragraph>
+    <paragraph>• Разрешение 1920 х 1080</paragraph>
+    <paragraph>• Вариообъектив 2,7 – 13,5 мм</paragraph>
+    <paragraph>• EXIR-подсветка до 40 м</paragraph>
+    <paragraph>• IP67, IK10</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>2 Мп CMOS</paragraph>
+    <paragraph>Система сигнала</paragraph>
+    <paragraph>PAL / NTSC</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>PAL: 1080p @ 25 к/с NTSC: 1080p @ 30 к/с</paragraph>
+    <paragraph>Количество эффективных пикселей</paragraph>
+    <paragraph>1920х1080</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>0,01 лк @ (F1.6, AGC вкл.), 0 лк с вкл ИК</paragraph>
+    <paragraph>Электронный затвор</paragraph>
+    <paragraph>PAL: 1/25 – 1/50,000 с NTSC: 1/25 – 1/50,000 с</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>Ф14</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>2,7 – 13,5 мм @ F1.6</paragraph>
+    <paragraph>Угол обзора</paragraph>
+    <paragraph>100° – 30°</paragraph>
+    <paragraph>Режим «День/ночь»</paragraph>
+    <paragraph>Механический ИК-фильтр</paragraph>
+    <paragraph>Регулировка углаустановки</paragraph>
+    <paragraph>Поворот: 0 ° - 355 °; наклон: 0 ° - 75 °; вращение: 0 ° - 355 °</paragraph>
+    <paragraph>Синхронизация</paragraph>
+    <paragraph>Внутренняя</paragraph>
+    <paragraph>AGC</paragraph>
+    <paragraph>да</paragraph>
+    <paragraph>Переключение режима</paragraph>
+    <paragraph>«День / ночь»	Авто / цвет / ЧБ</paragraph>
+    <paragraph>Режим изображения</paragraph>
+    <paragraph>STD / HIGH-SAT</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>HLC, BLC, DWDR, 2D DNR</paragraph>
+    <paragraph>Язык</paragraph>
+    <paragraph>Английский</paragraph>
+    <paragraph>Функции</paragraph>
+    <paragraph>Яркость, резкость, смарт-ИК</paragraph>
+    <paragraph>Видеовыход</paragraph>
+    <paragraph>1 HD-TVI/AHD/CVI/CVBS</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25%</paragraph>
+    <paragraph>Дальность EXIR-подсветки</paragraph>
+    <paragraph>До 40 м, Smart ИК</paragraph>
+    <paragraph>Управление объективом</paragraph>
+    <paragraph>Протокол</paragraph>
+    <paragraph>Hikvision-C Защита</paragraph>
+    <paragraph>IP67, IK10</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>D143 х 106,7 мм</paragraph>
+    <paragraph>Вес	Приблизительно</paragraph>
+    <paragraph>630 г</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>-40°С — 60°С, влажность не более 90%</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл/пластик</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>5 Вт макс.</paragraph>
+    <paragraph>Кнопка переключения</paragraph>
+    <paragraph>TVI, AHD, CVI, CVBS</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Разрешение 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Видеовыход HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Разрешение 1920 х 1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Вариообъектив 2,7 – 13,5 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR-подсветка до 40 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP67, IK10</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Система сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL: 1080p @ 25 к/с NTSC: 1080p @ 30 к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Количество эффективных пикселей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0,01 лк @ (F1.6, AGC вкл.), 0 лк с вкл ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Электронный затвор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL: 1/25 – 1/50,000 с NTSC: 1/25 – 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2,7 – 13,5 мм @ F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>100° – 30°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка углаустановки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: 0 ° - 355 °</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон: 0 ° - 75 °</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение: 0 ° - 355 °</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синхронизация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Внутренняя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключение режима</value>
+    </spec>
+    <spec>
+      <name />
+      <value>«День / ночь»	Авто / цвет / ЧБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>STD / HIGH-SAT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HLC, BLC, DWDR, 2D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Язык</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Английский</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Яркость, резкость, смарт-ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность EXIR-подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 40 м, Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Управление объективом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Hikvision-C Защита</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>D143 х 106,7 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес	Приблизительно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>630 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40°С — 60°С, влажность не более 90%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл/пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кнопка переключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TVI, AHD, CVI, CVBS</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>2 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name>Система сигнала</name>
+      <value>PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>PAL: 1080p @ 25 к/с NTSC: 1080p @ 30 к/с</value>
+    </spec>
+    <spec>
+      <name>Количество эффективных пикселей</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0,01 лк @ (F1.6, AGC вкл.), 0 лк с вкл ИК</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>PAL: 1/25 – 1/50,000 с NTSC: 1/25 – 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Ф14</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2,7 – 13,5 мм @ F1.6</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>100° – 30°</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка углаустановки</name>
+      <value>Поворот: 0 ° - 355 °; наклон: 0 ° - 75 °; вращение: 0 ° - 355 °</value>
+    </spec>
+    <spec>
+      <name>Синхронизация</name>
+      <value>Внутренняя</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Переключение режима</name>
+      <value>«День / ночь»	Авто / цвет / ЧБ</value>
+    </spec>
+    <spec>
+      <name>Режим изображения</name>
+      <value>STD / HIGH-SAT</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>HLC, BLC, DWDR, 2D DNR</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>Английский</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>Яркость, резкость, смарт-ИК</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25%</value>
+    </spec>
+    <spec>
+      <name>Дальность EXIR-подсветки</name>
+      <value>До 40 м, Smart ИК</value>
+    </spec>
+    <spec>
+      <name>Управление объективом</name>
+      <value>Протокол</value>
+    </spec>
+    <spec>
+      <name>Hikvision-C Защита</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>D143 х 106,7 мм</value>
+    </spec>
+    <spec>
+      <name>Вес	Приблизительно</name>
+      <value>630 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40°С — 60°С, влажность не более 90%</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл/пластик</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Кнопка переключения</name>
+      <value>TVI, AHD, CVI, CVBS</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

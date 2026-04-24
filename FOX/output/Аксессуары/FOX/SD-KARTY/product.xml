@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>SD Карты</name>
+  <article>SD-KARTY</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110004990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/425/256gb_na_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/38e/128gb-na-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/55a/64gb-na-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9ec/32gb-na-360.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="1">1000</spec>
+    <spec name="4 990">руб.</spec>
+    <spec name="купить">MicroSDHS 32Gb</spec>
+    <spec name="2 590">руб.</spec>
+    <spec name="1 290">руб.</spec>
+    <spec name="890">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/sd-karty/</source_url>
+</product>

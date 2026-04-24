@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H208TA</name>
+  <model>DS-H208TA</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h208ta</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>H.265 Pro+/H.265 Pro/H.265</paragraph>
+    <paragraph>8 каналов</paragraph>
+    <paragraph>Видеовыход HDTVI/AHD/CVI/CVBS/IP</paragraph>
+    <paragraph>Передача аудио по коаксиальному кабелю</paragraph>
+    <paragraph>До 16 IP-каналов до 8Мп</paragraph>
+    <paragraph>HDD До 10 Тб</paragraph>
+    <paragraph>Тип</paragraph>
+    <paragraph>HD-TVI</paragraph>
+    <paragraph>Особенности</paragraph>
+    <paragraph>Тревожный вход/выход / CVBS-выход</paragraph>
+    <paragraph>Видеоаналитика</paragraph>
+    <paragraph>обнаружение движения, вторжения в область и пересечения линии</paragraph>
+    <paragraph>TVI</paragraph>
+    <paragraph>8Мп@12к/с, 5Мп@20к/с, 3Мп@18к/с, 1080p / 720p@25к/с</paragraph>
+    <paragraph>AHD</paragraph>
+    <paragraph>4Мп/1080p/720p@25к/с</paragraph>
+    <paragraph>CVI</paragraph>
+    <paragraph>4Мп/1080p/720p@25к/с</paragraph>
+    <paragraph>Аналоговый</paragraph>
+    <paragraph>WD1@25к/с</paragraph>
+    <paragraph>IP</paragraph>
+    <paragraph>до 8Мп - входящий битрейт 128Мбит/с</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>H.265 / H.265+ / H.264 / H.265 Pro / H.264+</paragraph>
+    <paragraph>Аудиосжатие</paragraph>
+    <paragraph>G.711u</paragraph>
+    <paragraph>Видеоканалы</paragraph>
+    <paragraph>8</paragraph>
+    <paragraph>IP-камеры</paragraph>
+    <paragraph>4 IP-канала (до 16 с замещением аналоговых)</paragraph>
+    <paragraph>Видеовход</paragraph>
+    <paragraph>BNC</paragraph>
+    <paragraph>Видеовыход</paragraph>
+    <paragraph>1 VGA, 1 CVBS, 1 HDMI до 4K</paragraph>
+    <paragraph>Аудиоканалы</paragraph>
+    <paragraph>8</paragraph>
+    <paragraph>Аудиовход</paragraph>
+    <paragraph>4 канала RCA, до 8-и каналов AoC</paragraph>
+    <paragraph>Аудиовыход</paragraph>
+    <paragraph>1 канал RCA</paragraph>
+    <paragraph>Интерфейс</paragraph>
+    <paragraph>1 USB2.0; 1 USB3.0; 1 RS-485</paragraph>
+    <paragraph>Тревожный интерфейс</paragraph>
+    <paragraph>8/4</paragraph>
+    <paragraph>Сетевой интерфейс</paragraph>
+    <paragraph>1 RJ45 10M/100M/1000М Ethernet</paragraph>
+    <paragraph>Объём</paragraph>
+    <paragraph>10 Гб</paragraph>
+    <paragraph>Тип HDD</paragraph>
+    <paragraph>SATA</paragraph>
+    <paragraph>Количество HDD</paragraph>
+    <paragraph>2</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12В</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>20Вт макс (без HDD)</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>-10...+55 °C</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 Pro+/H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход HDTVI/AHD/CVI/CVBS/IP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Передача аудио по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 16 IP-каналов до 8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HDD До 10 Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HD-TVI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Особенности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожный вход/выход / CVBS-выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеоаналитика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения, вторжения в область и пересечения линии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8Мп@12к/с, 5Мп@20к/с, 3Мп@18к/с, 1080p / 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4Мп/1080p/720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4Мп/1080p/720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аналоговый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 8Мп - входящий битрейт 128Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 / H.265+ / H.264 / H.265 Pro / H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеоканалы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP-камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 IP-канала (до 16 с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 VGA, 1 CVBS, 1 HDMI до 4K</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиоканалы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала RCA, до 8-и каналов AoC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 USB3.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RS-485</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожный интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 10M/100M/1000М Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объём</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10 Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип HDD</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SATA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Количество HDD</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>20Вт макс (без HDD)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10...+55 °C</value>
+    </spec>
+    <spec>
+      <name>Тип</name>
+      <value>HD-TVI</value>
+    </spec>
+    <spec>
+      <name>Особенности</name>
+      <value>Тревожный вход/выход / CVBS-выход</value>
+    </spec>
+    <spec>
+      <name>Видеоаналитика</name>
+      <value>обнаружение движения, вторжения в область и пересечения линии</value>
+    </spec>
+    <spec>
+      <name>TVI</name>
+      <value>8Мп@12к/с, 5Мп@20к/с, 3Мп@18к/с, 1080p / 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name>AHD</name>
+      <value>4Мп/1080p/720p@25к/с</value>
+    </spec>
+    <spec>
+      <name>CVI</name>
+      <value>4Мп/1080p/720p@25к/с</value>
+    </spec>
+    <spec>
+      <name>Аналоговый</name>
+      <value>WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name>IP</name>
+      <value>до 8Мп - входящий битрейт 128Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265 / H.265+ / H.264 / H.265 Pro / H.264+</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Видеоканалы</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>IP-камеры</name>
+      <value>4 IP-канала (до 16 с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовход</name>
+      <value>BNC</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 VGA, 1 CVBS, 1 HDMI до 4K</value>
+    </spec>
+    <spec>
+      <name>Аудиоканалы</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>4 канала RCA, до 8-и каналов AoC</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name>Интерфейс</name>
+      <value>1 USB2.0; 1 USB3.0; 1 RS-485</value>
+    </spec>
+    <spec>
+      <name>Тревожный интерфейс</name>
+      <value>8/4</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M/1000М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Объём</name>
+      <value>10 Гб</value>
+    </spec>
+    <spec>
+      <name>Тип HDD</name>
+      <value>SATA</value>
+    </spec>
+    <spec>
+      <name>Количество HDD</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12В</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>20Вт макс (без HDD)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-10...+55 °C</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

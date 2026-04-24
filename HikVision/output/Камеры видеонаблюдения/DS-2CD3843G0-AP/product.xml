@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD3843G0-AP</name>
+  <model>DS-2CD3843G0-AP</model>
+  <sku>10905</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd3843g0-ap-ip-kamera/</product_url>
+  <description>
+    <paragraph>Без объектива</paragraph>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>АРД, поддержка P-Iris</paragraph>
+    <paragraph>WDR 120 дБ, H.265+, H.265</paragraph>
+    <paragraph>Слот для microSD до 256 Гбайт</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.005 лк (F/1.6, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>C/CS-mount</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>привод, постоянный токP-iris (в зависимости от типа объектива)</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 20 к/с (2560×1440), 25 к/с (1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (1280×720, 640×480, 640×360)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 1 к/с (640×360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264, H.265+, H.264+дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>по 1 фиксированной области для основного потока и для дополнительного потока</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711u, G.711a, G.722.1, G.726, MP2L2, PCM, AAC</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711 u, G.711 a), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), от 32 до 160 Кбит/с (MP2L2), от 16 до 64 Кбит/с (AAC)</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 ~ 16 кГц</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP™, SMTP, IGMP, 802.1X, QoS, IPv6, Bonjour, IPv4, UDP, SSL/TLS</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 6 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>автоматическая детекция сетевого статуса (ANR)</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE 10+не требуется плагин для просмотра в режиме реального времени: Chrome 57.0+, Firefox 52.0+локальные сервисы: Chrome 57.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость, AGC и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10/100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карт памяти, поддержка microSD-карт, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>1 вход (линейный), разъем 3.5 мм, макс. амплитуда входного сигнала: 3.3 В p-p, входное сопротивление: 4.7 кОм; тип интерфейса: неравновесный1 выход (линейный), разъем 3.5 мм, макс. амплитуда выходного сигнала: 3.3 В p-p, выходное сопротивление: 100 Ом, тип интерфейса: неравновесный</value>
+    </spec>
+    <spec>
+      <name>Тревога</name>
+      <value>1 тревожный вход, 1 тревожный выход, (макс. AC 24 В, DC 24 В, 500 мА)</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 RS-485 (полудуплекс, HIKVISION, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Выход питания</name>
+      <value>DC 12 В, макс. 200 мA</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, исключения</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии и вторжения</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, карту памяти, уведомление центра мониторинга, отправка E-mail, запись по тревоге, захват изображения, срабатывание тревожного выхода</value>
+    </spec>
+    <spec>
+      <name>Защита периметра</name>
+      <value>пересечение линии, вторжение</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, 0.54 А, макс. 7 Вт, двухъядерный терминальный блок, защита от обратной полярностиAC 24 В ±20 %, 0.49 А, макс. 7 Вт, двухъядерный терминальный блокPoE: 802.3af, от 36 до 57 В, от 0.22 до 0.14 A, макс. 8 Вт</value>
+    </spec>
+    <spec>
+      <name>Размер камеры</name>
+      <value>69.8×58.0×137.0 мм</value>
+    </spec>
+    <spec>
+      <name>Вес камеры</name>
+      <value>830 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–30 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык веб-клиента</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Anti-Flicker, Heartbeat, зеркалирование, защита паролем, маскирование области, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Без объективаРазрешение 4 МпАРД, поддержка P-IrisWDR 120 дБ, H.265+, H.265Слот для microSD до 256 ГбайтПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/5e0/140_140_1/DS_2CD3843G0_AP-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd3843g0-ap-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD3843G0-AP&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

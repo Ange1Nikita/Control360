@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Настенный козырек Hikvision DS-KABV8113-RS/Surface</name>
+  <model>DS-KABV8113-RS/Surface</model>
+  <article>289288</article>
+  <sku>305700586</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Дополнительное оборудование</subcategory>
+  <functional_name>Настенный козырек</functional_name>
+  <nomenclature>Кронштейн</nomenclature>
+  <price>925.34</price>
+  <price_wholesale>840.52</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289288/</product_url>
+  <description>
+    <paragraph>Козырек для настенного монтажа вызывной панели серии DS-KV8x13 серии Материал: металл, SECC; -40℃ до 60℃, влажность с 10% до 95%;  189 x 97 x 49мм; Настенный монтаж.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>189х97х49</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="870.06 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/5/75309D2A8113BA1EB08C5CB6EFD5A9F7.pdf</document>
+  </documents>
+</product>

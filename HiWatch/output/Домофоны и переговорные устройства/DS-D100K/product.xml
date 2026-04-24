@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-D100K</name>
+  <article>264901</article>
+  <sku>305303183</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Мониторы видеодомофонов</subcategory>
+  <functional_name>Комплект видеодомофона</functional_name>
+  <nomenclature>Комплект видеодомофона</nomenclature>
+  <price>7926.62</price>
+  <price_wholesale>7200.02</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/264901/</product_url>
+  <description>
+    <paragraph>Комплект аналогового видеодомофона: 7" цветной видеодомофон, TFT монитор 800х480, до 2-х вызывных панелей, до 3-х мониторов в параллель, 4-х проводная схема, 12В DC, 5Вт макс., адаптер в комплекте+ антивандальная вызывная панель с камерой разрешением 720 х 576 и ИК-подсветкой до 2м.&lt;br /&gt;</paragraph>
+    <paragraph>Интерком между мониторами отсутствует!</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей/камер</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Количество дополнительных видеокамер</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>до 3-х мониторов</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>4-х проводная</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-30…+70</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры монитора, мм</name>
+      <value>195.8х132.8х18.39</value>
+    </spec>
+    <spec>
+      <name>Размер матрицы</name>
+      <value>1/4"</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>4-х проводная</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры вызывной панели, мм</name>
+      <value>145х49.2х26.45</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>instruction.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="724.44 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/6/46010F08EEDB0D9FAE98890F2821F355.pdf</document>
+    <document title="Инструкция" size="1.51 МБ">https://www.tinko.ru/upload/exchange/public/documentation/7/9/7983B52FAF92A21AF864E1A3FAFCD514.pdf</document>
+  </documents>
+</product>

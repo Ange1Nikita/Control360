@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PS1-E-WE (Red Indicator)</name>
+  <model>DS-PS1-E-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-ps1-e-we-red-indicator-</product_url>
+  <description>
+    <paragraph>DS-PS1-E-WE является беспроводной сиреной для установки снаружи помещений с поддержкой беспроводной связи 868 МГц, беспроводным протоколом Tri-X, несколькими методами регистрации, двусторонней беспроводной связью, несколькими звуковыми сигналами тревоги и стробоскопом. Сирена используется для мгновенного оповещения о тревоге.Беспроводной уличный оповещатель (красный индикатор)</paragraph>
+    <paragraph>Беспроводной оповещатель уличный (красный LED); 868МГц двухсторонная связь с TRI-X технологией; дальность до 1600м; уровень звукового давления до 110дБ; защита от помех, температурная компенсация; срок службы батареи - 3 года;  -10градусовC...+55градусовC; размер 190 200 47мм; пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Беспроводной оповещатель уличный (красный LED)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность до 1600м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>уровень звукового давления до 110дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 3 года</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 190 200 47мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VIGUARD CLIMAT F датчик температуры и влажности беспроводной</name>
+  <article>VIGUARD_CLIMAT_F_DATCHIK_TEMPERATURY_I_VLAZHNOSTI_BESPROVODNOY</article>
+  <brand>ViGUARD</brand>
+  <category>Home Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8b0/450_450_1/viguard-climat-f-datchik-temperatury-i-vlazhnosti-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8b0/120_120_0/viguard-climat-f-datchik-temperatury-i-vlazhnosti-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8b0/500_500_1/viguard-climat-f-datchik-temperatury-i-vlazhnosti-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/257/500_500_1/TH01-ZB 温湿度探测器 面板.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8b0/120_120_1/viguard-climat-f-datchik-temperatury-i-vlazhnosti-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/257/120_120_1/TH01-ZB 温湿度探测器 面板.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/8b0/viguard-climat-f-datchik-temperatury-i-vlazhnosti-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>VIGUARD CLIMAT F датчик температуры и влажности беспроводной</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/home_line/viguard_climat_f_datchik_temperatury_i_vlazhnosti_besprovodnoy/</source_url>
+</product>

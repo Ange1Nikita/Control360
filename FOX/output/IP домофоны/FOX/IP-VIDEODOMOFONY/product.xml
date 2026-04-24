@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP ВИДЕОДОМОФОНЫ</name>
+  <article>IP-VIDEODOMOFONY</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>1111000990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/638/komplekt_chernyy_7_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/8a3/komplekt_belyy7_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/870/komplekt_belyy7_2_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/ff7/PIC1_3_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/c93/PIC2_250_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/e8e/PIC3_250_2.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Комплект IP видеодомофона черный">7”</spec>
+    <spec name="32 Гб">1080P</spec>
+    <spec name="Комплект IP видеодомофона белый">7”</spec>
+    <spec name="FX-IVD70WP белый">8”</spec>
+    <spec name="128 Гб">1080P</spec>
+    <spec name="FX-IVD70WP черный">8”</spec>
+    <spec name="FX-ICP200WP">IP</spec>
+    <spec name="131°">1080P</spec>
+    <spec name="1">1000</spec>
+    <spec name="990">руб.</spec>
+    <spec name="купить">FX-KAB1</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony/</source_url>
+</product>

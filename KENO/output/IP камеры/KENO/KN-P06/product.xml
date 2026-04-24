@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-P06</name>
+  <article>KN-P06</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>3000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f88/440_370_0/IMG_20181130_105107_768-1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4e9/440_370_0/IMG_20181130_100220_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f88/38_24_2/IMG_20181130_105107_768-1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4e9/38_24_2/IMG_20181130_100220_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+  </images>
+  <description>1 2 Уличная Ваша цена: 3 000 руб. Короткое описание Универсальная монтажная коробка KN-P06 белого цвета, подходит для размещения кабеля купольных D" и цилиндрических C" камер серии BR. Защищает соединения кабеля от воздействия климатического воздействия, в соответствии стандарту IP66 (пыле/ влага защита). Исполнена в металлическом корпусе, предназначена для установки на улице, выдерживает нагрузку до 5кг. Весит 0.4кг. Габаритные размеры Ø121.85 х 45.00мм Прекрасно подходит для камер KENO: KN-CE203V2812BR, KN-CE203A2812BR, KN-CE204A2812BR, KN-CE204A5050BR, KN-DE205A2812BR, KN-DE208F28BR, KN-CE505A2812BR, KN-DE508F28BR, KN-DE505A2812BR, KN-CE505F28, KN-DE505F28, KN-CE503A2812. Материалы и особенности ПО Паспорт (0.209МБ) Не подлежат обязательной сертификации (3.014МБ)</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-p06/</source_url>
+</product>

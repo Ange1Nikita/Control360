@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>АУДИОТРУБКИ</name>
+  <article>AUDIOTRUBKI</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>5260790</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/d48/IMG_6544-250-3tsvet.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/432/IMG_2982_250_3-ser-tsv.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/027/IMG_2982_250_3grafit.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d58/IMG_2982_250_3ch-tsv-_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/11d/IMG_2982_250_3grafit.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/906/IMG_2982_250_3-ser-tsv.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/275/IMG_2982_250_3ch-tsv-_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/434/IMG_6544-250-3tsvet.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="9,8">5,5</spec>
+    <spec name="22,5">260</spec>
+    <spec name="790">руб.</spec>
+    <spec name="купить">FX-HS2D Цифровая Белая</spec>
+    <spec name="1 200">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/audiotrubki/</source_url>
+</product>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-C5BE (Сапсан)</name>
+  <article>FX-C5BE-SAPSAN</article>
+  <brand>FOX</brand>
+  <category>WiFi/4G камеры</category>
+  <price>584006790</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/629/440_370_0/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/629/38_24_2/WIFI4GKAMERY.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/tariffs2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/629/440_370_0/WIFI4GKAMERY.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-C5BE (Сапсан)</spec>
+    <spec name="Тип корпуса">Цилиндрическая WIFI камера уличного исполнения</spec>
+    <spec name="Тип матрицы">1/2.8” CMOS</spec>
+    <spec name="Видеокодек">H.265</spec>
+    <spec name="Количество кадров в секунду">20 К/с</spec>
+    <spec name="Разрешение">2880x1620, 5 Мп</spec>
+    <spec name="Объектив">2.8mm</spec>
+    <spec name="Угол обзора">(гор.)110°/ (верт.)60°</spec>
+    <spec name="ИК подсветка">ИК до 20м</spec>
+    <spec name="ИК-фильтр">Есть</spec>
+    <spec name="Минимальная    чувствительность, люкс">0,15Лк / F1.2 (ИК выкл.)</spec>
+    <spec name="Битрейт">32 Кбит/с – 2 Мбит/с</spec>
+    <spec name="Сетевой интерфейс:">Беспроводный + Проводной</spec>
+    <spec name="Стандарт беспроводной связи">Wi-Fi (IEEE802.11b/g/n)</spec>
+    <spec name="Диапазон частот Wi-Fi">2,4 ГГц (5 ГГц не поддерживается)</spec>
+    <spec name="Ширина канала связи:">20/40 МГц</spec>
+    <spec name="Сетевые протоколы">DHCP/IP/TCP/P2P/WebRTC</spec>
+    <spec name="Протокол шифрования:">Wi-Fi: WEP/WPA/WPA2</spec>
+    <spec name="Поддерживаемые клиенты">Мобильные устройства Android и iOS</spec>
+    <spec name="Приложение">FOX Smart</spec>
+    <spec name="Облачное хранилище:">Есть (Платная услуга)</spec>
+    <spec name="Аудио">Встроенный микрофон, динамик</spec>
+    <spec name="Аудиокодек">PCM</spec>
+    <spec name="Динамик">1Вт, 8Ом</spec>
+    <spec name="Карта памяти">MicroSD, Class 10 и выше, до 256 ГБ включительно</spec>
+    <spec name="Onvif">Есть</spec>
+    <spec name="Встроенная сирена">Есть</spec>
+    <spec name="Детектор движения">Есть</spec>
+    <spec name="Детектор человека">Есть</spec>
+    <spec name="Питание">12В DC, 1,0 A</spec>
+    <spec name="Энергопотребление">Не более 10Вт</spec>
+    <spec name="Степень    защиты">IP65</spec>
+    <spec name="Материал корпуса">ABS пластик</spec>
+    <spec name="Рабочая температура,    °C">-30° C … +50° C</spec>
+    <spec name="Допустимая относ. влажность">до 98 % при температуре 25 °С</spec>
+    <spec name="Габариты">73(Ш)*73(В)*145(Д) мм.</spec>
+    <spec name="Вес">0,4кг</spec>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FX-C3SE (Сова)">3Мп</spec>
+    <spec name="FX-C3BE (Cтриж)">3Мп</spec>
+    <spec name="FX-C2BL (Гриф)">2Мп</spec>
+    <spec name="FX-C2SL (Филин)">2Мп</spec>
+    <spec name="FX-C3M (Лунь)">3Мп</spec>
+    <spec name="FX-C3S (Сыч)">3Мп</spec>
+    <spec name="FX-C4BL (Коршун)">4Мп</spec>
+    <spec name="FX-C4SL (Сипуха)">4Мп</spec>
+    <spec name="FX-C5BE (Сапсан)">5Мп</spec>
+    <spec name="FX-C5SE (Неясыть)">5Мп</spec>
+    <spec name="FX-C4MB (Чеглок)">4Мп</spec>
+    <spec name="FX-C4MW (Чеглок)">4Мп</spec>
+    <spec name="FX-C6SDE(Cплюшка)">3Мп + 3Мп</spec>
+    <spec name="Уличная">5Мп</spec>
+    <spec name="2,8мм">до 20м</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="Материалы и особенности ПО">Инструкция Сапсан</spec>
+    <spec name="Инструкция Сапсан">FX-C5BE (Сапсан).pdf (1.039МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/wifi-4g-kamery/fox-umnye-wifi-kamery/fx-c5be-sapsan/</source_url>
+</product>

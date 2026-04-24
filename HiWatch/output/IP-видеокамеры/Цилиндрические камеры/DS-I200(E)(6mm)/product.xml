@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Цилиндрическая IP-видеокамера Hiwatch DS-I200(E)(6mm)</name>
+  <model>DS-I200(E)(6mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i200-e-6mm-</product_url>
+  <description>
+    <paragraph>2 Мп уличная цилиндрическая IP-камера с EXIR-подсветкой до 30 м</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп.</paragraph>
+    <paragraph>• Обнаружение цели по типу «Человек» / «ТС».</paragraph>
+    <paragraph>• Четкое изображение при яркой задней засветке благодаря технологии DWDR.</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP67.</paragraph>
+    <paragraph>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки.</paragraph>
+    <paragraph>• Встроенный слот для microSD / SDHC / SDXC: нет</paragraph>
+    <paragraph>• Встроенный микрофон: нет</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/2.9'' Progressive Scan CMOS</paragraph>
+    <paragraph>Максимальное разрешение</paragraph>
+    <paragraph>1920  1080</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Цвет: 0.01 лк @ (F2.0, AGC вкл), ч/б: 0 лк с ИК-подсветкой</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>От 1/3 до 1/100 000 с</paragraph>
+    <paragraph>Режим «День/ночь»</paragraph>
+    <paragraph>ИК-фильтр</paragraph>
+    <paragraph>Регулировка угла установки</paragraph>
+    <paragraph>Поворот: от 0 до 360°; наклон: от 0 до 90°, вращение: от 0 до 360°</paragraph>
+    <paragraph>Тип объектива</paragraph>
+    <paragraph>Фиксированный объектив 6 мм (опционально)</paragraph>
+    <paragraph>Фокусное расстояние и угол обзора</paragraph>
+    <paragraph>6 мм, по горизонтали: 50.9°, по вертикали: 29.3°, по диагонали: 58.1°</paragraph>
+    <paragraph>Крепление объектива	M12</paragraph>
+    <paragraph>Фиксированная</paragraph>
+    <paragraph>Фокусировка</paragraph>
+    <paragraph>Фиксированная</paragraph>
+    <paragraph>Апертура</paragraph>
+    <paragraph>F2.0</paragraph>
+    <paragraph>DORI</paragraph>
+    <paragraph>6 мм, D: 83 м, O: 32 м, R: 16 м, I: 8 м</paragraph>
+    <paragraph>Тип подсветки</paragraph>
+    <paragraph>ИК-подсветка</paragraph>
+    <paragraph>Дальность дополнительной подсветки</paragraph>
+    <paragraph>До 30 м</paragraph>
+    <paragraph>Дополнительная интеллектуальная подсветка</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Инфракрасные волны</paragraph>
+    <paragraph>850 нм</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</paragraph>
+    <paragraph>Дополнительный поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>Основной поток: H.265+ / H.265 / H.264+ / H.264 Дополнительный поток: H.265 / H.264 / MJPEG</paragraph>
+    <paragraph>Область интереса (ROI)</paragraph>
+    <paragraph>1 фиксированная область для основного потока</paragraph>
+    <paragraph>Безопасность</paragraph>
+    <paragraph>Защита паролем, сложный пароль, водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, журнал проверки безопасности, аутентификация хоста (MAC-адрес)</paragraph>
+    <paragraph>Одновременный просмотр в режиме реального времени</paragraph>
+    <paragraph>До 6 каналов</paragraph>
+    <paragraph>Веб-интерфейс</paragraph>
+    <paragraph>Требуется плагин для просмотра в режиме реального времени: IE 10, IE 11 Локальные сервисы: Chrome 57.0+, Firefox 52.0+</paragraph>
+    <paragraph>Широкий динамический диапазон (WDR)</paragraph>
+    <paragraph>Цифровой WDR</paragraph>
+    <paragraph>SNR</paragraph>
+    <paragraph>52 дБ</paragraph>
+    <paragraph>Переключение режима «День / ночь»</paragraph>
+    <paragraph>День / Ночь / Автоматич. / По расписанию</paragraph>
+    <paragraph>Настройки изображения</paragraph>
+    <paragraph>Режим коридора, насыщенность, яркость, контрастность, резкость, усиление и баланс белого настраиваются через клиентское ПО или веб-интерфейс</paragraph>
+    <paragraph>Интерфейс Ethernet</paragraph>
+    <paragraph>1 RJ45 auto 10 / 100 М Ethernet</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>170.8  66  69.1 мм (6.7  2.6  2.7)</paragraph>
+    <paragraph>Размер упаковки</paragraph>
+    <paragraph>216  121  118 мм (8.5  4.8  4.6)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>Приблиз. 265 г</paragraph>
+    <paragraph>Масса с упаковкой</paragraph>
+    <paragraph>Приблиз. 495 г</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Основные функции</paragraph>
+    <paragraph>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2 Мп уличная цилиндрическая IP-камера с EXIR-подсветкой до 30 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Обнаружение цели по типу «Человек» / «ТС».</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Четкое изображение при яркой задней засветке благодаря технологии DWDR.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP67.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD / SDHC / SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.9'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Максимальное разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: 0.01 лк @ (F2.0, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1/3 до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон: от 0 до 90°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный объектив 6 мм (опционально)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние и угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6 мм, по горизонтали: 50.9°, по вертикали: 29.3°, по диагонали: 58.1°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива	M12</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусировка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Апертура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DORI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6 мм, D: 83 м, O: 32 м, R: 16 м, I: 8 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность дополнительной подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительная интеллектуальная подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инфракрасные волны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительный поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток: H.265+ / H.265 / H.264+ / H.264 Дополнительный поток: H.265 / H.264 / MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область интереса (ROI)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 фиксированная область для основного потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита паролем, сложный пароль, водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, журнал проверки безопасности, аутентификация хоста (MAC-адрес)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный просмотр в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Требуется плагин для просмотра в режиме реального времени: IE 10, IE 11 Локальные сервисы: Chrome 57.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Широкий динамический диапазон (WDR)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>52 дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключение режима «День / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>День / Ночь / Автоматич. / По расписанию</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройки изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим коридора, насыщенность, яркость, контрастность, резкость, усиление и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 auto 10 / 100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>170.8  66  69.1 мм (6.7  2.6  2.7)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер упаковки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>216  121  118 мм (8.5  4.8  4.6)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 265 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса с упаковкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 495 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основные функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.9'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.01 лк @ (F2.0, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>От 1/3 до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>Поворот: от 0 до 360°; наклон: от 0 до 90°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Фиксированный объектив 6 мм (опционально)</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>6 мм, по горизонтали: 50.9°, по вертикали: 29.3°, по диагонали: 58.1°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива	M12</name>
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F2.0</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>6 мм, D: 83 м, O: 32 м, R: 16 м, I: 8 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность дополнительной подсветки</name>
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>Основной поток: H.265+ / H.265 / H.264+ / H.264 Дополнительный поток: H.265 / H.264 / MJPEG</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>1 фиксированная область для основного потока</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Защита паролем, сложный пароль, водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, журнал проверки безопасности, аутентификация хоста (MAC-адрес)</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>Требуется плагин для просмотра в режиме реального времени: IE 10, IE 11 Локальные сервисы: Chrome 57.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>52 дБ</value>
+    </spec>
+    <spec>
+      <name>Переключение режима «День / ночь»</name>
+      <value>День / Ночь / Автоматич. / По расписанию</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Режим коридора, насыщенность, яркость, контрастность, резкость, усиление и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10 / 100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>170.8  66  69.1 мм (6.7  2.6  2.7)</value>
+    </spec>
+    <spec>
+      <name>Размер упаковки</name>
+      <value>216  121  118 мм (8.5  4.8  4.6)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>Приблиз. 265 г</value>
+    </spec>
+    <spec>
+      <name>Масса с упаковкой</name>
+      <value>Приблиз. 495 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -40 до +60 °C. Влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

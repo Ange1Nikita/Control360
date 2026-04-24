@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-WS1Monitor</name>
+  <article>FX-WS1MONITOR-WIFI-DATCHIK-TEMPERATURY-I-VLAZHNOSTI</article>
+  <brand>FOX</brand>
+  <category>Умный дом</category>
+  <price>11110002390</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8ec/440_370_0/fxws1monitor-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ab9/440_370_0/fxws1monitor-zad-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/8ec/38_24_2/fxws1monitor-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ab9/38_24_2/fxws1monitor-zad-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/8ec/440_370_0/fxws1monitor-900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-WS1Monitor</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Экран">LCD</spec>
+    <spec name="Подключение">WiFi: 802,11 b/g/n, 2,4 ГГц до 50м</spec>
+    <spec name="Питание">Батарея: ААА 1,5В × 3 (не входят в комплект)</spec>
+    <spec name="Рабочая температура">-10°C … +50°C</spec>
+    <spec name="Габаритные размеры (мм)">54(Ш) х 54(В) х 21(Г), IP54</spec>
+    <spec name="Вес">65 гр</spec>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-WS1Monitor">Датчик температуры и влажности</spec>
+    <spec name="FX-WS1Smoke">Датчик для обнаружения задымления</spec>
+    <spec name="FX-WS1Open">Датчик открытия/закрытия</spec>
+    <spec name="FX-WS1Water">Датчик протечки воды</spec>
+    <spec name="FX-WS1Socket">Управляемая розетка</spec>
+    <spec name="FX-WS1Relay">Управляемое реле</spec>
+    <spec name="FX-WS1IR">ИК-пульт дистанционного управления</spec>
+    <spec name="FX-WS1PIR">WiFi датчик движения</spec>
+    <spec name="Особенности замка">Все технические параметры</spec>
+    <spec name="Материалы и особенности ПО">Инструкция</spec>
+    <spec name="Инструкция">(4.448МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/umnyy-dom/fx-ws1monitor-wifi-datchik-temperatury-i-vlazhnosti/</source_url>
+</product>

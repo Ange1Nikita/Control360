@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM2-G</name>
+  <model>DS-PM2-G</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm2-g</product_url>
+  <description>
+    <paragraph>Встраиваемый GPRS модем</paragraph>
+    <paragraph>1 слот SIM-карты; рабочее напряжение 14.3 Вт; постоянный ток 150 мА;  -10градусовC...+40градусовC; размер 61.87х88.18 мм; вес 17 г.</paragraph>
+    <paragraph>Для DS-PHA48/64.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Встраиваемый GPRS модем</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 слот SIM-карты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>рабочее напряжение 14.3 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>постоянный ток 150 мА</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+40градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 61.87х88.18 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вес 17 г.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Для DS-PHA48/64.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

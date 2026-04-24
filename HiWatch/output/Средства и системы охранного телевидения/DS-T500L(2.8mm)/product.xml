@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T500L(2.8mm)</name>
+  <article>312948</article>
+  <sku>300513667</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>3363.18</price>
+  <price_wholesale>3054.89</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/312948/</product_url>
+  <description>
+    <paragraph>Бюджетная цилиндрическая видеокамера 4х форматная (переключаемый TVI/AHD/CVI/CVBS) Mix-HD цветная (ColorVu)  уличная со встроенной LED белой подсветкой и встроенным микрофоном (AoC аудио по коаксиальному кабелю), ДЕНЬ/НОЧЬ-Цвет; CMOS 5МП (2960 × 1665); 0.001; f= 2.8мм ; дальность белой подсветки 20 м; S/N: 65 dB; DWDR, HLC, 3D DNR; OSD-меню; немигающий световой сигнал (подсветка белым светом) ; DC12В/200 мА; IP66;  -40°…+60°C; 163×70×70мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.5" 5 МП CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>2960х1665</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.001</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>LED подсветка, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>163х70х70</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="926.57 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/8/0868352FC26F209BDD0887388F90B503.pdf</document>
+    <document title="Дополнение к руководству" size="64.17 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/7/27FF9DB92E6D8A9AA417E54629017C55.jpg</document>
+  </documents>
+</product>

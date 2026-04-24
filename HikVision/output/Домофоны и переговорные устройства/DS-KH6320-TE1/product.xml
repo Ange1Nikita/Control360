@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор IP-домофона Hikvision DS-KH6320-TE1</name>
+  <model>DS-KH6320-TE1</model>
+  <article>283471</article>
+  <sku>305301408</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Абонентские устройства</subcategory>
+  <functional_name>Монитор IP-домофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>8674.8</price>
+  <price_wholesale>7879.61</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/283471/</product_url>
+  <description>
+    <paragraph>7“ IP видеодомофон сенсорный цветной TFT LCD экран с разрешением 1024*600; встроенные микрофон и динамик; слот для SD карты до 32 Гб; тревожные входы/выходы 8/0; 1 RJ-45 10M/100M Ethernet; DC 12 В/PoE; 10 Вт; -10...+55 °C; размер 217×142.8×26 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>9</value>
+    </spec>
+    <spec>
+      <name>Количество ip видеокамер</name>
+      <value>До 16 ip камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>до 6-ти мониторов</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>200х140х15</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <image>image_4.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>manual_4.pdf</passport>
+    <passport>manual_5.pdf</passport>
+    <passport>document_6.pdf</passport>
+    <passport>document_7.pdf</passport>
+    <passport>document_8.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="830.2 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/A/0AB99D7F192540C9269A95406AE0A1C3.pdf</document>
+    <document title="Руководство по установке" size="568.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/A/4AEA42335E4AD449EDE3501D7700AFEF.pdf</document>
+    <document title="Дополнение к руководству" size="124.13 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/D/EDFB4C806B969B6F9F83C3B58A808343.jpg</document>
+    <document title="Руководство по программированию" size="778.53 КБ">https://www.tinko.ru/upload/exchange/public/documentation/9/2/92E494E39CD01A8278EE23EDDCE9442A.pdf</document>
+    <document title="Руководство по программированию" size="999.52 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/A/CA92E755723E9B0621B33D4E404D0079.pdf</document>
+    <document title="Фото товара" size="149.53 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/D/AD1CFFAA9A5BC20153194E8B8E14E8BE.jpg</document>
+    <document title="Фото товара" size="133.86 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/2/8268C5260CDBD1EE5FF6FB69B439CC85.jpg</document>
+    <document title="Фото товара" size="70.89 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/3/838066153833A76AC2F0AA3D1DDE8BB6.jpg</document>
+  </documents>
+</product>

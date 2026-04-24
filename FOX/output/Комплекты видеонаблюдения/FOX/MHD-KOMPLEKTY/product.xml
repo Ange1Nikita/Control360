@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Комплекты MHD</name>
+  <article>MHD-KOMPLEKTY</article>
+  <brand>FOX</brand>
+  <category>Комплекты видеонаблюдения</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/74b/komplekty.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/16e/komplekty.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/bbd/komplekty.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/062/komplekty.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FOX TERRA-4M">В комплекте Видеокамер 4шт Купол до t-40°</spec>
+    <spec name="FOX TERRA-4D">В комплекте Видеокамер 4шт Купол до t-40°</spec>
+    <spec name="FOX FX-iKIT 4.4D">В комплекте Видеокамер 4шт Купол до t-40°</spec>
+    <spec name="FOX FX-iKIT 4.4C">В комплекте Видеокамер 4шт Цилиндр до t-40°</spec>
+    <spec name="2 Мп">2.8</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/video-komplekty/mhd-komplekty/</source_url>
+</product>

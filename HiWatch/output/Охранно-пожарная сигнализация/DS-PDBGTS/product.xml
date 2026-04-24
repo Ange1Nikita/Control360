@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDBGTS</name>
+  <model>DS-PDBGTS</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdbgts</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Эффективная имитация разбития стекла</paragraph>
+    <paragraph>• Динамик высокой громкостиТестер для датчиков разбития стекла</paragraph>
+    <paragraph>Иммитация звука разбития стеклопакета, листового или закаленного стекла.</paragraph>
+    <paragraph>2 режима работы. Громкость до 100Дб на 1м. Размеры: 90х204х49мм, пластик.</paragraph>
+    <paragraph>Совместимость: DS-PDPG12P-EG2, DS-PDBG8-EG2, DS-PDPG12P-EG2-WE, DS-PDBG8-EG2-WE</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Эффективная имитация разбития стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Динамик высокой громкостиТестер для датчиков разбития стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Иммитация звука разбития стеклопакета, листового или закаленного стекла.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 режима работы. Громкость до 100Дб на 1м. Размеры: 90х204х49мм, пластик.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Совместимость: DS-PDPG12P-EG2, DS-PDBG8-EG2, DS-PDPG12P-EG2-WE, DS-PDBG8-EG2-WE</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

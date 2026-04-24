@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная цилиндрическая HiWatch DS-T200S (2.8 mm)</name>
+  <model>DS-T200S (2.8 mm)</model>
+  <article>278580</article>
+  <sku>300511449</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>2632.82</price>
+  <price_wholesale>2391.48</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/278580/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная уличная со встроенной ИК подсветкой (механический ИК фильтр), ДЕНЬ/НОЧЬ; 1/2.7" Progressive Scan CMOS 2МП (1920х1080); 0.005/0 лк (ИК-подсветка); f=2,8мм ; дальность EXIR-ИК подсветки 30 м; S/N: 65 dB; WDR 120дБ, HLC, 3D DNR; Smart ИК; OSD-меню ; DC12В/390 мА; IP66; Φ70 × 149.5мм; -40°…+60°C</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" Progressive CMOS 2МП</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>70х149.5</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="596.25 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/1/017F67E6188A81934BB793E2C967795A.pdf</document>
+  </documents>
+</product>

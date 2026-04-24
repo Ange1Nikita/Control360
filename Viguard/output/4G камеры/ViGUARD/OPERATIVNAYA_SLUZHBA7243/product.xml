@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Operativnaya Sluzhba7243</name>
+  <article>OPERATIVNAYA_SLUZHBA7243</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3df/450_450_1/3df487c33bde92bca6cbfa2ee6c4d8ec.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2a4/450_450_1/2a46f9a26467ccd02429e0f106b60b32.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/operativnaya_sluzhba7243/</source_url>
+</product>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VDP-D4211W(B)/Flush</name>
+  <model>VDP-D4211W(B)/Flush</model>
+  <category>Домофоны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/vdp-d4211w-b-flush</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Поддержка Wi-Fi, удобная настройка и беспроводное подключение</paragraph>
+    <paragraph>• Настройка через веб-интерфейс</paragraph>
+    <paragraph>• Алюминиевый сплав, надежная конструкция, IP65, IK08, 3 встроенных индикатора</paragraph>
+    <paragraph>• Встроенный считыватель карт Mifare, 1 канал, контроль доступа к видеодомофону</paragraph>
+    <paragraph>• Подавление шумов и эффекта эхо</paragraph>
+    <paragraph>• 2 Мп HD-камера с ИК-подсветкой</paragraph>
+    <paragraph>• PoE / DC 12 В2Мп IP вызывная панель на одного абонента с ИК-подсветкой до 3м и Wi-Fi</paragraph>
+    <paragraph>2Мп; Wi-Fi 2.4ГГц, Web интерфейс;PoE/ 12В DC, Mifare считыватель (до 2000 пользователей, 10000 карт);WDR; BLC; DNR; 10M/100M Ethernet, работа с Hik-Connect, 2 реле для замка;</paragraph>
+    <paragraph>IP65, IK08, металл/пластик, врезной монтаж</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка Wi-Fi, удобная настройка и беспроводное подключение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Настройка через веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Алюминиевый сплав, надежная конструкция, IP65, IK08, 3 встроенных индикатора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный считыватель карт Mifare, 1 канал, контроль доступа к видеодомофону</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Подавление шумов и эффекта эхо</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 2 Мп HD-камера с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• PoE / DC 12 В2Мп IP вызывная панель на одного абонента с ИК-подсветкой до 3м и Wi-Fi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Wi-Fi 2.4ГГц, Web интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PoE/ 12В DC, Mifare считыватель (до 2000 пользователей, 10000 карт)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10M/100M Ethernet, работа с Hik-Connect, 2 реле для замка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP65, IK08, металл/пластик, врезной монтаж</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

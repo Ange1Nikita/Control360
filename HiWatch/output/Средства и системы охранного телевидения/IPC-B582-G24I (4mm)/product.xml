@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP цилиндрическая HiWatch IPC-B582-G2/4I (4mm)</name>
+  <model>IPC-B582-G2/4I (4mm)</model>
+  <article>303497</article>
+  <sku>311317435</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Профессиональная видеокамера IP цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>12889.58</price>
+  <price_wholesale>11708.03</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/303497/</product_url>
+  <description>
+    <paragraph>Профессиональная видеокамера IP 8 Мп уличная цилиндрическая с ИК подсветкой до 80м, 1/2.8" Progressive Scan CMOS; объектив 4 мм; механический ИК-фильтр; 0.005лк F1.6; сжатие H.265/H.265+/H.264/H.264+/MJPEG; тройной поток; 3840 × 2160 -20к/с; WDR 120дБ, 3D DNR, BLC, ROI, слот для microSD до 256Гб; обнаружение движения, вторжения в область и пересечения линии; классификация «человек/ТС»; 1 RJ45 10M/100M Ethernet; DC12В/PoE(802.3af); 12.5 Вт; -40 °C...+60 °C; IP67; 105 × 293 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>3840х2160</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.0</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>80</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>12.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>105х293</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="831.68 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/A/4A0B188C2FD675DE3A3850A4E142423C.pdf</document>
+  </documents>
+</product>

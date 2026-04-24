@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Считыватель карт Mifare Hikvision DS-K1102AM</name>
+  <model>DS-K1102AM</model>
+  <article>307612</article>
+  <sku>302917359</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Считыватели «Hikvision»</subcategory>
+  <functional_name>Считыватель карт Mifare</functional_name>
+  <nomenclature>Считыватель</nomenclature>
+  <price>2488.8</price>
+  <price_wholesale>2260.66</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/307612/</product_url>
+  <description>
+    <paragraph>Считыватель Mifare карт Частота считывания 13.56МГц; дальность считывания: 30-50 мм; поддержка протоколов RS485 и Wiegand (W26/W34); DC12В; 6Вт; -20 °C...+70°C; IP64; размер 121×86.5×14мм; пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Метод идентификации</name>
+      <value>RFID</value>
+    </spec>
+    <spec>
+      <name>Стандарт идентификатора</name>
+      <value>Mifare</value>
+    </spec>
+    <spec>
+      <name>Выходной интерфейс</name>
+      <value>Wiegand; RS485</value>
+    </spec>
+    <spec>
+      <name>Расстояние считывания, см</name>
+      <value>3…5</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Ток потребления, мА</name>
+      <value>500</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Степень защиты</name>
+      <value>IP64</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>121х86.5х14</value>
+    </spec>
+    <spec>
+      <name>Масса, не более, кг</name>
+      <value>0.14</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>instruction.pdf</passport>
+  </files>
+  <documents>
+    <document title="Инструкция" size="531.94 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/7/07243DC87B8F443F9335AE8A8255633E.pdf</document>
+  </documents>
+</product>

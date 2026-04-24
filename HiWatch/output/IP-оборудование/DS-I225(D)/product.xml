@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I225(D)</name>
+  <model>DS-I225(D)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-i225-d-</product_url>
+  <description>
+    <paragraph>2Мп уличная поворотная IP-камера с EXIR-подсветкой до 100м, с MD 2.0</paragraph>
+    <paragraph>1/2.8'' Progressive Scan CMOS матрица; объектив 4.8 - 120мм, 25x; угол обзора объектива 57.6градусов - 2,5градусов; механический ИК-фильтр; H.265+/H.265/H.264+/H.264/MJPEG, 0.005лк@F1.6; 1920  1080@25к/с; WDR 120дБ, 3D DNR; HLC; EIS; антитуман; BLC; аудио вход/выход: 1/1, вход/выход тревоги 1/1, обнаружение движения, вторжения в область и пересечения линии c MD2.0; захват изображения лица, аудиодетектор, встроенный слот для microSD карты до 256Гб; вращение 360градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с; наклон -15градусов - 90градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с; видеобитрейт 32кбит/с-16Мбит/с; защита от перенапряжений TVS, IP66; -40градусовC до +60градусовC; DC12В/PoE(IEEE 802.3at); 24Вт макс, настенный кронштейн и блок питания в комплекте</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная поворотная IP-камера с EXIR-подсветкой до 100м, с MD 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 4.8 - 120мм, 25x</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора объектива 57.6градусов - 2,5градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, 0.005лк@F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920  1080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WDR 120дБ, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>антитуман</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудио вход/выход: 1/1, вход/выход тревоги 1/1, обнаружение движения, вторжения в область и пересечения линии c MD2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>захват изображения лица, аудиодетектор, встроенный слот для microSD карты до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение 360градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон -15градусов - 90градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-16Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS, IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В/PoE(IEEE 802.3at)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>24Вт макс, настенный кронштейн и блок питания в комплекте</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Платформа Hikvision DS-2DY9187-AI8 с лазерной ИК-подсветкой до 800м</name>
+  <model>DS-2DY9187-AI8</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2dy9187-ai8/</product_url>
+  <description>
+    <paragraph>Уличная (-40…+65) скоростная поворотная платформа, 1/2.8" CMOS, видео H.264/MJPEG/MPEG4 с разрешением 1920х1080 25Fps, 0.05/0.01 Люкс при F1.8 и 0 Люкс с ИК, зум х32, скорость поворота до 100°/с, аппаратная аналитика, режим «день/ночь» с ICR, DWDR, 3D DNR, BLC, Defog, ROI, поддержка трех потоков, двусторонний звук, тревожные входы/выходы, microSD объемом до 128 ГБ, ИК-подсветка до 800м, IP66, дворник, питание 24 В.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.005лк @( F1.8, AGC вкл.), 0.001лк@( F1.8, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>Авто / Вручную / ATW / В помещение / Снаружи /Дневной свет / Натриевые лампы</value>
+    </spec>
+    <spec>
+      <name>Автоматическая регулировка усиления</name>
+      <value>Авто/Вручную</value>
+    </spec>
+    <spec>
+      <name>Отношение сигнал/шум</name>
+      <value>Более 52 дБ</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/1с-1/30.000с</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Цифровое увеличение</name>
+      <value>16х</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>Авто/Полуавтоматическая/Вручную</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>8-250мм, 32x</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>33.4°-1.1° (Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Мин. рабочее расстояние</name>
+      <value>10-1500мм(Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Диафрагма</name>
+      <value>F1.8 - F6.1</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>25к/с (1920x1080), 25 к/с (1280x960), 25 к/с (1280x720)Суб. Поток: 25к/с (704×576), 25к/с (352×288), 25к/с (176х144)Третий поток 25к/с (1920x1080), 25 к/с (1280x960), 25 к/с (1280x720)</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия</name>
+      <value>H.264/MJPEG/MPEG4</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711ulaw / G.711alaw / G.726 / MP2L2 / G.722.1</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>Поддержка 24 зон с различными уровнями</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTP, TCP, UDP, IGMP, ICMP, DHCP, PPPoE</value>
+    </spec>
+    <spec>
+      <name>Стандарты</name>
+      <value>ONVIF, PSIA, CGI</value>
+    </spec>
+    <spec>
+      <name>Улучшения изображения</name>
+      <value>Антитуман, EIS, маскирование, 3D DNR, BLC, DWDR</value>
+    </spec>
+    <spec>
+      <name>Smart-обнаружение</name>
+      <value>Обнаружение лиц, вторжения, пересечения линии, звуковых изменений, вторжения в регион и выход из него</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК</name>
+      <value>до 800м</value>
+    </spec>
+    <spec>
+      <name>Угол действия ИК</name>
+      <value>Регулируется автоматически, в зависимости от увеличения</value>
+    </spec>
+    <spec>
+      <name>Smart ИК</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>Вручную: 0.1° — 100°/с</value>
+    </spec>
+    <spec>
+      <name>Диапазон наклона</name>
+      <value>+40°-90°</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>Вручную: 0.1° — 40°/с</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>256</value>
+    </spec>
+    <spec>
+      <name>Зоны патрулирования</name>
+      <value>8 зон, по 32 предустановки каждая</value>
+    </spec>
+    <spec>
+      <name>Модель поведения</name>
+      <value>4 модели, общее время записи не менее 10 минут на каждую</value>
+    </spec>
+    <spec>
+      <name>Восстановление параметров</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Парковка</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Пропорциональное увеличение</name>
+      <value>Скорость вращения может регулироваться автоматически в зависимости от масштаба увеличения</value>
+    </spec>
+    <spec>
+      <name>Показ PTZ-позиции</name>
+      <value>Вкл/Выкл</value>
+    </spec>
+    <spec>
+      <name>3D позиционирование</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Стоп кадр при повороте</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Действия по расписанию</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>7/2</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>Предустановка / Патрулирование / Модель поведения / Запись на microSD карту / Сообщение клиенту на E-map / Aux выход</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Ethernet-интерфейс</name>
+      <value>1 RJ45 10Base-T / 100Base-TX</value>
+    </spec>
+    <spec>
+      <name>CVBS выход</name>
+      <value>1.0V[p-p] / 75Ω, композитный BNC</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>Полудуплекс, HIKVISION, Pelco-P, Pelco-D, адаптивный</value>
+    </spec>
+    <spec>
+      <name>Хранилище</name>
+      <value>Встроенный слот для microSD/SDXC карты до 128ГБ</value>
+    </spec>
+    <spec>
+      <name>Кол-во пользователей</name>
+      <value>До 10 одновременно</value>
+    </spec>
+    <spec>
+      <name>Уровни пользователя</name>
+      <value>До 32 пользователей. 3 уровня: Администратор, С правом управления, Только просмотр</value>
+    </spec>
+    <spec>
+      <name>Источник питания</name>
+      <value>24В AC</value>
+    </spec>
+    <spec>
+      <name>Потребление энергии</name>
+      <value>90Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40°С — +65°С</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66 стандарт, подавитель напряжения переходных процессов TVS 6000В для грозозащиты</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>251×508×360 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>15 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Уличная (-40…+65) скоростная поворотная платформа, 1/2.8" CMOS, видео H.264/MJPEG/MPEG4 с разрешением 1920х1080 25Fps, 0.05/0.01 Люкс при F1.8 и 0 Люкс с ИК, зум х32, скорость поворота до 100°/с, аппаратная аналитика, режим «день/ночь» с ICR, DWDR, 3D DNR, BLC, Defog, ROI, поддержка трех потоков, двусторонний звук, тревожные входы/выходы, microSD объемом до 128 ГБ, ИК-подсветка до 800м, IP66, дворник, питание 24 В.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/fcd/140_140_1/fcd56e4361400eed9125d816cd2aec82.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2dy9187-ai8/?utm_source=comebackletter"&gt;Hikvision DS-2DY9187-AI8&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

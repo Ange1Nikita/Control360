@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Kamery Video Podtverzhdeiya2</name>
+  <article>KAMERY_VIDEO_PODTVERZHDEIYA2</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/df3/450_450_1/df33ee9d916f948f34d01569fcbc0072.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ef5/450_450_1/ef5c3b3d0815f16f7561c12eb3fd5eab.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/448/450_450_1/448fa0f92edffaa5de6adef76ca5abfe.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/kamery_video_podtverzhdeiya2/</source_url>
+</product>

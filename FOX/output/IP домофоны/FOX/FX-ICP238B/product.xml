@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-ICP238B</name>
+  <article>FX-ICP238B</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100016990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/012/440_370_0/01_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/2fc/440_370_0/02_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bb1/440_370_0/03_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7e6/440_370_0/04_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0c9/440_370_0/05_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/012/38_24_2/01_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/2fc/38_24_2/02_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bb1/38_24_2/03_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7e6/38_24_2/04_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0c9/38_24_2/05_ICP238B.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/012/440_370_0/01_ICP238B.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Вызывная панель">FX-ICP238B</spec>
+    <spec name="Видео">Операционная система</spec>
+    <spec name="ИК подсветка">ИК прожектор до 5м с компенсацией засветки лица в ближней зоне</spec>
+    <spec name="Разрешение">2Мп</spec>
+    <spec name="Угол обзора">По горизонтали: 125° / По вертикали: 72°</spec>
+    <spec name="Формат кодирования">H.264/H265</spec>
+    <spec name="Основной поток">1920 x 1080 / 1280 x 720 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный поток">640x360 (1 ~ 25 к/с)</spec>
+    <spec name="Шумоподавление">3DNR с автоподстройкой</spec>
+    <spec name="Функции">Управление замком</spec>
+    <spec name="Тип замка">электромагнитный/</spec>
+    <spec name="Аудиосвязь">Двухсторонняя</spec>
+    <spec name="SD карта">До 128Гб, с 2024г до 512гб</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN</spec>
+    <spec name="LAN">10 / 100 Mbps адаптивный интерфейс Ethernet</spec>
+    <spec name="Сетевой Протокол">TCP/IP, RTSP, ONVIF</spec>
+    <spec name="Реле">Сухой контакт для управления замком двери NO/NC</spec>
+    <spec name="Контроллер">Встроенный на 1000 Mifare карт</spec>
+    <spec name="Питание">POE IEEE 802.3af / DC12-15В, 0.8A</spec>
+    <spec name="Степень защиты">IK07; IP65</spec>
+    <spec name="Рабочая температура">-40°C … +60°C</spec>
+    <spec name="Габаритные размеры (мм)">134 (В) x 63 (Ш) х 27 (Г)</spec>
+    <spec name="Модель">Формат</spec>
+    <spec name="FX-ICP200WP">IP</spec>
+    <spec name="FX-ICP232B">IP</spec>
+    <spec name="FX-ICP236B">IP</spec>
+    <spec name="FX-ICP238B">IP</spec>
+    <spec name="FX-ICP238W">IP</spec>
+    <spec name="FX-ICP236A">IP</spec>
+    <spec name="FX-ICP334RBW">IP</spec>
+    <spec name="FX-ICP880AP">IP</spec>
+    <spec name="FX-ICP770AP">IP</spec>
+    <spec name="IP">125°</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Linux">ИК подсветка</spec>
+    <spec name="ИК прожектор до 5м с компенсацией засветки лица в ближней зоне">Разрешение</spec>
+    <spec name="2Мп">Угол обзора</spec>
+    <spec name="По горизонтали: 125° / По вертикали: 72°">Формат кодирования</spec>
+    <spec name="H.264/H265">Основной поток</spec>
+    <spec name="1920 x 1080 / 1280 x 720 (1 ~ 25 к/с)">Второстепенный поток</spec>
+    <spec name="640x360 (1 ~ 25 к/с)">Шумоподавление</spec>
+    <spec name="3DNR с автоподстройкой">Функции</spec>
+    <spec name="Управление замком">НО / НЗ ( с врем. открытия)</spec>
+    <spec name="электромеханический">Аудиосвязь</spec>
+    <spec name="Двухсторонняя">SD карта</spec>
+    <spec name="До 128Гб, с 2024г до 512гб">Технические параметры</spec>
+    <spec name="Монтаж">Накладной</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="(2.089МБ)">Release note_July 2024</spec>
+    <spec name="(0.567МБ)">DigitalToolsV2.0</spec>
+    <spec name="(3.888МБ)">Release note_March 2025_QR</spec>
+    <spec name="(0.998МБ)">Прошивка FX-ICP238_V1.1.18</spec>
+    <spec name="Паспорт">(2.089МБ)</spec>
+    <spec name="Release note_July 2024">(0.567МБ)</spec>
+    <spec name="DigitalToolsV2.0">(3.888МБ)</spec>
+    <spec name="Release note_March 2025_QR">(0.998МБ)</spec>
+    <spec name="Прошивка FX-ICP238_V1.1.18">(8.214МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-icp238b/</source_url>
+</product>

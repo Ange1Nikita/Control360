@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=popular&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=POPULAR&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Fast Box</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fa/450_450_1/3fa454f25ca6f86de1a271773ab4ce9b.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/fast_box/index.php?sort=popular&amp;order=asc</source_url>
+</product>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Вызывные панели/KN-PA130G-X</name>
+  <article>KN-PA130G-X</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a4c/440_370_0/kn_pa130g_x-_2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a4c/38_24_2/kn_pa130g_x-_2_.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/users.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/users.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/res.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/res.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/ip.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/ip.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>1 9999 1.3 Да Короткое описание Многоквартирная IP видео панель KN-PA130G-X предназначена для подключения к IP видеодомофонам KENO и сетевым видеорегистраторам. Работа по сети TCP/IP. Удаленное управление открыванием замка с помощью мобильного телефона. Особенности вызывной панели Все технические параметры Модель KN-PA130G-X Система Процессор TEXAS    TiDavinci Система LINUX    OC Видео Сжатие H.264 Разрешение CMOS    сенсор 1,3 Mpx (1280х960) Подсветка Видимая,    до 10м Аудио Вход Встроенный    микрофон Выход Встроенные    динамики Разговор Поддерживается    двусторонняя связь с устройствами Экран Тип 3" монохромный    STN экран Разрешение 128х64 Функции Вход Сенсорные    кнопки Тип Многоквартирное    устройство Контроль Поддержка    MIFARE карт Тревога Защита Корпус из закалённого стекла Тревожный вход До    2 внешних датчиков, управление замком NC/NO Сеть Сеть 10/100    Mbps Протокол TCP/IP,SNMP,MDI/MDI-X    Self-adaptive Основные Архив 128    Мб Питание Постоянное  10~15 В Потребление В    ожидании ≤1 Вт, при работе ≤10 Вт Рабочая температура -40℃~+50℃ 10 ~ 90% RH Стандарт IP65 Размер 408.0 мм х 150.0 мм х 46.4 мм（Д*Ш*Г） Вес 1.6 Кг 9999 1.3 Да Матрица HD CMOS    1,3 Mpx (1280x960) Монохромный STN экран Корпус из закаленного стекла Открытие замка с мобильного устройства Управление замком NC/NO Возможность одновременного вызова на 10 мониторов одновременно Считыватель карт Mifire Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Кол-во абонентов</spec>
+    <spec name="Система">LINUX    OC</spec>
+    <spec name="Видео">Сжатие</spec>
+    <spec name="Разрешение">128х64</spec>
+    <spec name="Подсветка">Видимая,    до 10м</spec>
+    <spec name="Аудио">Вход</spec>
+    <spec name="Выход">Встроенные    динамики</spec>
+    <spec name="Разговор">Поддерживается    двусторонняя связь с устройствами</spec>
+    <spec name="Экран">Тип</spec>
+    <spec name="Функции">Вход</spec>
+    <spec name="Тип">Многоквартирное    устройство</spec>
+    <spec name="Контроль">Поддержка    MIFARE карт</spec>
+    <spec name="Тревога">Защита</spec>
+    <spec name="Тревожный вход">До    2 внешних датчиков, управление замком NC/NO</spec>
+    <spec name="Сеть">Сеть</spec>
+    <spec name="Протокол">TCP/IP,SNMP,MDI/MDI-X    Self-adaptive</spec>
+    <spec name="Основные">Архив</spec>
+    <spec name="Питание">Постоянное  10~15 В</spec>
+    <spec name="Потребление">В    ожидании ≤1 Вт, при работе ≤10 Вт</spec>
+    <spec name="Рабочая температура">-40℃~+50℃</spec>
+    <spec name="Стандарт">IP65</spec>
+    <spec name="Размер">408.0 мм х 150.0 мм х 46.4 мм（Д*Ш*Г）</spec>
+    <spec name="Вес">1.6 Кг</spec>
+    <spec name="KN-PA130G">1</spec>
+    <spec name="KN-PA130P">1</spec>
+    <spec name="KN-PA130M">1</spec>
+    <spec name="KN-PA130M-X">9999</spec>
+    <spec name="KN-PA130G-X">9999</spec>
+    <spec name="KN-PA2000M">1</spec>
+    <spec name="KN-PA2000M-X">9999</spec>
+    <spec name="KENO KN-B86 монтажная коробка">1</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/vyzyvnye-paneli/KN-PA130G-X/</source_url>
+</product>

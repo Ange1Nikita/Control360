@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера цилиндрическая HiWatch DS-I650M(B)(2.8mm)</name>
+  <model>DS-I650M(B)(2.8mm)</model>
+  <article>309017</article>
+  <sku>311319042</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Бюджетная IP-видеокамера цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>9310.6</price>
+  <price_wholesale>8457.13</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/309017/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 6 Мп цилиндрическая; 1/2.8" Progressive Scan CMOS; 3200х1800 - 20 к/с; 2.8 мм; 0.01лк; ИК подсветка EXIR 30 м; H.265/H.265+/H.264/H.264+/MJPEG; WDR 120дБ; ROI; 3D DNR; BLC; ONVIF; микрофон; microSD  до 256Гб; 12 DC/POE; 6.5Вт; защита от перенапряжений TVS; -40 °C...+60 °C; IP67; 170.8×66×69.1 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>3200х1800</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>170.8х66х69.1</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="510.08 КБ">https://www.tinko.ru/upload/exchange/public/documentation/9/A/9A7B587D13BD7BDFA87F87812C04079C.pdf</document>
+  </documents>
+</product>

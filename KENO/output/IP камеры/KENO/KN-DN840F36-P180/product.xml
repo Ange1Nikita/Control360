@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DN840F36-P180</name>
+  <article>KN-DN840F36-P180</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/34d/03ff1uiv77r6l5qlaey176i336v3ejmh/440_370_0/2025_11_13_11_08_39-768-1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/34d/03ff1uiv77r6l5qlaey176i336v3ejmh/38_24_2/2025_11_13_11_08_39-768-1.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>Модель KN-DN840F36-P180 Система NOVATEK NT98528 / ROM: 128Мб / RAM: 1024Мб Мощность AI NPU 1.5Tops Тип матрицы 2 x 1/1.79” OmniVision OS04A10 (2 × 4.0 МП) Эффективные    пиксели 2688(Г) × 1520(В) Размер пикселя 2.9 μm x 2.9 μm Электронный    затвор Auto/ 1/25s-1/100000s Мин.    Освещенность Цвет: 0.0007 Лк / F1.6, Ч/Б: 0.0004 Лк Сигнал / шум ≥ 56 Дб (AGC выкл.) Камера Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 40м / Белый теплый до 40м Компенсация засветки BLC / HLC / WDR 120дБ / Антитуман Видео режим ROI / “Коридор” / Стабилизация изображения Шумоподавление 2DNR / 3DNR Аудио Микрофон с АРУ и ШП, Внешний 1 Вх. / 1 Вых. Аудио, Динамик,
+G.711a; G.711Mu; G.726; PCM, AAC; Интерком Тревога Световая тревога, Звуковая тревога, 1 Вх. / 1 Вых. Карта памяти / Архив Микро SD, Макс 256GB (FAT), FTP, ANR Язык интерфейса Русский / Английский Объектив UNION 3.6мм (8.0MP) F1.6 с ИК коррекцией Угол обзора Г: 180° ±10° (Широкий) В: 48°(Широкий) DORI Д: 70м, О: 28м, Р: 14м, И: 7м Видео Формат    кодирования AI HEVC, H.265+ / H.265 / H.264+ / H.264 (H/M/B) Основной поток 8МП (3840x2160) (1 ~ 25 к/с) Второстепенный    поток 1МП (2048x576) (1 ~ 25 к/с) Третий поток 1МП (2048x576) (1 ~ 25 к/с) Поток 3K ~ 16384Kbps, Авто Сеть Сетевой интерфейс RJ-45    (10/100Base-T) Подключение До 16 пользователей / Исходящий поток до 80М Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API P2P / CMS KENO LINK / KENO SVMS Аналитика SMD, Детектор лиц, Детектор толпы, Детектор очереди, Детектор парковки, Подсчет людей, Тепловая карта, Нахождение на рабочем месте, Подозрительная активность. Технические параметры Питание DC 12 В ±30%, PoE (802.3af) Потребление Без ИК/WLED не более 4Вт, Макс потребление не более 14Вт Рабочая    температура -40°C ... +60°C (Нагреватель / Холодный старт), 10% ...</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Система">NOVATEK NT98528 / ROM: 128Мб / RAM: 1024Мб</spec>
+    <spec name="Мощность AI">NPU 1.5Tops</spec>
+    <spec name="Тип матрицы">2 x 1/1.79” OmniVision OS04A10 (2 × 4.0 МП)</spec>
+    <spec name="Эффективные    пиксели">2688(Г) × 1520(В)</spec>
+    <spec name="Размер пикселя">2.9 μm x 2.9 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/25s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.0007 Лк / F1.6, Ч/Б: 0.0004 Лк</spec>
+    <spec name="Сигнал / шум">≥ 56 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК / WLED прожектор / Гибридный режим
+ИК (850нм) до 40м / Белый теплый до 40м</spec>
+    <spec name="Компенсация засветки">BLC / HLC / WDR 120дБ / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, Внешний 1 Вх. / 1 Вых. Аудио, Динамик,
+G.711a; G.711Mu; G.726; PCM, AAC; Интерком</spec>
+    <spec name="Тревога">Световая тревога, Звуковая тревога, 1 Вх. / 1 Вых.</spec>
+    <spec name="Карта памяти / Архив">Микро SD, Макс 256GB (FAT), FTP, ANR</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Объектив">UNION 3.6мм (8.0MP) F1.6 с ИК коррекцией</spec>
+    <spec name="Угол обзора">Г: 180° ±10° (Широкий)В: 48°(Широкий)</spec>
+    <spec name="DORI">Д: 70м, О: 28м, Р: 14м, И: 7м</spec>
+    <spec name="Формат    кодирования">AI HEVC, H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">8МП (3840x2160) (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">1МП (2048x576) (1 ~ 25 к/с)</spec>
+    <spec name="Третий поток">1МП (2048x576) (1 ~ 25 к/с)</spec>
+    <spec name="Поток">3K ~ 16384Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Подключение">До 16 пользователей / Исходящий поток до 80М</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P / CMS">KENO LINK / KENO SVMS</spec>
+    <spec name="Аналитика">SMD, Детектор лиц, Детектор толпы, Детектор очереди, Детектор парковки, Подсчет людей, Тепловая карта, Нахождение на рабочем месте, Подозрительная активность.</spec>
+    <spec name="Питание">DC 12 В ±30%, PoE (802.3af)</spec>
+    <spec name="Потребление">Без ИК/WLED не более 4Вт, Макс потребление не более 14Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C (Нагреватель / Холодный старт), 10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS8000В (Земля – Корпус)</spec>
+    <spec name="Материал">Полностью Металлический корпус</spec>
+    <spec name="Габариты">236(Д)*74(В)*110(Ш) мм</spec>
+    <spec name="Вес">1,4кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-dn840f36-p180/</source_url>
+</product>

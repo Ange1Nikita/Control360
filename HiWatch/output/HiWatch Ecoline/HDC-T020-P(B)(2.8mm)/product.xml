@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HDC-T020-P(B)(2.8mm)</name>
+  <model>HDC-T020-P(B)(2.8mm)</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/hdc-t020-p-b-2-8mm-</product_url>
+  <description>
+    <paragraph>Уличная купольная HD-TVI камера 2 Мп с EXIR ИК-подсветкой до 20 м. Разрешение видеозаписи до 1920x1080. Фокусное расстояние объектива составляет 2.8 мм, благодаря чему угол обзора достигает 120.5градусов. Апертура F1.2 и технологии DNR (шумоподавление), DWDR (расширение динамического диапазона), BLC (компенсация излишков освещения) обеспечат отличные рабочие характеристики в сложных условиях освещенности. Видеовыход: 1 х HD-TVI/AHD/CVI/CVBS2Мп уличная купольная HD-TVI камера с EXIR ИК-подсветкой до 20м</paragraph>
+    <paragraph>2MP CMOS матрица; объектив 2.8мм; угол обзора 120.5градусов; механический ИК-фильтр; 0.02 Лк@F1.2 с AGN;  OSD, DNR; DWDR, BLC, Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; -40градусовС до +60градусовС; 12В DC+-15%, 3.3Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2MP CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 120.5градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.02 Лк@F1.2 с AGN</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, BLC, Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 3.3Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Passazhirskiy Transport</name>
+  <article>PASSAZHIRSKIY_TRANSPORT</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/563/450_450_1/563426c6ee9993523133670bbe497913.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/06f/450_450_1/5237db9eabd6034bced29c12740725f7.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/passazhirskiy_transport/</source_url>
+</product>

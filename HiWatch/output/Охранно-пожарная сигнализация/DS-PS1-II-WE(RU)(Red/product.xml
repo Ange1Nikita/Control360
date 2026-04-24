@@ -1,0 +1,352 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PS1-II-WE(RU)(Red Indicator)</name>
+  <model>DS-PS1-II-WE(RU)(Red</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-ps1-ii-we-ru-red-indicator-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Беспроводной считыватель 868 МГц.</paragraph>
+    <paragraph>• Настраиваемое звуковое уведомление при постановке на охрану и снятии с охраны, а также LED-индикатор.</paragraph>
+    <paragraph>• Высокая дальность двусторонней аудиосвязи.</paragraph>
+    <paragraph>• Громкость бипера: от 90 до 110 дБ.</paragraph>
+    <paragraph>• Длительный срок службы батареи.</paragraph>
+    <paragraph>• 3 вида звуковых сигналов: тревога возгорания, тревожная сигнализация и тревога вторжения.</paragraph>
+    <paragraph>• Удаленная настройка через приложение.</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки.</paragraph>
+    <paragraph>Серийный интерфейс</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Поддерживается, передняя и задняя панель</paragraph>
+    <paragraph>Бипер</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Переключатель питания</paragraph>
+    <paragraph>Включение / отключение питания</paragraph>
+    <paragraph>Микрофон</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 % (без конденсата)</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>4 батареи CR123</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Источник питания DC 12 В</paragraph>
+    <paragraph>Интерфейс питания</paragraph>
+    <paragraph>DС 12 В</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>Рабочий ток: 25 мкА Макс. ток: 1.6 A Напряжение: 3 В</paragraph>
+    <paragraph>Срок службы батареи</paragraph>
+    <paragraph>До 2 лет (тревога раз в неделю, тревога в течение 5 минут и аудиосвязь в течение 5 минут)</paragraph>
+    <paragraph>Частота радиосвязи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Модуляция радиочастотной передачи</paragraph>
+    <paragraph>2GFSK</paragraph>
+    <paragraph>Дальность радиочастотной передачи</paragraph>
+    <paragraph>1000 м (открытое пространство)</paragraph>
+    <paragraph>Беспроводная технология</paragraph>
+    <paragraph>Беспроводная технология CAM-X</paragraph>
+    <paragraph>Светодиодный индикатор</paragraph>
+    <paragraph>Регистрация / сигнал (красный / зеленый), тревога (синий / красный), двусторонняя аудиосвязь (синий / красный)</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>130  128  39.5 мм</paragraph>
+    <paragraph>Цвет</paragraph>
+    <paragraph>Белый корпус (красный LED-индикатор)</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>Установка на стену</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>361.0 г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Беспроводной считыватель 868 МГц.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Настраиваемое звуковое уведомление при постановке на охрану и снятии с охраны, а также LED-индикатор.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокая дальность двусторонней аудиосвязи.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Громкость бипера: от 90 до 110 дБ.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Длительный срок службы батареи.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 3 вида звуковых сигналов: тревога возгорания, тревожная сигнализация и тревога вторжения.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удаленная настройка через приложение.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Серийный интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается, передняя и задняя панель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Бипер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключатель питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение / отключение питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 % (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 батареи CR123</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Источник питания DC 12 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DС 12 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочий ток: 25 мкА Макс. ток: 1.6 A Напряжение: 3 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 2 лет (тревога раз в неделю, тревога в течение 5 минут и аудиосвязь в течение 5 минут)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота радиосвязи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Модуляция радиочастотной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2GFSK</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность радиочастотной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1000 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология CAM-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Светодиодный индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регистрация / сигнал (красный / зеленый), тревога (синий / красный), двусторонняя аудиосвязь (синий / красный)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>130  128  39.5 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Белый корпус (красный LED-индикатор)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка на стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>361.0 г</value>
+    </spec>
+    <spec>
+      <name>Серийный интерфейс</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Поддерживается, передняя и задняя панель</value>
+    </spec>
+    <spec>
+      <name>Бипер</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Переключатель питания</name>
+      <value>Включение / отключение питания</value>
+    </spec>
+    <spec>
+      <name>Микрофон</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 % (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>4 батареи CR123</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Источник питания DC 12 В</value>
+    </spec>
+    <spec>
+      <name>Интерфейс питания</name>
+      <value>DС 12 В</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>Рабочий ток: 25 мкА Макс. ток: 1.6 A Напряжение: 3 В</value>
+    </spec>
+    <spec>
+      <name>Срок службы батареи</name>
+      <value>До 2 лет (тревога раз в неделю, тревога в течение 5 минут и аудиосвязь в течение 5 минут)</value>
+    </spec>
+    <spec>
+      <name>Частота радиосвязи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Модуляция радиочастотной передачи</name>
+      <value>2GFSK</value>
+    </spec>
+    <spec>
+      <name>Дальность радиочастотной передачи</name>
+      <value>1000 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Беспроводная технология</name>
+      <value>Беспроводная технология CAM-X</value>
+    </spec>
+    <spec>
+      <name>Светодиодный индикатор</name>
+      <value>Регистрация / сигнал (красный / зеленый), тревога (синий / красный), двусторонняя аудиосвязь (синий / красный)</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>130  128  39.5 мм</value>
+    </spec>
+    <spec>
+      <name>Цвет</name>
+      <value>Белый корпус (красный LED-индикатор)</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>Установка на стену</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>361.0 г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

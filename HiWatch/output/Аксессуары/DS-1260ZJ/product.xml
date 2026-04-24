@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1260ZJ</name>
+  <model>DS-1260ZJ</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1260zj</product_url>
+  <description>
+    <paragraph>Монтажная коробка, белая, для цилиндрических камер, алюминий, Ф105мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Монтажная коробка, белая, для цилиндрических камер, алюминий, Ф105мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

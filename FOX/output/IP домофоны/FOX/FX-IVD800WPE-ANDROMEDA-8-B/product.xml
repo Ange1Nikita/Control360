@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IVD800WPE АНДРОМЕДА 8B</name>
+  <article>FX-IVD800WPE-ANDROMEDA-8-B</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>111100019990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/9fa/440_370_0/01_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3c3/440_370_0/02_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/54e/440_370_0/03_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/45e/440_370_0/04_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/fad/440_370_0/05_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/9fa/38_24_2/01_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3c3/38_24_2/02_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/54e/38_24_2/03_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/45e/38_24_2/04_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/fad/38_24_2/05_Andromeda_8B.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart apple 2.png</image>
+    <image>https://www.fox-cctv.ru/upload/FOX Smart android 2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/9fa/440_370_0/01_Andromeda_8B.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-IVD800WPE АНДРОМЕДА 8</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Видео">Размер экрана</spec>
+    <spec name="Разрешение">1024 X 600. Touch Screen</spec>
+    <spec name="Стандарт видео">1080P</spec>
+    <spec name="Интерфейс">До 8ми IP устройств 1920х1080</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть. До 10-ти устройств</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Class 10, до 512 Гб</spec>
+    <spec name="Формат видео">H.264/H.265</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">Панель/ Ворота (Управление вторым замком через панель)</spec>
+    <spec name="Тип замка">электромагнитный/электромеханический</spec>
+    <spec name="Детектор человека">Да (с панели)</spec>
+    <spec name="Режим «Монитор»">Да. 3 стиля меню + 1 свой</spec>
+    <spec name="Часы/Фоторамка">Да</spec>
+    <spec name="Автоответчик">Да</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">LAN 10M/100M Ethernet / WiFi 2.4&amp;5ГГц /  POE</spec>
+    <spec name="Питание">Постоянное питание DC +12~15В, 0.8A</spec>
+    <spec name="Рабочая температура">0°C … +55°C</spec>
+    <spec name="Габаритные размеры (мм)">200(Ш) х 149(В) х 23,5(Г)</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-IVD70WP черный">8”</spec>
+    <spec name="FX-IVD70WP белый">8”</spec>
+    <spec name="Комплект IP видеодомофона белый">7”</spec>
+    <spec name="Комплект IP видеодомофона черный">7”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8B">8”</spec>
+    <spec name="FX-IVD800WPE АНДРОМЕДА 8W">8”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10B)">10”</spec>
+    <spec name="FX-IVD100WPE (ПРОКСИМА 10W)">10”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8B)">8”</spec>
+    <spec name="FX-IVD800HBW (КАССИОПЕЯ 8W)">8”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10W">10”</spec>
+    <spec name="FX-IVD100HBW  ТАУ КИТА 10B">10”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7W">7”</spec>
+    <spec name="FX-IVD70WPE ЛИРА 7B">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7W)">7”</spec>
+    <spec name="FX-IVD70WPE - KIT (ЛИРА 7B)">7”</spec>
+    <spec name="8”">512 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Акрил / Пластик">Видео</spec>
+    <spec name="Размер экрана">8" IPC LCD</spec>
+    <spec name="Встроенные микрофон и динамик, Голосовой автоответчик">Интерком</spec>
+    <spec name="Есть. До 10-ти устройств">Запись</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Сенсорные">Управление замком</spec>
+    <spec name="Панель/ Ворота (Управление вторым замком через панель)">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="LAN 10M/100M Ethernet / WiFi 2.4&amp;5ГГц /  POE">Питание</spec>
+    <spec name="Постоянное питание DC +12~15В, 0.8A">Рабочая температура</spec>
+    <spec name="0°C … +55°C">Габаритные размеры (мм)</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="(2.204МБ)">Release note_March 2025_QR</spec>
+    <spec name="(0.998МБ)">VDP-FOX_Release-note_July-2024</spec>
+    <spec name="(0.567МБ)">FX-IVD800WPE_V4.3.16.069</spec>
+    <spec name="Паспорт">(2.204МБ)</spec>
+    <spec name="Release note_March 2025_QR">(0.998МБ)</spec>
+    <spec name="VDP-FOX_Release-note_July-2024">(0.567МБ)</spec>
+    <spec name="FX-IVD800WPE_V4.3.16.069">(15.278МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-ivd800wpe-andromeda-8-b/</source_url>
+</product>

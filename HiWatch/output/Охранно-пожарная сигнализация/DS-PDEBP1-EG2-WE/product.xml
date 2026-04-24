@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDEBP1-EG2-WE</name>
+  <model>DS-PDEBP1-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdebp1-eg2-we</product_url>
+  <description>
+    <paragraph>Кнопка экстренного вызова DS-PDEBP1-EG2-WE является беспроводной портативной кнопкой экстренного вызова. При помощи панели управления можно конфигурировать различные режимы работы кнопки. Применяется в охранных системах и системах экстренного вызова.Беспроводная кнопка тревоги</paragraph>
+    <paragraph>Беспроводная кнопка с обратной связью; 868МГц двухсторонная связь с TRI-X технологией; дальность до 1000м; защита от помех; срок службы батареи - 3 года;  -10градусовC...+55градусовC; размер Ф38 12мм; пластик. IP54;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Кнопка экстренного вызова DS-PDEBP1-EG2-WE является беспроводной портативной кнопкой экстренного вызова. При помощи панели управления можно конфигурировать различные режимы работы кнопки. Применяется в охранных системах и системах экстренного вызова.Беспроводная кнопка тревоги</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная кнопка с обратной связью</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность до 1000м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 3 года</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер Ф38 12мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик. IP54</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

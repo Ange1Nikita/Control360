@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор TVI 16-канальный HiWatch DS-H316/2QAF</name>
+  <model>DS-H316/2QAF</model>
+  <article>354520</article>
+  <sku>300229423</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 16-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>18521.57</price>
+  <price_wholesale>16823.76</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354520/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI /AHD/ CVI/ CVBS 16 каналов видео + 2 IP 6Мп (до 24 с замещением аналоговых в Enhanced IP mode)+ 16 аудио или16- каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro/H.265/H.265+/H.264/H.264+; Скорость записи TVI: 3Мп х15к/с (первые 4 канала), 4Мп Lite/ 1080p х15к/с, 1080p Lite /720p Lite /720p х25к/с; AHD и CVI: 1080p х15к/с, 4Мп Lite, 1080p Lite /720p х25к/с; аналоговые камеры: WD1х25к/с; IP: доп. 2 канала 6Мп х25к/с; Видеовыходы: 1 VGA, 1 CVBS и 1 HDMI до 4К ; 1 USB2.0; 1 USB3.0, RS-485;Трев. вход/выход 16/4;  Протоколы сети TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF; сетевой (10M/ 100M /1000М Ethernet); 2х HDD SATA до 10Тб; DC12 В /5000 мА (адаптер питания в комплекте); -10°...+55°C; 380×320×48мм; ПО CMS в комплекте.; Motion detection 2.0, обнаружение движения 2.0 (16 каналов) Запись по cобытию или движению в кадре / Smart Поиск события выбранной области / Анализ человека/ТС (до 4х каналов) / Захват лиц (до 1 канала)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>16xTVI или 16х AHD или 16 х CV Iили16х аналог+ 2IP (до24 с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI (до 4K)/VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>16/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro/H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>16/4</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>15к/сек 4 канала 3МП; 15к/сек на канал (1920х1080 пикс.); 25к/сек на канал (1280х720 пикс.); 25 к/сек на канал (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Ручная установка/по датчику движения/по тревоге/по расписанию</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100/1000 Ethernet</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; PPPoE; DHCP; Hikconnect Cloud P2P; DNS; DDNS; NTP; SADP; SMTP; SNMP; NFS; iSCSI; UPnP™; HTTPS</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB; 1 RS-485</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PWA96-M2H-WE</name>
+  <model>DS-PWA96-M2H-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pwa96-m2h-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Зоны беспроводного подключения до 96 беспроводных входов/выходов, 8 считывателей/клавиатур, 6 оповещателей, 4 репитеров,</paragraph>
+    <paragraph>Беспроводной протокол нового поколения: Tri-X и Cam-X</paragraph>
+    <paragraph>Передача радиосигнала на дальние дистанции до 2000м</paragraph>
+    <paragraph>TCP/IP, Wi-Fi и 3G/4G</paragraph>
+    <paragraph>Двусторонняя связь с шифрованием AES-128</paragraph>
+    <paragraph>Настройка через веб-клиент, мобильный клиент и Convergence Cloud</paragraph>
+    <paragraph>Настройка Hik-Connect и Hik-ProConnect зависит от уровня доступа пользователя</paragraph>
+    <paragraph>Тревожные уведомления в сообщения или через телефонные звонки (2 слот SIM карты)</paragraph>
+    <paragraph>Просмотр видео в режиме реального времени в Hik-Connect</paragraph>
+    <paragraph>Отправка видео тревожных событий по электронной почте и в приложение</paragraph>
+    <paragraph>Загрузка отчетов о тревогах в ARC</paragraph>
+    <paragraph>LED-индикатор для индикации состояния системы</paragraph>
+    <paragraph>Резервная литиевая батарея 4520 мАч</paragraph>
+    <paragraph>Протокол SIA-DC09, поддержка Contact ID и формата данных SIAГибридная охранная контрольная панель (868МГц), белая</paragraph>
+    <paragraph>16 проводных зон, 2 реле, до 96 беспроводных датчиков; 32 раздела; до 48 брелков; до 6 беспроводных сирен; PIRCAM; встроенный LAN и WI-FI, 3G/4G, 2 SIM;  868МГц двухсторонная связь с TRI-X технологией; дальность радиоканала до 2000м;  поддержка до 4 репитеров; поддержка до 4-х каналов видео; Web интерфейс; питание для датчиков 12В 1А; ISUP 5.0; ISAPI; SIA-DC09 протокол, Contact-ID, SIA-DCS; AC 220-240В; до 6Вт;  возможность установки АКБ 7Ач до 36 часов; -10градусовC...+55градусовC; размер 261 199 86мм; Пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны беспроводного подключения до 96 беспроводных входов/выходов, 8 считывателей/клавиатур, 6 оповещателей, 4 репитеров,</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной протокол нового поколения: Tri-X и Cam-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Передача радиосигнала на дальние дистанции до 2000м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP/IP, Wi-Fi и 3G/4G</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя связь с шифрованием AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка через веб-клиент, мобильный клиент и Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка Hik-Connect и Hik-ProConnect зависит от уровня доступа пользователя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожные уведомления в сообщения или через телефонные звонки (2 слот SIM карты)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Просмотр видео в режиме реального времени в Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Отправка видео тревожных событий по электронной почте и в приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Загрузка отчетов о тревогах в ARC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор для индикации состояния системы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Резервная литиевая батарея 4520 мАч</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол SIA-DC09, поддержка Contact ID и формата данных SIAГибридная охранная контрольная панель (868МГц), белая</value>
+    </spec>
+    <spec>
+      <name />
+      <value>16 проводных зон, 2 реле, до 96 беспроводных датчиков</value>
+    </spec>
+    <spec>
+      <name />
+      <value>32 раздела</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 48 брелков</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 6 беспроводных сирен</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIRCAM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный LAN и WI-FI, 3G/4G, 2 SIM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность радиоканала до 2000м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>поддержка до 4 репитеров</value>
+    </spec>
+    <spec>
+      <name />
+      <value>поддержка до 4-х каналов видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Web интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>питание для датчиков 12В 1А</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ISUP 5.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ISAPI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SIA-DC09 протокол, Contact-ID, SIA-DCS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AC 220-240В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 6Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>возможность установки АКБ 7Ач до 36 часов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 261 199 86мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

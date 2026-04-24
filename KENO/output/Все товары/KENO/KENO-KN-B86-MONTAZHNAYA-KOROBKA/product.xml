@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Вызывные панели/KENO KN-B86 монтажная коробка</name>
+  <article>KENO-KN-B86-MONTAZHNAYA-KOROBKA</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3a8/440_370_0/IMG_20180608_1647411_768-HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/ed5/440_370_0/IMG_20180608_164722_768-HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7ec/440_370_0/IMG_20180608_164728_768HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3a8/38_24_2/IMG_20180608_1647411_768-HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/ed5/38_24_2/IMG_20180608_164722_768-HDR.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/7ec/38_24_2/IMG_20180608_164728_768HDR.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/users.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/users.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/res.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/res.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/ip.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/ip.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 1 * Да Ваша цена: По запросу руб. Короткое описание KENO KN-B86 встраиваемая монтажная коробка для  KN-PA130M, KN-PA130P, KN-70A, KN-70C2, KN-100C2 Особенности вызывной панели 1 * Да Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Кол-во абонентов</spec>
+    <spec name="KN-PA130G">1</spec>
+    <spec name="KN-PA130P">1</spec>
+    <spec name="KN-PA130M">1</spec>
+    <spec name="KN-PA130M-X">9999</spec>
+    <spec name="KN-PA130G-X">9999</spec>
+    <spec name="KN-PA2000M">1</spec>
+    <spec name="KN-PA2000M-X">9999</spec>
+    <spec name="KENO KN-B86 монтажная коробка">1</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/vyzyvnye-paneli/keno-kn-b86-montazhnaya-korobka/</source_url>
+</product>

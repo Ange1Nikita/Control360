@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDBG8-EG2</name>
+  <model>DS-PDBG8-EG2</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdbg8-eg2</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высококачественный всенаправленный микрофон</paragraph>
+    <paragraph>• Зона обнаружения до 8 м/120градусов</paragraph>
+    <paragraph>• Оконечные резисторы (EOL) (Тревога умышленной порчи: 1K, 2K2, 4K7, 5K6, 6K8</paragraph>
+    <paragraph>• Адаптация напряжения DC от 9 до 16 В с защитой от обратной полярностиДатчик разбития стекла</paragraph>
+    <paragraph>Область обнаружения - до 8м, 120 град.; микропроцессорная обработка сигнала; защита от вырезания стекла; настройка под тип стекла;  режим тестирования;  DC9-16В; -10градусовC...+70градусовC; размер 107 40 25мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высококачественный всенаправленный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Зона обнаружения до 8 м/120градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Оконечные резисторы (EOL) (Тревога умышленной порчи: 1K, 2K2, 4K7, 5K6, 6K8</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Адаптация напряжения DC от 9 до 16 В с защитой от обратной полярностиДатчик разбития стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область обнаружения - до 8м, 120 град.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>микропроцессорная обработка сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от вырезания стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>настройка под тип стекла</value>
+    </spec>
+    <spec>
+      <name />
+      <value>режим тестирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 107 40 25мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

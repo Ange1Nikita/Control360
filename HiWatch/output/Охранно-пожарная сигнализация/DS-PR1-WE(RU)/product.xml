@@ -1,0 +1,341 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PR1-WE(RU)</name>
+  <model>DS-PR1-WE(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pr1-we-ru-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Беспроводной считыватель 868 МГц</paragraph>
+    <paragraph>• Двусторонняя связь, стабильная и безопасная</paragraph>
+    <paragraph>• LED-экран с индикаторами состояния для удобства восприятия</paragraph>
+    <paragraph>• До 35 часов резервного питания от батареи при отключении от сети</paragraph>
+    <paragraph>• Автоматический поиск и подключение до 8 PIR-датчиков со встроенной камерой или датчиков дыма (интеллектуальное автоматическое подключение устройств)</paragraph>
+    <paragraph>• Простая установка благодаря новой конструкции</paragraph>
+    <paragraph>Автоматическое подключение</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Серийный интерфейс</paragraph>
+    <paragraph>2, для отладки</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>1, передняя и задняя панель</paragraph>
+    <paragraph>Переключатель питания</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>Встроенная литиевая батарея</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>AC от 100 до 240 В</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C (Батарею нельзя заряжать при температуре ниже 10 °C. Убедитесь, что адаптер подключен.)</paragraph>
+    <paragraph>Срок службы батареи</paragraph>
+    <paragraph>До 35 часов при нормальной температуре (время работы батареи может быть значительно сокращено при эксплуатации в условиях низких температур)</paragraph>
+    <paragraph>Частота радиосвязи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Метод радиочастотной передачи</paragraph>
+    <paragraph>Двусторонняя связь</paragraph>
+    <paragraph>Модуляция радиочастотной передачи</paragraph>
+    <paragraph>2GFSK</paragraph>
+    <paragraph>Дальность радиочастотной передачи</paragraph>
+    <paragraph>1600 м (открытое пространство)</paragraph>
+    <paragraph>Безопасность беспроводной связи</paragraph>
+    <paragraph>AES-128</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>3, регистрация / сигнал (зеленый / красный), питание (зеленый), сбой (синий)</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>Установка на стену</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>150  150  25 мм</paragraph>
+    <paragraph>Материал корпуса</paragraph>
+    <paragraph>Пластик</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>372 г</paragraph>
+    <paragraph>Цвет</paragraph>
+    <paragraph>Белый</paragraph>
+    <paragraph>Подключение PIR-датчика со встроенной камерой</paragraph>
+    <paragraph>Поддерживается</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Беспроводной считыватель 868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Двусторонняя связь, стабильная и безопасная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• LED-экран с индикаторами состояния для удобства восприятия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• До 35 часов резервного питания от батареи при отключении от сети</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматический поиск и подключение до 8 PIR-датчиков со встроенной камерой или датчиков дыма (интеллектуальное автоматическое подключение устройств)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Простая установка благодаря новой конструкции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматическое подключение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Серийный интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2, для отладки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1, передняя и задняя панель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключатель питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AC от 100 до 240 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C (Батарею нельзя заряжать при температуре ниже 10 °C. Убедитесь, что адаптер подключен.)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 35 часов при нормальной температуре (время работы батареи может быть значительно сокращено при эксплуатации в условиях низких температур)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота радиосвязи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод радиочастотной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя связь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Модуляция радиочастотной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2GFSK</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность радиочастотной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1600 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность беспроводной связи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3, регистрация / сигнал (зеленый / красный), питание (зеленый), сбой (синий)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка на стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>150  150  25 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал корпуса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>372 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Белый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подключение PIR-датчика со встроенной камерой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Автоматическое подключение</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Серийный интерфейс</name>
+      <value>2, для отладки</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>1, передняя и задняя панель</value>
+    </spec>
+    <spec>
+      <name>Переключатель питания</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC от 100 до 240 В</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C (Батарею нельзя заряжать при температуре ниже 10 °C. Убедитесь, что адаптер подключен.)</value>
+    </spec>
+    <spec>
+      <name>Срок службы батареи</name>
+      <value>До 35 часов при нормальной температуре (время работы батареи может быть значительно сокращено при эксплуатации в условиях низких температур)</value>
+    </spec>
+    <spec>
+      <name>Частота радиосвязи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Метод радиочастотной передачи</name>
+      <value>Двусторонняя связь</value>
+    </spec>
+    <spec>
+      <name>Модуляция радиочастотной передачи</name>
+      <value>2GFSK</value>
+    </spec>
+    <spec>
+      <name>Дальность радиочастотной передачи</name>
+      <value>1600 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Безопасность беспроводной связи</name>
+      <value>AES-128</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>3, регистрация / сигнал (зеленый / красный), питание (зеленый), сбой (синий)</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>Установка на стену</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>150  150  25 мм</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>372 г</value>
+    </spec>
+    <spec>
+      <name>Цвет</name>
+      <value>Белый</value>
+    </spec>
+    <spec>
+      <name>Подключение PIR-датчика со встроенной камерой</name>
+      <value>Поддерживается</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

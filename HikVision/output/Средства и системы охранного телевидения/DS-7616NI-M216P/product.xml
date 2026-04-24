@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор 16-канальный Hikvision DS-7616NI-M2/16P</name>
+  <model>DS-7616NI-M2/16P</model>
+  <article>326958</article>
+  <sku>303616300</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>IP-видеорегистратор 16-канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>38476.8</price>
+  <price_wholesale>34949.76</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/326958/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 16-ти канальный с POE; 1хVGA до 1080Р, 1хHDMI до 32Мп, 1хBNC, независимые; входящий поток 256Мб/с; исходящий поток 256Мб/с; разрешение записи до 32 Мп 30 к/с; 2 SATA для HDD до 14Тб; тревожные вход/выход- 4/1, аудиовход/выход -1/1, Видеоаналитика: VCA от камер и POS; 1хRJ45 10/100/1000 Мбит/с; 2хUSB; 16хRJ45 10/100 Мбит/с PоE (af/at) бюджет 200Вт; AC 220В; 15Вт(без HDD);  -10°C...+55°C; 385×315×52 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>16</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI (до 4K); VGA; BNC</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>3840х2160; 1920х1080; 1280х1024; 1280х720; 1024х768</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>512</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>2 SATA х 14 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>16</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>110…240 AC</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>385х315х52</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>document.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Настройка облачного сервиса Hik Connect" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B7639D6FCE98CB51B61E960D239CC998.pdf</document>
+    <document title="Облачный сервис приложение" size="90.98 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/8/784AB4517CC1B9ACB23B575AFD4165B2.jpg</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/E/AED4004EBA88E98E461FCE2E8C356F49.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/E/3EBC36FD868A8F6CEB64EBFB2B387795.pdf</document>
+    <document title="Паспорт" size="492.24 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/4/B40F757DCCB4CE061EB4F5CF4F4275DC.pdf</document>
+  </documents>
+</product>

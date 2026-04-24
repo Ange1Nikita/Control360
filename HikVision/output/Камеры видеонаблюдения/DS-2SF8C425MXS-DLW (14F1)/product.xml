@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2SF8C425MXS-DLW (14F1) (P3)</name>
+  <model>DS-2SF8C425MXS-DLW (14F1)</model>
+  <sku>56159</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2sf8c425mxs-dlw-14f1-p3-povorotnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>Скорость поворота до 240 °/с</paragraph>
+    <paragraph>–60 °C... +70 °C, IP67, IK10</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC, 3D DNR, EIS</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOSPTZ: 1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0005 лк (F/1.0, AGC вкл.), 0 лк с подсветкойPTZ: 0.0005 лк (F/1.5, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 ~ 1/30 000 с.</value>
+    </spec>
+    <spec>
+      <name>Поддержка медленного затвора</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>PTZ: механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440, PTZ: 2560×1440</value>
+    </spec>
+    <spec>
+      <name>Скорость зумирования</name>
+      <value>4.8 с</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручн.</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>4 мм, PTZ: 5.9 ~ 147.5 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 89 ± 5°, вертикали: 45 ± 5°, диагонали: 107 ± 5°PTZ: по горизонтали: 58.5° ~ 3.1°, вертикали: 34.0° ~ 1.7°, диагонали: 68.5° ~ 3.5°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.0, PTZ: F/1.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон подсветки</name>
+      <value>подсветка белым светом: 30 мPTZ: ИК-подсветка 300 м</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Наклон</name>
+      <value>7° ~ 17°, PTZ: –20° ~ +90°</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>0.1 °/с ~ 160 °/с, по предустановке: 240 °/с</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>0.1 °/с ~ 120 °/с; по предустановке: 200 °/с</value>
+    </spec>
+    <spec>
+      <name>Пропорциональное панорамирование</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Патрулирование</name>
+      <value>8 патрулей, до 32 предустановок в каждом</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>4 шаблона, не менее 10 минут записи на каждый</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, шаблоны, патрулирование, автоматическое, вертикальное, случайное, панорамное сканирование, сканирование кадра</value>
+    </spec>
+    <spec>
+      <name>3D-позиционирование</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ-позиции</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр при переходе на предустановку</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Задачи по расписанию</name>
+      <value>предустановка, шаблоны, патрулирование, сканирование, перезагрузка, инициализация, вывод на дополнительный экран</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)PTZ: 25 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288)PTZ: 25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)PTZ: 25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>8 фиксированных областей для каждого потока</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (профили S, G, T), ISUP, ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1X, QoS, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour, FTP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: Администратор, Оператор и Пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, фильтрация IP-адресов, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), аутентификация хоста (MAC-адрес), водяные знаки</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, HikCentral Pro, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE 10+, Chrome 57+, Firefox 52+, Safari 12+</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Антитуман</name>
+      <value>цифровой</value>
+    </spec>
+    <spec>
+      <name>Стабилизация изображения</name>
+      <value>EIS (встроенный гироскоп для повышения производительности EIS)</value>
+    </spec>
+    <spec>
+      <name>Экспозиция области</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Фокус на области</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>PTZ: 24 настраиваемые многоугольные маски области, настраиваемые цвета масок области</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥ 52 дБ</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ-45 auto 100M порт Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты памяти, поддержка microSD, microSDHC, microSDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Тревога</name>
+      <value>7 входов, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход (линейный), макс. амплитуда входного сигнала: от 2 до 2.4 В p-p, входное сопротивление: 1 кОм ± 10 %, выход (линейный), выходное сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 RS-485 (полудуплекс, Hikvision, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Сброс настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>детекция звуковых событий, пересечения линии, вторжения, входа и выхода из области</value>
+    </spec>
+    <spec>
+      <name>Автоматическое слежение</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальная привязка</name>
+      <value>слежение вручную, автоматическое слежение, переключение функции слежения, привязанный захват и слежение</value>
+    </spec>
+    <spec>
+      <name>Привязка тревог</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка E-mail, запуск тревожного выхода, запись по тревоге, звуковое предупреждение, подсветка белым светом, PTZ-действия (предустановка, патрулирование, шаблон)</value>
+    </spec>
+    <spec>
+      <name>Детекция и анализ нескольких целей</name>
+      <value>PTZ: одновременная детекция и захват изображения фигуры, лица, ТС</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>зеркалирование, защита паролем</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 36 В ± 25 %, макс. 70 Вт, включая макс. 6 Вт для обогревателя и макс. 6 Вт для подсветки модуля цилиндрической камеры, макс. 6 Вт для обогревателя и макс. 15 Вт для подсветки PTZ-модуля</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–60 °C... +70 °C, влажность 95 % или меньше (без конденсата), для динамика: –30 °C... +55 °C</value>
+    </spec>
+    <spec>
+      <name>Дворник</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Защита от запотевания</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>ADC 12</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø290.0×453.2 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>11.5 кг</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>33 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67 (IEC 60529-2013), грозозащита TVS 6000 В, защита от импульсных и переходных перенапряжений, IK10 (IEC 62262:2002)</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпСкорость поворота до 240 °/с–60 °C... +70 °C, IP67, IK10WDR 120 дБ, BLC, HLC, 3D DNR, EISH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/913/140_140_1/DS_2SF8C425MXS_DLW-_14F1_-_P3_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2sf8c425mxs-dlw-14f1-p3-povorotnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2SF8C425MXS-DLW (14F1) (P3)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

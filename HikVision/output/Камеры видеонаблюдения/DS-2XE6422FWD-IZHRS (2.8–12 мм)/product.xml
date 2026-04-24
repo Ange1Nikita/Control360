@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XE6422FWD-IZHRS (2.8–12 мм)</name>
+  <model>DS-2XE6422FWD-IZHRS (2.8–12 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xe6422fwd-izhrs-2-8-12-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ Взрывозащищенная (ATEX, IECEx) IP-камера с разрешением 1920×1080, CMOS-матрица 1/1.8", 0.001 лк при F/1.2, моторизованный объектив 2.8 ~ 12 мм при F/1.4, H.265, H.264, MJPEG, 3-потоковая передача, 50 к/с, 120 дБ WDR, 3D DNR, BLC, EIS, коррекция искажений, детекция лиц, движения, антисаботаж, бизнес-аналитика, день/ночь, ICR, RJ-45, аудио-вход-выход, тревожный вход/выход (2/2), видеовыход CVBS, слот для карты microSD/SDHC/SDXC до 128 Гбайт, ONVIF, Smart IR 80 м, IP68, ATEX, IECEx, NEMA 4X, дворник, АC 85 ~ 245 В, PoE, до 23.6 Вт, -40 °C… +60 ºС.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.001 лк при F/1.2, AGC вкл.ч/б: 0 лк с вкл. ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с ~ 1/100000 с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 ~ 12 мм при F/1.4, моторизованный вариообъектив</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 85° ~ 31°по вертикали: 45° ~ 17.5°по диагонали: 101° ~ 17.5°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с – 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.722.1), 16 кбит/с (G.726), 32–192 кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора и наложение изображения настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, EIS, коррекция искажений</value>
+    </spec>
+    <spec>
+      <name>Переключение день ночь</name>
+      <value>автоматическое, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, входа/выхода из области, оставленных/пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>обнаружение смены сцены съемки, превышения/принижения звукового порога, потери аудио, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>обнаружение лиц</value>
+    </spec>
+    <spec>
+      <name>Бизнес-аналитика</name>
+      <value>подсчет людей</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователяводяные знакифильтрация IP-адресованонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (Profile S, Profile G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, обнаружение несанкционированных действий, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиоинтерфейсы</name>
+      <value>1 вход, 1 выход, стерео</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>2 входа, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1Vp-p композитный (75 Ω, BNC)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>АC 85 ~ 245 В, PoE (802.3af, 4 класс)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>18.6 Вт (АC 85-245 В)19.6 Вт (PoE)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C…+60 °С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP68, ATEX, IECEx, NEMA 4X</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 80 м, Smart ИК</value>
+    </spec>
+    <spec>
+      <name>Дворник</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>316L, нержавеющая сталь</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>494×169×308 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>16.8 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ Взрывозащищенная (ATEX, IECEx) IP-камера с разрешением 1920×1080, CMOS-матрица 1/1.8", 0.001 лк при F/1.2, моторизованный объектив 2.8 ~ 12 мм при F/1.4, H.265, H.264, MJPEG, 3-потоковая передача, 50 к/с, 120 дБ WDR, 3D DNR, BLC, EIS, коррекция искажений, детекция лиц, движения, антисаботаж, бизнес-аналитика, день/ночь, ICR, RJ-45, аудио-вход-выход, тревожный вход/выход (2/2), видеовыход CVBS, слот для карты microSD/SDHC/SDXC до 128 Гбайт, ONVIF, Smart IR 80 м, IP68, ATEX, IECEx, NEMA 4X, дворник, АC 85 ~ 245 В, PoE, до 23.6 Вт, -40 °C… +60 ºС.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/1b2/140_140_1/DS_2XE6422FWD_IZHRS-_2.8_12mm_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xe6422fwd-izhrs-2-8-12-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XE6422FWD-IZHRS (2.8-12 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

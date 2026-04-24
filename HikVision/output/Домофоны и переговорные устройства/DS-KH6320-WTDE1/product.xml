@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор IP-домофона Hikvision DS-KH6320-WTDE1</name>
+  <model>DS-KH6320-WTDE1</model>
+  <article>325599</article>
+  <sku>305303452</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Абонентские устройства</subcategory>
+  <functional_name>Монитор IP-домофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>8468.86</price>
+  <price_wholesale>7692.54</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/325599/</product_url>
+  <description>
+    <paragraph>Гибридный монитор IP-видеодомофона;  7″ цветной емкостный сенсорный TFT LCD экран (1024×600);  ОС Linux;  до 2х аналоговых вызывных панелей (типа: DS-KB2421T-IM,  DS-D100P,  DS-KB2411T-IM);  до 15 IP-домофонов;  до 16 IP-камер;  TCP/IP, SIP, RTSP;  RS-485;  8 тревожных входов;  слот под TF-карту до 128 ГБ (для сохранения изображений и тревог);  10/100M Ethernet (RJ-45);  Wi-Fi  2.4 ГГц (802.11 b/g/n);  PoE (IEEE802.3af)/DC 12В (в комплекте);  ≤ 10Вт;  -10...+55°C (эксплуатация в помещении);  накладной монтаж.  Габ.размеры: 200×140×23,6 мм.  Поддержка Hik-Connect.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Количество ip видеокамер</name>
+      <value>До 16 ip камер</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>4-х проводная|IP|Wi-Fi|</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>200х140х23.6</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="684.65 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/4/A42900E24D5F2456AA5CB2565870DA6A.pdf</document>
+  </documents>
+</product>

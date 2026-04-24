@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>6Мп FishEye-камера Hikvision DS-2CD6362F-IS с ИК-подсветкой и мультиканальным режимом</name>
+  <model>DS-2CD6362F-IS</model>
+  <sku>47707</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6362f-is/</product_url>
+  <description>
+    <paragraph>Внутренняя (-10…+50) панорамная IP-камера, видео H.264/MPEG4 с разрешением 3072x2048 25 Fps (с субпотоком) или мультиканальный режим, чувствительность 0.25 Люкс при F2.6, 0 Люкс с ИК, режим «день/ночь» с механическим ИК-фильтром, FishEye-объектив с углами обзора 180/180°, DWDR, 3D DNR, MicroSD до 128ГБ, двусторонний звук, питание 12В или PoE, ИК-подсветка до 15м.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.05 лк@(F1.2,AGC вкл.), 0.25 лк@(F2.6,AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с ~ 100000 с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>1.27 мм @F2.6, fisheye</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>180° (настенный монтаж), 360° (потолочный монтаж), 360° (монтаж на стол)</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile / Main Profile / High Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>256 кб/с– 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711/G.722.1/G.726/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64кб/с(G.711) / 16кб/с(G.722.1) / 16кб/с(G.726) / 32-160кб/с(MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>3072x2048</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (3072х2048)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>12.5 к/с (720х720)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контраст, резкость, режим коридора и наложение изображения настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>DWDR, 3D DNR, BLC, ROI, коррекция искажений</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>Авто/ по расписанию/ по тревоге</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (Поддержка NFS,SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя, водяные знаки, фильтрация IP-адресов, анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF(PROFILE S,PROFILE G),PSIA,CGI,ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, обнаружение несанкционированных действий, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 интерфейс</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход (микрофонный вход/ линейный вход), встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход, встроенный динамик</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>16кГц/ 32кГц/ 44.1кГц/ 48кГц</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>1 вход/1 выход (DC24В 1A или AC110В 500мA)</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1Vp-p композитный (75 Ω/BNC)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>Слот для microSD/SDHC/SDXC до 128ГБ</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В/PoE (802.3af)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>12 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-10°C…+50°C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>До 15 м, Smart ИК</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>164×152.8×49.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>1.4 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Внутренняя (-10…+50) панорамная IP-камера, видео H.264/MPEG4 с разрешением 3072x2048 25 Fps (с субпотоком) или мультиканальный режим, чувствительность 0.25 Люкс при F2.6, 0 Люкс с ИК, режим «день/ночь» с механическим ИК-фильтром, FishEye-объектив с углами обзора 180/180°, DWDR, 3D DNR, MicroSD до 128ГБ, двусторонний звук, питание 12В или PoE, ИК-подсветка до 15м.ПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/e7f/140_140_1/ds_2cd6362f_is_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6362f-is/?utm_source=comebackletter"&gt;Hikvision DS-2CD6362F-IS&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <image>image_4.jpg</image>
+    <image>image_5.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

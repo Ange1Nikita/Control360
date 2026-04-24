@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2CD8A46G0-IZ/UH 2.8–12</name>
+  <model>iDS-2CD8A46G0-IZ/UH 2.8–12</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2cd8a46g0-iz-uh-2-8-12-ip-kamera/</product_url>
+  <description>
+    <paragraph>4 Мп, motor-zoom</paragraph>
+    <paragraph>ИК-подсветка до 50 м</paragraph>
+    <paragraph>5-потоковая передача</paragraph>
+    <paragraph>WDR 140 дБ, 3D DNR</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, IK10, –60 °C… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0036 лк при F/1.6, AGC вкл.0 лк с вкл. ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с ~ 1/100 000 с, поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>0° ~ 355°, наклон: 0° ~ 90°, вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 ~ 12 мм, моторизированный</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.9</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 110.0° ~ 46.2°по вертикали: 59.6° ~ 26.2°по диагонали: 130.0° ~ 53.0°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручная</value>
+    </spec>
+    <spec>
+      <name>ИК-подсветка</name>
+      <value>до 50 м</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2688×1520</value>
+    </spec>
+    <spec>
+      <name>Видеопотоки</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2688×1520, 2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Третий</name>
+      <value>25 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Четвертый</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Пятый</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264доппотоки: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Управление</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>События</name>
+      <value>обнаружение движения, подделки видео, изменения сцены, расфокусировки, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя), входа и выхода из области, вторжения</value>
+    </spec>
+    <spec>
+      <name>Метод привязки</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра наблюдения, отправка e-mail, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 140 дБ, 3D DNR, BLC, HLC, антитуман, коррекция искажений</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, насыщенность, яркость, контраст, резкость, AGC и баланс белого настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (профиль S, профиль G, профиль T), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv4, IPv6, UDP, Bonjour, SSL/TLS</value>
+    </spec>
+    <spec>
+      <name>Плавная потоковая передача</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяной знак, фильтр IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки таймаута управления, журнал аудита безопасности, TLS 1.2</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор, пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1 Vp-p композитный (75 Ω/BNC), только для настройки</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>встроенный слот для microSD/SDHC/SDXC до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Встроенная открытая платформа ИИ</name>
+      <value>1 модель</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–60 °C…+60 °С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 V ±10 %, трехъядерный блок контактов, защита от переполюсовки</value>
+    </spec>
+    <spec>
+      <name>Мощность</name>
+      <value>51.4 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>камера: Ø140×368 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1.82 кг</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>4 Мп, motor-zoomИК-подсветка до 50 м5-потоковая передачаWDR 140 дБ, 3D DNR⛅ ☔ ❄ IP67, IK10, –60 °C… +60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/44e/140_140_1/iDS_2CD8A46G0_IZ_UH_2.8_12_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2cd8a46g0-iz-uh-2-8-12-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2CD8A46G0-IZ/UH 2.8–12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

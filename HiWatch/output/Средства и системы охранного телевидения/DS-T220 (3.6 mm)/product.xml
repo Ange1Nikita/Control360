@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера TVI цилиндрическая HiWatch DS-T220 (3.6 mm)</name>
+  <model>DS-T220 (3.6 mm)</model>
+  <article>278369</article>
+  <sku>300511719</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры TVI цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера TVI цилиндрическая</functional_name>
+  <nomenclature>Видеокамера TVI</nomenclature>
+  <price>2205.28</price>
+  <price_wholesale>2003.13</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/278369/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера HD TVI цветная уличная со встроенной ИК подсветкой (механический ИК-фильтр), ДЕНЬ/НОЧЬ; 1/2.7" Progressive Scan CMOS, 2 МП (1920х1080); 0.01лк/0лк с вкл ИК; f=3.6мм ; S/N: более 62dB; OSD, DNR; Smart ИК EXIR; WDR, BLC, 3D DNR; Дальность ИК подсветки до 40 м; Видеовыход: HD-TVI ; DC12В/330мА; –40°...+60°C; IP66; 75.4 × 230.8 × 152.8 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" Progressive Scan CMOS 2 МП</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>2 Мп (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>3.6</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>40</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>75.4х230.8х152.8</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="918.03 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/D/BDCB6EF76AF4DBF3683BDED6C535CF5D.pdf</document>
+  </documents>
+</product>

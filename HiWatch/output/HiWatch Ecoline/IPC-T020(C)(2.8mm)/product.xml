@@ -1,0 +1,861 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IPC-T020(C)(2.8mm)</name>
+  <model>IPC-T020(C)(2.8mm)</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ipc-t020-c-2-8mm-</product_url>
+  <description>
+    <paragraph>2Мп уличная IP-камера с EXIR-подсветкой до 30м и встроенным микрофоном</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+</paragraph>
+    <paragraph>• Четкое изображение при яркой задней засветке благодаря технологии DWDR</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP67</paragraph>
+    <paragraph>• Простая установка благодаря технологии PoE</paragraph>
+    <paragraph>• Встроенный микрофон</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC: нет</paragraph>
+    <paragraph>Камера</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/2.9'' Progressive Scan CMOS</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Цвет: 0.01 лк @ (F2.2, AGC вкл), ч/б: 0 лк с ИК-подсветкой</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>От 1/3 до 1/100 000 с</paragraph>
+    <paragraph>Поддержка медленного затвора</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>WDR</paragraph>
+    <paragraph>Цифровой WDR</paragraph>
+    <paragraph>Режим «день/ночь»</paragraph>
+    <paragraph>ИК-фильтр</paragraph>
+    <paragraph>Регулировка угла наблюдения</paragraph>
+    <paragraph>Поворот: от 0 до 360°, наклон: от 0 до 75°, вращение: от 0 до 360°</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>Фокусное расстояние и угол обзора</paragraph>
+    <paragraph>2.8 мм, по горизонтали: 94°, по вертикали: 51°, по диагонали: 112°</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>M12</paragraph>
+    <paragraph>Фокусировка</paragraph>
+    <paragraph>Фиксированная</paragraph>
+    <paragraph>Апертура</paragraph>
+    <paragraph>F2.2</paragraph>
+    <paragraph>Подсветка</paragraph>
+    <paragraph>Инфракрасные волны</paragraph>
+    <paragraph>850 нм</paragraph>
+    <paragraph>Дальность ИК-подсветки</paragraph>
+    <paragraph>До 30 м</paragraph>
+    <paragraph>Видео</paragraph>
+    <paragraph>Максимальное разрешение</paragraph>
+    <paragraph>1920 1080</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</paragraph>
+    <paragraph>Дополнительный поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>Основной поток: H.265+/H.265/H.264 Дополнительный поток: H.265/H.264</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>От 32 Кбит/с до 8 Мбит/с</paragraph>
+    <paragraph>Профиль H.264</paragraph>
+    <paragraph>Baseline Profile/Main Profile/High Profile</paragraph>
+    <paragraph>Профиль H.265</paragraph>
+    <paragraph>Main Profile</paragraph>
+    <paragraph>H.264+</paragraph>
+    <paragraph>Для основного потока</paragraph>
+    <paragraph>H.265+</paragraph>
+    <paragraph>Для основного потока</paragraph>
+    <paragraph>Аудио</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+    <paragraph>да</paragraph>
+    <paragraph>Тип аудио</paragraph>
+    <paragraph>моно</paragraph>
+    <paragraph>Частота дискретизации</paragraph>
+    <paragraph>8/16 кГц</paragraph>
+    <paragraph>Аудиосжатие</paragraph>
+    <paragraph>G.722.1/726/711ulaw/alaw/AAC/MP2L2/PCM</paragraph>
+    <paragraph>Фильтр шумов</paragraph>
+    <paragraph>да</paragraph>
+    <paragraph>Сеть</paragraph>
+    <paragraph>Протоколы</paragraph>
+    <paragraph>TCP/IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, UDP, QoS</paragraph>
+    <paragraph>Одновременный просмотр в режиме реального времени</paragraph>
+    <paragraph>До 6 каналов</paragraph>
+    <paragraph>API</paragraph>
+    <paragraph>Открытый сетевой видеоинтерфейс, SDK, ISAPI</paragraph>
+    <paragraph>Пользователь/хост</paragraph>
+    <paragraph>До 32 пользователей. 3 уровня пользователей: администратор, оператор и пользователь</paragraph>
+    <paragraph>Клиент</paragraph>
+    <paragraph>iVMS-4200, Hik-Connect</paragraph>
+    <paragraph>Веб-интерфейс</paragraph>
+    <paragraph>Требуется плагин для просмотра в режиме реального времени: IE 10+, IE11. Локальные сервисы: Chrome 57.0+, Firefox 52.0+, Edge 89+</paragraph>
+    <paragraph>Изображение</paragraph>
+    <paragraph>Настройки изображения</paragraph>
+    <paragraph>Насыщенность, яркость, контрастность, резкость, DWDR, HLC и баланс белого настраиваются через клиентское ПО или веб-интерфейс</paragraph>
+    <paragraph>Переключение режима «день/ночь»</paragraph>
+    <paragraph>День/Ночь/Автоматич./По расписанию</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>DWDR, HLC, BLC, 3D DNR</paragraph>
+    <paragraph>Интерфейсы</paragraph>
+    <paragraph>Интерфейс Ethernet</paragraph>
+    <paragraph>1 RJ45 auto 10/100 М Ethernet</paragraph>
+    <paragraph>По событию</paragraph>
+    <paragraph>Основные события</paragraph>
+    <paragraph>Обнаружение движения, исключения</paragraph>
+    <paragraph>Основное</paragraph>
+    <paragraph>Метод привязки</paragraph>
+    <paragraph>уведомление центра мониторинга</paragraph>
+    <paragraph>Материал камеры</paragraph>
+    <paragraph>Пластик</paragraph>
+    <paragraph>Размер камеры</paragraph>
+    <paragraph>112 mm  88.4 мм</paragraph>
+    <paragraph>Размер упаковки</paragraph>
+    <paragraph>134  134  108 мм</paragraph>
+    <paragraph>Масса камеры</paragraph>
+    <paragraph>Приблиз. 280 г</paragraph>
+    <paragraph>Масса с упаковкой</paragraph>
+    <paragraph>Приблиз. 450 г</paragraph>
+    <paragraph>Условия хранения</paragraph>
+    <paragraph>От -30 до +60 °C, влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -40 до +60 °C, влажность 95 % или меньше (без конденсата)</paragraph>
+    <paragraph>Язык веб-клиента</paragraph>
+    <paragraph>Английский, русский</paragraph>
+    <paragraph>Основные функции</paragraph>
+    <paragraph>Heartbeat, зеркалирование, защита паролем, маскирование области, водяные знаки, фильтрация IP-адресов</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>DC 12 В, 0.41 А, макс. 5 Вт</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 % PoE: 802.3af, класс 3, макс. 6.5 Вт</paragraph>
+    <paragraph>Интерфейс питания</paragraph>
+    <paragraph>Коаксиальный разъем питания  5.5 мм</paragraph>
+    <paragraph>Сертификаты</paragraph>
+    <paragraph>Стандарты EMC</paragraph>
+    <paragraph>CE-EMC: EN 55032: 2015, EN 61000-3-2:2019, EN 61000-3-3: 2013 + A1:2019, EN 50130-4: 2011 +A1: 2014</paragraph>
+    <paragraph>Стандарты по безопасности</paragraph>
+    <paragraph>CB: IEC 62368-1:2014+A11, CE-LVD: EN 62368-1: 2014/A11: 2017</paragraph>
+    <paragraph>Окружающая среда</paragraph>
+    <paragraph>CE-RoHS: 2011/65/EU, WEEE: 2012/19/EU, Reach: Regulation (EC) No 1907/2006</paragraph>
+    <paragraph>Стандарты по защите</paragraph>
+    <paragraph>IP67 (IEC 60529-2013)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная IP-камера с EXIR-подсветкой до 30м и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Четкое изображение при яркой задней засветке благодаря технологии DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Простая установка благодаря технологии PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Камера</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.9'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: 0.01 лк @ (F2.2, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1/3 до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «день/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла наблюдения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: от 0 до 360°, наклон: от 0 до 75°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние и угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2.8 мм, по горизонтали: 94°, по вертикали: 51°, по диагонали: 112°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусировка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Апертура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>F2.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инфракрасные волны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность ИК-подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Максимальное разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920 1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительный поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток: H.265+/H.265/H.264 Дополнительный поток: H.265/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Профиль H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Baseline Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Профиль H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Для основного потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Для основного потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>моно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота дискретизации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8/16 кГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.722.1/726/711ulaw/alaw/AAC/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтр шумов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сеть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протоколы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP/IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, UDP, QoS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный просмотр в режиме реального времени</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Открытый сетевой видеоинтерфейс, SDK, ISAPI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пользователь/хост</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 32 пользователей. 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Клиент</value>
+    </spec>
+    <spec>
+      <name />
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Требуется плагин для просмотра в режиме реального времени: IE 10+, IE11. Локальные сервисы: Chrome 57.0+, Firefox 52.0+, Edge 89+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Изображение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройки изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Насыщенность, яркость, контрастность, резкость, DWDR, HLC и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключение режима «день/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>День/Ночь/Автоматич./По расписанию</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, HLC, BLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейсы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 auto 10/100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>По событию</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основные события</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Обнаружение движения, исключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основное</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод привязки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>уведомление центра мониторинга</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>112 mm  88.4 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер упаковки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>134  134  108 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса камеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 280 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса с упаковкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 450 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Условия хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -30 до +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Язык веб-клиента</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Английский, русский</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основные функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Heartbeat, зеркалирование, защита паролем, маскирование области, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В, 0.41 А, макс. 5 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 % PoE: 802.3af, класс 3, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейс питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Коаксиальный разъем питания  5.5 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сертификаты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарты EMC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CE-EMC: EN 55032: 2015, EN 61000-3-2:2019, EN 61000-3-3: 2013 + A1:2019, EN 50130-4: 2011 +A1: 2014</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарты по безопасности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CB: IEC 62368-1:2014+A11, CE-LVD: EN 62368-1: 2014/A11: 2017</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Окружающая среда</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CE-RoHS: 2011/65/EU, WEEE: 2012/19/EU, Reach: Regulation (EC) No 1907/2006</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарты по защите</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67 (IEC 60529-2013)</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.9'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.01 лк @ (F2.2, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>От 1/3 до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Поддержка медленного затвора</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>Поворот: от 0 до 360°, наклон: от 0 до 75°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 мм, по горизонтали: 94°, по вертикали: 51°, по диагонали: 112°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>Фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F2.2</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>До 30 м</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920 1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>Основной поток: H.265+/H.265/H.264 Дополнительный поток: H.265/H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>H.264+</name>
+      <value>Для основного потока</value>
+    </spec>
+    <spec>
+      <name>H.265+</name>
+      <value>Для основного потока</value>
+    </spec>
+    <spec>
+      <name>Встроенный микрофон</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Тип аудио</name>
+      <value>моно</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8/16 кГц</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.722.1/726/711ulaw/alaw/AAC/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name>Фильтр шумов</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, UDP, QoS</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>До 6 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>Открытый сетевой видеоинтерфейс, SDK, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>До 32 пользователей. 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>Требуется плагин для просмотра в режиме реального времени: IE 10+, IE11. Локальные сервисы: Chrome 57.0+, Firefox 52.0+, Edge 89+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контрастность, резкость, DWDR, HLC и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Переключение режима «день/ночь»</name>
+      <value>День/Ночь/Автоматич./По расписанию</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>DWDR, HLC, BLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10/100 М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>Обнаружение движения, исключения</value>
+    </spec>
+    <spec>
+      <name>Метод привязки</name>
+      <value>уведомление центра мониторинга</value>
+    </spec>
+    <spec>
+      <name>Материал камеры</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Размер камеры</name>
+      <value>112 mm  88.4 мм</value>
+    </spec>
+    <spec>
+      <name>Размер упаковки</name>
+      <value>134  134  108 мм</value>
+    </spec>
+    <spec>
+      <name>Масса камеры</name>
+      <value>Приблиз. 280 г</value>
+    </spec>
+    <spec>
+      <name>Масса с упаковкой</name>
+      <value>Приблиз. 450 г</value>
+    </spec>
+    <spec>
+      <name>Условия хранения</name>
+      <value>От -30 до +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -40 до +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык веб-клиента</name>
+      <value>Английский, русский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, зеркалирование, защита паролем, маскирование области, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>DC 12 В, 0.41 А, макс. 5 Вт</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 % PoE: 802.3af, класс 3, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Интерфейс питания</name>
+      <value>Коаксиальный разъем питания  5.5 мм</value>
+    </spec>
+    <spec>
+      <name>Стандарты EMC</name>
+      <value>CE-EMC: EN 55032: 2015, EN 61000-3-2:2019, EN 61000-3-3: 2013 + A1:2019, EN 50130-4: 2011 +A1: 2014</value>
+    </spec>
+    <spec>
+      <name>Стандарты по безопасности</name>
+      <value>CB: IEC 62368-1:2014+A11, CE-LVD: EN 62368-1: 2014/A11: 2017</value>
+    </spec>
+    <spec>
+      <name>Окружающая среда</name>
+      <value>CE-RoHS: 2011/65/EU, WEEE: 2012/19/EU, Reach: Regulation (EC) No 1907/2006</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67 (IEC 60529-2013)</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

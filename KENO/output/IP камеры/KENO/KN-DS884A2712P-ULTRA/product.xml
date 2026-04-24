@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DS884A2712P-ULTRA</name>
+  <article>KN-DS884A2712P-ULTRA</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>150000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/830/ovw07o1ts55hdv6kat3xh44zt9jevgfg/440_370_0/GX_5D_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/830/ovw07o1ts55hdv6kat3xh44zt9jevgfg/38_24_2/GX_5D_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 8 Мп FG UHD 4K 2.7-12мм 50 Ваша цена: 150 000 руб. Короткое описание Профессиональная 8МП Купольная IP видеокамера KN-DS884A2712P-ULTRA , предназначенная для охранного видеонаблюдения как внутри, так и вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Служит для передачи оцифрованного видеосигнала к устройству сбора, обработки и хранения. Видеокамера оснащена высокочувствительной КМОП-матрицей, объективом FG UHD 4K 2.7-12мм (8.0MP) F1.6 с ИК коррекцией, сферической 
+коррекцией и автоматической диафрагмой, электромеханическим ИК-фильтром и встроенной ИК-подсветкой до 50м, что позволяет вести круглосуточное наблюдение при любых условиях съемки в широком диапазоне рабочих температур. Особенности IP видеокамеры Все технические параметры Модель KN-DS884A2712P-ULTRA Система NOVATEK NT98528 / ROM: 4Гб / RAM: 8Гб Мощность AI NPU 1.5Tops Тип матрицы 1.8” SmartSens SC850SL (DARK KILLER 4K) Эффективные    пиксели 3856(Г) × 2176(В) Размер пикселя 2.0 μm x 2.0 μm Электронный    затвор Auto/ 1/25s-1/100000s Мин.    Освещенность Цвет (30 IRE): 0.0006 Лк / F1.6, Ч/Б (30 IRE): 0.0004 Лк / F1.6 Сигнал / шум ≥ 56 Дб (AGC выкл.) Камера Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК / WLED прожектор / Гибридный режим 
+ИК (850нм) до 50м / Белый теплый до 50м Компенсация засветки BLC / HLC / WDR 140дБ / Антитуман Видео режим ROI / “Коридор” / Стабилизация изображения (EIS) Шумоподавление 2DNR / 3DNR Аудио Микрофон с АРУ и ШП, Внешний 1 Вх. / 1 Вых. Аудио, Динамик,
+G.711a; G.711Mu; G.726; PCM, AAC; Интерком Тревога Световая тревога, Звуковая тревога, 1 Вх. / 1 Вых.,  RS485 (eTPZ) Карта памяти / Архив Микро SD, Макс 1Tb (FAT), FTP, ANR Язык интерфейса Русский / Английский Объектив FG UHD 4K 2.7-12мм (8.0MP) F1.6 с ИК коррекцией, сферической 
+коррекцией и автоматической диафрагмой. Угол обзора Г: 105°(Широкий) ~ 48°(Узкий) В: 55°(Широкий) ~ 27°(Узкий) Д: 12</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Система">NOVATEK NT98528 / ROM: 4Гб / RAM: 8Гб</spec>
+    <spec name="Мощность AI">NPU 1.5Tops</spec>
+    <spec name="Тип матрицы">1.8” SmartSens SC850SL (DARK KILLER 4K)</spec>
+    <spec name="Эффективные    пиксели">3856(Г) × 2176(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/25s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет (30 IRE): 0.0006 Лк / F1.6, Ч/Б (30 IRE): 0.0004 Лк / F1.6</spec>
+    <spec name="Сигнал / шум">≥ 56 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК / WLED прожектор / Гибридный режим 
+ИК (850нм) до 50м / Белый теплый до 50м</spec>
+    <spec name="Компенсация засветки">BLC / HLC / WDR 140дБ / Антитуман</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения (EIS)</spec>
+    <spec name="Шумоподавление">2DNR / 3DNR</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, Внешний 1 Вх. / 1 Вых. Аудио, Динамик,
+G.711a; G.711Mu; G.726; PCM, AAC; Интерком</spec>
+    <spec name="Тревога">Световая тревога, Звуковая тревога, 1 Вх. / 1 Вых.,  RS485 (eTPZ)</spec>
+    <spec name="Карта памяти / Архив">Микро SD, Макс 1Tb (FAT), FTP, ANR</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Объектив">FG UHD 4K 2.7-12мм (8.0MP) F1.6 с ИК коррекцией, сферической 
+коррекцией и автоматической диафрагмой.</spec>
+    <spec name="Угол обзора">Г: 105°(Широкий) ~ 48°(Узкий)В: 55°(Широкий) ~ 27°(Узкий)Д: 124°(Широкий) ~ 55°(Узкий)</spec>
+    <spec name="DORI">Д: 88 ~ 186м, О: 35 ~ 75м, Р: 18 ~ 38м, И: 9 ~ 19м</spec>
+    <spec name="Формат    кодирования">AI HEVC, H.265+ / H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">8МП (3840x2160), 6МП, 5МП, 4МП, 2МП (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1 (1 ~ 25 к/с)</spec>
+    <spec name="Третий поток">1080Р (1 ~ 25 к/с)</spec>
+    <spec name="Поток">3K ~ 20480Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Подключение">До 20 пользователей / Исходящий поток до 80М</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, 
+RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP, RTCP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G/T (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="P2P / CMS">KENO LINK / KENO SVMS</spec>
+    <spec name="Аналитика">Meta данные в потоке, SMD, Детектор лиц, Умное обнаружение 
+объектов, Периметр / Парковка, Подсчет, Тепловая карта.</spec>
+    <spec name="Питание">DC 12 В ±30%, PoE (802.3af)</spec>
+    <spec name="Потребление">Без ИК/WLED не более 4Вт, Макс потребление не более 14Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C (Нагреватель / Холодный старт), 10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS8000В (Земля – Корпус)</spec>
+    <spec name="Материал">Металлический корпус, ударопрочный купол из акрила</spec>
+    <spec name="Антивандальное исполнение">По ГОСТ IEC 62262-2015 степень IK10 (20 Дж)</spec>
+    <spec name="Габариты">Ø122*102 мм</spec>
+    <spec name="Вес">0,52кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-ds884a2712p-ultra/</source_url>
+</product>

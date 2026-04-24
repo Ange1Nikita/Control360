@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I403(D)(4mm)</name>
+  <model>DS-I403(D)(4mm)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-i403-d-4mm-</product_url>
+  <description>
+    <paragraph>4Мп уличная IP-камера с EXIR-подсветкой до 30м</paragraph>
+    <paragraph>1/3'' Progressive Scan CMOS матрица; 20 к/с@25601440, 25 к/с(19201080, 1280720); объектив 4мм; угол обзора 76градусов; механический ИК-фильтр; 0.01Лк@F2.0; H.265/H.265+/H.264/H.264+/MJPEG, ROI; коридорный режим; WDR 120дБ; 3D DNR; BLC; Smart ИК; обнаружение движения 2.0; видеобитрейт 32кбит/с-8Мбит/с; IP67; защита от перенапряжений TVS; -40градусовC до +60градусовC; DC12В+-25%/PoE(802.3af); 6.5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>4Мп уличная IP-камера с EXIR-подсветкой до 30м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/3'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>20 к/с@25601440, 25 к/с(19201080, 1280720)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 4мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 76градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01Лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, ROI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>коридорный режим</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WDR 120дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6.5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

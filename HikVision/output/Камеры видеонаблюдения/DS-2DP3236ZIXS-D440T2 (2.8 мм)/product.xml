@@ -1,0 +1,351 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2DP3236ZIXS-D/440/T2 (2.8 мм)</name>
+  <model>DS-2DP3236ZIXS-D/440/T2 (2.8 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2dp3236zixs-d-440-t2-2-8-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 32 Мп</paragraph>
+    <paragraph>Smart ИК-подсветка 250 м</paragraph>
+    <paragraph>SFP-модуль (передача до 20 км)</paragraph>
+    <paragraph>Панорамный и поворотный каналы</paragraph>
+    <paragraph>⛅ ☔ ❄ IP66, IK10, –40 ºС… +70 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Режим отслеживания</name>
+      <value>ручной, автоматический</value>
+    </spec>
+    <spec>
+      <name>Отслеживание нескольких целей</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Количество целей</name>
+      <value>одновременно может быть обнаружено до 30 целей</value>
+    </spec>
+    <spec>
+      <name>Время переключения</name>
+      <value>&lt;1 с.</value>
+    </spec>
+    <spec>
+      <name>Калибровка</name>
+      <value>ручная, автоматическая</value>
+    </spec>
+    <spec>
+      <name>Продолжительность слежения</name>
+      <value>до 60 с.</value>
+    </spec>
+    <spec>
+      <name>Настройки чувствительности</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальное улучшение изображения</name>
+      <value>HLC, BLC, 3D DNR, экспозиция в области</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS (8 матриц)</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0005 лк при F/1.6, AGC вкл.ч/б: 0.0001 лк при F/1.6, AGC вкл., 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Маска конфиденциальности</name>
+      <value>8 программируемых многоугольных масок конфиденциальности, цвет маски настраивается</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>2.8 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 180°, по вертикали: 85°</value>
+    </spec>
+    <spec>
+      <name>Разрешение основного потока</name>
+      <value>25 к/с (2×5520×2400, 2×4096×1800, 2×3840×1680, 2×2784×1200)</value>
+    </spec>
+    <spec>
+      <name>Разрешение вспомогательного потока</name>
+      <value>25 к/с (2×2048×600, 2×1280×376)</value>
+    </spec>
+    <spec>
+      <name>Разрешение третьего потока</name>
+      <value>25 к/с (2×4096×1200, 2×3840×1080, 2×2048×600, 2×1280×376)</value>
+    </spec>
+    <spec>
+      <name>HLC</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0005 лк (F/1.2, AGC вкл.)ч/б: 0.0001 лк (F/1.2, AGC вкл.), 0 люкс с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с. ~ 1/30 000 с., поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>6 ~ 240 мм</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>4.4 с.</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>горизонтальный: 56.6° — 1.8°вертикальный: 33.7° — 1°диагональный: 63.4° — 2°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.2</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥52 дБ</value>
+    </spec>
+    <spec>
+      <name>Цифровой зум</name>
+      <value>16×</value>
+    </spec>
+    <spec>
+      <name>Оптический зум</name>
+      <value>40×</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>EIS</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Диапазон панорамирования и наклона</name>
+      <value>панорамирование: бесконечное 360 °, наклон: от –15 ° до +90 ° (автопереворот)</value>
+    </spec>
+    <spec>
+      <name>Скорость панорамирования и наклона</name>
+      <value>ручная скорость панорамирования: от 0.1 °/с до 210 °/с (настраивается), предустановленная скорость панорамирования: 240 °/сручная скорость наклона: от 0.1 °/с до 150 °/с (настраивается), предустановленная скорость наклона: 200 °/с</value>
+    </spec>
+    <spec>
+      <name>Пропорциональный зум</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Патрули</name>
+      <value>8 зон</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, патрулирование, автосканирование, вертикальное сканирование, панорамное сканирование, случайное сканирование, сканирование кадра, панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>Действия по расписанию</name>
+      <value>предустановка, сканирование по шаблону, патрульное сканирование, автоматическое сканирование, наклонное сканирование, случайное сканирование, покадровое сканирование, панорамное сканирование, перезагрузка купольной камеры, регулировка купола, дополнительный выход</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ позиции</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>3D-позиционирование</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Маска конфиденциальности</name>
+      <value>24 программируемых многоугольных маски конфиденциальности, настраиваемый цвет маски</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2560×1440, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Расстояние подсветки</name>
+      <value>250 м</value>
+    </spec>
+    <spec>
+      <name>Смарт-ИК</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>H.265+</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711alaw, G.711ulaw, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Smart-события</name>
+      <value>панорамный канал: обнаружение вторжения, обнаружение пересечения линии, обнаружение входа в область, обнаружение выхода из областиканал PTZ: обнаружение вторжения, обнаружение пересечения линии, обнаружение входа в область, выход из области
+обнаружение, обнаружение оставленного багажа, обнаружение удаления объекта</value>
+    </spec>
+    <spec>
+      <name>Захват лица</name>
+      <value>канал PTZ: поддержка одновременного обнаружения до 30 лиц. Поддержка обнаружения, отслеживания, захват, оценка, выбор лица в движении и вывод лучшего изображения лица на лицо</value>
+    </spec>
+    <spec>
+      <name>Плотность людей</name>
+      <value>панорамный канал: поддержка определения уровня плотности людей в настроенной зоне</value>
+    </spec>
+    <spec>
+      <name>Умное отслеживание</name>
+      <value>ручное отслеживание; панорамное слежение; отслеживание событий; поддержка отслеживания патрулей в несколько сценах</value>
+    </spec>
+    <spec>
+      <name>Связь сигналов тревоги</name>
+      <value>предустановка, патрульное сканирование, сканирование по образцу, запись видео на карту памяти, выход тревоги, отправка электронной почты, уведомить центр наблюдения, загрузить на FTP</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальное кодирование</name>
+      <value>H.265 +, H.264 +, ROI, SVC</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый API, ONVIF (профиль S, профиль G, профиль T), ISAPI, Hikvision SDK, сторонняя платформа управления, ISUP</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентифицированное имя пользователя и пароль, привязка MAC-адреса, шифрование HTTPS, доступ с аутентификацией 802.1X, фильтр IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Одновременный показ в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>IE8+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M/1000M порт Ethernet</value>
+    </spec>
+    <spec>
+      <name>Оптоволокно</name>
+      <value>интерфейс FC, встроенный оптоволоконный модуль, 1000M, длина волны TX1310 нм /RX1550 нм, одномодульное волокно, дальность передачи до 20 км</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 аудиовход, от 2.0 до 2.4 В (размах), 1 кОм ±10 %</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 аудиовыход, линейный уровень, сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>7 входов, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для microSD/SDHC/SDXC-карты, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>36 В DC; Hi-PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность и ток</name>
+      <value>36 В DC, макс. 150 ВтHi-PoE, макс. 75 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C…+70 °С, влажность 95% или меньше</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66, IK10, молниезащита 6000В, защита от перенапряжения и напряжения</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø391.8 мм×400.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>18 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 32 МпSmart ИК-подсветка 250 мSFP-модуль (передача до 20 км)Панорамный и поворотный каналы⛅ ☔ ❄ IP66, IK10, –40 ºС… +70 ºСПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/823/140_140_1/DS_2DP2427ZIXS_DE436T4-_2.8-mm_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2dp3236zixs-d-440-t2-2-8-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DP3236ZIXS-D/440/T2 (2.8 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

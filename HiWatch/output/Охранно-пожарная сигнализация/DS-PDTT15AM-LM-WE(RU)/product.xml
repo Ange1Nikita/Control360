@@ -1,0 +1,598 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDTT15AM-LM-WE(RU)</name>
+  <model>DS-PDTT15AM-LM-WE(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdtt15am-lm-we-ru-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Настройка параметров покрытия 90градусов @ 180градусов</paragraph>
+    <paragraph>• Соответствует стандарту IP65 для установки снаружи помещений</paragraph>
+    <paragraph>• Активный ИК-канал антимаскирования</paragraph>
+    <paragraph>• Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигнала</paragraph>
+    <paragraph>Метод детекции</paragraph>
+    <paragraph>PIR-датчик, СВЧ-датчик</paragraph>
+    <paragraph>Дальность обнаружения</paragraph>
+    <paragraph>15 м</paragraph>
+    <paragraph>Угол детекции</paragraph>
+    <paragraph>Настраиваемый, 90° @ 180°</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Автоматич. / Низкая</paragraph>
+    <paragraph>Зоны обнаружения</paragraph>
+    <paragraph>92</paragraph>
+    <paragraph>Скорость обнаружения</paragraph>
+    <paragraph>От 0.2 до 3 м/с</paragraph>
+    <paragraph>Фильтр белого света</paragraph>
+    <paragraph>10000 лк</paragraph>
+    <paragraph>Частота (СВЧ)</paragraph>
+    <paragraph>24 ГГц (от 24.15 до 24.25 ГГц)</paragraph>
+    <paragraph>Фильтрация срабатываний на домашних животных</paragraph>
+    <paragraph>45 кг</paragraph>
+    <paragraph>Цифровая температурная компенсация</paragraph>
+    <paragraph>Трехсигнальная логика</paragraph>
+    <paragraph>Антимаскирование</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Настройка параметров покрытия</paragraph>
+    <paragraph>Поддерживается Шаблон маскирования</paragraph>
+    <paragraph>Цифровая обработка</paragraph>
+    <paragraph>Трехсигнальная логика</paragraph>
+    <paragraph>Герметичная оптика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Защита передней и задней панели</paragraph>
+    <paragraph>Индикатор температуры окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Индикатор уровня сигнала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Интеллектуальный алгоритм стабилизации</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Переключатель питания</paragraph>
+    <paragraph>Включение</paragraph>
+    <paragraph>Светодиодный индикатор</paragraph>
+    <paragraph>Зеленый (PIR-датчик), красный (СВЧ-датчик), зеленый + оранжевый (маска), синий (тревога)</paragraph>
+    <paragraph>Технология передачи</paragraph>
+    <paragraph>Беспроводная технология Tri-X</paragraph>
+    <paragraph>Метод передачи</paragraph>
+    <paragraph>Беспроводная технология двойного РЧ-сигнала</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Безопасность передачи данных</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Дальность передачи данных (открытое пространство)</paragraph>
+    <paragraph>1.6 км</paragraph>
+    <paragraph>Автоматическое переключение РЧ-канала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Методы регистрации</paragraph>
+    <paragraph>Включение, удаленный ввод ID и QR-код</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>5 лет при нормальной эксплуатации</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>CR123A  5</paragraph>
+    <paragraph>Стандартная потребляемая мощность</paragraph>
+    <paragraph>3 В</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -25 до +60 °C</paragraph>
+    <paragraph>Температура хранения</paragraph>
+    <paragraph>От -25 до +60 °C</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Степень защиты IP</paragraph>
+    <paragraph>IP65</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>75  202  73 мм</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>600 г</paragraph>
+    <paragraph>Высота установки</paragraph>
+    <paragraph>От 1 до 1.5 м</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>На стену</paragraph>
+    <paragraph>Сценарии применения</paragraph>
+    <paragraph>Снаружи помещений</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Настройка параметров покрытия 90градусов @ 180градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Соответствует стандарту IP65 для установки снаружи помещений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Активный ИК-канал антимаскирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическое переключение канала для предотвращения помех и надежной передачи сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIR-датчик, СВЧ-датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настраиваемый, 90° @ 180°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / Низкая</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0.2 до 3 м/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтр белого света</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10000 лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота (СВЧ)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>24 ГГц (от 24.15 до 24.25 ГГц)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация срабатываний на домашних животных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>45 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Трехсигнальная логика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Антимаскирование</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка параметров покрытия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается Шаблон маскирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая обработка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Трехсигнальная логика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Герметичная оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор температуры окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор уровня сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интеллектуальный алгоритм стабилизации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключатель питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Светодиодный индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зеленый (PIR-датчик), красный (СВЧ-датчик), зеленый + оранжевый (маска), синий (тревога)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность передачи данных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи данных (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1.6 км</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматическое переключение РЧ-канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Методы регистрации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 лет при нормальной эксплуатации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A  5</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартная потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Температура хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Степень защиты IP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>75  202  73 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>600 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1 до 1.5 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сценарии применения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Снаружи помещений</value>
+    </spec>
+    <spec>
+      <name>Метод детекции</name>
+      <value>PIR-датчик, СВЧ-датчик</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name>Угол детекции</name>
+      <value>Настраиваемый, 90° @ 180°</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Автоматич. / Низкая</value>
+    </spec>
+    <spec>
+      <name>Зоны обнаружения</name>
+      <value>92</value>
+    </spec>
+    <spec>
+      <name>Скорость обнаружения</name>
+      <value>От 0.2 до 3 м/с</value>
+    </spec>
+    <spec>
+      <name>Фильтр белого света</name>
+      <value>10000 лк</value>
+    </spec>
+    <spec>
+      <name>Частота (СВЧ)</name>
+      <value>24 ГГц (от 24.15 до 24.25 ГГц)</value>
+    </spec>
+    <spec>
+      <name>Фильтрация срабатываний на домашних животных</name>
+      <value>45 кг</value>
+    </spec>
+    <spec>
+      <name>Цифровая температурная компенсация</name>
+      <value>Трехсигнальная логика</value>
+    </spec>
+    <spec>
+      <name>Антимаскирование</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройка параметров покрытия</name>
+      <value>Поддерживается Шаблон маскирования</value>
+    </spec>
+    <spec>
+      <name>Цифровая обработка</name>
+      <value>Трехсигнальная логика</value>
+    </spec>
+    <spec>
+      <name>Герметичная оптика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name>Индикатор температуры окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Индикатор уровня сигнала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальный алгоритм стабилизации</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Переключатель питания</name>
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name>Светодиодный индикатор</name>
+      <value>Зеленый (PIR-датчик), красный (СВЧ-датчик), зеленый + оранжевый (маска), синий (тревога)</value>
+    </spec>
+    <spec>
+      <name>Технология передачи</name>
+      <value>Беспроводная технология Tri-X</value>
+    </spec>
+    <spec>
+      <name>Метод передачи</name>
+      <value>Беспроводная технология двойного РЧ-сигнала</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Безопасность передачи данных</name>
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи данных (открытое пространство)</name>
+      <value>1.6 км</value>
+    </spec>
+    <spec>
+      <name>Автоматическое переключение РЧ-канала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Методы регистрации</name>
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>5 лет при нормальной эксплуатации</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>CR123A  5</value>
+    </spec>
+    <spec>
+      <name>Стандартная потребляемая мощность</name>
+      <value>3 В</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Температура хранения</name>
+      <value>От -25 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Степень защиты IP</name>
+      <value>IP65</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>75  202  73 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>600 г</value>
+    </spec>
+    <spec>
+      <name>Высота установки</name>
+      <value>От 1 до 1.5 м</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>На стену</value>
+    </spec>
+    <spec>
+      <name>Сценарии применения</name>
+      <value>Снаружи помещений</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера HikVision DS-2CD6365G1-IVS 1.16</name>
+  <model>DS-2CD6365G1-IVS 1.16</model>
+  <sku>56129</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6365g1-ivs-1-16-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 6 Мп</paragraph>
+    <paragraph>ИК-подсветка 15 м</paragraph>
+    <paragraph>–40 °C… +60 °C, IP67, IK10</paragraph>
+    <paragraph>DWDR, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×2560</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк (F/2.25, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Fisheye</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>1.16 мм, по горизонтали: 180°, вертикали: 180°</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>фиксированная</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.25</value>
+    </spec>
+    <spec>
+      <name>Глубина резкости</name>
+      <value>0.2 м ~ ∞</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 23.2 м O: 9.2 м R: 4.6 м I: 2.3 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность</name>
+      <value>15 м</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Открытые ресурсы HEOP</name>
+      <value>память: 60 Мбайт, оперативная память: 800 Мбайт, eMMC: 2 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Максимальная вычислительная мощность</name>
+      <value>2 трлн операций в секунду</value>
+    </spec>
+    <spec>
+      <name>Возможности интеграции</name>
+      <value>HEOP 2.0 OpendevSDK</value>
+    </spec>
+    <spec>
+      <name>Структура алгоритма глубокого обучения</name>
+      <value>Caffe, TensorFlow, PyTorch</value>
+    </spec>
+    <spec>
+      <name>Язык программирования</name>
+      <value>C, C++</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>режим обзора «рыбий глаз»: 2560×2560, 2048×2048, 1280×1280панорамный обзор на 180°: 2048×1536, 1920×1080 2 модуля, панорамный обзор на 180°: 2048×768, 1920×544панорамный обзор: 1920×1080, 2048×15364 PTZ: камера 01, 02, 03, 04: 1024×768, 640×360, 320×240, Fisheye + 3 PTZ: камера 01: 2048×2048, 1024×1024 камера 02, 03, 04: 1024×768PTZ-совмещение: 2048×1536, 1600×1200, 1280×960, 1024×768, 640×480</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>режим обзора «рыбий глаз»: 720×720, 480×480панорамный обзор на 180°: 640×360, 320×240 2 модуля, панорамный обзор на 180°: 640×360, 320×240панорамный обзор: 640×360, 320×240, Fisheye + 3 PTZ: камера 01: 720×720</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>4 фиксированные области для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Режим декодирования</name>
+      <value>поддержка аппаратного декодирования и декодирования ПО</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv4, IPv6, UDP, Bonjour, SSL/TLS, ISUP, ARP, WebSocket, WebSockets</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (профили S, G, T), ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки управления временем ожидания, журнал проверки безопасности, TLS 1.2, аутентификация хоста (MAC-адрес)</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, iVMS-4500, iVMS-5200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE 10, IE 11, не требуется плагин для просмотра в режиме реального времени: Chrome 57.0+, Firefox 52.0+, Edge 89+, Safari 11+локальные сервисы: Chrome 57.0+, Firefox 52.0+, Edge 89+</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость, баланс белого и AGC настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, корректировка искажений, антитуман</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>8 настраиваемых многоугольных масок области</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ-45 auto 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты памяти, поддержка microSD, microSDHC, microSDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Встроенный микрофон</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход (линейный), разъем 3.5 мм, макс. амплитуда входного сигнала: 3.3 В p-p, входное сопротивление: 4.7 кОм; тип интерфейса: неравновесный, выход (линейный), разъем 3.5 мм, макс. амплитуда выходного сигнала: 3.3 В p-p, выходное сопротивление: 100 Ом, тип интерфейса: неравновесный</value>
+    </spec>
+    <spec>
+      <name>Тревожный интерфейс</name>
+      <value>2 входа, 2 выхода (макс. DC 24 В, 1 A)</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 (полудуплекс, Hikvision, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, саботажа, тревожный вход и выход, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя)</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, изменения сцены, звуковых событий, расфокусировки, оставленного багажа, перемещения объекта</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, тревожный сигнал, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Подсчет</name>
+      <value>подсчет входящих в область, выходящих из области и проходящих мимо (данные сохраняются во флэш-памяти), загрузка в режиме реального времени и загрузка на базе циклов статистики, отправка отчетов по e-mail: каждый день, каждый месяц или каждый год, 3 области обнаружения, независимое расписание постановки на охрану и метод привязки</value>
+    </spec>
+    <spec>
+      <name>Управление очередью</name>
+      <value>8 областей обнаружения, независимое расписание постановки на охрану и метод привязки, 2 режима обнаружения: обнаружение очереди в области, определение времени ожидания, создание отчетов для сравнения эффективности различных очередей и отображения изменяющегося состояния одной очереди, экспорт необработанных данных, загрузка данных в режиме реального времени и по расписанию, 4 условия запуска тревоги: количество больше, меньше, равно, не равно пороговому значению, определение времени ожидания, 1 условие запуска тревоги: время превышает пороговое значение</value>
+    </spec>
+    <spec>
+      <name>Тепловая карта</name>
+      <value>графическое описание посещений (рассчитанное по количеству людей или по времени пребывания) в настроенной области, два типа отчетов: пространственная тепловая карта и временная тепловая карта</value>
+    </spec>
+    <spec>
+      <name>Анализ перекрестков</name>
+      <value>до 10 направлений</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±20 %, 1 А, макс. 11.5 Вт, двухъядерный терминальный блокPoE: IEEE 802.3af, класс 3, макс. 12.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø140.3×59.4 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>715 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>33 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, журнал проверки безопасности, изменение пароля по Email, защита паролем, перезагрузка одной кнопкой, Anti-banding</value>
+    </spec>
+    <spec>
+      <name>Обогрев</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Длина кабеля</name>
+      <value>0.31 м</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67: IEC 60529-2013, IK10: IEC 62262:2002</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 6 МпИК-подсветка 15 м–40 °C… +60 °C, IP67, IK10DWDR, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/238/140_140_1/DS_2CD6365G1_IVS-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6365g1-ivs-1-16-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD6365G1-IVS 1.16&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

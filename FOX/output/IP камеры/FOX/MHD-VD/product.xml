@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ВИДЕОДОМОФОНЫ МОНИТОРЫ</name>
+  <article>MHD-VD</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110007190</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/8fa/Agat.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/bcc/agat-b.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/e25/FX_VD70_250A.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/467/FX_VD70_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/62e/FX_HVD100F_B3_1_mini.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/fdd/18_2_mini_7.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/b93/13_2_mini_7.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/1e9/FX_HVD70F_B3_1_mini.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/c25/FX_HVD70F_3_1_mini.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/7bc/FX_HVD70F_B3_1_mini.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/92f/FX_HVD100F_3_1_mini.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9fc/FX_HVD100F_B3_1_mini.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-VD5S (АГАТ 5B)">5”</spec>
+    <spec name="FX-VD5S (АГАТ 5W)">5”</spec>
+    <spec name="FX-PVD72С ЭШЕР 7A">7”</spec>
+    <spec name="FX-PVD72С ЭШЕР 7W">7”</spec>
+    <spec name="FX-HVD100R (Аквамарин 10B)">10”</spec>
+    <spec name="FX-PVD74GM ВИНСЕНТ 7W">7”</spec>
+    <spec name="FX-PVD74GM ВИНСЕНТ 7B">7”</spec>
+    <spec name="FX-HVD70F (МАЛАХИТ 7) WiFi Черный">7”</spec>
+    <spec name="FX-PVD70GT ВАН ГОГ 7W">7”</spec>
+    <spec name="FX-PVD70GT ВАН ГОГ 7B">7”</spec>
+    <spec name="FX-PVD100GT  ВАН ГОГ 10W">10”</spec>
+    <spec name="FX-PVD100GT  ВАН ГОГ 10B">10”</spec>
+    <spec name="нет">CVBS</spec>
+    <spec name="1">1000</spec>
+    <spec name="7 190">руб.</spec>
+    <spec name="купить">FX-PVD100GT  ВАН ГОГ 10B</spec>
+    <spec name="5”">нет</spec>
+    <spec name="128 Гб">1080P</spec>
+    <spec name="1 Тб">1080P</spec>
+    <spec name="19 990">руб.</spec>
+    <spec name="7”">128 Гб</spec>
+    <spec name="22 990">руб.</spec>
+    <spec name="27 990">руб.</spec>
+    <spec name="10”">1 Тб</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/mhd-vd/</source_url>
+</product>

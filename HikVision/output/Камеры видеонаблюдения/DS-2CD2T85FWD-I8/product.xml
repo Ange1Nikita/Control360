@@ -1,0 +1,196 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Сетевая 8Мп bullet-камера Hikvision DS-2CD2T85FWD-I8 с EXIR-подсветкой до 80 м и WDR 120 дБ</name>
+  <model>DS-2CD2T85FWD-I8</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd2t85fwd-i8/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ Сетевая цилиндрическая камера, матрица 1/2.5" CMOS, видео H.264/H.265/MJPEG/H.264+/H.265+ с разрешением 3840×2160 (8Мп) 20 Fps/2560×1920 25 Fps, тройной поток, чувствительность 0.01 Люкс при F1.2, объектив 2.8/4/6/8/12 мм, режим «день/ночь» с механическим ИК-фильтром, WDR 120 дБ, 3D DNR, BLC, ROI, ИК-подсветка EXIR до 80 м, аппаратная аналитика, слот для microSD объемом до 128 ГБ, питание DC 12 В/PoE, IP67, кронштейн в комплекте.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.5" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 Лк @(F1.2, AGC вкл.), 0 Лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3с ~ 1/100,000с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 мм, 4 мм, 6 мм, 8 мм, 12 мм @F2.0</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>102° (2.8 мм), 79° (4 мм), 50° (6 мм), 40° (8 мм), 23° (12 мм)</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>Поворот: 0 ° - 360 °; наклон: 0 ° - 100 °; вращение: 0 ° - 360 °</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265/H.264/MJPEG/H.265+/H.264+</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с– 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>3840×2160</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>20 к/с (3840×2160), 25 к/с (2560×1920, 2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (640×360, 352× 288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1280×720, 640×360, 352×288)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контраст, резкость, режим коридора, зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, 1 регион ROI</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>Авто/по расписанию</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>Обнаружение пересечения линии, вторжения в область, оставленных/пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>Обнаружение лиц</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (Поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S, PROFILE G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, детекция движения, саботаж, разрыв сети, конфликт IP-адресов, ошибки авторизации, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>Запись на microSD/SDHC/SDXC карту, уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>Слот для microSD/SDHC/SDXC до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %/PoE (802.3af, class3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>10 Вт макс. (12.5 Вт по PoE)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +60 °C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>До 80 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø 105×299.7 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (брутто)</name>
+      <value>1.2 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ Сетевая цилиндрическая камера, матрица 1/2.5" CMOS, видео H.264/H.265/MJPEG/H.264+/H.265+ с разрешением 3840×2160 (8Мп) 20 Fps/2560×1920 25 Fps, тройной поток, чувствительность 0.01 Люкс при F1.2, объектив 2.8/4/6/8/12 мм, режим «день/ночь» с механическим ИК-фильтром, WDR 120 дБ, 3D DNR, BLC, ROI, ИК-подсветка EXIR до 80 м, аппаратная аналитика, слот для microSD объемом до 128 ГБ, питание DC 12 В/PoE, IP67, кронштейн в комплекте.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/6b9/140_140_1/ds_2cd2t85fwd_i8_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd2t85fwd-i8/?utm_source=comebackletter"&gt;Hikvision DS-2CD2T85FWD-I8&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

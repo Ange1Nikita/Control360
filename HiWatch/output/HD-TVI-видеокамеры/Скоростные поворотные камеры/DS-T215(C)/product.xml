@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Скоростная поворотная HD-TVI-видеокамера Hiwatch DS-T215(C)</name>
+  <model>DS-T215(C)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Скоростные поворотные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t215-c-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Разрешение 2 Мп</paragraph>
+    <paragraph>• Оптическое увеличение 15х</paragraph>
+    <paragraph>• WDR 120 дБ, чувствительность 0,005 лк</paragraph>
+    <paragraph>• EXIR-подсветка до 100 м</paragraph>
+    <paragraph>• Широкий температурный диапазон -40градусов…+ 65градусовС</paragraph>
+    <paragraph>• IP662Мп уличная скоростная поворотная HD-TVI камера с EXIR-подсветкой до 100м</paragraph>
+    <paragraph>1/2.8’’ Progressive Scan CMOS; объектив 5 - 75мм, 15x; угол обзора 53,8градусов - 3.5градусов; механический ИК-фильтр; 0.005лк@F1.4; 1920х1080@25к/с; (WDR 120дБ), 3D DNR; BLC; EIS; HLC; маскирование, 256 предустановок; 5 шаблонов; 10 патрулей; вращение 360градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с; наклон -15градусов - 90градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с; 1 х HD-TVI/AHD/CVI/CVBS; -40 градусовC...+65 градусовC; IP66;  защита от перенапряжений TVS; 12В DC; 20Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Разрешение 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Оптическое увеличение 15х</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• WDR 120 дБ, чувствительность 0,005 лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR-подсветка до 100 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Широкий температурный диапазон -40градусов…+ 65градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP662Мп уличная скоростная поворотная HD-TVI камера с EXIR-подсветкой до 100м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8’’ Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 5 - 75мм, 15x</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 53,8градусов - 3.5градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005лк@F1.4</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920х1080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>(WDR 120дБ), 3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>маскирование, 256 предустановок</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 шаблонов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10 патрулей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение 360градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон -15градусов - 90градусов, вручную: 0.1градусов - 80градусов/с, по предустановке: 80градусов/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40 градусовC...+65 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>20Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

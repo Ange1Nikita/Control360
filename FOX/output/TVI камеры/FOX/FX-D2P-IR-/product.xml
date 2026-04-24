@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-D2P-IR</name>
+  <article>FX-D2P-IR-</article>
+  <brand>FOX</brand>
+  <category>TVI камеры</category>
+  <price>1111000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b56/440_370_0/FX_IPC_D2FP_IR.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b56/38_24_2/FX_IPC_D2FP_IR.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/b56/440_370_0/FX_IPC_D2FP_IR.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FX-D2P-IR</spec>
+    <spec name="Тип корпуса">Купольная камера внутреннего исполнения</spec>
+    <spec name="Тип матрицы">1/2.9"  PS6203</spec>
+    <spec name="DSP процессор">DSP XC5029</spec>
+    <spec name="Разрешение,    пикс">2Мп (1920 x 1080)</spec>
+    <spec name="Формат">2.0 TVI (CVI/AHD/CVBS)</spec>
+    <spec name="Объектив,    мм">2.8mm (2.0MP)</spec>
+    <spec name="Угол обзора">98°</spec>
+    <spec name="Разрешение">TVI, CVI, AHD - 1080P (1920*1080), CVBS – 960H (960*576)</spec>
+    <spec name="Формат модуляции">TVI 2.0 (CVI 2.0, AHD 2.0), CVBS 960H (Аналоговый сигнал)</spec>
+    <spec name="ИК подсветка">ИК прожектор до 20м (Smart IR)</spec>
+    <spec name="Соотношение сигнал/шум дБ">≥ 50 Дб (AGC выкл.)</spec>
+    <spec name="Минимальная    чувствительность, люкс">цвет 0,01 лк / F1.2;  ч/б 0,001 лк / F1.2; 0 лк (ИК вкл)</spec>
+    <spec name="Режим День/Ночь">Авто</spec>
+    <spec name="Электронный    затвор, сек">от 1/50 до 1/100 000</spec>
+    <spec name="Компенсация    встречной засветки">DWDR</spec>
+    <spec name="Шумоподавление">DNR</spec>
+    <spec name="Источник    питания, B">DC 12В</spec>
+    <spec name="Рабочая температура,    °C">-10°C ... +50°C, 10% ... 90%</spec>
+    <spec name="Габариты">⌀110 * 88 мм</spec>
+    <spec name="Вес">0.25кг</spec>
+    <spec name="Модель">Разрешение, ТВЛ</spec>
+    <spec name="FX-C9V-IR">1200</spec>
+    <spec name="FX-D9V-IR">1200</spec>
+    <spec name="FX-C9F-IR">1200</spec>
+    <spec name="FX-D9F-IR">1200</spec>
+    <spec name="FX-SD9X18W-IR">1200</spec>
+    <spec name="FX-D9F">1200</spec>
+    <spec name="FX-C10F-IR">1.0</spec>
+    <spec name="FX-D10F-IR">1.0</spec>
+    <spec name="FX-D10P-IR">1.0</spec>
+    <spec name="FX-C20F-IR">2.0</spec>
+    <spec name="FX-D40F-IR">4.0</spec>
+    <spec name="FX-C20V-IR">2.0</spec>
+    <spec name="FX-D20V-IR">2.0</spec>
+    <spec name="FX-C1P-IR">1.0</spec>
+    <spec name="FX-D1P-IR">1.0</spec>
+    <spec name="FX-C2P-IR архив">2.0</spec>
+    <spec name="FX-D2P-IR архив">2.0</spec>
+    <spec name="FX-C10P-IR">1.0</spec>
+    <spec name="FX-C40V-IR">4.0</spec>
+    <spec name="FX-D40V-IR">4.0</spec>
+    <spec name="FX-C40F-IR">4.0</spec>
+    <spec name="FX-D20F-IR">2.0</spec>
+    <spec name="FX-D20V-IR(Metal)">2.0</spec>
+    <spec name="FX-D40V-IR (Metal)">4.0</spec>
+    <spec name="FX-D2V-IR">2.0</spec>
+    <spec name="FX-D29F-IR MIC">2.0</spec>
+    <spec name="FX-D59F-IR MIC">5.0</spec>
+    <spec name="FX-C20V-IR Белые">2.0</spec>
+    <spec name="FX-C20F-IR MIC">2.0</spec>
+    <spec name="FX-D20F-IR MIC">2.0</spec>
+    <spec name="FX-С20V-IR MIC">2.0</spec>
+    <spec name="FX-C2P-IR">2.0</spec>
+    <spec name="FX-D2P-IR">2.0</spec>
+    <spec name="Уличная">2.0</spec>
+    <spec name="2.8">20</spec>
+    <spec name="Особенности аналоговой камеры">Все технические параметры</spec>
+    <spec name="Степень    защиты">Рабочая температура,    °C</spec>
+    <spec name="-10°C ... +50°C, 10% ... 90%">Габариты</spec>
+    <spec name="⌀110 * 88 мм">Вес</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(0.196МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ahd-kamery/fx-d2p-ir-/</source_url>
+</product>

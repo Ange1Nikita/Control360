@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеорегистраторы/KN-RECORD36/8-4K-AI</name>
+  <article>KN-RECORD36-8-4K-AI</article>
+  <brand>KENO</brand>
+  <category>IP регистраторы</category>
+  <price>120000</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/16b/w92dqqkm7o9aejcmceagxtydxye9hbqj/440_370_0/record_2_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/16b/w92dqqkm7o9aejcmceagxtydxye9hbqj/38_24_2/record_2_.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK apple 1.png</image>
+    <image>https://keno-cctv.ru/upload/KENO LINK android 1.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 36 8 36 Ваша цена: 120 000 руб. Короткое описание Супер мощный IP видеорегистратор нового поколения KENO KN-RECORD36/8-4K-AI - это 36-ти потоковый NVR, поддержка IP камер до 8 Mpx, выход HDMI поддерживает разрешение 4К. Особенности IP видеорегистратора Все технические параметры Модель KN-RECORD36/8-4K-AI Система Операционная    система Embedded Linux OS Режим работы Пентаплекс Процессор HiSilicon HI3536A High Performance Сжатие H.265 / H.265+ / H.264 / H.264+ / MPEG4 / MJPEG Видео Видео вход 1xLAN (WAN) выход 2 x 4K HDMI, VGA 1080P Отображение 3840х2160,1920x1080, 1280x1024, 1280x720 Запись Входящий поток 384 Mbps Поток на запись 384 Mbps Исходящий поток 384 Mbps Разрешение потока До 4000x3000 по каждому каналу Битрейт видео 32 кб/с – 32 Мб/с Воспроизведение архива 8*4K (25 к/с) / 16*4Мп (25 к/с) / 32*1080p (25 к/с) / 36*WD1 (25 к/с) Аудио Аудио кодек G.711a / G.711Mu / AAC / G.726 и др. Двусторонняя связь вход 1 x RCA выход 1 x RCA Битрейт аудио 64 кб/с Дополнительные параметры Жесткий диск 8 × 3,5” HDD (до 16Тб каждый), 1 x ESATA (в комплект не входит) Тревожный Вход / Выход 16 / 8 Тип и количество интерфейсов 2 x USB 2.0, 1 x USB 3.0, 1 x RS485, 1 x RS232 Управление    PTZ 1 x RS485, LAN Сеть Сетевой интерфейс 2 x 10Base-T/100Base-TX/1000Base-TX Ethernet ONVIF 2.6 Onvif Profile-S/G/T (Движение, Тревога, Metadata) Открытый API интерфейс API методом CGI,Открытый текст или Token/Digest аутентификация Аналитика 36КН - аналитика с IP камер KENO 530, 560, 880 и GX серии 4КН – периметральная охрана из ресурса NVR 4КН – детектор лиц из ресурса NVR 4КН – распознавание лиц (база на 10 000 лиц / 100 000 снимков) 8КН – умный детектор движения Человек / Транспорт из ресурса NVR Сетевые    протоколы HTTP, HTTPS, TCP/IP, IPv4/IPv6, UPnP, SNMP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPoE, DDNS, FTP, Alarm Server Сетевые инструменты Web – интерфейс, ПО для ПК KENO SVMS, APP KENO LINK Технические параметры Рабочий диапазон температуры -10℃...+55℃ Электропитание AC 100 ~ 24</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Процессор">HiSilicon HI3536A High Performance</spec>
+    <spec name="Сжатие">H.265 / H.265+ / H.264 / H.264+ / MPEG4 / MJPEG</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1 x RCA</spec>
+    <spec name="Отображение">3840х2160,1920x1080, 1280x1024, 1280x720</spec>
+    <spec name="Запись">Входящий поток</spec>
+    <spec name="Воспроизведение архива">8*4K (25 к/с) / 16*4Мп (25 к/с) / 32*1080p (25 к/с) / 36*WD1 (25 к/с)</spec>
+    <spec name="Аудио">Аудио кодек</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Битрейт аудио">64 кб/с</spec>
+    <spec name="Дополнительные параметры">Жесткий диск</spec>
+    <spec name="Жесткий диск">8 × 3,5” HDD (до 16Тб каждый), 1 x ESATA (в комплект не входит)</spec>
+    <spec name="Тревожный Вход / Выход">16 / 8</spec>
+    <spec name="Тип и количество интерфейсов">2 x USB 2.0, 1 x USB 3.0, 1 x RS485, 1 x RS232</spec>
+    <spec name="Управление    PTZ">1 x RS485, LAN</spec>
+    <spec name="Сеть">Сетевой интерфейс</spec>
+    <spec name="Сетевой интерфейс">2 x 10Base-T/100Base-TX/1000Base-TX Ethernet</spec>
+    <spec name="Сетевые инструменты">Web – интерфейс, ПО для ПК KENO SVMS, APP KENO LINK</spec>
+    <spec name="Технические параметры">Рабочий диапазон температуры</spec>
+    <spec name="Рабочий диапазон температуры">-10℃...+55℃</spec>
+    <spec name="Габариты (мм)">441(Ш) х 448(Д) х 88(В)</spec>
+    <spec name="Вес">7 Кг без HDD</spec>
+    <spec name="KN-0404FHD/1 aPOE4">4</spec>
+    <spec name="KN-RECORD64/8-4K-AI">64</spec>
+    <spec name="KN-WiFi 4/1">4</spec>
+    <spec name="KN-PRO16/2 - 8P- 4K">16</spec>
+    <spec name="KN-PRO32/2-16P -4K">32</spec>
+    <spec name="KN-PRO16/2-4K">16</spec>
+    <spec name="KN-PRO32/2-4K AI">32</spec>
+    <spec name="KN-CORE36/2-4K-AI">36</spec>
+    <spec name="KN-RECORD36/8-4K-AI">36</spec>
+    <spec name="KN-PRO8/1-4K">8</spec>
+    <spec name="KN-PRO8/1-4P-4K">8</spec>
+    <spec name="KN-PRO16/1-4K">16</spec>
+    <spec name="KN-PRO16/1-8P-4K">16</spec>
+    <spec name="KN-PRO16/2-16P-4K">16</spec>
+    <spec name="KN-PRO16/2-8P-4K">16</spec>
+    <spec name="KN-CORE64/4-4K-AI">64</spec>
+    <spec name="KN-PRO32/2-16P-4K-AI">32</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-dvr/kn-record36-8-4k-ai/</source_url>
+</product>

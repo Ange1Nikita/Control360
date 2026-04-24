@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Коммутатор Hikvision DS-3E0508-E(B)</name>
+  <model>DS-3E0508-E(B)</model>
+  <article>292458</article>
+  <sku>301801288</sku>
+  <brand>Hikvision</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы без PoE</subcategory>
+  <functional_name>Коммутатор</functional_name>
+  <nomenclature>Коммутатор без PoE</nomenclature>
+  <price>5312.16</price>
+  <price_wholesale>4825.21</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/292458/</product_url>
+  <description>
+    <paragraph>Сетевой коммутатор 8хRJ45 1000Мб; таблица MAC адресов на 4000 записей; пропускная способность 16Гб/с; DC 5В, 1A; 0°C...+40°C; 145×25.6×68.4 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор гигабитный неуправляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>0/8</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>Без РоЕ</value>
+    </spec>
+    <spec>
+      <name>Дополнительные порты</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Стандарт беспроводной связи</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Настольный</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>5 DC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>0…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>145х25.6х68.4</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

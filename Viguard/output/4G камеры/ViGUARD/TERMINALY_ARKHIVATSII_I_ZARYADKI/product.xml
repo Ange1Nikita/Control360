@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Terminaly Arkhivatsii I Zaryadki</name>
+  <article>TERMINALY_ARKHIVATSII_I_ZARYADKI</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f0f/450_450_1/f0f7b87bfcdaba55a031c1d8dfb631eb.png</image>
+    <image>https://viguard.pro/upload/iblock/726/7264f0560678960a28c5b04b21663776.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/54f/450_450_1/54f8611e49e55b4626d975379fed603f.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1b9/450_450_1/1b9f3501d9db6380dc148a3fc5aea0a5.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/terminaly_arkhivatsii_i_zaryadki/</source_url>
+</product>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры Скоростные Поворотные/KN-SDE201X30</name>
+  <article>KN-SDE201X30</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>99990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/807/440_370_0/kn_sde201x20_1_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/94e/440_370_0/kn_sde201x20_2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3b1/440_370_0/kn_sde201x20_3_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/807/38_24_2/kn_sde201x20_1_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/94e/38_24_2/kn_sde201x20_2_.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3b1/38_24_2/kn_sde201x20_3_.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 Уличная 2.0 4.3-129 120 Ваша цена: 99 990 руб. Короткое описание Полноразмерная 8" скоростная поворотная IP видеокамера профессионального уровня KN-SDE201X30 предназначена для использования вне помещений  с целью охранного видеонаблюдения. Позволяет заменить несколько стандартных IP видеокамер за счет того, что может вращаться на 360° и имеет зум объектив 30х. Спектр применения данной камеры крайне широк, а наличие мощной ИК подсветки делает ее эффективной в любое время суток. Особенности IP видеокамеры Все технические параметры Модель KN-SDE201X30 Система Тип матрицы 1/2,8” SONY EXMOR IMX222 (2.43Mega) Эффективные    пиксели 2000(H)    × 1241(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01Lux/F1.2(AGC-ON), Ч/Б: 0.002/F1.2 Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Авто    ICR ИК подсветка 120 м Компенсация    засветки BLC    / HLC / DWDR Баланс белого Авто Усиление Авто/Ручной Шумоподавление 3DNR Приватные зоны До    4-х зон Оптика Объектив 4.3 ~ 129 мм (30х кратный оптический зум) Светосила F1.6 (Wide) - F5.0 (Tele) Угол обзора H:    66°(Wide) - 2.35°(Tele) Видео Формат    кодирования H.264 Основной поток 1080P/720P/D1(1    ~ 25) Второстепенный    поток D1/CIF(1    ~ 25) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP ONVIF Onvif Profile-S/G (Motion, Alarm, MetaData) Кол-во    пользователей До    10 пользователей Мобильные    устройства iOS,Android Дополнительно Аудио G.711A, 1 Вх. / 1    Вых. Тревога 1    Вх. / 1 Вых. ePTZ RS485 Видеовыход 1 BNC(1.0Vp-p, 75 ) Memory Slot Micro SD, Max 64GB Технические параметры Питание DC12V 5A Потребление &lt;65Вт Рабочая    температура -40°C ... +50°C,    10% ... 90% Степень защиты IP66,  грозозащита до 4000В Габариты Ø 243 х 415(В) Вес 10.0кг Уличная 2.0 4.3-129 120 Поддержка стандарта Onvif Profile-S/G Разрешение 2.0 Мpx 30х кратный оптический зум Мощная, интеллектуальная ИК подсветка Грозозащита до </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY EXMOR IMX222 (2.43Mega)</spec>
+    <spec name="Эффективные    пиксели">2000(H)    × 1241(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01Lux/F1.2(AGC-ON), Ч/Б: 0.002/F1.2</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">120 м</spec>
+    <spec name="Компенсация    засветки">BLC    / HLC / DWDR</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">4.3 ~ 129 мм (30х кратный оптический зум)</spec>
+    <spec name="Светосила">F1.6 (Wide) - F5.0 (Tele)</spec>
+    <spec name="Угол обзора">H:    66°(Wide) - 2.35°(Tele)</spec>
+    <spec name="Формат    кодирования">H.264</spec>
+    <spec name="Основной поток">1080P/720P/D1(1    ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G (Motion, Alarm, MetaData)</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iOS,Android</spec>
+    <spec name="Аудио">G.711A, 1 Вх. / 1    Вых.</spec>
+    <spec name="Тревога">1    Вх. / 1 Вых.</spec>
+    <spec name="ePTZ">RS485</spec>
+    <spec name="Видеовыход">1 BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Memory Slot">Micro SD, Max 64GB</spec>
+    <spec name="Питание">DC12V 5A</spec>
+    <spec name="Потребление">&lt;65Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66,  грозозащита до 4000В</spec>
+    <spec name="Габариты">Ø 243 х 415(В)</spec>
+    <spec name="Вес">10.0кг</spec>
+    <spec name="KN-SPD880X25">8Мп</spec>
+    <spec name="KN-SPD560X25">5Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-skorostnye-povorotnye/KN-SDE201X30/</source_url>
+</product>

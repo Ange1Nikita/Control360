@@ -1,0 +1,208 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD4012FWD-A</name>
+  <model>DS-2CD4012FWD-A</model>
+  <sku>45895</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd4012fwd-a-ip-kamera/</product_url>
+  <description>
+    <paragraph>Поставляется без объектива! IP-камера с разрешением 1280×960, CMOS-матрица 1/3", 0.01 лк, F/1.2, H.264, MPEG4, MJPEG, 3-потоковая передача, 120 Дб WDR, 3D DNR, BLC, EIS, ABF, антитуман, ROI, детекция лиц, движения, аудио, день/ночь, ICR, RJ-45, RS-485, RS-232, аудио-вход-выход, тревожный вход/выход, BNC-видеовыход, слот для SD/SDHC/SDXC до 64 Гбайт, ONVIF, DC 12 В, AC 24 В, PoE, до 9 Вт, -30 °C… +60 ºС.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Пиксели</name>
+      <value>1280×960</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.01 лк при F/1.2, AGC вкл.ч/б: 0.001 лк при F/1.2, AGC вкл.</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с ~ 1/100000 с</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>C/CS</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 Дб</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ICR (авто, по расписанию, по тревоге)</value>
+    </spec>
+    <spec>
+      <name>Смарт фокус</name>
+      <value>автоматическая регулировка заднего фокуса</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.264, MPEG4, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с– 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.726, MP2L2</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.726)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1280×960</value>
+    </spec>
+    <spec>
+      <name>Частота</name>
+      <value>20 к/с (1280×720), H.264, MPEG425 к/с (704×576), H.264, MPEG4, MJPEG25 к/с (1280×960), H.264, MPEG4, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>яркость и контраст, режим поворота, настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>есть, зона настраивается</value>
+    </spec>
+    <spec>
+      <name>Наложение изображения</name>
+      <value>128×128, BMP 24bit, зона настраивается</value>
+    </spec>
+    <spec>
+      <name>ROI (область выделения интереса)</name>
+      <value>настраивается до 4 зон</value>
+    </spec>
+    <spec>
+      <name>Смарт фокус</name>
+      <value>автоматическая регулировка фокуса</value>
+    </spec>
+    <spec>
+      <name>Антитуман</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Смарт детекция лиц</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Смарт аудиодетекция</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Обнаружение вторжений</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Авторегулировка качества изображения</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS, SMB</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour (SIP опция)</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователяводяные знакифильтрация IP-адресованонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF, PSIA, CGI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>обнаружение вторжения, обнаружение движения, детекция лиц, оповещение при несанкционированных действиях, расфокусировка, отключение сети, конфликт IP адресов</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 канал 3.5 мм, микрофонный вход/линейный вход, 1-канал встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 канал 3.5 мм</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M Ethernet, RS-485, RS-232</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1Vp-p композитный (75 Ω, BNC)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>встроенный слот для SD/SDHC/SDXC до 64 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Перезагрузка</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±10 %, AC 24 В ±10 %, PoE (802.3af)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 9 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-30 °C…+60 °С</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø69.8×58×145 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.83 кг</value>
+    </spec>
+    <spec>
+      <name>Подходящие кронштейны</name>
+      <value>DS-1212ZJ, DS-1213ZJ, DS-1275ZJ</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Поставляется без объектива! IP-камера с разрешением 1280×960, CMOS-матрица 1/3", 0.01 лк, F/1.2, H.264, MPEG4, MJPEG, 3-потоковая передача, 120 Дб WDR, 3D DNR, BLC, EIS, ABF, антитуман, ROI, детекция лиц, движения, аудио, день/ночь, ICR, RJ-45, RS-485, RS-232, аудио-вход-выход, тревожный вход/выход, BNC-видеовыход, слот для SD/SDHC/SDXC до 64 Гбайт, ONVIF, DC 12 В, AC 24 В, PoE, до 9 Вт, -30 °C… +60 ºС.ПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/0ad/140_140_1/DS_2CD4012FWD_A_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd4012fwd-a-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD4012FWD-A&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,79 @@
+# -*- coding: utf-8 -*-
+"""Скачивание файлов: фото и паспорта"""
+
+import re
+import logging
+from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
+
+from utils import download_file, download_post_file, Progress
+
+log = logging.getLogger('hiwatch')
+
+
+def download_product_files(product: dict, prod_dir: Path) -> dict:
+    """Скачать фото и паспорта одного товара в его папку"""
+    prod_dir.mkdir(parents=True, exist_ok=True)
+
+    # Фото
+    local_images = []
+    for idx, img_url in enumerate(product.get('images', [])):
+        ext = _get_ext(img_url, '.jpg')
+        fname = 'image.jpg' if idx == 0 else f'image_{idx + 1}{ext}'
+        fpath = prod_dir / fname
+        if download_file(img_url, fpath):
+            local_images.append(fname)
+    product['local_images'] = local_images
+
+    # Паспорта (через POST)
+    local_passports = []
+    for idx, doc in enumerate(product.get('passports', [])):
+        fname = 'passport.pdf' if idx == 0 else f'passport_{idx + 1}.pdf'
+        fpath = prod_dir / fname
+        if download_post_file(doc['url'], doc['data'], fpath):
+            local_passports.append(fname)
+    product['local_passports'] = local_passports
+
+    return product
+
+
+def download_all(products: list[dict], output_dir: Path, workers: int = 10):
+    """Скачать все файлы для всех товаров"""
+    from utils import safe_dirname
+
+    total_files = sum(
+        len(p.get('images', [])) + len(p.get('passports', []))
+        for p in products
+    )
+    log.info(f'Скачивание файлов: {total_files} (фото + паспорта), потоков: {workers}')
+
+    progress = Progress(len(products), 'Файлы   ')
+    lock = threading.Lock()
+
+    def process(p):
+        cat = safe_dirname(p.get('category', 'Без категории'))
+        subcat = p.get('subcategory', '')
+        model = safe_dirname(p.get('model', p.get('name', 'unknown')))
+
+        if subcat:
+            prod_dir = output_dir / safe_dirname(cat) / safe_dirname(subcat) / model
+        else:
+            prod_dir = output_dir / safe_dirname(cat) / model
+
+        download_product_files(p, prod_dir)
+        return p
+
+    with ThreadPoolExecutor(max_workers=workers) as executor:
+        futures = {executor.submit(process, p): p for p in products}
+        for future in as_completed(futures):
+            p = future.result()
+            with lock:
+                progress.update(p.get('model', '')[:18])
+
+    progress.done(f'{len(products)} товаров')
+
+
+def _get_ext(url: str, default: str = '.jpg') -> str:
+    m = re.search(r'\.(jpg|jpeg|png|webp|gif)', url.lower())
+    return f'.{m.group(1)}' if m else default

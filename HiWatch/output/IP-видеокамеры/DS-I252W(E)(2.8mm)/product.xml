@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I252W(E)(2.8mm)</name>
+  <model>DS-I252W(E)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-i252w-e--2-8-mm-</product_url>
+  <description>
+    <paragraph>2Мп купольная IP-камера c EXIR-подсветкой до 30м и WiFi 1/2.7'' CMOS матрица; объектив 2.8мм; угол обзора 111градусов; механический ИК-фильтр; 0.005лк @F1.6; H.265+/H.265/H.264+/H.264/MJPEG, WDR(120dB), 3D DNR, BLC; встроенный микрофон и динамик, MP2L2/PCM; видеобитрейт 32кбит/с -8Мбит/с; встроенный слот для microSD карты до 256Гб, IP66, -30градусовC ...+60градусовC; 12В +-25%; 7Вт макс.</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/2.8' Progressive scan CMOS</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>0.025лк @(F1.2, AGC вкл.), 0.07лк @(F2.0, AGC вкл.) Скорость электронного затвора	1/3 с ~ 1/100 000с</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>2.8мм @F2.0</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>М12</paragraph>
+    <paragraph>Угол обзора объектива</paragraph>
+    <paragraph>114° (2.8мм)</paragraph>
+    <paragraph>Формат видеосжатия</paragraph>
+    <paragraph>Основной поток:H.265/H.265+/H.264/H.264+ Дополнительный поток: H.265/H.264/MJPEG</paragraph>
+    <paragraph>Профиль H.264</paragraph>
+    <paragraph>Baseline Profile / Main Profile/High Profile</paragraph>
+    <paragraph>Профиль H.265</paragraph>
+    <paragraph>Main Profile</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>32 кб/с ~ 8 Мбит/с</paragraph>
+    <paragraph>Аудиосжатие</paragraph>
+    <paragraph>G.711/ G.722.1/ G.726/ MP2L2/ PCM</paragraph>
+    <paragraph>Битрейт аудио</paragraph>
+    <paragraph>64Кбит/с (G.711)/ 16Кбит/с(G.722.1)/ 16Кбит/с (G.726)/ 32-160Кбит/с (MP2L2)</paragraph>
+    <paragraph>Максимальное разрешение</paragraph>
+    <paragraph>1920  1080</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>25 к/с @ (19201080, 1280х960, 1280720)</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>DWDR, 3D DNR, BLC, ROI (1 зона на каждый поток)</paragraph>
+    <paragraph>Протоколы</paragraph>
+    <paragraph>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</paragraph>
+    <paragraph>Безопасность</paragraph>
+    <paragraph>Аутентификация пользователя, водяные знаки, фильтрация IP-адресов</paragraph>
+    <paragraph>Действия по тревоге</paragraph>
+    <paragraph>Уведомление на клиентское ПО, отправка email, загрузка на FTP, активация канала записи</paragraph>
+    <paragraph>Сетевой интерфейс</paragraph>
+    <paragraph>1 RJ45 10M /100M Ethernet</paragraph>
+    <paragraph>Аудиовход выход</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+    <paragraph>Фильтрация шумов окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Кнопка сброса настроек</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Частота дискретизации</paragraph>
+    <paragraph>48кГц</paragraph>
+    <paragraph>Стандарт</paragraph>
+    <paragraph>Wi-Fi	IEEE802.11b/g/n</paragraph>
+    <paragraph>Диапазон частот</paragraph>
+    <paragraph>2,4 ГГц ~ 2.472 ГГц</paragraph>
+    <paragraph>Протоколы</paragraph>
+    <paragraph>802.11b: CCK, QPSK, BPSK 802.11g/n: OFDM</paragraph>
+    <paragraph>Безопасность</paragraph>
+    <paragraph>64/128-бит WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS</paragraph>
+    <paragraph>Мощность передатчика</paragraph>
+    <paragraph>11b: 17±1.5dBm @ 11Мбит/с 11g: 14±1.5dBm @ 54Мбит/с 11n: 12.5±1.5dBm</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC12В±25%</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>5Вт макс.</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>-30°С — 45°С, влажность 95% или меньше (без конденсата)</paragraph>
+    <paragraph>Защита</paragraph>
+    <paragraph>IP66</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>0.465 кг</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>121.36 мм х 92.21 мм</paragraph>
+    <paragraph>Дальность действия ИК-подсветки</paragraph>
+    <paragraph>до 30м</paragraph>
+    <paragraph>Материал корпуса</paragraph>
+    <paragraph>Пластик</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп купольная IP-камера c EXIR-подсветкой до 30м и WiFi 1/2.7'' CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 111градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005лк @F1.6</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, WDR(120dB), 3D DNR, BLC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон и динамик, MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с -8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 256Гб, IP66, -30градусовC ...+60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В +-25%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>7Вт макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8' Progressive scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.025лк @(F1.2, AGC вкл.), 0.07лк @(F2.0, AGC вкл.) Скорость электронного затвора	1/3 с ~ 1/100 000с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2.8мм @F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>114° (2.8мм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Формат видеосжатия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток:H.265/H.265+/H.264/H.264+ Дополнительный поток: H.265/H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Профиль H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Baseline Profile / Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Профиль H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>32 кб/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711/ G.722.1/ G.726/ MP2L2/ PCM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>64Кбит/с (G.711)/ 16Кбит/с(G.722.1)/ 16Кбит/с (G.726)/ 32-160Кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Максимальное разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>25 к/с @ (19201080, 1280х960, 1280720)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR, 3D DNR, BLC, ROI (1 зона на каждый поток)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протоколы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аутентификация пользователя, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Действия по тревоге</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Уведомление на клиентское ПО, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 10M /100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация шумов окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кнопка сброса настроек</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота дискретизации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>48кГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Wi-Fi	IEEE802.11b/g/n</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диапазон частот</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2,4 ГГц ~ 2.472 ГГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протоколы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>802.11b: CCK, QPSK, BPSK 802.11g/n: OFDM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>64/128-бит WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Мощность передатчика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>11b: 17±1.5dBm @ 11Мбит/с 11g: 14±1.5dBm @ 54Мбит/с 11n: 12.5±1.5dBm</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В±25%</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5Вт макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30°С — 45°С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.465 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>121.36 мм х 92.21 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность действия ИК-подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 30м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал корпуса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8' Progressive scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.025лк @(F1.2, AGC вкл.), 0.07лк @(F2.0, AGC вкл.) Скорость электронного затвора	1/3 с ~ 1/100 000с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8мм @F2.0</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>М12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>114° (2.8мм)</value>
+    </spec>
+    <spec>
+      <name>Формат видеосжатия</name>
+      <value>Основной поток:H.265/H.265+/H.264/H.264+ Дополнительный поток: H.265/H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile / Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кб/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711/ G.722.1/ G.726/ MP2L2/ PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64Кбит/с (G.711)/ 16Кбит/с(G.722.1)/ 16Кбит/с (G.726)/ 32-160Кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с @ (19201080, 1280х960, 1280720)</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>DWDR, 3D DNR, BLC, ROI (1 зона на каждый поток)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>Уведомление на клиентское ПО, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M /100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход выход</name>
+      <value>Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>48кГц</value>
+    </spec>
+    <spec>
+      <name>Стандарт</name>
+      <value>Wi-Fi	IEEE802.11b/g/n</value>
+    </spec>
+    <spec>
+      <name>Диапазон частот</name>
+      <value>2,4 ГГц ~ 2.472 ГГц</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>802.11b: CCK, QPSK, BPSK 802.11g/n: OFDM</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>64/128-бит WEP, WPA/WPA2, WPA-PSK/WPA2-PSK, WPS</value>
+    </spec>
+    <spec>
+      <name>Мощность передатчика</name>
+      <value>11b: 17±1.5dBm @ 11Мбит/с 11g: 14±1.5dBm @ 54Мбит/с 11n: 12.5±1.5dBm</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC12В±25%</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>5Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-30°С — 45°С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.465 кг</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>121.36 мм х 92.21 мм</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 30м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Пластик</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

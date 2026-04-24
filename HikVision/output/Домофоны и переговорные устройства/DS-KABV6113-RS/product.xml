@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Настенный козырек Hikvision DS-KABV6113-RS</name>
+  <model>DS-KABV6113-RS</model>
+  <article>289290</article>
+  <sku>305700600</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Дополнительное оборудование</subcategory>
+  <functional_name>Настенный козырек</functional_name>
+  <nomenclature>Кронштейн</nomenclature>
+  <price>518.4</price>
+  <price_wholesale>470.88</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289290/</product_url>
+  <description>
+    <paragraph>Козырек для настенного монтажа вызывной панели серии DS-KV6103/6113 серии. Материал: пластик, PC; от -40℃ до 60℃, влажность с 10% до 95%; 150 x 79.56 x 49мм; Настенный монтаж.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>149.8х79.6х48.7</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="888.1 КБ">https://www.tinko.ru/upload/exchange/public/documentation/7/C/7C66AABF40E3A16AD790AC6DA94E5C94.pdf</document>
+  </documents>
+</product>

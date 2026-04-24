@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор IP-домофона Hikvision DS-KH6350-WTE1 (чёрный)</name>
+  <model>DS-KH6350-WTE1 (чёрный)</model>
+  <article>330708</article>
+  <sku>305303208</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Терминалы контроля доступа</subcategory>
+  <functional_name>Монитор IP-домофона</functional_name>
+  <nomenclature>Монитор IP-домофона</nomenclature>
+  <price>8220.38</price>
+  <price_wholesale>7466.85</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/330708/</product_url>
+  <description>
+    <paragraph>7″ цветной сенсорный  TFT-экран  (1024×600);  до 16 вызывных панелей;  до 5 мониторов;  8 тревожных входов;  2 тревожных выхода;  RS-485;  TCP/IP, SIP, RTSP;  10/100M Ethernet (RJ-45);  Wi-Fi  (802.11 b/g/n);  ОС Linux;  разъём под TF-карту до 125 ГБ;  запись захваченных изображений;  поддержка управления охранной панелью AX PRO через домофон;  возможность установки приложений.  DC 12В (1А)/PoE (10Вт);  -10...+50°C (эксплуатация в помещении);  175×113,5×21 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей, шт.</name>
+      <value>16</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>IP|Wi-Fi|</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>175х113.5х21</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="322.55 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/1/A1A946F4B5D22BD0703669E6F9E668DB.pdf</document>
+  </documents>
+</product>

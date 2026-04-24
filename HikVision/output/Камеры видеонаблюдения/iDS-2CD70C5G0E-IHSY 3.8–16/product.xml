@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2CD70C5G0/E-IHSY 3.8–16</name>
+  <model>iDS-2CD70C5G0/E-IHSY 3.8–16</model>
+  <sku>41770</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2cd70c5g0-e-ihsy-3-8-16-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 12 Мп</paragraph>
+    <paragraph>ИК-подсветка 80 м</paragraph>
+    <paragraph>Распознавание лиц и номеров</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+    <paragraph>–40 °C... +65 °C, IP66, IK10, NEMA 4X</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>4000×3000</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.002 лк (F/1.4, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр (синее стекло)</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручн.</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>3.8 ~ 16 мм, по горизонтали: 103.5° ~ 28.1°, по вертикали: 77.3° ~ 21.1°, по диагонали: 129.3° ~ 35.0°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.4</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Диапазон</name>
+      <value>80 м</value>
+    </spec>
+    <spec>
+      <name>Потоки</name>
+      <value>5</value>
+    </spec>
+    <spec>
+      <name>Фреймрейт</name>
+      <value>25 к/с</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264, H.265+, H.264+, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM, AAC, MP3</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), 32 ~ 192 Кбит/с (MP2L2), 8 ~ 320 Кбит/с (MP3)</value>
+    </spec>
+    <spec>
+      <name>Тип аудио</name>
+      <value>моно</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс, ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, SRTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour, SSL/TLS</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>DWDR, BLC, HLC, 3D DNR, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥52 дБ</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 В p-p композитный выход (75 Ом/BNC)</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>RJ-45 auto 10/100/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты памяти, поддержка карт microSD, SDHC, SDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>TRS mini jack — вход, выход</value>
+    </spec>
+    <spec>
+      <name>Тревожные</name>
+      <value>2 входа, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>Выход питания</name>
+      <value>DC 12 V</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>распознавание лиц, обнаружение пересечения линии, вторжения, входа и выхода из области, оставленных и перемещенных предметов, классификация целей, захват лиц, управление очередью, подсчет объектов</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 V, DC 24 V, PoE, макс. 28 Вт</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>465.3×169.2×164.7 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>3.8 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –40 °C... +65 °C, влажность: 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP66, IK10, NEMA 4X</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 12 МпИК-подсветка 80 мРаспознавание лиц и номеровH.265+, H.265, H.264+, H.264, MJPEG–40 °C... +65 °C, IP66, IK10, NEMA 4XПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/b4f/140_140_1/iDS_2CD70C5G0E_IHSY_3.8_16_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2cd70c5g0-e-ihsy-3-8-16-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2CD70C5G0/E-IHSY 3.8–16&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <image>image_4.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

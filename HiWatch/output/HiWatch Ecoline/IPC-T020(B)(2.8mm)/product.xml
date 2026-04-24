@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IPC-T020(B)(2.8mm)</name>
+  <model>IPC-T020(B)(2.8mm)</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ipc-t020-b--2-8mm-</product_url>
+  <description>
+    <paragraph>2 Мп уличная купольная IP-камера видеонаблюдения с EXIR-подсветкой до 25 м 1/2.8'' Progressive Scan CMOS матрицей и 2.8 мм объективом. Угол обзора составляет 114,8градусов. Имеется механический ИК-фильтр. Минимальная освещенность 0.028Лк@F2.0. Поддержка форматов сжатия H.265/H.265+/H.264/H.264+/MJPEG. Для борьбы с шумами присутствует цифровое шумоподавление 3D DNR. Так же есть DWDR; BLC; Smart ИК; видеобитрейт 32кбит/с-8Мбит/с. Степень защиты IP67. Работает в диапазоне температур от -40градусовC до +60градусовC. Питание DC12В+-25%/PoE(IEEE 802.3af); 4,5Вт макс.2Мп уличная IP-камера с EXIR-подсветкой до 25м</paragraph>
+    <paragraph>1/2.8'' Progressive Scan CMOS матрица; объектив 2.8мм; угол обзора 114,8градусов; механический ИК-фильтр; 0.028Лк@F2.0; H.265/H.265+/H.264/H.264+/MJPEG, DWDR; 3D DNR; BLC; Smart ИК; видеобитрейт 32кбит/с-8Мбит/с; IP67; -40градусовC до +60градусовC; DC12В+-25%/PoE(IEEE 802.3af); 4,5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с. Степень защиты IP67. Работает в диапазоне температур от -40градусовC до +60градусовC. Питание DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4,5Вт макс.2Мп уличная IP-камера с EXIR-подсветкой до 25м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.8'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 114,8градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.028Лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеобитрейт 32кбит/с-8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовC до +60градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4,5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

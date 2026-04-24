@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор TVI 4-канальный HiWatch DS-H104GA(B)</name>
+  <model>DS-H104GA(B)</model>
+  <article>360440</article>
+  <sku>300229897</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 4-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>3319.2</price>
+  <price_wholesale>3014.94</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/360440/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI/AHD/CVI/CVBS 4 канала видео + 1 IP 2Мп (до 5 с замещением аналоговых в Enhanced IP mode)+ 1 аудио или до 4 каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro+/H.265 Pro/H.265/H.264+/H.264; Скорость записи TVI: 1080p Lite/720p Lite/720p х25к/с; AHD и CVI: 1080p Lite/720p х25к/с; аналоговые камеры: WD1х25к/с; IP: доп. 1 канал 2Мп х25к/с; Воспроизведение: 4х1.0Мп ; Видеовыходы: 1 VGA, 1 HDMI до 1080Р ; 2 USB2.0 ; Протоколы сети TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF, ISAPI ; сетевой (10M/100M Ethernet); 1х HDD SATA до 4Тб; DC12 В/1500 мА (адаптер питания в комплекте); -10°...+55°C; 200х200х45 мм; ПО CMS в комплекте.; Motion detection 2.0, обнаружение движения (фильтрация тревог человек/транспортное средство)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>4xTVI или 4х AHD или 4xCVI или 4х960H+1IP</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI; VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro+;H.265 Pro; H.265; H.264; H.264+</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>25к/сек на канал (960х1080 пикс.); 25 к/сек на канал (1280х720 пикс.); 25 к/сек на канал (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Постоянный, по расписанию, обнаружение движения</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100M</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; PPPoE; DHCP; Hik-Connect; DNS; DDNS; NTP; SADP; NFS; iSCSI; UPnP™; HTTPS; ONVIF; ISAPI</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 В, адаптер в комплекте</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

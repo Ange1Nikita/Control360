@@ -1,0 +1,215 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PKF1-WE(Black)</name>
+  <model>DS-PKF1-WE(Black)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-pkf1-we-black</product_url>
+  <description>
+    <paragraph>Поддерживает мгновенную постановку на охрану и снятие с охраны. Брелок является компонентом системы управления безопасностью.</paragraph>
+    <paragraph>Частота</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Расстояние</paragraph>
+    <paragraph>900 м на открытом пространстве</paragraph>
+    <paragraph>Индикатор</paragraph>
+    <paragraph>LED-индикатор (три цвета)</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>5 мВт</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>CR2032 x 1 (включена в комплект поставки)</paragraph>
+    <paragraph>Срок службы батареи</paragraph>
+    <paragraph>В режиме ожидания более 3 лет</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 % (без конденсата)</paragraph>
+    <paragraph>Кнопка</paragraph>
+    <paragraph>4</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Цвет</paragraph>
+    <paragraph>Белый</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Панель (пластик) + уплотнитель (резина)</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>35.2 x 63.2 x 11.3 мм (1.39 x 2.49 x 0.45)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>16 г</paragraph>
+    <paragraph>Габариты</paragraph>
+    <paragraph>63 х 49 х 16 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Поддерживает мгновенную постановку на охрану и снятие с охраны. Брелок является компонентом системы управления безопасностью.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Расстояние</value>
+    </spec>
+    <spec>
+      <name />
+      <value>900 м на открытом пространстве</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор (три цвета)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5 мВт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR2032 x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>В режиме ожидания более 3 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 % (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кнопка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Белый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Панель (пластик) + уплотнитель (резина)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>35.2 x 63.2 x 11.3 мм (1.39 x 2.49 x 0.45)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>16 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Габариты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>63 х 49 х 16 мм</value>
+    </spec>
+    <spec>
+      <name>Частота</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Расстояние</name>
+      <value>900 м на открытом пространстве</value>
+    </spec>
+    <spec>
+      <name>Индикатор</name>
+      <value>LED-индикатор (три цвета)</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>5 мВт</value>
+    </spec>
+    <spec>
+      <name>Батарея</name>
+      <value>CR2032 x 1 (включена в комплект поставки)</value>
+    </spec>
+    <spec>
+      <name>Срок службы батареи</name>
+      <value>В режиме ожидания более 3 лет</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 % (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Кнопка</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Цвет</name>
+      <value>Белый</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Панель (пластик) + уплотнитель (резина)</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>35.2 x 63.2 x 11.3 мм (1.39 x 2.49 x 0.45)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>16 г</value>
+    </spec>
+    <spec>
+      <name>Габариты</name>
+      <value>63 х 49 х 16 мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

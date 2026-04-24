@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>2 Мп IP-камера Hikvision DS-2XM6222FWD-IM (6 мм) для транспорта с обнаружением лиц</name>
+  <model>DS-2XM6222FWD-IM (6 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6222fwd-im-6-mm-ip-kamera-dlya-transporta/</product_url>
+  <description>
+    <paragraph>IP-камера Uniview IPC322LB-DSF40K-G</paragraph>
+    <paragraph>9 680</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+    <paragraph>IP-камера Uniview IPC2312SB-ADF60KM-I0</paragraph>
+    <paragraph>Спрашивать у менеджеров</paragraph>
+    <paragraph>IP-камера Uniview IPC2122LB-SF40K-A</paragraph>
+    <paragraph>7 540</paragraph>
+    <paragraph>р.</paragraph>
+    <paragraph>В корзину</paragraph>
+    <paragraph>В корзине</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7” Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.018 лк (F1/2, AGC вкл.), 0 лк с ИКч/б: 0.006 лк (F1/2,AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/3 с —1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>6 мм</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали 60°, по вертикали 32.4°, по диагонали 70°</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: -20° — 20°; наклон: -15° — 20°</value>
+    </spec>
+    <spec>
+      <name>Сжатие видео</name>
+      <value>основной поток: H.265/H.264дополнительный поток: H.265/H.264/MJPEGтретий поток: H.265/H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile / MainProfile / High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи</name>
+      <value>32 Кбит/с — 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Макс. разрешение</name>
+      <value>1280×960</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25к/с (1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25к/с (704×576, 352×288, 640×480, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25к/с (1280×960, 1280×720, 704×576, 352×288, 640×480, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, оттенок, резкость</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, HLC, EIS, антитуман, ROI</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>Авто/ по расписанию/ по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, входа/выхода из области, оставленных/пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>обнаружение смены сцены съемки, превышения/принижения звукового порога, потери аудио, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>обнаружение лиц</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение данных</name>
+      <value>NAS (поддержка NFS,SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP™, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов, анонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF(PROFILE S,PROFILE G), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>smart-функции, обнаружение несанкционированных действий, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 M12 авиационный разъем</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гб</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В/ PoE (802.3af, class 3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>5.2 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-30 °C… +65 °C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Устойчивость к вибрации</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 30 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>78.8×81.6×64 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (нетто)</name>
+      <value>0.33 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Лицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/d79/140_140_1/DS_2XM6222FWD_IM.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6222fwd-im-6-mm-ip-kamera-dlya-transporta/?utm_source=comebackletter"&gt;Hikvision DS-2XM6222FWD-IM (6 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

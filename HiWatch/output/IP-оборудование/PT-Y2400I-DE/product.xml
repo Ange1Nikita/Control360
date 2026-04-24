@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>PT-Y2400I-DE</name>
+  <model>PT-Y2400I-DE</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/pt-y2400i-de</product_url>
+  <description>
+    <paragraph>4Мп уличная цилиндрическая поворотная IP-камера c EXIR-подсветкой до 30м и встроенным микрофоном</paragraph>
+    <paragraph>1/3’’ Progressive Scan CMOS; объектив 2.8мм; угол обзора объектива 99градусов; механический ИК-фильтр; 0.01лк@F2.0; сжатие H.265+/H.265/H.264+/H.264/MJPEG, G.711/G.722.1/G.726/MP2L2/PCM/AAC; 2560  1440@20к/с; WDR 120дБ, 3D DNR, BLC, HLC, ROI; motion detection 2.0; вращение -100градусов - 100градусов; наклон -20градусов - 45градусов; слот для microSD до 256Гб; встроенный микрофон; 1 RJ45 10M/100M Ethernet; питание DC12В/PoE(802.3af); 12.5Вт макс.; -30 градусовC...+65 градусовC; защита от перенапряжений TVS; IP66; вес 0,9кг.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>4Мп уличная цилиндрическая поворотная IP-камера c EXIR-подсветкой до 30м и встроенным микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/3’’ Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора объектива 99градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01лк@F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>сжатие H.265+/H.265/H.264+/H.264/MJPEG, G.711/G.722.1/G.726/MP2L2/PCM/AAC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2560  1440@20к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>WDR 120дБ, 3D DNR, BLC, HLC, ROI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>motion detection 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вращение -100градусов - 100градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон -20градусов - 45градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>слот для microSD до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>питание DC12В/PoE(802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12.5Вт макс.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30 градусовC...+65 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вес 0,9кг.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

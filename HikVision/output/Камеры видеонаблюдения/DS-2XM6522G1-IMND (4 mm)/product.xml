@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2XM6522G1-IM/ND (4 mm)</name>
+  <model>DS-2XM6522G1-IM/ND (4 mm)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6522g1-im-nd-4-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>H.265, H.264, MJPEG</paragraph>
+    <paragraph>Эксплуатация на транспорте</paragraph>
+    <paragraph>–40 °C… +75 °C, IP68, IP69K, IK10</paragraph>
+    <paragraph>WDR 120 дБ, 3D DNR, BLC, ROI, EIS</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Поддержка медленного затвора</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: –15° ~ +15°, наклон: 0° ~ 30°, вращение: –90° ~ +90°</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>4 мм, по горизонтали: 97°, по вертикали: 44°, по диагонали: 104°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Дальность</name>
+      <value>30 м</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>до 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>BaseLine Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>H.264+</name>
+      <value>для основного потока</value>
+    </spec>
+    <spec>
+      <name>H.265+</name>
+      <value>для основного потока</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>H.265 и H.264</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>1 фиксированная область для каждого потока и динамическое слежение по лицам</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, NTP, UPnP, SMTP, SNMP, UDP, SSL/TLS, RTCP, ICMP, IGMP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>HIKSDK, ONVIF (профили S, G, T), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS, ANR</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE 8+</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальная ИК-подсветка</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, насыщенность, яркость, контрастность, резкость, усиление и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Переключение режимов день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>&gt;50 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>4 области маскирования</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10M/100M порт Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, саботажа, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, ошибка накопителя)</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>детекция лиц, обнаружение пересечения линии, вторжения, входа и выхода из области, оставленного багажа, перемещения объекта, изменения сцены, расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Подключение</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Интерфейс питания</name>
+      <value>четырехъядерный авиационный разъем M12, питание PoE</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>PoE: 802.3 af, тип 1 класс 3</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>163.7×122.6×65.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>905 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –40 °C... +75 °C, влажность: 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Anti-Flicker, 3 потока, Heartbeat, зеркалирование, маскирование области</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 10 Вт</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпH.265, H.264, MJPEGЭксплуатация на транспорте–40 °C… +75 °C, IP68, IP69K, IK10WDR 120 дБ, 3D DNR, BLC, ROI, EISПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/a39/140_140_1/DS_2XM6522G1_IMND-_2.8-mm_-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6522g1-im-nd-4-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XM6522G1-IM/ND (4 mm)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

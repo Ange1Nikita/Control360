@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Беспроводная система безопасности AX PRO Hikvision ОПС-079</name>
+  <model>ОПС-079</model>
+  <article>313768</article>
+  <sku />
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранно-пожарной сигнализации</category>
+  <subcategory>Охранно-пожарные сигнализации</subcategory>
+  <functional_name>Беспроводная система безопасности AX PRO</functional_name>
+  <nomenclature>Типовое решение ОПС</nomenclature>
+  <price>25170</price>
+  <price_wholesale />
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/313768/</product_url>
+  <description>
+    <paragraph>Типовое решение для охраны объектов основано на построении радиоканальной системы безопасности AX PRO на базе оборудования Hikvision. Система позволяет передавать: а) владельцу - PUSH-уведомление на смартфоне по беспроводным сетям стандарта GSM, б) на ПЦО - по каналу GPRS или сетям Ethernet. Это недорогое универсальное оборудование для охраны объектов недвижимости: квартир, загородных домов, офисов, магазинов, кафе и т.п.</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

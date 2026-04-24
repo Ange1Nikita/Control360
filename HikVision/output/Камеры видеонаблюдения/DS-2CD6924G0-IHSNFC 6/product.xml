@@ -1,0 +1,281 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD6924G0-IHS/NFC 6</name>
+  <model>DS-2CD6924G0-IHS/NFC 6</model>
+  <sku>56169</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6924g0-ihs-nfc-6-panoramnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 8 Мп</paragraph>
+    <paragraph>–40 °C... +60 °C, IP67, IK10</paragraph>
+    <paragraph>DWDR, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.003 лк (F1.2, AGC вкл); ч/б: 0.0018 лк (F1.6, AGC вкл), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/25 ~ 1/100,000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>ИК-фильтр. Модуль используется для снижения эффекта обратного рассеяния.</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: от 0 до 360°, наклон: от 0 до 90°</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.4</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>ручная, полуавтоматическая</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 мм, по горизонтали: 180°, по вертикали: 25°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M16</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный, четыре объектива</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>четыре ИК-светодиода, до 20 м</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>панорамный режим: 6480×1080обычный режим: 1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>панорамный режим + ePTZ: панорамный канал: 25 к/с(2400×400), канал ePTZ: 25 к/с (1920×1080, 1280×720)панорамный режим: 25 к/с (6480×1080, 4800×800, 3600×600)обычный режим: 25 к/с (1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>панорамный режим: 25 к/с (1280×720, 640×360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265/H.264дополнительный поток: H.265/H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 65 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), 32 ~ 192 Кбит/с (MP2L2), 32 Кбит/с (PCM)</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения (поддерживается только в панорамном и в обычном режиме), детектор саботажа, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя)</value>
+    </spec>
+    <spec>
+      <name>Анализ скопления людей</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Метод привязки</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка email, тревожный сигнал, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, антитуман, EIS</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора (поддерживается только в обычном режиме), насыщенность, яркость, контрастность, резкость, AGC и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Обрезка изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Переключение режимов «день/ночь»</name>
+      <value>день, ночь, автоматич., по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Наложение изображения</name>
+      <value>логотип в формате bmp 24 бит размером 128 х 128</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>microSD, SDHC, SDXC (256 ГБ), локальное хранение и NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (Profile S, Profile G), ISAPI, SDK, Ehome</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки управления временем ожидания, журнал проверки безопасности, TLS 1.2, TLS1.0, TLS1.1</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей. 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE8+</value>
+    </spec>
+    <spec>
+      <name>Сетевые интерфейсы</name>
+      <value>1 RJ45 10M/100M/1000M порт Ethernet;1 RS-485 (полудуплекс, HIKVISION, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>1 вход (линейный), 3-секционный разъем 3.5 мм,макс. амплитуда входного сигнала: 1 В p-p, входное сопротивление: 4.7 кОм;тип интерфейса: неравновесный;1 вход (линейный), 3-секционный разъем 3.5 мм,макс. амплитуда выходного сигнала: 1 В p-p, выходное сопротивление: 100 Ом,тип интерфейса: неравновесный</value>
+    </spec>
+    <spec>
+      <name>Тревожный интерфейс</name>
+      <value>2 входа, 2 выхода (макс. DC 24 В, 1 A)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для microSD, SDHC, SDXC-карты, до 256 ГБ</value>
+    </spec>
+    <spec>
+      <name>Версия прошивки</name>
+      <value>V5.5.84</value>
+    </spec>
+    <spec>
+      <name>Язык веб-клиента</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Anti-Flicker, Heartbeat, зеркалирование (поддерживается только в обычном режиме), маскирование области (поддерживается только в обычном режиме), защита паролем, водяные знаки, фильтрация IP-адресов, подсчет пикселей</value>
+    </spec>
+    <spec>
+      <name>Сброс настроек</name>
+      <value>перезагрузка при помощи кнопки сброса настроек (Reset) на корпусе камеры, веб-интерфейса и клиентского ПО</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От –40 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В, трехъядерный терминальный блок; PoE: (802.3 at,)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>DC 12 В, 1.6 A, макс. 24 Вт, PoE: (802.3 at, от 42.5 до 57 В), 0.5 ~ 0.4 A</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>189.50×207.63×206.62 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>приблиз. 3 кг</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IK10 (IEC 62262:2002), IP67 (IEC 60529-2013)</value>
+    </spec>
+    <spec>
+      <name>Оптический разъем</name>
+      <value>FC</value>
+    </spec>
+    <spec>
+      <name>Тип оптоволокна</name>
+      <value>одномодовое, одноволоконное</value>
+    </spec>
+    <spec>
+      <name>Входная/выходная длина волны</name>
+      <value>Tx: 1310 нм, Rx: 1550 нм</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи</name>
+      <value>до 20 км</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 8 Мп–40 °C... +60 °C, IP67, IK10DWDR, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/38c/140_140_1/DS_2CD6924G0_IHSNFC-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6924g0-ihs-nfc-6-panoramnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD6924G0-IHS/NFC 6&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

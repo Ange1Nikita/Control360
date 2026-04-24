@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=price&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=PRICE&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Мониторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bad/450_450_1/badd6d0a1f16bec3de8033f4d38bda61.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/409/450_450_1/40947e790454257a2633f7357b205771.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/217/450_450_1/5271932310301379757.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/monitory/index.php?sort=price&amp;order=asc</source_url>
+</product>

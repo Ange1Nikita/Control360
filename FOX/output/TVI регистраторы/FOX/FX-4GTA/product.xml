@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-4GTA</name>
+  <article>FX-4GTA</article>
+  <brand>FOX</brand>
+  <category>TVI регистраторы</category>
+  <price>322482000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/293/440_370_0/FX_4GTA_-FX_4QTA_-FX_8GTA_-FX_8QTA.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/015/440_370_0/cheme-4gt.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/293/38_24_2/FX_4GTA_-FX_4QTA_-FX_8GTA_-FX_8QTA.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/015/38_24_2/cheme-4gt.png</image>
+    <image>https://www.fox-cctv.ru/upload/Guarding Vision apple 1.png</image>
+    <image>https://www.fox-cctv.ru/upload/Guarding Vision android 1.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/293/440_370_0/FX_4GTA_-FX_4QTA_-FX_8GTA_-FX_8QTA.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">FX-4GTA</spec>
+    <spec name="Система">Система</spec>
+    <spec name="Процессор">RM Cortex A7 Family</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Формат кодирования">H.265 Pro+/H.265 Pro/H.265/H.264+/H.264</spec>
+    <spec name="Управление">Мышкой    и по сети</spec>
+    <spec name="Видео">вход</spec>
+    <spec name="выход">1xRCA</spec>
+    <spec name="Дисплей">1/4/Zoom</spec>
+    <spec name="Отображение">1920 x 1080, 1280 x 1024, 1280 x 720, 1024 x 768, 800 x 600</spec>
+    <spec name="Аудио">вход</spec>
+    <spec name="Битрейт аудио">64 кб/с</spec>
+    <spec name="Сигнализация">Тревожные     вх/вых</spec>
+    <spec name="Запись">Режим работы</spec>
+    <spec name="Битрейт видео (TVI, AHD, CVI)">32 кб/с – 4 Мб/с</spec>
+    <spec name="Максимальный поток">64 Мб/с, в режиме NVR входящий поток 20 Мб/с</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">TVI/CVI/AHD: Одновременно до 4 каналов</spec>
+    <spec name="Жесткий диск">1 × 3,5” HDD (SATA3 до 8 Тб)</spec>
+    <spec name="Сеть">Сетевой протокол</spec>
+    <spec name="Сетевой интерфейс">10Base-T/100Base-TX Ethernet порт</spec>
+    <spec name="Совместимость">ONVIF (PROFILE S,PROFILE G), ISAPI</spec>
+    <spec name="Сетевые инструменты">WEB интерфейс (IE, Google Сhrome, Firefox, Mozilla, Opera) Сетевой клиент для Windows XP/7/8/10, MAC OS; Оператор для Windows 7/8/10. Мобильные устройства: ОS Android, iОS</spec>
+    <spec name="Аналитика">IVS аналитика с IP камер</spec>
+    <spec name="Тип и количество USB интерфейсов">2 × USB 2.0</spec>
+    <spec name="Технические параметры">Блок питания</spec>
+    <spec name="Потребляемая мощность">12В DC, до 7.5 Вт без HDD</spec>
+    <spec name="Рабочая температура">-10°C...+55°C</spec>
+    <spec name="Диапазон влажности">0%...90%</spec>
+    <spec name="Габариты (мм)">200x200x45 мм</spec>
+    <spec name="Вес">800 г без HDD</spec>
+    <spec name="FX-4LA">4</spec>
+    <spec name="FX-8LA">8</spec>
+    <spec name="FX-16LA">16</spec>
+    <spec name="FX-4LT">4</spec>
+    <spec name="FX-8LT">8</spec>
+    <spec name="FX-16LT">16</spec>
+    <spec name="FX-4LT rev.B">4</spec>
+    <spec name="FX-8LT rev.B">8</spec>
+    <spec name="FX-16LT_n">16</spec>
+    <spec name="FX-4RT">4</spec>
+    <spec name="FX-8RT">8</spec>
+    <spec name="FX-16RT">16</spec>
+    <spec name="FX-4RT-4HM">4</spec>
+    <spec name="FX-8RT-4HM">8</spec>
+    <spec name="FX-16RT-4HM">16</spec>
+    <spec name="FX-16LT _ст">16</spec>
+    <spec name="FX-4GTA">4 BNC + 1 IP</spec>
+    <spec name="FX-8GTA">8 BNC + 2 IP</spec>
+    <spec name="FX-16GTA">16 BNC + 2 IP</spec>
+    <spec name="FX-4QTA">4 BNC + 1 IP</spec>
+    <spec name="FX-8QTA">8 BNC + 2 IP</spec>
+    <spec name="FX-4QTA AI">4 BNC + 1 IP</spec>
+    <spec name="FX-8QTA AI">8 BNC + 2 IP</spec>
+    <spec name="FX-16GTA AI">16 BNC + 2 IP</spec>
+    <spec name="FX-16QTA AI">16 BNC + 2 IP</spec>
+    <spec name="4 BNC + 1 IP">1</spec>
+    <spec name="Особенности IP видеорегистратора">Все технические параметры</spec>
+    <spec name="Embedded    Linux OS">Процессор</spec>
+    <spec name="RM Cortex A7 Family">Режим работы</spec>
+    <spec name="Пентаплекс">Формат кодирования</spec>
+    <spec name="H.265 Pro+/H.265 Pro/H.265/H.264+/H.264">Управление</spec>
+    <spec name="Мышкой    и по сети">Видео</spec>
+    <spec name="4 × BNC + 1 х IPC">выход</spec>
+    <spec name="1 HDMI, 1 VGA">Дисплей</spec>
+    <spec name="1/4/Zoom">Отображение</spec>
+    <spec name="1920 x 1080, 1280 x 1024, 1280 x 720, 1024 x 768, 800 x 600">Аудио</spec>
+    <spec name="Метод кодирования">8кГц    × 16бит G.711A / G.711U</spec>
+    <spec name="1 вх. (RCA) до 4-х по технологии AoC (аудио по коаксиальному кабелю)">выход</spec>
+    <spec name="1xRCA">Битрейт аудио</spec>
+    <spec name="64 кб/с">Сигнализация</spec>
+    <spec name="Тревожные     вх/вых">-</spec>
+    <spec name="TVI/CVI/AHD 2.0: 1080P Lite (960 × 1080) – 25 к/с;">720P (1280 × 720) – 25 к/c</spec>
+    <spec name="Аналог: WD1 (960 × 576) – 25 к/с">NVR: 5 IP камер с разрешением до 2МП (1920x1080) при полном замещении аналоговых видеовходов – 25 к/с (4Mbps)</spec>
+    <spec name="10Base-T/100Base-TX Ethernet порт">Совместимость</spec>
+    <spec name="ONVIF (PROFILE S,PROFILE G), ISAPI">Сетевые инструменты</spec>
+    <spec name="IVS аналитика с IP камер">Тип и количество USB интерфейсов</spec>
+    <spec name="2 × USB 2.0">Технические параметры</spec>
+    <spec name="Блок питания">DC12V/1.5A</spec>
+    <spec name="Материалы и особенности ПО">Паспорт  FX-4GTA</spec>
+    <spec name="(0.354МБ)">Инструкция</spec>
+    <spec name="(3.443МБ)">Инструкция ПО Guarding Vision Client</spec>
+    <spec name="Паспорт  FX-4GTA">(0.354МБ)</spec>
+    <spec name="Инструкция">(3.443МБ)</spec>
+    <spec name="Инструкция ПО Guarding Vision Client">(1.924МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ahd-dvr/fx-4gta/</source_url>
+</product>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Аналоговые видеокамеры/KN-CE74V3616</name>
+  <article>KN-CE74V3616</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b94/440_370_0/2.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b94/38_24_2/2.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>1 Уличная 700 3.6-16 50 Короткое описание Особенности камеры Уличная 700 3.6-16 50 Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Разрешение, ТВЛ</spec>
+    <spec name="KN-CE80F36">1000</spec>
+    <spec name="KN-DE82F36">1000</spec>
+    <spec name="KN-DE80F36">1000</spec>
+    <spec name="KN-DE81F36">1000</spec>
+    <spec name="KN-DE81V2812/W">1000</spec>
+    <spec name="KN-DE81V2812/B">1000</spec>
+    <spec name="KN-DE83V2812">1000</spec>
+    <spec name="KN-CE83V2812">1000</spec>
+    <spec name="KN-CE84V2812">1000</spec>
+    <spec name="KN-CE74V3616">700</spec>
+    <spec name="KN-CE74V5050">700</spec>
+    <spec name="KN-CE84V5050">1000</spec>
+    <spec name="KN-CE84V6022">1000</spec>
+    <spec name="KN-CE95F36">1200</spec>
+    <spec name="KN-DE95F36">1200</spec>
+    <spec name="KN-DE91V2812">1200</spec>
+    <spec name="KN-DE93V2812">1200</spec>
+    <spec name="KN-CE93V2812">1200</spec>
+    <spec name="KN-CE94V2812">1200</spec>
+    <spec name="KN-CE94V6022">1200</spec>
+    <spec name="KN-CE94V5050">1200</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/analogovye-kamery/KN-CE74V3616/</source_url>
+</product>

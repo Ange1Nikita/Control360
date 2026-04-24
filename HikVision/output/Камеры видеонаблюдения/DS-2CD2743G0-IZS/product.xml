@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>4 Мп IP-камера Hikvision DS-2CD2743G0-IZS с вариообъективом, EXIR-подсветкой 30 м</name>
+  <model>DS-2CD2743G0-IZS</model>
+  <sku>55826</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>35180</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd2743g0-izs-hikvision-ip-kamera-ulichnaya-antivandalnaya-s-podsvetkoj/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ Вандалозащищенная (IK10) IP-камера, матрица 1/3" CMOS, 0.01 лк (при F1.2), 2688×1520, 25 к/с, моторизованный объектив 2.8–12мм, F1.6, день/ночь, механический ИК-фильтр, H.265, H.264, MJPEG, BLC, 120 дБ WDR, 3D DNR, ROI, детекция движения, RJ-45, аудио-вход-выход (1/1), тревожный вход/выход (1/1), слот для microSD/SDHC/SDXC до 128 Гбайт, ИК-подсветка до 30 м, IP67, грозозащита, питание: DC 12 В ± 25 %, PoE, макс. 12 Вт.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.01 лк @ (F1.2, AGC вкл.)ч/б: 0.018 лк @ (F2.0, AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 с ~ 1/100,000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8–12 мм @F1.6, моторизованный объектив</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Ø14</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 98° ~ 28°по вертикали: 51° ~ 16°по диагонали: 115° ~ 32°</value>
+    </spec>
+    <spec>
+      <name>Регулировка диафрагмы</name>
+      <value>авто</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0 ° ~ 355 °; наклон: 0 ° ~ 75 °; вращение: 0 ° ~ 355 °</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265/H.264дополнительный поток: H.265/H.264/MJPEGтретий поток: H.265/H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с – 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.722.1), 16 кбит/с (G.726), 32–192 кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2688×1520</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2688×1520, 2304×1296, 1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (640×480, 640×360, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1280×720, 640×360, 352×288)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора, зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Переключение день ночь</name>
+      <value>автоматическое, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Smart видеоаналитика</name>
+      <value>детекция движения, обнаружение пересечения линии, вторжения в область</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP™, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователяводяные знакифильтрация IP-адресованонимный доступ</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (Profile S, Profile G), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>Smart-функции, разрыв сети, конфликт IP-адресов, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, iVMS-5200</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>IE8+, Chrome 31.0-44, Firefox 30.0-51, Safari 8.0+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход (линейный, микрофонный)</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 аудиовыход (монозвук)</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25%, PoE (802.3at, class 4)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>12 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C…+65 °С, влажность 90% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, IK10, подавитель напряжения переходных процессов TVS 2000В для грозозащиты</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 30 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø153.4×133.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1.33 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ Вандалозащищенная (IK10) IP-камера, матрица 1/3" CMOS, 0.01 лк (при F1.2), 2688×1520, 25 к/с, моторизованный объектив 2.8–12мм, F1.6, день/ночь, механический ИК-фильтр, H.265, H.264, MJPEG, BLC, 120 дБ WDR, 3D DNR, ROI, детекция движения, RJ-45, аудио-вход-выход (1/1), тревожный вход/выход (1/1), слот для microSD/SDHC/SDXC до 128 Гбайт, ИК-подсветка до 30 м, IP67, грозозащита, питание: DC 12 В ± 25 %, PoE, макс. 12 Вт.ПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине35 180р.Узнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/977/140_140_1/ds_2cd2743g0_izs_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd2743g0-izs-hikvision-ip-kamera-ulichnaya-antivandalnaya-s-podsvetkoj/?utm_source=comebackletter"&gt;Hikvision DS-2CD2743G0-IZS&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;35 180&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

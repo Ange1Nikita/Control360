@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Модуль безопасности Hikvision DS-K2M061</name>
+  <model>DS-K2M061</model>
+  <article>330766</article>
+  <sku>302917740</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Дополнительное оборудование</subcategory>
+  <functional_name>Модуль безопасности</functional_name>
+  <nomenclature>Модуль управления</nomenclature>
+  <price>0</price>
+  <price_wholesale>0</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/330766/</product_url>
+  <description>
+    <paragraph>Модуль безопасности является промежуточным звеном между терминалом контроля доступа и исполнительными устройствами (замок, кнопка выхода, датчик двери).  Применяется, чтобы держать дверь закрытой, когда терминал поврежден.  Интерфейс связи с терминалом: RS-485.  Подключение:  1 дв.контакт,  1 кн.выхода,  1 реле замка,  2 трев.входа,  1 трев.выход,  1 вход д/считывателя Wiegand.  DC 12В;  -40...+70°C.  Габ.размеры:  48×115×26 мм.</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="681.57 КБ">https://www.tinko.ru/upload/exchange/public/documentation/9/8/98009C5F0CFF63C1985EE7DA34EB811F.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Комплект охраной сигнализации ViGUARD Охрана 10 Лайт</name>
+  <article>KOMPLEKT_OKHRANOY_SIGNALIZATSII_VIGUARD_OKHRANA_10_LAYT</article>
+  <brand>ViGUARD</brand>
+  <category>Classic Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/117/450_450_1/117986751b5e44c0e3c8e6c7f481edd9.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/117/120_120_0/117986751b5e44c0e3c8e6c7f481edd9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/117/500_500_1/117986751b5e44c0e3c8e6c7f481edd9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f27/500_500_1/f278bd75167b48244492de667c7c4dbc.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/117/120_120_1/117986751b5e44c0e3c8e6c7f481edd9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f27/120_120_1/f278bd75167b48244492de667c7c4dbc.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/117/117986751b5e44c0e3c8e6c7f481edd9.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Комплект охраной сигнализации ViGUARD Охрана 10 Лайт</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/komplekt_okhranoy_signalizatsii_viguard_okhrana_10_layt/</source_url>
+</product>

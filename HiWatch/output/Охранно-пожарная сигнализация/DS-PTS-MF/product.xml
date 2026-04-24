@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PTS-MF</name>
+  <model>DS-PTS-MF</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pts-mf</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Беспроводная карта для постановки/снятия на охрану;</paragraph>
+    <paragraph>Дальность считывания до 50 мм</paragraph>
+    <paragraph>Частота 13.56МгцБеспроводная карта</paragraph>
+    <paragraph>Беспроводной карта для постановки/снятия на охрану; дальность до 50мм;  защита от повреждения; ;  -10градусовC...+55градусовC; размер 40 20 5мм; пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная карта для постановки/снятия на охрану</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность считывания до 50 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота 13.56МгцБеспроводная карта</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной карта для постановки/снятия на охрану</value>
+    </spec>
+    <spec>
+      <name />
+      <value>дальность до 50мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от повреждения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 40 20 5мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

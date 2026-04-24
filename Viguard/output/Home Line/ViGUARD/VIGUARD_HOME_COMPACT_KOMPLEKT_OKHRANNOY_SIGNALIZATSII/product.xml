@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD HOME COMPACT комплект охранной сигнализации</name>
+  <article>VIGUARD_HOME_COMPACT_KOMPLEKT_OKHRANNOY_SIGNALIZATSII</article>
+  <brand>ViGUARD</brand>
+  <category>Home Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2c7/450_450_1/2c775c23264661c128b08a222ae28284.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2c7/120_120_0/2c775c23264661c128b08a222ae28284.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2c7/500_500_1/2c775c23264661c128b08a222ae28284.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a2e/500_500_1/a2eb41e7af0eee57264342e3b9143eb9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/32d/500_500_1/32d208798f455fcb5fbf3c5fd1b59d11.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/9ab/500_500_1/9abc5653215a74cac13c3faa9cd1769d.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2c7/120_120_1/2c775c23264661c128b08a222ae28284.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a2e/120_120_1/a2eb41e7af0eee57264342e3b9143eb9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/32d/120_120_1/32d208798f455fcb5fbf3c5fd1b59d11.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/9ab/120_120_1/9abc5653215a74cac13c3faa9cd1769d.png</image>
+    <image>https://viguard.pro/upload/medialibrary/d76/d768c2dbdacc31164d10a73ca7ffe8bb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/72c/72cd8157155096b03a4f3e2906ff5bcb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/a10/a10b4b0eb36b885fe24c4279a8569075.png</image>
+    <image>https://viguard.pro/upload/medialibrary/c09/c091dce98744df07bd303db3e5060793.png</image>
+    <image>https://viguard.pro/upload/medialibrary/84a/84a6fabd191faf9c5b5b4f2c18692f30.png</image>
+    <image>https://viguard.pro/upload/iblock/2c7/2c775c23264661c128b08a222ae28284.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>ViGUARD HOME COMPACT комплект охранной сигнализации</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/home_line/viguard_home_compact_komplekt_okhrannoy_signalizatsii/</source_url>
+</product>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDB-IN-Wristband</name>
+  <model>DS-PDB-IN-Wristband</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdb-in-wristband</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Ремешок DS-PDB-IN-Wristband является ремешком на запястье для тревожной кнопки</paragraph>
+    <paragraph>• Материал корпуса: резинаБраслет для установки тревожной кнопки</paragraph>
+    <paragraph>Для установки кнопки DS-PDEBP1-EG2-WE или DS-PDEBP2-EG2-WE</paragraph>
+    <paragraph>Материал: каучук; Размер: 38   255   12мм; вес 15г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Ремешок DS-PDB-IN-Wristband является ремешком на запястье для тревожной кнопки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Материал корпуса: резинаБраслет для установки тревожной кнопки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Для установки кнопки DS-PDEBP1-EG2-WE или DS-PDEBP2-EG2-WE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал: каучук</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер: 38   255   12мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вес 15г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=price&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=PRICE&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Брелки Home</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b96/450_450_1/viguard-keyfob-f-brelok-upravleniya-sistemoy-home-line-ot-proizvoditelya-otlichnoe-kachestvo-po-supe.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/brelki_home_line2366/index.php?sort=price&amp;order=asc</source_url>
+</product>

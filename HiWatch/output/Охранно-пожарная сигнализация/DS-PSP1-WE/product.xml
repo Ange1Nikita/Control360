@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PSP1-WE</name>
+  <model>DS-PSP1-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-psp1-we</product_url>
+  <description>
+    <paragraph>Розетка DS-PSP1-WE является управляемой розеткой c поддержкой беспроводной связи 868 МГцБеспроводная розетка</paragraph>
+    <paragraph>Управляемая розетка с 868МГц двухсторонной связей; Настройка сценариев по разным событиям; AC от 100 до 240 В, 50/60 Гц, макс. 10 A; Рабочая температура от -10 до +55 градусовC; Размеры 52 x 52 x 88 мм; Вес 85г; Пластик;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Розетка DS-PSP1-WE является управляемой розеткой c поддержкой беспроводной связи 868 МГцБеспроводная розетка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Управляемая розетка с 868МГц двухсторонной связей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка сценариев по разным событиям</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AC от 100 до 240 В, 50/60 Гц, макс. 10 A</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура от -10 до +55 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры 52 x 52 x 88 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес 85г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

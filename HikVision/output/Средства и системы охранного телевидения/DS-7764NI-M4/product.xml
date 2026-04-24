@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-7764NI-M4</name>
+  <article>334075</article>
+  <sku>303617484</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>IP-видеорегистратор 64 канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>52183.2</price>
+  <price_wholesale>47399.74</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/334075/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 64 канальный; 1хVGA до 1080Р, 1хHDMI до 8К, 2хHDMI до 4К, 1хBNC, независимые; входящий поток 400 Мб/с; исходящий поток 400 Мб/с; разрешение записи до 32 Мп 30 к/с; 4 SATA для HDD до 16Тб, 1 eSATA; тревожные вход/выход- 16/9, аудиовход/выход -1/1, 2хRJ45 10/100/1000 Мбит/с; 2хUSB; 2хRS-485 (полудуплекс), 1хRS-232; АC 100-240В; 15Вт(без HDD); -10°C...+55°C; 445х400х75 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>64</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 BNC; 3 HDMI/1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>8K (7680х4320)/30 Гц; 4K (3840х2160)/60 Гц; 4K (3840х2160)/30 Гц,2K (2560х1440)/60 Гц; 1920х1080/60 Гц; 1600х1200/60 Гц; 1280</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>800</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>16/9</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>4 SATA х 16Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>100-240 AC</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>445х400х75</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+    <passport>document_5.pdf</passport>
+    <passport>document_6.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="854.79 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/D/0D1D28AC0612C4E65922F578933FC3B2.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/E/3EC8D3ECC798A47F9B702C6CADB8BB8C.pdf</document>
+    <document title="Настройка облачного сервиса" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/3/E30475F80B63480261CC8976CD654460.pdf</document>
+    <document title="Облачный сервис приложение" size="90.98 КБ">https://www.tinko.ru/upload/exchange/public/documentation/5/D/5D1E21CFBCF41CCFEB918483234151A6.jpg</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/E/CECCE7A1BEA2A5254C9FB87F4A8A1014.pdf</document>
+    <document title="Схема подключения тревожного входа/выхода" size="177.18 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/4/14E6D8CC6C30A6116759AF605B1106FA.jpg</document>
+  </documents>
+</product>

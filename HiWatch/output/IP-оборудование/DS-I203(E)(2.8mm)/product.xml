@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I203(E)(2.8mm)</name>
+  <model>DS-I203(E)(2.8mm)</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-i203-e-2-8mm-</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 2 Мп купольная; 1/2.9" Progressive Scan CMOS; 19201080 - 25 к/с; 2.8 мм; 0.01лк; ИК подсветка EXIR 30 м; H.265/H.265+/H.264/H.264+ /MJPEG; DWDR; ROI; 3D DNR; BLC; ONVIF; режим коридора, обнаружение цели по типу «Человек»/«ТС», 12 DC/POE; 6.5Вт; защита от перенапряжений TVS; -40 градусовC...+60 градусовC; IP 67; 85.3x110 мм.</paragraph>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Высокое качество изображения с разрешением 2 Мп.</paragraph>
+    <paragraph>• Обнаружение цели по типу «Человек» / «ТС».</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP67.</paragraph>
+    <paragraph>• Технология эффективного сжатия H.265+.</paragraph>
+    <paragraph>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки.</paragraph>
+    <paragraph>• Встроенный слот для microSD / SDHC / SDXC: нет</paragraph>
+    <paragraph>• Встроенный микрофон: нет</paragraph>
+    <paragraph>Тип</paragraph>
+    <paragraph>IP</paragraph>
+    <paragraph>Корпус</paragraph>
+    <paragraph>Купольная</paragraph>
+    <paragraph>Назначение</paragraph>
+    <paragraph>Уличные</paragraph>
+    <paragraph>Функции</paragraph>
+    <paragraph>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</paragraph>
+    <paragraph>Макс. разрешение</paragraph>
+    <paragraph>2Мп</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/2.9'' Progressive Scan CMOS</paragraph>
+    <paragraph>Тип объектива</paragraph>
+    <paragraph>Фиксированный</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>Фиксированный объектив 2.8 мм (опционально)</paragraph>
+    <paragraph>Угол обзора</paragraph>
+    <paragraph>2.8 мм, по горизонтали: 104°, по вертикали: 58°, по диагонали: 123°</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>Цвет: 0.01 лк @ (F2.0, AGC вкл), ч/б: 0 лк с ИК-подсветкой</paragraph>
+    <paragraph>Подсветка</paragraph>
+    <paragraph>ИК-подсветка</paragraph>
+    <paragraph>Дальность подсветки</paragraph>
+    <paragraph>до 30м</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</paragraph>
+    <paragraph>Дополнительный поток</paragraph>
+    <paragraph>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>Н.264 / Н.264+ / Н.265 / Н.265+</paragraph>
+    <paragraph>Битрейт видео</paragraph>
+    <paragraph>От 32 Кбит/с до 8 Мбит/с</paragraph>
+    <paragraph>Протокол</paragraph>
+    <paragraph>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</paragraph>
+    <paragraph>Безопасность</paragraph>
+    <paragraph>Защита паролем, сложный пароль, водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, журнал проверки безопасности, аутентификация хоста (MAC-адрес)</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12В</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл и пластик</paragraph>
+    <paragraph>Размер</paragraph>
+    <paragraph>110  85.3 мм ( 4.3  3.4)</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>Приблиз. 330 г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Бюджетная IP-видеокамера 2 Мп купольная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.9" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>19201080 - 25 к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2.8 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01лк</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК подсветка EXIR 30 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+ /MJPEG</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ONVIF</value>
+    </spec>
+    <spec>
+      <name />
+      <value>режим коридора, обнаружение цели по типу «Человек»/«ТС», 12 DC/POE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6.5Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от перенапряжений TVS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40 градусовC...+60 градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP 67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>85.3x110 мм.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения с разрешением 2 Мп.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Обнаружение цели по типу «Человек» / «ТС».</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP67.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология эффективного сжатия H.265+.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• EXIR 2.0: улучшенная инфракрасная технология с большой дальностью ИК-подсветки.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD / SDHC / SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Купольная</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Назначение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Уличные</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Макс. разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.9'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный объектив 2.8 мм (опционально)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2.8 мм, по горизонтали: 104°, по вертикали: 58°, по диагонали: 123°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет: 0.01 лк @ (F2.0, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>до 30м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дополнительный поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Н.264 / Н.264+ / Н.265 / Н.265+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Битрейт видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита паролем, сложный пароль, водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, журнал проверки безопасности, аутентификация хоста (MAC-адрес)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл и пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>110  85.3 мм ( 4.3  3.4)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 330 г</value>
+    </spec>
+    <spec>
+      <name>Тип</name>
+      <value>IP</value>
+    </spec>
+    <spec>
+      <name>Корпус</name>
+      <value>Купольная</value>
+    </spec>
+    <spec>
+      <name>Назначение</name>
+      <value>Уличные</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>Heartbeat, Anti-banding, зеркалирование, защита паролем, изменение пароля по email</value>
+    </spec>
+    <spec>
+      <name>Макс. разрешение</name>
+      <value>2Мп</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.9'' Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>Фиксированный</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>Фиксированный объектив 2.8 мм (опционально)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>2.8 мм, по горизонтали: 104°, по вертикали: 58°, по диагонали: 123°</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.01 лк @ (F2.0, AGC вкл), ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Подсветка</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>до 30м</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (1920  1080, 1280  720) 60 Гц: 30 к/с (1920  1080, 1280  720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (640  480, 640  360) 60 Гц: 30 к/с (640  480, 640  360)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>Н.264 / Н.264+ / Н.265 / Н.265+</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>От 32 Кбит/с до 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Протокол</name>
+      <value>TCP / IP, ICMP, DHCP, DNS, HTTP, RTP, RTSP, NTP, IGMP, IPv6, UDP, QoS, FTP, SMTP</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Защита паролем, сложный пароль, водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP, WSSE и дайджест-аутентификация для открытого сетевого видеоинтерфейса, журнал проверки безопасности, аутентификация хоста (MAC-адрес)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12В</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 %, 0.4 А, макс. 5 Вт, коаксиальный разъем питания  5.5 мм PoE: 802.3 af, класс 3, от 36 до 57 В, от 0.2 до 0.15 А, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл и пластик</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>110  85.3 мм ( 4.3  3.4)</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>Приблиз. 330 г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

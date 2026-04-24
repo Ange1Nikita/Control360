@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch DS-N308P(D)</name>
+  <model>DS-N308P(D)</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n308p-d-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• IP-видеовходы: до 8 каналов</paragraph>
+    <paragraph>• Форматы видео: H.265+ / H.265 / H.264 / H.264+</paragraph>
+    <paragraph>• Декодирующая способность, 1 канал @ 8 Мп / 3 канала @ 4 Мп / 6 каналов @ 1080p</paragraph>
+    <paragraph>• Входная пропускная способность до 80 Мбит/с</paragraph>
+    <paragraph>Видеоаналитика: «Человек» / «ТС»</paragraph>
+    <paragraph>4 канала</paragraph>
+    <paragraph>IP-видеовход</paragraph>
+    <paragraph>8 каналов</paragraph>
+    <paragraph>Входная пропускная способность</paragraph>
+    <paragraph>80 Мбит/с</paragraph>
+    <paragraph>Выходная пропускная способность</paragraph>
+    <paragraph>80 Мбит/с</paragraph>
+    <paragraph>HDMI-выход</paragraph>
+    <paragraph>1 канал, 4K (4096  2160) / 30 Гц, 4K (3840  2160) / 30 Гц, 2K (2560  1440) / 60 Гц, 1920  1080 / 60 Гц, 1600  1200 / 60 Гц, 1280  1024 / 60 Гц, 1280  720 / 60 Гц</paragraph>
+    <paragraph>Выход VGA</paragraph>
+    <paragraph>1 канал, 1920  1080 / 60 Гц, 1280  1024 / 60 Гц, 1280  720 / 60 Гц</paragraph>
+    <paragraph>Режим вывода видео</paragraph>
+    <paragraph>Одновременный вывод HDMI / VGA</paragraph>
+    <paragraph>Аудиовыход</paragraph>
+    <paragraph>1 канал, RCA (линейный, 1 кОм)</paragraph>
+    <paragraph>Двусторонняя аудиосвязь</paragraph>
+    <paragraph>1 канал, RCA (2.0 В p-p, 1 кОм)</paragraph>
+    <paragraph>Формат декодирования</paragraph>
+    <paragraph>H.265+ / H.265 / H.264+ / H.264</paragraph>
+    <paragraph>Разрешение при записи</paragraph>
+    <paragraph>8 Мп / 6 Мп / 5 Мп / 4 Мп / 3 Мп / 1080p / UXGA /720p / VGA / 4CIF / DCIF / 2CIF / CIF / QCIF</paragraph>
+    <paragraph>Синхронное воспроизведение</paragraph>
+    <paragraph>8 каналов</paragraph>
+    <paragraph>Возможности воспроизведения</paragraph>
+    <paragraph>1 канал @ 8 Мп (30 к/с) / 3 канала @ 4 Мп (30 к/с) / 6 каналов @ 1080p (30 к/с) *: длина или ширина разрешения камеры не может превышать 4096 пикселей.</paragraph>
+    <paragraph>Тип потока</paragraph>
+    <paragraph>Видео, видео и аудио</paragraph>
+    <paragraph>Аудиосжатие</paragraph>
+    <paragraph>G.711ulaw / G.711alaw / G.722 / G.726</paragraph>
+    <paragraph>Удаленное подключение</paragraph>
+    <paragraph>32</paragraph>
+    <paragraph>Сетевые протоколы</paragraph>
+    <paragraph>TCP / IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, ISUP, UPnP™, HTTP, HTTPS</paragraph>
+    <paragraph>Сетевой интерфейс</paragraph>
+    <paragraph>1, RJ45 auto 10/100M Ethernet</paragraph>
+    <paragraph>Интерфейсы</paragraph>
+    <paragraph>8 каналов, RJ45 auto 10 / 100M Ethernet</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>75 Вт</paragraph>
+    <paragraph>Стандарты</paragraph>
+    <paragraph>IEEE 802.3 af / at</paragraph>
+    <paragraph>SATA</paragraph>
+    <paragraph>1 SATA-интерфейс</paragraph>
+    <paragraph>Емкость</paragraph>
+    <paragraph>До 8 ТБ каждый накопитель</paragraph>
+    <paragraph>USB</paragraph>
+    <paragraph>2  USB 2.0</paragraph>
+    <paragraph>Тревожный вход / выход</paragraph>
+    <paragraph>4/1</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 48 В, 1.88 A</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>10 Вт (без HDD и PoE выкл.)</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>320  240  48 мм (12.4  9.4  1.9)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>1 кг (без HDD)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP-видеовходы: до 8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Форматы видео: H.265+ / H.265 / H.264 / H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Декодирующая способность, 1 канал @ 8 Мп / 3 канала @ 4 Мп / 6 каналов @ 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Входная пропускная способность до 80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеоаналитика: «Человек» / «ТС»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP-видеовход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входная пропускная способность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выходная пропускная способность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HDMI-выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал, 4K (4096  2160) / 30 Гц, 4K (3840  2160) / 30 Гц, 2K (2560  1440) / 60 Гц, 1920  1080 / 60 Гц, 1600  1200 / 60 Гц, 1280  1024 / 60 Гц, 1280  720 / 60 Гц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выход VGA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал, 1920  1080 / 60 Гц, 1280  1024 / 60 Гц, 1280  720 / 60 Гц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим вывода видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный вывод HDMI / VGA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал, RCA (линейный, 1 кОм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя аудиосвязь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал, RCA (2.0 В p-p, 1 кОм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Формат декодирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+ / H.265 / H.264+ / H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение при записи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 Мп / 6 Мп / 5 Мп / 4 Мп / 3 Мп / 1080p / UXGA /720p / VGA / 4CIF / DCIF / 2CIF / CIF / QCIF</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синхронное воспроизведение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Возможности воспроизведения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал @ 8 Мп (30 к/с) / 3 канала @ 4 Мп (30 к/с) / 6 каналов @ 1080p (30 к/с) *: длина или ширина разрешения камеры не может превышать 4096 пикселей.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео, видео и аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиосжатие</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711ulaw / G.711alaw / G.722 / G.726</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленное подключение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевые протоколы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP / IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, ISUP, UPnP™, HTTP, HTTPS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1, RJ45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейсы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 каналов, RJ45 auto 10 / 100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>75 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IEEE 802.3 af / at</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SATA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Емкость</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 8 ТБ каждый накопитель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2  USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожный вход / выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 48 В, 1.88 A</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10 Вт (без HDD и PoE выкл.)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>320  240  48 мм (12.4  9.4  1.9)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 кг (без HDD)</value>
+    </spec>
+    <spec>
+      <name>Видеоаналитика: «Человек» / «ТС»</name>
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name>IP-видеовход</name>
+      <value>8 каналов</value>
+    </spec>
+    <spec>
+      <name>Входная пропускная способность</name>
+      <value>80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Выходная пропускная способность</name>
+      <value>80 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>HDMI-выход</name>
+      <value>1 канал, 4K (4096  2160) / 30 Гц, 4K (3840  2160) / 30 Гц, 2K (2560  1440) / 60 Гц, 1920  1080 / 60 Гц, 1600  1200 / 60 Гц, 1280  1024 / 60 Гц, 1280  720 / 60 Гц</value>
+    </spec>
+    <spec>
+      <name>Выход VGA</name>
+      <value>1 канал, 1920  1080 / 60 Гц, 1280  1024 / 60 Гц, 1280  720 / 60 Гц</value>
+    </spec>
+    <spec>
+      <name>Режим вывода видео</name>
+      <value>Одновременный вывод HDMI / VGA</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 канал, RCA (линейный, 1 кОм)</value>
+    </spec>
+    <spec>
+      <name>Двусторонняя аудиосвязь</name>
+      <value>1 канал, RCA (2.0 В p-p, 1 кОм)</value>
+    </spec>
+    <spec>
+      <name>Формат декодирования</name>
+      <value>H.265+ / H.265 / H.264+ / H.264</value>
+    </spec>
+    <spec>
+      <name>Разрешение при записи</name>
+      <value>8 Мп / 6 Мп / 5 Мп / 4 Мп / 3 Мп / 1080p / UXGA /720p / VGA / 4CIF / DCIF / 2CIF / CIF / QCIF</value>
+    </spec>
+    <spec>
+      <name>Синхронное воспроизведение</name>
+      <value>8 каналов</value>
+    </spec>
+    <spec>
+      <name>Возможности воспроизведения</name>
+      <value>1 канал @ 8 Мп (30 к/с) / 3 канала @ 4 Мп (30 к/с) / 6 каналов @ 1080p (30 к/с) *: длина или ширина разрешения камеры не может превышать 4096 пикселей.</value>
+    </spec>
+    <spec>
+      <name>Тип потока</name>
+      <value>Видео, видео и аудио</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711ulaw / G.711alaw / G.722 / G.726</value>
+    </spec>
+    <spec>
+      <name>Удаленное подключение</name>
+      <value>32</value>
+    </spec>
+    <spec>
+      <name>Сетевые протоколы</name>
+      <value>TCP / IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, SNMP, NFS, iSCSI, ISUP, UPnP™, HTTP, HTTPS</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1, RJ45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>8 каналов, RJ45 auto 10 / 100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>75 Вт</value>
+    </spec>
+    <spec>
+      <name>Стандарты</name>
+      <value>IEEE 802.3 af / at</value>
+    </spec>
+    <spec>
+      <name>SATA</name>
+      <value>1 SATA-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Емкость</name>
+      <value>До 8 ТБ каждый накопитель</value>
+    </spec>
+    <spec>
+      <name>USB</name>
+      <value>2  USB 2.0</value>
+    </spec>
+    <spec>
+      <name>Тревожный вход / выход</name>
+      <value>4/1</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 48 В, 1.88 A</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>10 Вт (без HDD и PoE выкл.)</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>320  240  48 мм (12.4  9.4  1.9)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>1 кг (без HDD)</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

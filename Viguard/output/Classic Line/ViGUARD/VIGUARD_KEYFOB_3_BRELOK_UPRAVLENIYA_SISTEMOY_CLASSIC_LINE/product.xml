@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD KEYFOB 3 брелок управления системой CLASSIC LINE</name>
+  <article>VIGUARD_KEYFOB_3_BRELOK_UPRAVLENIYA_SISTEMOY_CLASSIC_LINE</article>
+  <brand>ViGUARD</brand>
+  <category>Classic Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/afc/450_450_1/afc7e3fe0718381ee70b1b53aae5b8e4.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/afc/120_120_0/afc7e3fe0718381ee70b1b53aae5b8e4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/afc/500_500_1/afc7e3fe0718381ee70b1b53aae5b8e4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/afc/afc7e3fe0718381ee70b1b53aae5b8e4.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>ViGUARD KEYFOB 3 брелок управления системой CLASSIC LINE</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/viguard_keyfob_3_brelok_upravleniya_sistemoy_classic_line/</source_url>
+</product>

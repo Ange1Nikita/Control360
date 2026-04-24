@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная купольная HiWatch DS-T503 (С) (2.8 mm)</name>
+  <model>DS-T503 (С) (2.8 mm)</model>
+  <article>292004</article>
+  <sku>300614246</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные купольные</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная купольная</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>2870.28</price>
+  <price_wholesale>2607.17</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/292004/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD  цветная купольная уличная со встроенной ИК подсветкой (механический ИК-фильтр), ДЕНЬ/НОЧЬ; 1/2.5" CMOS, 5 МП 2592x1944 х20к/с, 4 МП 2560x1440/2 МП 1920x1080х25к/с; 0.01лк/0лк с вкл ИК; f=2.8мм ; S/N: более 62dB; Дальность ИК подсветки до 30 м; OSD, DWDR, BLC, DNR, HLC;  EXIR Smart ИК ; DC12В/400мА; –40°...+60°C; IP67; 82.6 x 90 x 79.37мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.5" 5 МП CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>2592х1944/2560х1440/1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>82.6х90х79.37</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>manual.pdf</passport>
+    <passport>document_3.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1.04 МБ">https://www.tinko.ru/upload/exchange/public/documentation/B/8/B895218B521897FCD35D843B34A8A982.pdf</document>
+    <document title="Руководство по установке" size="1.16 МБ">https://www.tinko.ru/upload/exchange/public/documentation/B/2/B26F5407B7F1B6C55EFBAAF99BA12DDE.pdf</document>
+    <document title="Дополнение к руководству" size="64.17 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/7/27FF9DB92E6D8A9AA417E54629017C55.jpg</document>
+  </documents>
+</product>

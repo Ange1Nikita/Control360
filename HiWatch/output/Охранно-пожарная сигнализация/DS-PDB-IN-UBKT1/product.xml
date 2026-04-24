@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDB-IN-UBKT1 black</name>
+  <model>DS-PDB-IN-UBKT1</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-pdb-in-ubkt1-black</product_url>
+  <description>
+    <paragraph>Кроштейн настенный/потолочный регулируемый(Черный)</paragraph>
+    <paragraph>Настенное/Потолочное крепление; для внутренних датчиков PIR/PIR Cutain/DT/PIRCAM;</paragraph>
+    <paragraph>Угол (0-90 градусов по вертикали, +- 40 градусов по горизонтали); Пластик PC; Размер 29.3 x 53.2 x 35.5мм; Вес 13г.</paragraph>
+    <paragraph>Материал корпуса</paragraph>
+    <paragraph>Поликарбонат</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>14  37  5 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Кроштейн настенный/потолочный регулируемый(Черный)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настенное/Потолочное крепление</value>
+    </spec>
+    <spec>
+      <name />
+      <value>для внутренних датчиков PIR/PIR Cutain/DT/PIRCAM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол (0-90 градусов по вертикали, +- 40 градусов по горизонтали)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик PC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер 29.3 x 53.2 x 35.5мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес 13г.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал корпуса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поликарбонат</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>14  37  5 мм</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Поликарбонат</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>14  37  5 мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch NVR-416M-K/16P</name>
+  <model>NVR-416M-K/16P</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/nvr-416m-k-16p</product_url>
+  <description>
+    <paragraph>СНЯТО С ПРОИЗВОДСТВА, ЗАМЕНА DS-N316/2P(D), DS-7616NXI-K2/16P</paragraph>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Поддержка двух ОС для обеспечения высокой надежности работы системы</paragraph>
+    <paragraph>• Технология ANR для повышения надежности хранения при отключении сети HD-вход</paragraph>
+    <paragraph>• Форматы видео: H.265/H.265+/H.264/H.264+/MPEG4</paragraph>
+    <paragraph>• Возможность подключения к сторонним IP-камерам</paragraph>
+    <paragraph>• Может быть подключено до 16 IP-камер</paragraph>
+    <paragraph>• Запись видео с разрешением до 8 Мп</paragraph>
+    <paragraph>• Поддержка просмотра в реальном времени, хранения и воспроизведения для подключенной камеры с разрешением до 8 Мп</paragraph>
+    <paragraph>HD-выход</paragraph>
+    <paragraph>• Имеются независимые выходы HDMI и VGA</paragraph>
+    <paragraph>• Вывод видео (HDMI) с разрешением до 4K (3840  2160)</paragraph>
+    <paragraph>HD-хранение</paragraph>
+    <paragraph>• Возможность подключения до 4 SATA-интерфейсов для записи и резервного копирования</paragraph>
+    <paragraph>• Эффективная экономия дискового пространства от 50 до 70% благодаря использованию видеосжатия H.264+</paragraph>
+    <paragraph>HD-передача</paragraph>
+    <paragraph>• 1 auto 10M/100M/1000M порт Ethernet</paragraph>
+    <paragraph>• Предусмотрено 16 независимых сетевых PoE-интерфейсов</paragraph>
+    <paragraph>Различные сценарии применения</paragraph>
+    <paragraph>• Поддержка технологии потокового шифрования по TLS (расширенная SDK-служба и RTP по HTTPS протоколу), которая обеспечивает более безопасную передачу потокового трафика (максимальная пропускная способность исходящего TLS-потока 128 Мбит/с)</paragraph>
+    <paragraph>• Централизованное управление IP-камерами, включая настройку, импорт/экспорт информации, отображение информации в режиме реального времени, двусторонняя аудиосвязь, обновление и т. д.</paragraph>
+    <paragraph>• Возможность подключения к интеллектуальным IP-камерам от Hikvision и возможность записи, воспроизведения и резервного копирования VCA-тревог</paragraph>
+    <paragraph>• Поддержка тревоги VCA-обнаружения</paragraph>
+    <paragraph>• Мгновенное воспроизведение для назначенного канала в режиме многоканального отображения</paragraph>
+    <paragraph>• Интеллектуальный поиск для выбранной области в видео; интеллектуальное воспроизведение</paragraph>
+    <paragraph>для улучшения эффективности воспроизведения</paragraph>
+    <paragraph>• Поддержка квот HDD и режимов групп; разным каналам может быть назначена разная емкость</paragraph>
+    <paragraph>• Hik-Connect для удобного сетевого управления16-ти канальный IP-видеорегистратор с PoE</paragraph>
+    <paragraph>Видеовход: 16 каналов; аудиовход: двустороннее аудио 1 канал RCA; видеовыход: 1 VGA до 1080Р, 1 HDMI до 4К; аудиовыход: 1 канал RCA.</paragraph>
+    <paragraph>Входящий поток 160Мб/с; исходящий поток 160Мб/с; разрешение записи до 8Мп; синхр.воспр. 2 канала@8Мп; 4 SATA для HDD до 10Тб; тревожные вход/выход 16/4; 16 независимых 100M PoE интерфейсов; 1 RJ45 10M/100M/1000М Ethernet; 3 USB; -10градусовC...+55градусовC; AC100-240В; 300Вт макс (без HDD),  5кг (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>СНЯТО С ПРОИЗВОДСТВА, ЗАМЕНА DS-N316/2P(D), DS-7616NXI-K2/16P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка двух ОС для обеспечения высокой надежности работы системы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Технология ANR для повышения надежности хранения при отключении сети HD-вход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Форматы видео: H.265/H.265+/H.264/H.264+/MPEG4</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Возможность подключения к сторонним IP-камерам</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Может быть подключено до 16 IP-камер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Запись видео с разрешением до 8 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка просмотра в реальном времени, хранения и воспроизведения для подключенной камеры с разрешением до 8 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HD-выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Имеются независимые выходы HDMI и VGA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Вывод видео (HDMI) с разрешением до 4K (3840  2160)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HD-хранение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Возможность подключения до 4 SATA-интерфейсов для записи и резервного копирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Эффективная экономия дискового пространства от 50 до 70% благодаря использованию видеосжатия H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HD-передача</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 1 auto 10M/100M/1000M порт Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Предусмотрено 16 независимых сетевых PoE-интерфейсов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Различные сценарии применения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка технологии потокового шифрования по TLS (расширенная SDK-служба и RTP по HTTPS протоколу), которая обеспечивает более безопасную передачу потокового трафика (максимальная пропускная способность исходящего TLS-потока 128 Мбит/с)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Централизованное управление IP-камерами, включая настройку, импорт/экспорт информации, отображение информации в режиме реального времени, двусторонняя аудиосвязь, обновление и т. д.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Возможность подключения к интеллектуальным IP-камерам от Hikvision и возможность записи, воспроизведения и резервного копирования VCA-тревог</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка тревоги VCA-обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Мгновенное воспроизведение для назначенного канала в режиме многоканального отображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Интеллектуальный поиск для выбранной области в видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>интеллектуальное воспроизведение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>для улучшения эффективности воспроизведения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка квот HDD и режимов групп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>разным каналам может быть назначена разная емкость</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Hik-Connect для удобного сетевого управления16-ти канальный IP-видеорегистратор с PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 16 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиовход: двустороннее аудио 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 VGA до 1080Р, 1 HDMI до 4К</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиовыход: 1 канал RCA.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 160Мб/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>исходящий поток 160Мб/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>разрешение записи до 8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>синхр.воспр. 2 канала@8Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 SATA для HDD до 10Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожные вход/выход 16/4</value>
+    </spec>
+    <spec>
+      <name />
+      <value>16 независимых 100M PoE интерфейсов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ45 10M/100M/1000М Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3 USB</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AC100-240В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>300Вт макс (без HDD),  5кг (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

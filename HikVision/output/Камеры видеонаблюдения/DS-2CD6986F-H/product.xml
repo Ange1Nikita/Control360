@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Вандалостойкая панорамная 8 Мп IP-камера Hikvision DS-2CD6986F-H с 4 сенсорами</name>
+  <model>DS-2CD6986F-H</model>
+  <sku>26427</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6986f-h/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ Вандалостойкая (IK10) сетевая панорамная камера 360° серии PanoVu с 4 объективами. Матрицы 1/1.9" CMOS (DarkFighter), чувствительность 0.002/0.0002 Люкс при F1.5, видео H.264/MJPEG с разрешением 4096×1800 25 Fps, DualStream. 4 объектива 5 мм. Режим «день/ночь» с ICR, DWDR, 3D DNR, BLC, Defog, ROI, слот для microSD до 128 ГБ, аудиовход/выход, тревожный вход/выход, IP66, AC 24 В/Hi-PoE.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>Цвет: 0.002 Лк @ (F2.2, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>от 1/25 с до 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>4×5 мм @ F1.4</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>180° по горизонтали, 78.4° по вертикали</value>
+    </spec>
+    <spec>
+      <name>Регулировка диафрагмы</name>
+      <value>Авто</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.264/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile/Main Profile/High Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с – 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711ulaw/G.711alaw/G.722/G.726/MP2L2/PCM</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), 32-192 Кбит/с (MP2L2), 16-64 Кбит/с (AAC)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>4096×1800</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>Режим 1: 25 к/с (4096×1800, 3840×1680)Режим 2: 25 к/с (2400×3840, 1200×1920)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>Режим 1: 25 к/с (704×320)Режим 2: 25 к/с (480×768, 320×512)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контраст, резкость настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, DWDR, 3D DNR, ROI, антитуман</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>Авто/по расписанию/по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Аутентификация пользователя (ID и PW), аутентификация хоста (MAC), фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>API, ONVIF, ISAPI, PSIA</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 вход (микрофонный вход/линейный вход) 2-2.4 V [p-p], сопротивление: 1 КОм, ±10 %</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход (линейный выход), сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>1 вход/1 выход</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>Слот для microSD/SDHC/SDXC до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В/Hi-PoEБП в комплект не входит</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>22 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °С... +65 °С</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66, IK10</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø 195×159 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>2.8 кг</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеСкидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ Вандалостойкая (IK10) сетевая панорамная камера 360° серии PanoVu с 4 объективами. Матрицы 1/1.9" CMOS (DarkFighter), чувствительность 0.002/0.0002 Люкс при F1.5, видео H.264/MJPEG с разрешением 4096×1800 25 Fps, DualStream. 4 объектива 5 мм. Режим «день/ночь» с ICR, DWDR, 3D DNR, BLC, Defog, ROI, слот для microSD до 128 ГБ, аудиовход/выход, тревожный вход/выход, IP66, AC 24 В/Hi-PoE.ПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f33/140_140_1/ds_2cd6986f_h_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6986f-h/?utm_source=comebackletter"&gt;Hikvision DS-2CD6986F-H&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

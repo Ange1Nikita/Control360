@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>0.8A</name>
+  <article>FX-PS15-0-8A</article>
+  <brand>FOX</brand>
+  <category>IP домофоны</category>
+  <price>11110001190</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bf2/440_370_0/IMG_1678-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/e5e/440_370_0/IMG_1679-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bf2/38_24_2/IMG_1678-900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/e5e/38_24_2/IMG_1679-900.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/bf2/440_370_0/IMG_1678-900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Уголок">FX-PS15/0.8A</spec>
+    <spec name="Технические параметры">Материал</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Габаритные размеры (мм)">Ø50*20</spec>
+    <spec name="Вес">0,20кг</spec>
+    <spec name="Модель">Формат</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик">Монтаж</spec>
+    <spec name="Накладной">Габаритные размеры (мм)</spec>
+    <spec name="Ø50*20">Вес</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/ip-vd/ip-videodomofony-sozvezdie/fx-ps15-0-8a/</source_url>
+</product>

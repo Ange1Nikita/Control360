@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Online комплект видеонаблюдения для автомобилей Автошколы</name>
+  <article>ONLINE_KOMPLEKT_VIDEONABLYUDENIYA_DLYA_AVTOMOBILEY_AVTOSHKOLY</article>
+  <brand>ViGUARD</brand>
+  <category>Готовые комплекты</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/450_450_1/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/120_120_0/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/500_500_1/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/509/500_500_1/509f65ef2b3035e9b0ca4f5a8a3a2f70.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/556/500_500_1/5560d509e623b331ed7d44a0552ff76c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ac6/500_500_1/ac6c4e2029cd7336ce778cb16e4a97a1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/794/500_500_1/794b8a26cf742431e4e1d097174a2fb4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/507/120_120_1/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/509/120_120_1/509f65ef2b3035e9b0ca4f5a8a3a2f70.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/556/120_120_1/5560d509e623b331ed7d44a0552ff76c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ac6/120_120_1/ac6c4e2029cd7336ce778cb16e4a97a1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/794/120_120_1/794b8a26cf742431e4e1d097174a2fb4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/507/5079c4dda4773b675823af97763fb539.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Online комплект видеонаблюдения для автомобилей Автошколы</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/gotovye_komplekty/online_komplekt_videonablyudeniya_dlya_avtomobiley_avtoshkoly/</source_url>
+</product>

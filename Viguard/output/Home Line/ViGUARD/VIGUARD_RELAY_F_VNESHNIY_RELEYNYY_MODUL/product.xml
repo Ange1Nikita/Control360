@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VIGUARD RELAY F внешний релейный модуль</name>
+  <article>VIGUARD_RELAY_F_VNESHNIY_RELEYNYY_MODUL</article>
+  <brand>ViGUARD</brand>
+  <category>Home Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0c3/450_450_1/viguard-relay-f-vneshniy-releynyy-modul-ot-proizvoditelya-otlichnoe-kachestvo-po-super-tsene.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0c3/120_120_0/viguard-relay-f-vneshniy-releynyy-modul-ot-proizvoditelya-otlichnoe-kachestvo-po-super-tsene.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0c3/500_500_1/viguard-relay-f-vneshniy-releynyy-modul-ot-proizvoditelya-otlichnoe-kachestvo-po-super-tsene.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/aca/500_500_1/RELAY-F-2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b64/500_500_1/RELAY-F-3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/0c3/120_120_1/viguard-relay-f-vneshniy-releynyy-modul-ot-proizvoditelya-otlichnoe-kachestvo-po-super-tsene.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/aca/120_120_1/RELAY-F-2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b64/120_120_1/RELAY-F-3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/0c3/viguard-relay-f-vneshniy-releynyy-modul-ot-proizvoditelya-otlichnoe-kachestvo-po-super-tsene.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>VIGUARD RELAY F внешний релейный модуль</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/signalizatsii/viguard_relay_f_vneshniy_releynyy_modul/</source_url>
+</product>

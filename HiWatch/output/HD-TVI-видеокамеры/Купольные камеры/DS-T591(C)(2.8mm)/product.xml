@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T591(C)(2.8mm)</name>
+  <model>DS-T591(C)(2.8mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t591-c--2-8-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Разрешение 5 Мп</paragraph>
+    <paragraph>ИК-подсветка до 20 м</paragraph>
+    <paragraph>Видеовыход 4-в-1 (переключаемые TVI/AHD/CVI/CVBS)5Мп внутренняя купольная HD-TVI камера с ИК-подсветкой до 20м</paragraph>
+    <paragraph>1/2.5" CMOS матрица; объектив 2.8мм; угол обзора 85градусов; 2592x1944@20к/с, 2560x1440/1920x1080@25к/с; механический ИК-фильтр; 0.01 Лк@F1.2; BLC, DNR; DWDR; Smart ИК; OSD-меню; 1 х HD-TVI/AHD/CVI/CVBS; -20градусовС до +45градусовС; 12В DC+-25%, 4,3Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение 5 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-подсветка до 20 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход 4-в-1 (переключаемые TVI/AHD/CVI/CVBS)5Мп внутренняя купольная HD-TVI камера с ИК-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.5" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 85градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2592x1944@20к/с, 2560x1440/1920x1080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD-меню</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-20градусовС до +45градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 4,3Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

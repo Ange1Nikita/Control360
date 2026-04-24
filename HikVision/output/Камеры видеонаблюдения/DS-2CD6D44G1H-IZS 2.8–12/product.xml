@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD6D44G1H-IZS 2.8–12</name>
+  <model>DS-2CD6D44G1H-IZS 2.8–12</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6d44g1h-izs-2-8-12-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>IR-подсветка до 30 м</paragraph>
+    <paragraph>–30 °C… +60 °C, IP67, IK10</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2688×1520</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.005 лк</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «день,ночь»</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>моторизованный</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние, угол обзора</name>
+      <value>2.8 ~ 12 мм, по горизонтали — 102.4° ~ 31.2°, вертикали 54.7° ~ 17.6°, диагонали — 122.1° ~ 35.8°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M14</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 32.0 м, O: 12.5 м, R: 6.5 м, I: 3.0 м</value>
+    </spec>
+    <spec>
+      <name>Подсветка</name>
+      <value>IR, 20 м</value>
+    </spec>
+    <spec>
+      <name>Фреймрейт</name>
+      <value>25 к/с</value>
+    </spec>
+    <spec>
+      <name>Потоки</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, H.264+, H.265+, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM, MP3</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711 ulaw, G.711 alaw), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), от 32 до 192 Кбит/с (MP2L2) , от 8 до 320 Кбит/с (MP3)</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 6 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF, ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB, CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200</value>
+    </spec>
+    <spec>
+      <name>Переключение «День/ночь»</name>
+      <value>день, ночь, автоматический, по расписанию</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>WDR 120 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, Defog, EIS</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>RJ-45, RS-485</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты microSD, SDHC, SDXC до 1 Тбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход, выход</value>
+    </spec>
+    <spec>
+      <name>Тревожные</name>
+      <value>2 входа, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, оставленных и пропавших предметов, толпы</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 V, PoE, макс. 23.4 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø290×148 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>4.7 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>–30 °C… +60 °C</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Дополнительно</name>
+      <value>обогреватель</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпIR-подсветка до 30 м–30 °C… +60 °C, IP67, IK10WDR 120 дБ, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/318/140_140_1/DS_2CD6D44G1H_IZS_2.8_12_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6d44g1h-izs-2-8-12-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD6D44G1H-IZS 2.8–12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <image>image_4.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

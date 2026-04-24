@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDD15AM-EG2</name>
+  <model>DS-PDD15AM-EG2</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdd15am-eg2</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Дальность обнаружения: 15 м / 85.9градусов</paragraph>
+    <paragraph>• Антимаскирование и защита от переадресации / SEO-мошенничества, обнаружение антиблокировки, если требуется более высокий уровень безопасности</paragraph>
+    <paragraph>• Автоматическая регулировка чувствительности и интеллектуальная технология обнаружения СВЧ-сигнала 24 ГГц</paragraph>
+    <paragraph>• Цифровая температурная компенсация и технология IFTОптический извещатель инфракрасный + СВЧ</paragraph>
+    <paragraph>Область обнаружения - до 15м, 86 град.; технология подавления помех "Blue Wave"; температурная компенсация IFT; встроенные оконечные резисторы (EOL),АнтиМаскинг;   EN-Grade 2; кронштейн продается отдельно;  DC9-16В; -30градусовC...+70градусовC; размер 103 66 49мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность обнаружения: 15 м / 85.9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Антимаскирование и защита от переадресации / SEO-мошенничества, обнаружение антиблокировки, если требуется более высокий уровень безопасности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическая регулировка чувствительности и интеллектуальная технология обнаружения СВЧ-сигнала 24 ГГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цифровая температурная компенсация и технология IFTОптический извещатель инфракрасный + СВЧ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область обнаружения - до 15м, 86 град.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>технология подавления помех "Blue Wave"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>температурная компенсация IFT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенные оконечные резисторы (EOL),АнтиМаскинг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EN-Grade 2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>кронштейн продается отдельно</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 103 66 49мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

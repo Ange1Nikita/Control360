@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>VDP-H2211</name>
+  <model>VDP-H2211</model>
+  <category>IP-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/vdp-h2211</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Удобный пользовательский интерфейс</paragraph>
+    <paragraph>• 7'' цветной сенсорный экран с разрешением 1024  600</paragraph>
+    <paragraph>• PoE</paragraph>
+    <paragraph>• Просмотр видео с вызывных панелей и подключенных камер в режиме реального времени7“ IP видеодомофон</paragraph>
+    <paragraph>Сенсорный 7" TFT LCD экран 1024*600; встроенные микрофон и динамик; тревожный вход 8; 10M/100M Ethernet; DC12В/PoE; 6Вт; 0 градусовC...+55градусовC; 200   140   15.1 мм</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удобный пользовательский интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• 7'' цветной сенсорный экран с разрешением 1024  600</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Просмотр видео с вызывных панелей и подключенных камер в режиме реального времени7“ IP видеодомофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сенсорный 7" TFT LCD экран 1024*600</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенные микрофон и динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тревожный вход 8</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В/PoE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0 градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>200   140   15.1 мм</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

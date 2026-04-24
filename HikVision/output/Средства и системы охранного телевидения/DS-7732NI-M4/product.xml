@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор 32-канальный Hikvision DS-7732NI-M4</name>
+  <model>DS-7732NI-M4</model>
+  <article>325738</article>
+  <sku>303616304</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>IP-видеорегистратор 32-канальный</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>39789.6</price>
+  <price_wholesale>36142.22</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/325738/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 32 канальный; 1хVGA до 1080Р, 1хHDMI до 8К, 1хBNC, независимые; входящий поток 320 Мб/с; исходящий поток 400 Мб/с; разрешение записи до 32 Мп 30 к/с; 4 SATA для HDD до 14Тб; тревожные вход/выход- 16/9, аудиовход/выход -1/1, 2хRJ45 10/100/1000 Мбит/с; 2хUSB; 2хRS-485 (полудуплекс), 1хRS-232; АC100-240В; 15Вт(без HDD);  -10°C...+55°C; 445×400×75 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>32</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>HDMI (до 8K); VGA; BNC</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>8K (7680х4320)/30 Гц; 4K (3840х2160)/60 Гц; 4K (3840х2160)/30 Гц,2K (2560х1440)/60 Гц; 1920х1080/60 Гц; 1600х1200/60 Гц; 1280</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>720</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>16/9</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>4 SATA х 14Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>445х400х75</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>document.pdf</passport>
+    <passport>passport.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+    <passport>document_5.pdf</passport>
+    <passport>document_6.pdf</passport>
+  </files>
+  <documents>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/E/AED4004EBA88E98E461FCE2E8C356F49.pdf</document>
+    <document title="Паспорт" size="535.51 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/7/E725F1D5B33BA2D83551BA999482C810.pdf</document>
+    <document title="Облачный сервис приложение" size="90.98 КБ">https://www.tinko.ru/upload/exchange/public/documentation/5/A/5A446ED97972475BBCBA44FAF98FC6BB.jpg</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/E/3EBC36FD868A8F6CEB64EBFB2B387795.pdf</document>
+    <document title="Схема подключения тревожного входа/выхода" size="177.18 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/0/C091A2FE023B93E0A75DE8B5A026E602.jpg</document>
+    <document title="Настройка облачного сервиса Hik Connect" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B7639D6FCE98CB51B61E960D239CC998.pdf</document>
+  </documents>
+</product>

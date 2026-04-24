@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE131V2812</name>
+  <article>KN-CE131V2812</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/063/440_370_0/4_keno_kn_se131v2812_kn_ce200v2812.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/063/38_24_2/4_keno_kn_se131v2812_kn_ce200v2812.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 1.3 2.8-12 50 Короткое описание Уличная IP видеокамера KN-СE131V2812 предназначена для охранного видеонаблюдения вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Особенности IP видеокамеры Все технические параметры Модель KN-СE131V2812 Система Тип матрицы 1/3" SONY Exmor CMOS (1.37Mega) Эффективные    пиксели 1376    (H) × 1070 (V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет:0.1lux/F1.2,Ч/Б:0.002ux,    0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Авто    ICR ИК подсветка до    50 м Компенсация    засветки BLC    / HLC / DWDR Баланс белого Авто Усиление Авто/Ручной Шумоподавление 3DNR Приватные зоны До    4-х зон Оптика Объектив 2.8~12mm    Megapixel Lens Светосила 1/2.7"    F1.4 Угол обзора H:    114°(Wide)~29.5°(Tele) Video Формат    кодирования H.264 Основной поток 960P/720P/D1(1    ~ 25) Второстепенный    поток D1/CIF(1    ~ 25) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP ONVIF ONVIF    Ver. 2.0 Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows, Symian, BlackBerry Дополнительно Аудио G.711A, 1 Вх. / 1    Вых. Тревога 1    Вх. / 1 Вых. ePTZ RS485 Видеовыход 1    BNC(1.0Vp-p, 75 ) Memory Slot Micro    SD, Max 32GB Технические параметры Питание DC12В,    POE Потребление &lt;8Вт Рабочая    температура -40°C~+50°C,    10%~90% Степень защиты IP66,    грозозащита до 4000В Габариты 141.6(Ш)*89.82(В)*253.1(Д)mm Вес 0.8кг Уличная 1.3 2.8-12 50 Поддержка стандарта Onvif версии 2.0 Разрешение 1.3 Мегапикселя Вариофокальный мегапиксельный объектив  2.8-12мм Активный ИК-фильтр для корректной  цветопередачи Высокая чувствительность: Цвет:0.1lux/F1.2,Ч/Б:0.01ux, 0lux ИК вкл. Грозозащита до 4000В Аналоговый видеовыход Запись видео на SD карту Водонепроницаемая камера с классом защиты  IP66 Дюралюми</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/3" SONY Exmor CMOS (1.37Mega)</spec>
+    <spec name="Эффективные    пиксели">1376    (H) × 1070 (V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет:0.1lux/F1.2,Ч/Б:0.002ux,    0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">до    50 м</spec>
+    <spec name="Компенсация    засветки">BLC    / HLC / DWDR</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">2.8~12mm    Megapixel Lens</spec>
+    <spec name="Светосила">1/2.7"    F1.4</spec>
+    <spec name="Угол обзора">H:    114°(Wide)~29.5°(Tele)</spec>
+    <spec name="Формат    кодирования">H.264</spec>
+    <spec name="Основной поток">960P/720P/D1(1    ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP</spec>
+    <spec name="ONVIF">ONVIF    Ver. 2.0</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows, Symian, BlackBerry</spec>
+    <spec name="Аудио">G.711A, 1 Вх. / 1    Вых.</spec>
+    <spec name="Тревога">1    Вх. / 1 Вых.</spec>
+    <spec name="ePTZ">RS485</spec>
+    <spec name="Видеовыход">1    BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Memory Slot">Micro    SD, Max 32GB</spec>
+    <spec name="Питание">DC12В,    POE</spec>
+    <spec name="Потребление">&lt;8Вт</spec>
+    <spec name="Рабочая    температура">-40°C~+50°C,    10%~90%</spec>
+    <spec name="Степень защиты">IP66,    грозозащита до 4000В</spec>
+    <spec name="Габариты">141.6(Ш)*89.82(В)*253.1(Д)mm</spec>
+    <spec name="Вес">0.8кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/KN-CE131V2812/</source_url>
+</product>

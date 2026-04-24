@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=price&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=PRICE&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/c53/450_450_1/c539ae3d16fba1bcd19314d28d9316e2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e24/450_450_1/e2400d796acd6b2fe0759faa47161707.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/17b/450_450_1/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/491/450_450_1/4919d32a9ca287fb955a479fb0dfd9c1.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/4g_kamery/index.php?sort=price&amp;order=asc</source_url>
+</product>

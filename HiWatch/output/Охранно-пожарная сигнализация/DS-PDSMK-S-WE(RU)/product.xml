@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDSMK-S-WE(RU)</name>
+  <model>DS-PDSMK-S-WE(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdsmk-s-we-ru-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Датчик DS-PDSMK-S-WE является беспроводным фотоэлектрическим датчиком дыма</paragraph>
+    <paragraph>• Корпус высокого качества с фотоэлектрическим датчиком</paragraph>
+    <paragraph>• Срок службы батареи составляет 10 лет</paragraph>
+    <paragraph>Метод детекции</paragraph>
+    <paragraph>Корпус с фотоэлектрическим датчиком</paragraph>
+    <paragraph>Индикатор температуры окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Индикатор уровня сигнала</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Питание вкл/выкл</paragraph>
+    <paragraph>Включение</paragraph>
+    <paragraph>Светодиодный индикатор</paragraph>
+    <paragraph>Красный (тревога)</paragraph>
+    <paragraph>Бипер</paragraph>
+    <paragraph>85 дБ @ 3 м</paragraph>
+    <paragraph>Метод передачи</paragraph>
+    <paragraph>Двусторонняя беспроводная связь</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Мощность передатчика</paragraph>
+    <paragraph>10 дБм</paragraph>
+    <paragraph>Безопасность передачи данных</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Дальность передачи данных</paragraph>
+    <paragraph>800 м (открытое пространство)</paragraph>
+    <paragraph>Методы регистрации</paragraph>
+    <paragraph>Включение, удаленный ввод ID и QR-код</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Батарея</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>Не подлежит замене CR17450 x 1</paragraph>
+    <paragraph>Стандартная потребляемая мощность</paragraph>
+    <paragraph>3 В</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>10 лет</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +60 °C</paragraph>
+    <paragraph>Температура хранения</paragraph>
+    <paragraph>От -20 до +60 °C</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>102  35 мм</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>125г</paragraph>
+    <paragraph>Метод установки</paragraph>
+    <paragraph>На потолок</paragraph>
+    <paragraph>Сценарии применения</paragraph>
+    <paragraph>Установка внутри помещений</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Датчик DS-PDSMK-S-WE является беспроводным фотоэлектрическим датчиком дыма</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Корпус высокого качества с фотоэлектрическим датчиком</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Срок службы батареи составляет 10 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Корпус с фотоэлектрическим датчиком</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор температуры окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор уровня сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание вкл/выкл</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Светодиодный индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Красный (тревога)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Бипер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>85 дБ @ 3 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Двусторонняя беспроводная связь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Мощность передатчика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10 дБм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Безопасность передачи данных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи данных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>800 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Методы регистрации</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Не подлежит замене CR17450 x 1</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартная потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Температура хранения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -20 до +60 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>102  35 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>125г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>На потолок</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сценарии применения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка внутри помещений</value>
+    </spec>
+    <spec>
+      <name>Метод детекции</name>
+      <value>Корпус с фотоэлектрическим датчиком</value>
+    </spec>
+    <spec>
+      <name>Индикатор температуры окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Индикатор уровня сигнала</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Питание вкл/выкл</name>
+      <value>Включение</value>
+    </spec>
+    <spec>
+      <name>Светодиодный индикатор</name>
+      <value>Красный (тревога)</value>
+    </spec>
+    <spec>
+      <name>Бипер</name>
+      <value>85 дБ @ 3 м</value>
+    </spec>
+    <spec>
+      <name>Метод передачи</name>
+      <value>Двусторонняя беспроводная связь</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Мощность передатчика</name>
+      <value>10 дБм</value>
+    </spec>
+    <spec>
+      <name>Безопасность передачи данных</name>
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи данных</name>
+      <value>800 м (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name>Методы регистрации</name>
+      <value>Включение, удаленный ввод ID и QR-код</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Батарея</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>Не подлежит замене CR17450 x 1</value>
+    </spec>
+    <spec>
+      <name>Стандартная потребляемая мощность</name>
+      <value>3 В</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>10 лет</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Температура хранения</name>
+      <value>От -20 до +60 °C</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>102  35 мм</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>125г</value>
+    </spec>
+    <spec>
+      <name>Метод установки</name>
+      <value>На потолок</value>
+    </spec>
+    <spec>
+      <name>Сценарии применения</name>
+      <value>Установка внутри помещений</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

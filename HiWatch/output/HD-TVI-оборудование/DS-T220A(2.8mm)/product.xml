@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T220A(2.8mm)</name>
+  <model>DS-T220A(2.8mm)</model>
+  <category>HD-TVI-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-t220a-2-8mm-</product_url>
+  <description>
+    <paragraph>2Мп уличная цилиндрическая HD-TVI камера с гибридной подсветкой EXIR/LED до 40м и встроенным микрофоном (AoC)</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 2.8мм; угол обзора 101градусов; механический ИК-фильтр; 0.005 Лк@F1.2; Smart ИК; OSD, DWDR, BLC, DNR, видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; аудио по коаксиальному кабелю (AoC), IP67; -40градусовС до +60градусовС; 12В DC+-25%, 4.8Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>2Мп уличная цилиндрическая HD-TVI камера с гибридной подсветкой EXIR/LED до 40м и встроенным микрофоном (AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 101градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR, видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудио по коаксиальному кабелю (AoC), IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 4.8Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

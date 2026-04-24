@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Камера-IP TIANDY TC-C32KS I3/E/Y/S/2.8mm/V5.0</name>
+  <model>TC-C32KS Spec:I3/E/Y/S/2.8mm/V5.0</model>
+  <sku>835</sku>
+  <brand>Tiandy</brand>
+  <category>IP-камеры</category>
+  <subcategory />
+  <price>10890</price>
+  <product_url>https://tiandy-russia.ru/ip-kamery-videonablyudeniya/kamera-ip-tiandy-tc-c32ks-i3eys28mmv50-835/</product_url>
+  <description>
+    <paragraph>Купольная антивандальная IP-камера для улицы Lite-серии Tiandy разрешение 2 МП с объективом 2,8 мм со встроенным микрофоном и Smart ИК-подсветкой до 30 метров. Корпус камеры выполнен из металла. Детекция Человек/ТС, Пересечениие линии, входв зону. Работает в температурном режиме от -40℃ до 60℃. Питание 12В и по PoE.  Слот для карты памяти объемом до 512Гб. Степень защиты IP66.</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>specification.pdf</passport>
+  </files>
+  <documents>
+    <document title="Инструкция" original_url="https://drive.google.com/file/d/1aishvxHKwehfOLbGk8Zq39xLGfhJUmn4/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1aishvxHKwehfOLbGk8Zq39xLGfhJUmn4</document>
+    <document title="Спецификация" original_url="https://drive.google.com/file/d/1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir</document>
+  </documents>
+</product>

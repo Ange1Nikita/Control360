@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>SWT-1318P</name>
+  <article>303288</article>
+  <sku>301802118</sku>
+  <brand>HiWatch</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы с PoE</subcategory>
+  <functional_name>Коммутатор с питанием POE</functional_name>
+  <nomenclature>Коммутатор с PoE</nomenclature>
+  <price>24369.84</price>
+  <price_wholesale>22135.94</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/303288/</product_url>
+  <description>
+    <paragraph>Коммутатор сетевой 18 портовый с РоЕ; 16xRJ45 PoE 10/100 Мбит/с, IEEE 802.3af/at, 2xCombo Uplink RJ45/SFP 10/100/1000 Мбит/с; PoE бюджет до 230 Вт; дальность передачи до 300 метров; защита от перенапряжения до 6 кВ; AC 100-240 В, 2.5 A, 250 Вт; -10°C...+55°C; 440х44х220 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор гигабитный управляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>16/2</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>16</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>14/230</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Стойка 19"</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>100-220 AC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>440х44х220</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

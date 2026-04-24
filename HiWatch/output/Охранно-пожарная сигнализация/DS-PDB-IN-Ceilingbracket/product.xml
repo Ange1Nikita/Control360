@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDB-IN-Ceilingbracket</name>
+  <model>DS-PDB-IN-Ceilingbracket</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdb-in-ceilingbracket</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Потолочный кронштейн</paragraph>
+    <paragraph>• Для всех внутренних датчиков DS-PD2-D/P серииКронштейн потолочный фиксированный</paragraph>
+    <paragraph>Потолочное крепление; для датчиков DS-PD2-D/P; прокладка провода внутри ; пластик АВS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Потолочный кронштейн</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Для всех внутренних датчиков DS-PD2-D/P серииКронштейн потолочный фиксированный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потолочное крепление</value>
+    </spec>
+    <spec>
+      <name />
+      <value>для датчиков DS-PD2-D/P</value>
+    </spec>
+    <spec>
+      <name />
+      <value>прокладка провода внутри</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик АВS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

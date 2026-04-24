@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T500L(2.8mm)</name>
+  <model>DS-T500L(2.8mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t500l-2-8mm-</product_url>
+  <description>
+    <paragraph>Цилиндрическая мини-камера 3K с технологией ColorVu и микрофоном</paragraph>
+    <paragraph>• Высокое качество изображения 3K c разрешением 2960  1665</paragraph>
+    <paragraph>• Цветное изображение в любое время суток, апертура F1.0</paragraph>
+    <paragraph>• Фиксированный объектив 2.8 мм и 3.6 мм</paragraph>
+    <paragraph>• Дальность подсветки белым светом до 20 м для получения ярких изображений в ночное время</paragraph>
+    <paragraph>• Передача аудио высокого качества по коаксиальному кабелю</paragraph>
+    <paragraph>• Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP66</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC: нет</paragraph>
+    <paragraph>• Встроенный микрофон: есть</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>3K CMOS</paragraph>
+    <paragraph>Стандарт передачи сигнала</paragraph>
+    <paragraph>PAL / NTSC</paragraph>
+    <paragraph>Разрешение</paragraph>
+    <paragraph>2960  1665</paragraph>
+    <paragraph>Частота кадров</paragraph>
+    <paragraph>TVI: 3K @ 20 к/с, 4 Мп @ 25 к/с / 30 к/с, 1080p @ 25 к/с / 30 к/с AHD: 4 Мп @ 25 к/с / 30 к/с CVI: 4 Мп @ 25 к/с / 30 к/с CVBS: PAL / NTSC</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>0.001 лк @ (F1.0, AGC вкл), 0 лк с подсветкой белым светом</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>PAL: от 1/25 до 1/50,000 с; NTSC: от 1/30 до 1/50,000 с</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>Фиксированный объектив 2.8 мм</paragraph>
+    <paragraph>Угол обзора</paragraph>
+    <paragraph>2.8 мм, по горизонтали: 113°, по вертикали: 62°, по диагонали: 137°</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>M12</paragraph>
+    <paragraph>Световой сигнал тревоги</paragraph>
+    <paragraph>Немигающий световой сигнал (подсветка белым светом)</paragraph>
+    <paragraph>Режим «день/ночь»</paragraph>
+    <paragraph>Цветное изображение 24/7</paragraph>
+    <paragraph>Широкий динамический диапазон (WDR)</paragraph>
+    <paragraph>Цифровой WDR</paragraph>
+    <paragraph>Регулировка угла наблюдения</paragraph>
+    <paragraph>Поворот: от 0° до 360°; наклон: от 0 до 180°, вращение: от 0 до 360°</paragraph>
+    <paragraph>Подсветка белым светом</paragraph>
+    <paragraph>Автоматич. / выкл.</paragraph>
+    <paragraph>Режим изображения</paragraph>
+    <paragraph>STD / HIGH-SAT / HIGHLIGHT</paragraph>
+    <paragraph>AGC</paragraph>
+    <paragraph>Есть</paragraph>
+    <paragraph>Режим «день/ночь»</paragraph>
+    <paragraph>Цвет</paragraph>
+    <paragraph>Баланс белого</paragraph>
+    <paragraph>Автоматич./Ручн.</paragraph>
+    <paragraph>Режим экспозиции (автоматич.)</paragraph>
+    <paragraph>DWDR / BLC / HLC / Глобальн.</paragraph>
+    <paragraph>Уменьшение шума</paragraph>
+    <paragraph>2D DNR</paragraph>
+    <paragraph>Язык</paragraph>
+    <paragraph>Английский</paragraph>
+    <paragraph>Функции</paragraph>
+    <paragraph>Яркость, резкость, Anti-Banding</paragraph>
+    <paragraph>Режим подсветки</paragraph>
+    <paragraph>Подсветка белым светом</paragraph>
+    <paragraph>Видеовыход</paragraph>
+    <paragraph>Переключаемые TVI / AHD / CVI / CVBS</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -40 до +60 °C, влажность 90 % или меньше (без конденсата)</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В ± 25 % * Рекомендуется использовать отдельный адаптер питания для каждой камеры.</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>Макс. 2.5 Вт</paragraph>
+    <paragraph>Уровень защиты</paragraph>
+    <paragraph>IP66</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Металл</paragraph>
+    <paragraph>Дальность подсветки белым светом</paragraph>
+    <paragraph>До 20 м</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>162.7  70  70 мм (6.41  2.75  2.75)</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>Приблиз. 265 г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Цилиндрическая мини-камера 3K с технологией ColorVu и микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения 3K c разрешением 2960  1665</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цветное изображение в любое время суток, апертура F1.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Фиксированный объектив 2.8 мм и 3.6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность подсветки белым светом до 20 м для получения ярких изображений в ночное время</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Передача аудио высокого качества по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3K CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарт передачи сигнала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2960  1665</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота кадров</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TVI: 3K @ 20 к/с, 4 Мп @ 25 к/с / 30 к/с, 1080p @ 25 к/с / 30 к/с AHD: 4 Мп @ 25 к/с / 30 к/с CVI: 4 Мп @ 25 к/с / 30 к/с CVBS: PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.001 лк @ (F1.0, AGC вкл), 0 лк с подсветкой белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PAL: от 1/25 до 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>NTSC: от 1/30 до 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объектив</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный объектив 2.8 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2.8 мм, по горизонтали: 113°, по вертикали: 62°, по диагонали: 137°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Крепление объектива</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Световой сигнал тревоги</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Немигающий световой сигнал (подсветка белым светом)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «день/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цветное изображение 24/7</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Широкий динамический диапазон (WDR)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла наблюдения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поворот: от 0° до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>наклон: от 0 до 180°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / выкл.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>STD / HIGH-SAT / HIGHLIGHT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «день/ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цвет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Баланс белого</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич./Ручн.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим экспозиции (автоматич.)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DWDR / BLC / HLC / Глобальн.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Уменьшение шума</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Язык</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Английский</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Функции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Яркость, резкость, Anti-Banding</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим подсветки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Переключаемые TVI / AHD / CVI / CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +60 °C, влажность 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 12 В ± 25 % * Рекомендуется использовать отдельный адаптер питания для каждой камеры.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Макс. 2.5 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Уровень защиты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность подсветки белым светом</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 20 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>162.7  70  70 мм (6.41  2.75  2.75)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приблиз. 265 г</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>3K CMOS</value>
+    </spec>
+    <spec>
+      <name>Стандарт передачи сигнала</name>
+      <value>PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2960  1665</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>TVI: 3K @ 20 к/с, 4 Мп @ 25 к/с / 30 к/с, 1080p @ 25 к/с / 30 к/с AHD: 4 Мп @ 25 к/с / 30 к/с CVI: 4 Мп @ 25 к/с / 30 к/с CVBS: PAL / NTSC</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.001 лк @ (F1.0, AGC вкл), 0 лк с подсветкой белым светом</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>PAL: от 1/25 до 1/50,000 с; NTSC: от 1/30 до 1/50,000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>Фиксированный объектив 2.8 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>2.8 мм, по горизонтали: 113°, по вертикали: 62°, по диагонали: 137°</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Световой сигнал тревоги</name>
+      <value>Немигающий световой сигнал (подсветка белым светом)</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>Цветное изображение 24/7</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>Цифровой WDR</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>Поворот: от 0° до 360°; наклон: от 0 до 180°, вращение: от 0 до 360°</value>
+    </spec>
+    <spec>
+      <name>Подсветка белым светом</name>
+      <value>Автоматич. / выкл.</value>
+    </spec>
+    <spec>
+      <name>Режим изображения</name>
+      <value>STD / HIGH-SAT / HIGHLIGHT</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>Цвет</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>Автоматич./Ручн.</value>
+    </spec>
+    <spec>
+      <name>Режим экспозиции (автоматич.)</name>
+      <value>DWDR / BLC / HLC / Глобальн.</value>
+    </spec>
+    <spec>
+      <name>Уменьшение шума</name>
+      <value>2D DNR</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>Английский</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>Яркость, резкость, Anti-Banding</value>
+    </spec>
+    <spec>
+      <name>Режим подсветки</name>
+      <value>Подсветка белым светом</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>Переключаемые TVI / AHD / CVI / CVBS</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -40 до +60 °C, влажность 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 25 % * Рекомендуется использовать отдельный адаптер питания для каждой камеры.</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>Макс. 2.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Металл</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки белым светом</name>
+      <value>До 20 м</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>162.7  70  70 мм (6.41  2.75  2.75)</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>Приблиз. 265 г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

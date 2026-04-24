@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP цилиндрическая Tiandy TC-C32GS Spec:I5/E/Y/C/SD/2.8mm/V4.2</name>
+  <model>TC-C32GS Spec:I5/E/Y/C/SD/2.8mm/V4.2</model>
+  <article>354240</article>
+  <sku>1D.20010.003563</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>Видеокамера IP цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>7490</price>
+  <price_wholesale>2988.51</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354240/</product_url>
+  <description>
+    <paragraph>Видеокамера IP 2 Мп цилиндрическая; 1/2.8" CMOS; 1920х1080 - 25 к/с; H.264/H.265; объектив 2.8 мм; ИК подсветка до 50 м; 0.002 лк; микрофон; microSD до512 Гб; WDR 120 дБ, 3D DNR, HLC, BLC; P2P, RTSP, ONVIF (S/T/G); аналитика: пересечение линии, периметр, PoE, 7 Вт; IP67; -40...+60°C; 207х82х81 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>50</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.002</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>7</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>207х82х81</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="675.25 КБ">https://www.tinko.ru/upload/exchange/public/documentation/8/3/837D6AA063DE1F651404B3C3396E7A5C.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T500L(3.6mm)</name>
+  <model>DS-T500L(3.6mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t500l-3-6mm-</product_url>
+  <description>
+    <paragraph>Цилиндрическая мини-камера 3K с технологией ColorVu и микрофоном</paragraph>
+    <paragraph>• Высокое качество изображения 3K c разрешением 2960  1665</paragraph>
+    <paragraph>• Цветное изображение в любое время суток, апертура F1.0</paragraph>
+    <paragraph>• Фиксированный объектив 2.8 мм и 3.6 мм</paragraph>
+    <paragraph>• Дальность подсветки белым светом до 20 м для получения ярких изображений в ночное время</paragraph>
+    <paragraph>• Передача аудио высокого качества по коаксиальному кабелю</paragraph>
+    <paragraph>• Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</paragraph>
+    <paragraph>• Защита от влаги и пыли: IP66</paragraph>
+    <paragraph>• Встроенный слот для microSD/SDHC/SDXC: нет</paragraph>
+    <paragraph>• Встроенный микрофон: есть</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Цилиндрическая мини-камера 3K с технологией ColorVu и микрофоном</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Высокое качество изображения 3K c разрешением 2960  1665</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цветное изображение в любое время суток, апертура F1.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Фиксированный объектив 2.8 мм и 3.6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Дальность подсветки белым светом до 20 м для получения ярких изображений в ночное время</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Передача аудио высокого качества по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Один порт для четырех переключаемых сигналов (TVI / AHD / CVI / CVBS)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита от влаги и пыли: IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD/SDHC/SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: есть</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

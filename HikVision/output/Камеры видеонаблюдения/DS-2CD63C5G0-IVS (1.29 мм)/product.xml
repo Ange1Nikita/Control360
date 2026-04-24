@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD63C5G0-IVS (1.29 мм)</name>
+  <model>DS-2CD63C5G0-IVS (1.29 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd63c5g0-ivs-1-29-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>12 Мп, fish-eye, ИК-подсветка 15 м</paragraph>
+    <paragraph>Просмотр в реальном времени</paragraph>
+    <paragraph>Тепловая карта, подсчет людей</paragraph>
+    <paragraph>Паноморфный объектив RPL: B9VVT</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, IK10, –40 ºС… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.05 лк при F/2.6, AGC вкл.ч/б: 0.01 лк при F/2.6, AGC вкл., 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с. ~ 1/100 000 с., поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>1.29 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>горизонтальный: 180°, вертикальный: 180°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.2</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>до 15 м, 3 независимых LED-диода</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>H.264+</name>
+      <value>основной поток</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>H.265+</name>
+      <value>основной поток</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM</value>
+    </spec>
+    <spec>
+      <name>Битрет аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.722.1), 16 кбит/с (G.726), 32 ~ 160 кбит/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>поддержка H.265 и H.264</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>4000×3000</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>20 к/с (4000×3000), 25 к/с (3000×3000, 2560×2560)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (720×720, 720×480)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора и наложение изображения настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>DWDR, 3D DNR, HLC, BLC, антитуман</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>автоматическое, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Наложение картинки</name>
+      <value>Логотип в формате bmp 24 бит, 128×128</value>
+    </spec>
+    <spec>
+      <name>Анализ поведения</name>
+      <value>обнаружение пересечения линии, вторжения,входа/выхода из области, оставленных пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Обнаружение исключений</name>
+      <value>обнаружение звуковых исключений</value>
+    </spec>
+    <spec>
+      <name>Область исследования</name>
+      <value>4 фиксированных области для основного потока</value>
+    </spec>
+    <spec>
+      <name>Тип крепления</name>
+      <value>настольный, настенный, потолочный</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2048×1536, 1920×1080, 1280×960, 1280×720)50 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Режимы вывода видео на дисплей</name>
+      <value>всего 18 режимовпотолочное крепление: «рыбий глаз», 180 панорамный вид, 360 панорамный вид, 360 панорама + PTZ, 360 панорама + 3PTZ, 360 панорама + 6PTZ, 360 панорама + 8PTZ, 2PTZ, 4PTZ, «рыбий глаз» + 3PTZ, «рыбий глаз» +8 PTZ, полусфера, цилиндрнастенное крепление: «рыбий глаз», панорамный вид, панорама + 3PTZ, панорама + 8PTZ, 4PTZ, «рыбий глаз» + 3PTZ, «рыбий глаз» +8 PTZнастольное крепление: «рыбий глаз», 180 панорама, 360 панорама, 360 панорама + PTZ, 360 панорама + 3PTZ, 360 панорама + 6PTZ, 360 панорама + 8PTZ, 4PTZ, «рыбий глаз» + 3PTZ, «рыбий глаз» +8 PTZ, цилиндраппаратное декодирование:потолочный монтаж: панорамный обзор 180°, 4 PTZ, fish-eye + 3 PTZ, 4PTZ смешанныйнастенный монтаж: панорамный обзор 180°, 4 PTZ, fish-eye + 3 PTZ, 4PTZ смешанныйнастольный монтаж: панорамный обзор 180°, 4 PTZ, fish-eye + 3 PTZ, 4PTZ смешанный</value>
+    </spec>
+    <spec>
+      <name>Фильтр внешнего шума</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>макс. 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>поддержка карт microSD/SDHC/SDXC (256 Гбайт), локальное хранение и NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>обнаружение движения, изменение видео, разрыв сети, конфликт IP адресов, несанкционированный доступ, заполнение HDD, ошибка HDD</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, кодирование HTTPS, контроль доступа к сети на базе порта IEEE 802.1x, фильтр IP-адресов, базовая и дайджест-аутентификация HTTP/HTTPS, WSSE и дайджест-аутентификация ONVIF</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>сброс настроек одной кнопкой, антимерцание, пульсация, защита паролем, маска конфиденциальности, водяной знак, фильтр IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Прошивка</name>
+      <value>5.5.73</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (Profile S, Profile G), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Одновременный показ в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, iVMS-4500, iVMS-5200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>IE8+, Chrome31.0-44, Firefox30.0-51, Safari8.0+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M/1000М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 линейный вход, 2 встроенных микрофона</value>
+    </spec>
+    <spec>
+      <name>Аудиовыход</name>
+      <value>1 выход, встроенный динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>1 вход, макс. 12 Вт, 1 выход, макс. 24 В DC, 1 А</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>12 В DC ±20 %, PoE (802.3at, class 0), двухъядерный блок контактов</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность и ток</name>
+      <value>12 В DC, 1 А, макс. 12.5 ВтPoE (802.3af, 42.5 В ~ 57 В), 0.4 ~ 0.3 A, макс. 15 Вт</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>167.4×152.8×46.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1.4 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>12 Мп, fish-eye, ИК-подсветка 15 мПросмотр в реальном времениТепловая карта, подсчет людейПаноморфный объектив RPL: B9VVT⛅ ☔ ❄ IP67, IK10, –40 ºС… +60 ºСПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/be3/140_140_1/DS_2CD63C5G0_IVS-_1.29-mm_-1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd63c5g0-ivs-1-29-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD63C5G0-IVS (1.29 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

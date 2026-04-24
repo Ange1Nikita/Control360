@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I215(D)</name>
+  <article>315067</article>
+  <sku>327000694</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP поворотные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера поворотная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>19054.8</price>
+  <price_wholesale>17308.11</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/315067/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 2 Мп уличная скоростная поворотная; 1/2.8’’ Progressive Scan CMOS; 1920х1080 - 25 к/с; ZOOM 5 - 75 мм, 15Х; ИК-фильтр; 0.005 лк; ИК подсветка 100 м; H.265+/H.265/H.264+/H.264; WDR 120, 3D DNR, BLC, HLC, EIS, ROI, антитуман, ROI; 360°; MicroSD до 256 Гб; аудио вход/выход: 1/1, вход/выход тревоги 1/1, обнаружение движения, вторжения в область и пересечения линии c технологией AcuSense; захват изображения лица, аудиодетектор; DC 12В/PoE; 18Вт макс.; -40 °C...+65 °C; IP66; грозозащита TVS 4000B; Ø 164.5х295 мм. Настенный кронштейн и блок питания в комплекте.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 5-75 15x</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>18</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>164.5х295</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="877.38 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/9/09ACCC91E43E85A14699ADB4A709CB99.pdf</document>
+  </documents>
+</product>

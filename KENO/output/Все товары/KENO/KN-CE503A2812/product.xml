@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE503A2812</name>
+  <article>KN-CE503A2812</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3a9/y7vx1alv11bk8b781ffmapjkh67nnz3d/440_370_0/KN_CE503A2812_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3a9/y7vx1alv11bk8b781ffmapjkh67nnz3d/38_24_2/KN_CE503A2812_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink apple.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink андроид.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 5 Мп 2.7-12 50 Короткое описание Профессиональная 5МП IP видеокамера KN-CE503A2812 , предназначена для охранного видеонаблюдения, служит для передачи оцифрованного видеосигнала к устройству сбора, обработки и хранения. Камера KN-CE503A2812 исполнена в корпусе с классом защиты от пыли и влаги IP 66/67. а оснащена высокочувствительной КМОП-матрицей, электромеханическим ИК-фильтром и встроенной ИК-подсветкой, что позволяет вести круглосуточное наблюдение при любых условиях съемки в широком диапазоне рабочих температур. Моторизованный объектив с переменным фокусным расстоянием, 2,7-12мм , установленный в камере, делает ее удобной в монтаже и настройке. Особенности IP видеокамеры Все технические параметры Модель KN-CE503A2812 Система Тип матрицы Матрица 1/2,8” SONY STARVIS IMX335 (5.04 Мегапикселей) Эффективные    пиксели 2592(Г) × 1944(В) Размер пикселя 2.0 μm x 2.0 μm Электронный    затвор Auto/ 1/5s-1/100000s Мин.    Освещенность Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.59 Лк. Сигнал / шум ≥ 50 Дб (AGC выкл.) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка Управляемый ИК прожектор OSRAM IR LED III (850нм) до 50м ИК компенсация Компенсация засветки лица в ближней зоне (Smart IR) Компенсация    засветки HLC / BLC / DWDR Видео режим ROI / Накопление заряда / Антитуман Шумоподавление 2DNR (1 - 100%) / 3DNR (6 уровней) Аудио Нет Тревога Нет Карта памяти Микро SD, Макс 512GB Оптика Объектив Моторизированный  2.7~12mm (6.0MP) F1.2, ИК коррекция, Автофокусировка и панорамирование Угол обзора Г: 108°(Широкий) ~ 32°(Узкий) Видео Формат    кодирования H.265 (опция) / H.264 (HP/MP/BP) / MJEPEG Основной поток 2592x1944 (1 ~ 20 к/с) / 2560x1440 / 1920 x 1080 (1 ~ 25 к/с) Второстепенный    поток 960 х 540 / 720 x 576 (1 ~ 25 к/с) Поток Одновременная трансляция двух видео потоков с аудио Битрейт 32K ~ 32768Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR Отображение титров Имя канала, Дата, Время, Текст до 32 символов Сеть Сетевой интерфейс RJ-45    (10/100Base-T) </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">Матрица 1/2,8” SONY STARVIS IMX335 (5.04 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">2592(Г) × 1944(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/5s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 Лк / F1.2, Ч/Б: 0.001 Лк, SNR1s: 0.59 Лк.</spec>
+    <spec name="Сигнал / шум">≥ 50 Дб (AGC выкл.)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED III (850нм) до 50м</spec>
+    <spec name="ИК компенсация">Компенсация засветки лица в ближней зоне (Smart IR)</spec>
+    <spec name="Компенсация    засветки">HLC / BLC / DWDR</spec>
+    <spec name="Видео режим">ROI / Накопление заряда / Антитуман</spec>
+    <spec name="Шумоподавление">2DNR (1 - 100%) / 3DNR (6 уровней)</spec>
+    <spec name="Аудио">Нет</spec>
+    <spec name="Тревога">Нет</spec>
+    <spec name="Карта памяти">Микро SD, Макс 512GB</spec>
+    <spec name="Объектив">Моторизированный  2.7~12mm (6.0MP) F1.2, ИК коррекция, Автофокусировка и панорамирование</spec>
+    <spec name="Угол обзора">Г: 108°(Широкий) ~ 32°(Узкий)</spec>
+    <spec name="Формат    кодирования">H.265 (опция) / H.264 (HP/MP/BP) / MJEPEG</spec>
+    <spec name="Основной поток">2592x1944 (1 ~ 20 к/с) / 2560x1440 / 1920 x 1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">960 х 540 / 720 x 576 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">Одновременная трансляция двух видео потоков с аудио</spec>
+    <spec name="Битрейт">32K ~ 32768Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR</spec>
+    <spec name="Отображение титров">Имя канала, Дата, Время, Текст до 32 символов</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF 2.6  (18.06)">ONVIF Profile-S/G (Движение, Тревога, Metadata)</spec>
+    <spec name="Открытый API интерфейс">API методом JSON, текст или Token/Digest аутентификация</spec>
+    <spec name="Аналитика">IVS аналитика: Детектор человека, Периметр, Подсчет, Направление</spec>
+    <spec name="Питание">DC 12 В ±25%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 7Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C (Холодный старт),    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/IP67, Грозозащита до TVS4000В (Земля – Корпус)</spec>
+    <spec name="Габариты">310(Д) х 84(В) х 103(Ш)</spec>
+    <spec name="Вес">1,0 кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ce503a2812/</source_url>
+</product>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера цилиндрическая Tiandy TC-C32UN I8/A/E/Y/M/2.8-12/V4.0</name>
+  <model>TC-C32UN I8/A/E/Y/M/2.8-12/V4.0</model>
+  <article>325745</article>
+  <sku>1D.20010.002395</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP цилиндрические</subcategory>
+  <functional_name>IP-видеокамера цилиндрическая</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>17590</price>
+  <price_wholesale>7018.41</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/325745/</product_url>
+  <description>
+    <paragraph>Видеокамера IP 2 Мп цилиндрическая; 1/2.8'' CMOS матрица; 1920×1080 -25 к/с; S+H.265, H.265, S+H.264, H.264; объектив zoom 2.8-12 мм; ИК-подсветка 80м; 0.02 Лк; Микрофон; DWDR, BLC, HLC; ONVIF (S,T,G); видеоаналитика: детектор пересечения линии; Micro SD до 512 Гб; облачный сервис EasyLivePlus; DС 12В/PoE(af); 10 Вт; IP67; -40...+60°C; 239x90 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 2.8-12</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>80</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.02</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>Микрофон</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>239х90</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="3.7 МБ">https://www.tinko.ru/upload/exchange/public/documentation/5/3/5365EF4E33EC55AD2697D68B000C483B.pdf</document>
+  </documents>
+</product>

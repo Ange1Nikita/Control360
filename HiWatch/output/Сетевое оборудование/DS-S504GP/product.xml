@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Коммутатор с питанием PoE HiWatch DS-S504GP</name>
+  <model>DS-S504GP</model>
+  <article>312958</article>
+  <sku>301802373</sku>
+  <brand>HiWatch</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы с PoE</subcategory>
+  <functional_name>Коммутатор с питанием PoE</functional_name>
+  <nomenclature>Коммутатор с PoE</nomenclature>
+  <price>3564</price>
+  <price_wholesale>3237.3</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/312958/</product_url>
+  <description>
+    <paragraph>Сетевой неуправляемый коммутатор, 4хRJ45 1000Mб с PoE, 1 Uplink порт 1000 Мб Ethernet; PoE: IEEE802.3af, IEEE802.3at; бюджет PoE 35Вт; поддержка режима передачи до 250м,10Мбит/с, CAT5e; защита от перенапряжения, DC48В, 0.8A; 58Вт; -10 °C...+55°C; 100х100х26 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор гигабитный неуправляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>0/5</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>8/35</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Настольный</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>52 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>58</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>0…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>100х100х26</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="465.43 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/6/B60D710A2BE0884D76A90090E2CED6CD.pdf</document>
+  </documents>
+</product>

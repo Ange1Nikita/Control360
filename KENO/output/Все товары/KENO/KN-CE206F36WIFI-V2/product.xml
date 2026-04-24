@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеокамеры цилиндрические/KN-CE206F36WiFi V2</name>
+  <article>KN-CE206F36WIFI-V2</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f3e/440_370_0/KN_CE206F36_WIFI-V2-17.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/6b4/440_370_0/IMG_mini_134829_1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/250/440_370_0/IMG_mini_134418.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f8e/440_370_0/768-729-1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f3e/38_24_2/KN_CE206F36_WIFI-V2-17.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/6b4/38_24_2/IMG_mini_134829_1.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/250/38_24_2/IMG_mini_134418.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f8e/38_24_2/768-729-1.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 Уличная 2.0 3.6+ 25 Короткое описание IP видеокамера профессионального уровня KN-CE206F36 Wi-Fi V.2 с поддержкой передачи видео по WiFi , уличного исполнения и периметральной IVS аналитикой , которая осуществляет 
+контроль за периметром по вашим настройкам, с отправкой бесплатного PUSH уведомления со снимком события. Кроме этого в камере предусмотрены: Функция "Режим коридора". Эта функция крайне полезна при необходимости съемки узкой сцены, для организации видеонаблюдения в длинных коридорах, тоннелях, вдоль ограждений и незаменим для склада. Суть ее заключается в возможности формирования изображения ориентированного вертикально, формата не 16:9, а 9:16 . Изображение ориентированное вертикально позволяет не тратить полосу пропускания сети и дисковое пространство, например, на не нужные нам стены коридора, 
+а захватывать больше важных объектов снизу в верх. Работа с Бесплатным облачным сервисом P2P Доступ к Удаленному просмотру видео из Архива! Обратите внимание! Камера по умолчанию находится в кодеке Н.265. При подключении камеры к регистратору с кодеком Н.264, пожалуйста, переключите режим в камере на Н.264. Особенности IP видеокамеры Все технические параметры Модель KN-СE206F36 WiFi V.2 Система Тип матрицы 1/2.7" 2.07 Мegapixel OmniPixel® 3-HS OV2735 Эффективные    пиксели 1920(H)    × 1080(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка ИК прожектор (850нм) до 20-25м Компенсация    засветки BLC / WDR (72Дб) / Rolling Shutter / Антитуман Баланс белого Авто Усиление Авто/Ручной Приватные зоны До    4-х зон Оптика Объектив 3.6mm YT0036A (5.0MP) F1.4 с ИК коррекцией Светосила F1.2 Угол обзора H: 93° Видео Формат    кодирования HEVC H.265 / H.264 (M/B) / Mjpeg Основной поток 1080P/960P/720P/D1 (1 ~ 20 к/с) Второстепенный    поток 360P/CIF (1 ~ 20 к/с) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45 </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2.7" 2.07 Мegapixel OmniPixel® 3-HS OV2735</spec>
+    <spec name="Эффективные    пиксели">1920(H)    × 1080(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">ИК прожектор (850нм) до 20-25м</spec>
+    <spec name="Компенсация    засветки">BLC / WDR (72Дб) / Rolling Shutter / Антитуман</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">3.6mm YT0036A (5.0MP) F1.4 с ИК коррекцией</spec>
+    <spec name="Светосила">F1.2</spec>
+    <spec name="Угол обзора">H: 93°</spec>
+    <spec name="Формат    кодирования">HEVC H.265 / H.264 (M/B) / Mjpeg</spec>
+    <spec name="Основной поток">1080P/960P/720P/D1 (1 ~ 20 к/с)</spec>
+    <spec name="Второстепенный    поток">360P/CIF (1 ~ 20 к/с)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 Profile-S/G (Движение, Тревога, Metadata) CGI / API</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Стандарт WIFI">IEEE802.11b/g/n</spec>
+    <spec name="Частота WIFI">2.4GHz~2.4835GHz</spec>
+    <spec name="Шифрование WIFI">64/128-bit WEP；WPA/WPA2；WPA-PSK/WPA2-PSK；WPS</spec>
+    <spec name="Скорость WIFI">11b：11Mbps；11g：54Mbps；11n：150Mbps</spec>
+    <spec name="Дальность WIFI">До 80м в прямой видимости</spec>
+    <spec name="Питание">DC 12 В ±10%</spec>
+    <spec name="Потребление">Не более 3Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP67, Грозозащита до TVS4000В</spec>
+    <spec name="Габариты">64(Ш)*64(В)*154(Д) мм</spec>
+    <spec name="Вес">0.35кг</spec>
+    <spec name="KN-J28T1">*</spec>
+    <spec name="KN-CE505F28">5 Мп</spec>
+    <spec name="KN-J34T - L">*</spec>
+    <spec name="KN-J34T">*</spec>
+    <spec name="KN-CX530F28-DL">5 Мп</spec>
+    <spec name="KN-CS560F28-AI">5 Мп</spec>
+    <spec name="KN-CS880F28-DK">8 Мп</spec>
+    <spec name="KN-CS560A2713-AI">5 Мп</spec>
+    <spec name="KN-CS880A2713-DK">8 Мп</spec>
+    <spec name="KN-GX4C">4 Мп</spec>
+    <spec name="KN-GX3C">3 Мп</spec>
+    <spec name="KN-CX530A2713-DL">5 Мп</spec>
+    <spec name="KN-TRC256F32-5MF-AI">5 Мп</spec>
+    <spec name="KN-CN840F36-P180">8 Мп</spec>
+    <spec name="KN-СS884A2712P-ULTRA">8 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-cilindricheskie/kn-ce206f36wifi-v2/</source_url>
+</product>

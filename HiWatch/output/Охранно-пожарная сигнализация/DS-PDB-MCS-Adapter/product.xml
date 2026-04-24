@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDB-MCS-Adapter</name>
+  <model>DS-PDB-MCS-Adapter</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdb-mcs-adapter</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Кронштейн DS-PDB-MCS-Adapter является дополнительной прокладкой для магнитоконтактного датчика (геркона)</paragraph>
+    <paragraph>• Простота установкиКронштейн для СМК (под магнит)</paragraph>
+    <paragraph>Материал PC, для датчика AXPRO DS-PDMCS-EG2-WE Hikvision</paragraph>
+    <paragraph>Размер: 14   68   3мм; вес 13г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Кронштейн DS-PDB-MCS-Adapter является дополнительной прокладкой для магнитоконтактного датчика (геркона)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Простота установкиКронштейн для СМК (под магнит)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал PC, для датчика AXPRO DS-PDMCS-EG2-WE Hikvision</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер: 14   68   3мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>вес 13г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

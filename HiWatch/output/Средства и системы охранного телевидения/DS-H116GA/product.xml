@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор TVI 16-канальный HiWatch DS-H116GA</name>
+  <model>DS-H116GA</model>
+  <article>317506</article>
+  <sku>300228388</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 16-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>8148</price>
+  <price_wholesale>7401.1</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/317506/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI/AHD/CVI/CVBS 16 каналов видео + 2 IP 5Мп (до 18 с замещением аналоговых в Enhanced IP mode)+ 1 аудио или до 16 каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro+/H.265 Pro/H.265/H.264+/H.264; Скорость записи TVI: 1080p Lite/720p Lite/720p х15к/с; AHD и CVI: 1080p Lite/720p х15к/с; аналоговые камеры: WD1х25к/с; IP: доп. 2 канала 5Мп х25к/с; Воспроизведение: 16х1.0MP; Видеовыходы: 1 VGA, 1 HDMI до 1080Р ; 2 USB2.0 ; Протоколы сети TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF, ISAPI ; сетевой (10M/100M Ethernet); 1х HDD SATA до 10Тб; DC12 В/1600 мА (адаптер питания в комплекте); -10°...+55°C; 285х210х45 мм; ПО CMS в комплекте.; Motion detection 2.0</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>16xTVI или 16х AHD или 16 х CV Iили16х960H+ 2IP (до18 с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro+;H.265 Pro; H.265; H.264; H.264+</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>15к/сек на канал (960х1080 пикс.); 15к/сек на канал (1280х720 пикс.); 15 к/сек на канал (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Постоянный, по расписанию, обнаружение движения</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100M</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP и основные</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 В, адаптер в комплекте</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+    <passport>document_3.pdf</passport>
+    <passport>document_4.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="683.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/4/6/46E2D972BE47CAA4D4C48D0548CE8AA1.pdf</document>
+    <document title="Сброс пароля Hikvision" size="894.67 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/5/05C41B1CDC82BA39EB4EEB55ACA013D7.pdf</document>
+    <document title="Настройка облачного сервиса" size="957.14 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/7/B71E1E48EFCEDAAB920353D1EDA95052.pdf</document>
+    <document title="RTSP ссылки " size="265.4 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/A/AA0DB7B9D685ADA06A3026F7AA75188A.pdf</document>
+  </documents>
+</product>

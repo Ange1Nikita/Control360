@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Панорамная IP-видеокамера Hiwatch DS-I351</name>
+  <model>DS-I351</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Панорамные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i351</product_url>
+  <description>
+    <paragraph>HiWatch DS-I351 - 3Мп внутренняя купольная панорамная IP-камера. Сверхчувствительный (0.005 Люкс) сенсор 3-мегапиксельной панорамной камеры HiWatch DS-I351 формирует цветную картинку даже при недостаточном освещении, благодаря чему можно не переводить устройство в черно-белый режим вплоть до наступления полной темноты. Угол обзора по горизонтали: 180, по вертикали: 180. Модель поддерживает H.265+ — интеллектуальное сжатие, основанное на анализе движения в кадре (фирменная технология Hikvision).</paragraph>
+    <paragraph>3Мп внутренняя купольная панорамная IP-камера c EXIR-подсветкой до 8м                                                                                 1/2.8'' Progressive Scan CMOS матрица; объектив 1.16мм; угол обзора 180градусов/180градусов; механический ИК-фильтр; 0.005Лк@F1.2; H.265/H.265+/H.264/H.264+/MJPEG, WDR (120dB); 3D DNR; BLC; обнаружение движения, вторжения в область и пересечения линии;  встроенный слот для microSD карты до 128Гб;  1 аудио вход/выход, видеобитрейт 32кб/с-16Мб/с; -10градусовC до +50градусовC; DC12В+-25%/PoE(IEEE 802.3af); 7Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>3Мп внутренняя купольная панорамная IP-камера c EXIR-подсветкой до 8м                                                                                 1/2.8'' Progressive Scan CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 1.16мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 180градусов/180градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265/H.265+/H.264/H.264+/MJPEG, WDR (120dB)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>обнаружение движения, вторжения в область и пересечения линии</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 128Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 аудио вход/выход, видеобитрейт 32кб/с-16Мб/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +50градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC12В+-25%/PoE(IEEE 802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>7Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

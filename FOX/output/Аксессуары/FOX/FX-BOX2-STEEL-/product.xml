@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-BOX2 STEEL</name>
+  <article>FX-BOX2-STEEL-</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110002400</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/34e/440_370_0/FX_BOX2-STEEL.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/34e/38_24_2/FX_BOX2-STEEL.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/34e/440_370_0/FX_BOX2-STEEL.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs />
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/montazhnye-korobki/fx-box2-steel-/</source_url>
+</product>

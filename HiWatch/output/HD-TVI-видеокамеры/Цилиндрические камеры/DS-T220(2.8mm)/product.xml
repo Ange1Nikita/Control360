@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T220(2.8mm)</name>
+  <model>DS-T220(2.8mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t220-2-8-mm-</product_url>
+  <description>
+    <paragraph>DS-T220 (2.8 mm) от HiWatch представляет собой уличную HD-TVI-видеокамеру, основное назначение которой - видеотрансляция происходящего в нужной зоне при установке прибора на улице. Что касается работы в разных условиях, то для качества получаемых видео используется аппаратное шумоподавление 3D DNR, а встроенная SMART EXIR-подсветка помогает также, аппаратно, затирать со снимаемого видеоряда засвеченные элементы, тем самым перерабатывая видео и улучшая его качество. DS-T220 (2.8 mm) HiWatch может работать при температурах от -40градусов...+60градусовC, а пыле- влагозащита устройства при IP67 делает такую видеокамеру универсальной в эксплуатации.2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 40м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 2.8мм; угол обзора 103градусов; механический ИК-фильтр; 0.005 Лк@F1.2; Smart ИК EXIR; OSD, DWDR, BLC, DNR, видеовыход: 1 х HD-TVI; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 103градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.005 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК EXIR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR, видеовыход: 1 х HD-TVI</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

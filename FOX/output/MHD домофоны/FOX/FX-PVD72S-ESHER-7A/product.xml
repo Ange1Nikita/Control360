@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-PVD72С ЭШЕР 7A</name>
+  <article>FX-PVD72S-ESHER-7A</article>
+  <brand>FOX</brand>
+  <category>MHD домофоны</category>
+  <price>1111000</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c66/440_370_0/FIANIT_GRAFIT_1_900.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/c66/38_24_2/FIANIT_GRAFIT_1_900.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/c66/440_370_0/FIANIT_GRAFIT_1_900.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-PVD72С ЭШЕР 7</spec>
+    <spec name="Видео">Размер экрана</spec>
+    <spec name="Разрешение">1024х600</spec>
+    <spec name="Стандарт видео">AHD 1080P / 720P и CVBS (960H) PAL / NTSC</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть, до 6-ти устройств</spec>
+    <spec name="Длительность беседы">300 сек</spec>
+    <spec name="Запись">Поддержка MicroSD</spec>
+    <spec name="Поддержка MicroSD">не менее Class 10, до 128 Гб</spec>
+    <spec name="Формат изображений">JPEG, PNG / MP4, AVI / MP3</spec>
+    <spec name="Фото/видео">автоматически / в ручную</spec>
+    <spec name="Дополнительные функции">Кнопки управления</spec>
+    <spec name="Дополнительные камеры">2</spec>
+    <spec name="Мониторы в параллели">5</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">4-х проводное</spec>
+    <spec name="Потребление в режиме ожидания">2,7 Вт</spec>
+    <spec name="Потребление в рабочем режиме">4,8 Вт</spec>
+    <spec name="Питание">AC 100 … 240 В</spec>
+    <spec name="Рабочая температура">-10°C … +50°C</spec>
+    <spec name="Габаритные размеры (мм)">175(Ш) х 122,2(В) х 21,5(Г)</spec>
+    <spec name="Вес домофона">315гр</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-HVD100A V2 (АЛМАЗ 10S)">10”</spec>
+    <spec name="FX-HVD100C V2 (РУБИН 10S)">10”</spec>
+    <spec name="FX-HVD100A V2 (АЛМАЗ 10G)">10”</spec>
+    <spec name="FX-HVD100C V2 (РУБИН 10G)">10”</spec>
+    <spec name="FX-HVD100T V3 (НЕФРИТ 10B)">10”</spec>
+    <spec name="FX-HVD70T V3 (ОПАЛ 7B)">7”</spec>
+    <spec name="FX-HVD70A V2 (АЛМАЗ 7S)">7”</spec>
+    <spec name="FX-HVD70A V2 (АЛМАЗ 7G)">7”</spec>
+    <spec name="FX-HVD70C V2 (РУБИН 7S)">7”</spec>
+    <spec name="FX-HVD70C V2 (РУБИН 7G)">7”</spec>
+    <spec name="FX-HVD77E V2 (САПФИР 7S)">7”</spec>
+    <spec name="FX-HVD77E V2 (САПФИР 7G)">7”</spec>
+    <spec name="FX-HVD77Е (САПФИР 7)">7”</spec>
+    <spec name="FX-HVD70A (АЛМАЗ 7)">7”</spec>
+    <spec name="FX-HVD70M V2 (ТОПАЗ 7W)">7”</spec>
+    <spec name="FX-HVD70M V2 (ТОПАЗ 7B)">7”</spec>
+    <spec name="FX-HVD100T V2 WIFI (НЕФРИТ 10W)">10”</spec>
+    <spec name="FX-HVD70T V2 WIFI (ОПАЛ 7W)">7”</spec>
+    <spec name="FX-HVD100M V2 (ТОПАЗ 10W)">10”</spec>
+    <spec name="FX-HVD100M V2 (ТОПАЗ 10B)">10”</spec>
+    <spec name="FX-HVD7C (КИПАРИС 7B)">7”</spec>
+    <spec name="FX-HVD7C (КИПАРИС 7W)">7”</spec>
+    <spec name="FX-HVD156T WIFI (БИКСБИТ 15S)">15,6"</spec>
+    <spec name="FX-HVD100F (МАЛАХИТ 10) WiFi Белый">10”</spec>
+    <spec name="FX-HVD100F (МАЛАХИТ 10) WiFi Черный">10”</spec>
+    <spec name="FX-HVD100Н (Турмалин) WiFi">10”</spec>
+    <spec name="FX-HVD70F (МАЛАХИТ 7) WiFi Белый">7”</spec>
+    <spec name="FX-HVD70F (МАЛАХИТ 7) WiFi Черный">7”</spec>
+    <spec name="FX-HVD70М (ТОПАЗ 7W) WiFi Белый">7”</spec>
+    <spec name="FX-HVD100R (Аквамарин 10W)">10”</spec>
+    <spec name="FX-HVD100R (Аквамарин 10B)">10”</spec>
+    <spec name="FX-HVD800Q (СЕКВОЙЯ 8B) WiFi Черный">8”</spec>
+    <spec name="FX-HVD800Q (СЕКВОЙЯ 8W) WiFi Белый">8”</spec>
+    <spec name="FX-HVD800Q (СЕКВОЙЯ 8S) WiFi Серебро">8”</spec>
+    <spec name="FX-HVD70C (ФИАНИТ 7W)">7”</spec>
+    <spec name="FX-HVD70C (ФИАНИТ 7А)">7”</spec>
+    <spec name="FX-VD70N (Янтарь 7W)">7”</spec>
+    <spec name="FX-VD70N (ЯНТАРЬ 7А)">7”</spec>
+    <spec name="FX-HVD70М (ТОПАЗ 7B) WiFi Черный">7”</spec>
+    <spec name="FX-HVD100HQ WIFI (БИКСБИТ 10S)">10”</spec>
+    <spec name="FX-PVD70GT ВАН ГОГ 7B">7”</spec>
+    <spec name="FX-PVD70GT ВАН ГОГ 7W">7”</spec>
+    <spec name="FX-PVD100GT  ВАН ГОГ 10B">10”</spec>
+    <spec name="FX-PVD100GT  ВАН ГОГ 10W">10”</spec>
+    <spec name="FX-PVD74GM ВИНСЕНТ 7B">7”</spec>
+    <spec name="FX-PVD74GM ВИНСЕНТ 7W">7”</spec>
+    <spec name="FX-PVD72С ЭШЕР 7W">7”</spec>
+    <spec name="FX-PVD72С ЭШЕР 7A">7”</spec>
+    <spec name="FX-HVD100D V2 БРИЛЛИАНТ 10S WIFI">10”</spec>
+    <spec name="7”">128 Гб</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="7&quot; (17,5 см) IPS">Разрешение</spec>
+    <spec name="1024х600">Стандарт видео</spec>
+    <spec name="AHD 1080P / 720P и CVBS (960H) PAL / NTSC">Аудио</spec>
+    <spec name="Звуковая система">Hands Free</spec>
+    <spec name="не менее Class 10, до 128 Гб">Формат изображений</spec>
+    <spec name="JPEG, PNG / MP4, AVI / MP3">Фото/видео</spec>
+    <spec name="автоматически / в ручную">Дополнительные функции</spec>
+    <spec name="Кнопки управления">Механические</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="4-х проводное">Потребление в режиме ожидания</spec>
+    <spec name="2,7 Вт">Потребление в рабочем режиме</spec>
+    <spec name="4,8 Вт">Питание</spec>
+    <spec name="AC 100 … 240 В">Рабочая температура</spec>
+    <spec name="-10°C … +50°C">Габаритные размеры (мм)</spec>
+    <spec name="175(Ш) х 122,2(В) х 21,5(Г)">Вес домофона</spec>
+    <spec name="Материалы и особенности ПО">Инструкция пользователя</spec>
+    <spec name="Инструкция пользователя">(19.894МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/mhd-vd/fx-pvd72s-esher-7a/</source_url>
+</product>

@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера HikVision DS-2XS6A46G1-IZS/C36S80 8–32</name>
+  <model>DS-2XS6A46G1-IZS/C36S80 8–32</model>
+  <sku>56124</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xs6a46g1-izs-c36s80-8-32-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>ИК-подсветка 50 м</paragraph>
+    <paragraph>–20 °C... +60 °C, IP66</paragraph>
+    <paragraph>Li-ion 360 Вт·ч, 10.8 В</paragraph>
+    <paragraph>Солнечная панель 80 Вт</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0005 лк (F/1.0, AGC вкл.), ч/б: 0 лк с подсветкой белым светом</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>8 ~ 32 мм, по горизонтали: 40.3° ~ 14.5°, по вертикали: 22.1° ~ 8.2°, по диагонали: 46.9° ~ 16.5°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>моторизованный</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>автоматическая ирисовая диафрагма</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 150.3 ~ 400.0 м, O: 59.7 ~ 158.7 м, R: 30.1 ~ 80.0 м, I: 14.9 ~ 40.0 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность</name>
+      <value>50 м</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/c (2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (640×480, 640×360)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 1 к/с (1280×720, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.264, H.265дополнительный поток: H.264, H.265, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR/VBR</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>4 фиксированные области для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 6 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (профили S, G, T), ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour, SSL/TLS, WebSocket, WebSockets</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки управления временем ожидания, TLS 1.2, TLS 1.3</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>Hik-Connect (также поддерживается в режиме упреждения), Hik-Central Professional</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE 10+, не требуется плагин для просмотра в режиме реального времени: Chrome 57.0+, Firefox 52.0+, локальные сервисы: Chrome 57.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>130 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR, антитуман</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥ 52 дБ</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>4 области маскирования</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 RS-485 (полудуплекс, подключение к внешней батарее)</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход (линейный), макс. амплитуда входного сигнала: 3.3 В p-p, входное сопротивление: 4.7 кОм; тип интерфейса: неравновесный, выход (линейный), макс. амплитуда выходного сигнала: 3.3 В p-p, выходное сопротивление: 100 Ом, тип интерфейса: неравновесный</value>
+    </spec>
+    <spec>
+      <name>Тревожный интерфейс</name>
+      <value>вход, выход (макс. DC 12 В, 1 A)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты памяти, поддержка microSD, до 256 Гбайт; встроенное хранилище eMMC до 64 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ-45 auto 10/100М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Выход питания</name>
+      <value>DC 12 В, макс. 1000 мA</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, исключения (несанкционированный вход, разрыв сети, конфликт IP-адресов, несанкционированный вход, ошибка накопителя)</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, оставленного багажа, перемещения объекта, изменения сцены, звуковых событий</value>
+    </spec>
+    <spec>
+      <name>Подключение</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка e-mail, запись по тревоге, захват изображения, срабатывание тревожного выхода, звуковое предупреждение</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 20 %, 4-контактный водонепроницаемый разъем M81. Потребляемая мощность в режиме ожидания: 45 мВт2. Среднее энергопотребление за 24 часа составляет 4.5 Вт (без 4G).3. Макс. потребляемая мощность: 18 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>816.2×735.9×760.0 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>26.45 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–20 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Anti-banding, Heartbeat, зеркалирование, маскирование области, журнал проверки безопасности, изменение пароля по E-mail, подсчет пикселей</value>
+    </spec>
+    <spec>
+      <name>Язык веб-клиента</name>
+      <value>33 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>литий-ионная</value>
+    </spec>
+    <spec>
+      <name>Емкость</name>
+      <value>360 Вт·ч (90 Вт·ч на каждую батарею)</value>
+    </spec>
+    <spec>
+      <name>Напряжение батареи</name>
+      <value>10.8 V</value>
+    </spec>
+    <spec>
+      <name>Максимальное напряжение</name>
+      <value>12.6 V</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>–20 °C... +60 °C</value>
+    </spec>
+    <spec>
+      <name>Продолжительность цикла</name>
+      <value>режим максимальной производительности: 5 дней, режим детекции: 8 дней, режим ожидания: 80 дней</value>
+    </spec>
+    <spec>
+      <name>Срок службы батареи</name>
+      <value>более 500 циклов</value>
+    </spec>
+    <spec>
+      <name>Вес батареи</name>
+      <value>2.74 кг</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP66 (IEC 60529-2013)уровень сопротивления ветру: 12, устойчивость к скорости ветра до 40 м/с</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпИК-подсветка 50 м–20 °C... +60 °C, IP66Li-ion 360 Вт·ч, 10.8 ВСолнечная панель 80 ВтWDR 120 дБ, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f5c/140_140_1/DS_2XS6A46G1_IZSC36S80-2.8_12-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xs6a46g1-izs-c36s80-8-32-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2XS6A46G1-IZS/C36S80 8–32&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

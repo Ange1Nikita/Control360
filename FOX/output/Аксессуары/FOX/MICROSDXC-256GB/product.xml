@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>MicroSDXC 256Gb</name>
+  <article>MICROSDXC-256GB</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110004990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/69e/440_370_0/900-576.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/69e/38_24_2/900-576.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/69e/440_370_0/900-576.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs />
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/sd-karty/microsdxc-256gb/</source_url>
+</product>

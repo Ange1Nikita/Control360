@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=name&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=NAME&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Classic Line</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/iblock/76c/76ca58c4e06453494b405cd3d1cac076.jpg</image>
+    <image>https://viguard.pro/upload/iblock/4a5/4a52089101e7b5d9b67e5d581feff570.jpg</image>
+    <image>https://viguard.pro/upload/iblock/b2d/b2d935a3f1155093b138e77695d928f3.png</image>
+    <image>https://viguard.pro/upload/iblock/989/98988a0aadd5fa78024f5f164cde5bb1.png</image>
+    <image>https://viguard.pro/upload/iblock/d33/d33449a72ab3f2f9a31205225aacca6c.png</image>
+    <image>https://viguard.pro/upload/iblock/095/0950651dd241ca76423cd5b8fe7450db.jpg</image>
+    <image>https://viguard.pro/upload/iblock/d06/d06105f1f0875b6671d370a88dd399aa.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ef5/450_450_1/ef5c3b3d0815f16f7561c12eb3fd5eab.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/df3/450_450_1/df33ee9d916f948f34d01569fcbc0072.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/448/450_450_1/448fa0f92edffaa5de6adef76ca5abfe.png</image>
+    <image>https://viguard.pro/upload/iblock/d9d/d9ddddfd5a68f83f77cb3d4b68b4301e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/6c4/450_450_1/6c46817f5dc7ede46f3e91acf27d96a8.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fe/450_450_1/viguard-door-f-rev-2-magnitokontaktnyy-datchik-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo-po.jpg</image>
+    <image>https://viguard.pro/upload/iblock/742/742960a493b97fe7debd31268ba4379b.jpg</image>
+    <image>https://viguard.pro/upload/iblock/8ff/8ff45b5dd249ab9c54f3804a6090171e.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fa/450_450_1/3fa454f25ca6f86de1a271773ab4ce9b.png</image>
+    <image>https://viguard.pro/upload/iblock/9bc/9bcc3180ec9b373bcfdac523d048fd6c.png</image>
+    <image>https://viguard.pro/upload/iblock/2ef/2ef8648ea0bf3c52a0b857ee8115fb88.png</image>
+    <image>https://viguard.pro/upload/iblock/db2/db288ee537f44102cf349bd52c6e87ae.png</image>
+    <image>https://viguard.pro/upload/iblock/f89/f89fca58ab0bd267cda4930ffe1be201.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/7fa/450_450_1/7faaffdd858d3f5078a1467f5c14ed82.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/afc/450_450_1/afc7e3fe0718381ee70b1b53aae5b8e4.png</image>
+    <image>https://viguard.pro/upload/iblock/b5f/b5f07b68a839e2ef0f2ecbc50db60c5e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/cc3/450_450_1/cc3cf309c1c3d3eff0b451da731198bb.png</image>
+    <image>https://viguard.pro/upload/iblock/5f2/5f291aeb9f8b0384a6608e6c40f80d01.png</image>
+    <image>https://viguard.pro/upload/iblock/2ec/2ec1d20ebb5e40291162c997ae26d20c.png</image>
+    <image>https://viguard.pro/upload/iblock/fe8/fe8a62affc432e5fcad7c6b8a3bfab38.png</image>
+    <image>https://viguard.pro/upload/iblock/066/066660cb6e37511e295395ea34964132.png</image>
+    <image>https://viguard.pro/upload/iblock/5f2/5f2d2ff690aeb1eca138ed221fb566a9.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/181/450_450_1/181081a8ebdf4350bcd657561f09dce5.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/classic_line/index.php?sort=name&amp;order=asc</source_url>
+</product>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=name&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=NAME&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Брелки Classic</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/iblock/b2d/b2d935a3f1155093b138e77695d928f3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/7fa/450_450_1/7faaffdd858d3f5078a1467f5c14ed82.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/afc/450_450_1/afc7e3fe0718381ee70b1b53aae5b8e4.png</image>
+    <image>https://viguard.pro/upload/iblock/b5f/b5f07b68a839e2ef0f2ecbc50db60c5e.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/brelki_classic_line/index.php?sort=name&amp;order=asc</source_url>
+</product>

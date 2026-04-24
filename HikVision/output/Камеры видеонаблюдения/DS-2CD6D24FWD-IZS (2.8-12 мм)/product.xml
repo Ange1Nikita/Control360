@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD6D24FWD-IZS (2.8-12 мм)</name>
+  <model>DS-2CD6D24FWD-IZS (2.8-12 мм)</model>
+  <sku>16336</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd6d24fwd-izs-2-8-12-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>4 объектива по 2 Мп</paragraph>
+    <paragraph>Детекция лиц</paragraph>
+    <paragraph>ИК-подсветка 10 ~ 30 м</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, IK10, –30 ºС… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.006 лк при F/1.2, AGC вкл., 0.01 лк при F/1.6, AGC вкл.ч/б: 0.002 лк при F/1.2, AGC вкл., 0.003 лк при F/1.6, AGC вкл</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с. ~ 1/100 000 с.</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>четыре регулируемых объектива, поворот: 0° ~ +355°, наклон: 0° ~ +135°, вращение: –180° ~ +180°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>2.8 ~ 12 мм, четыре объектива</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 30° ~ 96.3°по вертикали: 17° ~ 54°по диагонали: 34° ~ 121°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Ø14</value>
+    </spec>
+    <spec>
+      <name>ИК-подсветка</name>
+      <value>10 ~ 30 м</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM, AAC</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711), 16 кбит/с (G.722.1), 16 кбит/с (G.726), 32 ~ 192 кбит/с (MP2L2), 16 ~ 64 кбит/с (AAC)</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (4096×1800, 4096×1440, 4096×1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×320)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, AGC, баланс белого настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>120 дБ WDR, 3D DNR, BLC, EIS</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>авто, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Наложение картинки</name>
+      <value>логотип в формате bmp 24 бит, 128×128, место настраивается</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, входа и выхода из области, оставленных/пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>звуковые исключения, изменение сцены, расфокусировка</value>
+    </spec>
+    <spec>
+      <name>Обнаружение лиц</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Область исследования</name>
+      <value>4 фиксированных области для основного и дополнительного потоков</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR, карты microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>обнаружение движения, саботаж, разрыв сети, конфликт IP-адресов, несанкционированный доступ, заполнение или ошибка HDD, тревожный вход, тревожный выход</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>сброс одной кнопкой, антимерцание, пульсация, зеркалирование, защита паролем, маска конфиденциальности, водяные знаки, фильтр IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (Profile S,Profile G), ISAPI</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор, пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE8+, Chrome31-44, Firefox 30.0 - 51</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>2 входа/ 2 выхода (макс. DC 24 В, 1 A, AC 110 В, 500 мА)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD/SDHC/SDXC до 128 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Кнопка перезагрузки</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Тип интерфейса</name>
+      <value>FC</value>
+    </spec>
+    <spec>
+      <name>Тип оптики</name>
+      <value>1 волокно, одномодовое оптоволокно</value>
+    </spec>
+    <spec>
+      <name>Входящая/ Выходящая длина волны</name>
+      <value>Tx 1310 нм/1.25 Гбайт, Rx 1550 нм/1.25 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи</name>
+      <value>20 км</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±20 %24 В АС ±20 % (для кастомизации), трехъядерный блок контактовHi-PoE: 42.5 ~ 57 В DC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>DC 12 В, 2.3 A, макс. 28 Вт24 В АС ±20 %, макс. 50 ~ 60 Гц, 2.5 А (для кастомизации)Hi-PoE (802.3at) 42.5 В ~ 57 В, макс. 17 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–30 °C… +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>алюминиевый сплав, инженерный пластик</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø290×145.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>4.7 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>4 объектива по 2 МпДетекция лицИК-подсветка 10 ~ 30 мH.265+, H.265, H.264+, H.264⛅ ☔ ❄ IP67, IK10, –30 ºС… +60 ºСПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f90/140_140_1/DS_2CD6D24FWD_IZHSNFC-_2.8_12-mm_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd6d24fwd-izs-2-8-12-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD6D24FWD-IZS (2.8-12 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

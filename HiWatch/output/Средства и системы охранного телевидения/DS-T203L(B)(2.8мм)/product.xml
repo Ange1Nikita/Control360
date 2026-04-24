@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная купольная HiWatch DS-T203L(B)(2.8мм)</name>
+  <model>DS-T203L(B)(2.8мм)</model>
+  <article>327117</article>
+  <sku>327800683</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные купольные</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная купольная</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>2205.28</price>
+  <price_wholesale>2003.13</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/327117/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (переключаемый TVI/AHD/CVI/CVBS) Mix-HD цветная (ColorVu) купольная уличная со встроенным микрофоном (AoC)  и LED белой подсветкой , ДЕНЬ/НОЧЬ-Цвет; 1/3"  CMOS 2МП (1920х1080); 0.001; f= 2.8мм ; дальность белой подсветки 20 м; S/N: 65 dB; DWDR, HLC, 3D DNR; OSD-меню; Тревога немигающий световой сигнал (подсветка белым светом) ; DC12В/200 мА; IP66; Ø 85.11 × 77.62мм; -40°…+60°C; Металл</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/3" 2МП CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.001</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>LED подсветка, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>85.11х77.62</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

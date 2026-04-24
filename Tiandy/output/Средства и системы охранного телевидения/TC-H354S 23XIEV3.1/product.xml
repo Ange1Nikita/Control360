@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера IP поворотная Tiandy TC-H354S 23X/I/E/V3.1</name>
+  <model>TC-H354S 23X/I/E/V3.1</model>
+  <article>323748</article>
+  <sku>1D.20020.000645</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP поворотные</subcategory>
+  <functional_name>Видеокамера IP поворотная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>64890</price>
+  <price_wholesale>28110.12</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/323748/</product_url>
+  <description>
+    <paragraph>Видеокамера IP 5 Мп поворотная; 1/2.8'' CMOS матрица; 2880×1620 -30 к/с; S+H.265, H.265, S+H.264, H.264; объектив 5-115 мм; ИК-подсветка 180м; 0.001 Лк; Микрофон; Аудио вход/выход 1/1; Тревожный вход/выход 1/1; RS-485; WDR-120дБ, BLC, HLC; ONVIF (S,G,T); Micro Sd до 512 Гб;  видеоаналитика: детектор пересечения линии, обнаружение цели по типу «Человек»/«ТС»;  АC 24В/PoE+; 20Вт; IP66, IK10 ; -40...+40°C; 161x276 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2880х1620</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 5.5-115</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>180</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>30</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.001</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1 (Микрофон)</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 512 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>24 AC/PoE+</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>161х276</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

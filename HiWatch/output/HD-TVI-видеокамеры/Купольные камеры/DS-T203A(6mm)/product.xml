@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Купольная HD-TVI-видеокамера Hiwatch DS-T203A(6mm)</name>
+  <model>DS-T203A(6mm)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Купольные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t203a-6-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>2 Mп, разрешение 1920  1080</paragraph>
+    <paragraph>Фиксированный объектив 2.8 мм, 3.6 мм, 6 мм</paragraph>
+    <paragraph>Интеллектуальная EXIR-подсветка, дальность EXIR-подсветки до 30 м</paragraph>
+    <paragraph>Аудио по коаксиальному кабелю</paragraph>
+    <paragraph>Видеовыход 4-в-1 (переключаемые TVI/AHD/CVI/CVBS)</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+    <paragraph>IP662Мп уличная купольная HD-TVI камера с EXIR-подсветкой до 30м и встроенным микрофоном (AoC)</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 6мм; угол обзора 51,9градусов; механический ИК-фильтр; 0.01 Лк@F1.2; OSD, DWDR, BLC, DNR; HLC Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; аудио по коаксиальному кабелю (AoC); IP66; -40градусовС до +60градусовС; 12В DC+-15%, 3,7Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 Mп, разрешение 1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фиксированный объектив 2.8 мм, 3.6 мм, 6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интеллектуальная EXIR-подсветка, дальность EXIR-подсветки до 30 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудио по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход 4-в-1 (переключаемые TVI/AHD/CVI/CVBS)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP662Мп уличная купольная HD-TVI камера с EXIR-подсветкой до 30м и встроенным микрофоном (AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 51,9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HLC Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудио по коаксиальному кабелю (AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 3,7Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

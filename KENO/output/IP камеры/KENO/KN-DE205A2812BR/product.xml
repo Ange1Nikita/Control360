@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Проектные решения "Безопасный регион"/KN-DE205A2812BR</name>
+  <article>KN-DE205A2812BR</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>31990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/059/440_370_0/KENO_NEW_TYPE_4_VN_BR_7_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3f8/440_370_0/IMG_mini_format_768_154620.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/ef2/440_370_0/Bez_imeni_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3df/440_370_0/IMG_mini_format_768_115846_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0a8/440_370_0/IMG_mini_format_768_115402_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a11/440_370_0/IMG_mini_format_768_150823_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a9c/440_370_0/KN_DE204A2812_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/059/38_24_2/KENO_NEW_TYPE_4_VN_BR_7_768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3f8/38_24_2/IMG_mini_format_768_154620.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/ef2/38_24_2/Bez_imeni_1_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3df/38_24_2/IMG_mini_format_768_115846_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0a8/38_24_2/IMG_mini_format_768_115402_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a11/38_24_2/IMG_mini_format_768_150823_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a9c/38_24_2/KN_DE204A2812_768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink apple.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink андроид.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Модель KN-DE205A2812BR Система Тип матрицы 1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей) Эффективные    пиксели 1945(H)    × 1097(V) Размер пикселя 2.9x2.9 [μm] Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.005 Лк / F1.2, Ч/Б: 0.0005 Лк, SNR1s: 0.24 Лк Сигнал / шум ≥50db(AGC выкл) Переключение день/ночь Электромеханический ИК-фильтр ИК подсветка Управляемый ИК прожектор OSRAM IR LED II (850нм) до 30м ИК Компенсация Компенсация засветки лица в ближней зоне (Smart IR) Компенсация засветки HLC / BLC / TWDR (120 Дб) / Накопление заряда / Антитуман Видео режим Режим «Коридор» поворот изображения на 90° / ROI Шумоподавление 2DNR (1 - 100%) / 3DNR (6 уровней) Объектив Моторизированный 2.8~12mm (6.0MP) F1.3 с DC АРД, ИК коррекцией, автофокусировкой и панорамированием Светосила F1.3 Угол обзора Г: 108°(Широкий)~32°(Узкий) Формат    кодирования H.265 (опция) / H.264 (HP/MP/BP) / MJEPEG Основной поток 1920 x 1080 (1 ~ 25 к/с) Второстепенный    поток 960 х 540 / 720 x 576 (1 ~ 25 к/с) Поток Одновременная трансляция двух видео потоков с аудио Битрейт 32K ~ 32768Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR Отображение титров Имя канала, Дата, Время, Текст до 32 символов Сетевой интерфейс RJ-45    (10/100Base-T) Протокол TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP ONVIF Onvif 2.6 (18.06) Profile-S/G/T (Движение, Тревога, Meta данные) Открытый API интерфейс API методом JSON, текст или Token/Digest аутентификация Аудио Встроенный микрофон с АРУ и шумоподавлением,
+Внешний 1 Вх. / 1 Вых. Аудио, G.711 (a-law, μ-law) Тревога 1  Вх. / 1 Вых. Аналитика Детектор лиц, людей, транспорта, пересечение области,
+с отправкой Meta снимка на сервер обработки данных Карта памяти Micro    SD, Max 128GB Технические параметры Питание DC 12 В ±25%, PoE (802.3af) Потребление Не более 6Вт Рабочая    температура -40°C ... +60°C,    10% ... 90% Степень защиты IP66/67, K10,  Подавитель импульсов TVS 8000В Габариты Ø </description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY STARVIS IMX307 (2.13 Мегапикселей)</spec>
+    <spec name="Эффективные    пиксели">1945(H)    × 1097(V) Размер пикселя 2.9x2.9 [μm]</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.005 Лк / F1.2, Ч/Б: 0.0005 Лк, SNR1s: 0.24 Лк</spec>
+    <spec name="Сигнал / шум">≥50db(AGC выкл)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Управляемый ИК прожектор OSRAM IR LED II (850нм) до 30м</spec>
+    <spec name="ИК Компенсация">Компенсация засветки лица в ближней зоне (Smart IR)</spec>
+    <spec name="Компенсация засветки">HLC / BLC / TWDR (120 Дб) / Накопление заряда / Антитуман</spec>
+    <spec name="Видео режим">Режим «Коридор» поворот изображения на 90° / ROI</spec>
+    <spec name="Шумоподавление">2DNR (1 - 100%) / 3DNR (6 уровней)</spec>
+    <spec name="Объектив">Моторизированный 2.8~12mm (6.0MP) F1.3 с DC АРД, ИК коррекцией, автофокусировкой и панорамированием</spec>
+    <spec name="Светосила">F1.3</spec>
+    <spec name="Угол обзора">Г: 108°(Широкий)~32°(Узкий)</spec>
+    <spec name="Формат    кодирования">H.265 (опция) / H.264 (HP/MP/BP) / MJEPEG</spec>
+    <spec name="Основной поток">1920 x 1080 (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">960 х 540 / 720 x 576 (1 ~ 25 к/с)</spec>
+    <spec name="Поток">Одновременная трансляция двух видео потоков с аудио</spec>
+    <spec name="Битрейт">32K ~ 32768Kbps с шагом 32K ~ 512Kbps, CBR±10%, VBR</spec>
+    <spec name="Отображение титров">Имя канала, Дата, Время, Текст до 32 символов</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 (18.06) Profile-S/G/T (Движение, Тревога, Meta данные)</spec>
+    <spec name="Открытый API интерфейс">API методом JSON, текст или Token/Digest аутентификация</spec>
+    <spec name="Аудио">Встроенный микрофон с АРУ и шумоподавлением,
+Внешний 1 Вх. / 1 Вых. Аудио, G.711 (a-law, μ-law)</spec>
+    <spec name="Тревога">1  Вх. / 1 Вых.</spec>
+    <spec name="Аналитика">Детектор лиц, людей, транспорта, пересечение области,
+с отправкой Meta снимка на сервер обработки данных</spec>
+    <spec name="Карта памяти">Micro    SD, Max 128GB</spec>
+    <spec name="Питание">DC 12 В ±25%, PoE (802.3af)</spec>
+    <spec name="Потребление">Не более 6Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66/67, K10,  Подавитель импульсов TVS 8000В</spec>
+    <spec name="Габариты">Ø 117.9 x 96.3(В)</spec>
+    <spec name="Вес">0.4кг</spec>
+    <spec name="KN-CE204A2812BR">2.0</spec>
+    <spec name="KN-CE204A5050BR">2.0</spec>
+    <spec name="KENO KN-PVN1BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-SDE204X23BR">2Мп</spec>
+    <spec name="KN-SDE204X33BR">2Мп</spec>
+    <spec name="KN-FRT7FBR">1920*1080</spec>
+    <spec name="KN-FRT5WBR">1920*1080</spec>
+    <spec name="KN-FRT5FBR">1920*1080</spec>
+    <spec name="KN-CE505A2812BR">5.0</spec>
+    <spec name="KN-DE505A2812BR">5.0</spec>
+    <spec name="KN-DE508F28BR">5.0</spec>
+    <spec name="KN-CE203A2812BR">2.0</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/proektnye-resheniya/kn-de205a2812br/</source_url>
+</product>

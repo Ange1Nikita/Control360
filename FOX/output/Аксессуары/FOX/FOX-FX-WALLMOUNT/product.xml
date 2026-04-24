@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FOX FX-WallMount</name>
+  <article>FOX-FX-WALLMOUNT</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>1111000790</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/3f8/FX_WallMount-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/18f/440_370_0/FX_WallMount.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/3f8/38_24_2/FX_WallMount-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/18f/38_24_2/FX_WallMount.png</image>
+    <image>https://fox-cctv.ru//upload/iblock/3f8/FX_WallMount-250.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FOX FX-WallMount</spec>
+    <spec name="Способ монтажа">Накладной</spec>
+    <spec name="Степень защиты по ГОСТ 14254">IP</spec>
+    <spec name="Материал">Пластик</spec>
+    <spec name="Температура окружающей среды">°С</spec>
+    <spec name="Особенности аксессуара">Все технические параметры</spec>
+    <spec name="Размер">Масса</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/montazhnye-korobki/fox-fx-wallmount/</source_url>
+</product>

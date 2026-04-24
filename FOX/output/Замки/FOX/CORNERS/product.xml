@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Уголки</name>
+  <article>CORNERS</article>
+  <brand>FOX</brand>
+  <category>Замки</category>
+  <price>1111000990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/01e/DSCF5005_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/c2f/DSCF5005_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/e3a/DSCF5005_250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3bc/DSCF4976_250.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Форм фактор</spec>
+    <spec name="FX-B500A">Уголок</spec>
+    <spec name="FX-B280A">Уголок</spec>
+    <spec name="FX-B180A">Уголок</spec>
+    <spec name="FX-B280G">Уголок</spec>
+    <spec name="1">1000</spec>
+    <spec name="990">руб.</spec>
+    <spec name="купить">FX-B280G</spec>
+    <spec name="850">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/locks/corners/</source_url>
+</product>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDCL12-EG2</name>
+  <model>DS-PDCL12-EG2</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdcl12-eg2</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Цифровой PIR-датчик, счетверенный пироэлемент</paragraph>
+    <paragraph>• Автоматическая регулировка чувствительности</paragraph>
+    <paragraph>• Адаптация напряжения и встроенные оконечные резисторыПотолочный оптический извещатель инфракрасный</paragraph>
+    <paragraph>Область обнаружения - до 12м, 360 град.; технология подавления помех "Blue Wave"; температурная компенсация IFT; тампер; DC9-16В; -30градусовC...+70градусовC; размер 80 29мм; пластик ABS.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Цифровой PIR-датчик, счетверенный пироэлемент</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Автоматическая регулировка чувствительности</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Адаптация напряжения и встроенные оконечные резисторыПотолочный оптический извещатель инфракрасный</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область обнаружения - до 12м, 360 град.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>технология подавления помех "Blue Wave"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>температурная компенсация IFT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 80 29мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик ABS.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>SWT-1105P</name>
+  <article>304893</article>
+  <sku>301802116</sku>
+  <brand>HiWatch</brand>
+  <category>Сетевое оборудование</category>
+  <subcategory>Сетевые коммутаторы с PoE</subcategory>
+  <functional_name>Коммутатор с питанием POE</functional_name>
+  <nomenclature>Коммутатор с PoE</nomenclature>
+  <price>4981.68</price>
+  <price_wholesale>4525.03</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/304893/</product_url>
+  <description>
+    <paragraph>Коммутатор сетевой 5 портовый с РоЕ; 4xRJ45 PoE 10/100 Мбит/с, IEEE 802.3af/at, 1xRJ45 Uplink 10/100 Мбит/с; PoE бюджет до 60 Вт; дальность передачи до 300 метров; защита от перенапряжения до 6 кВ; DC 48 В, 1.35 A, 65 Вт; 0... +40°C; 105х28х83 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип устройства</name>
+      <value>Коммутатор Fast Ethernet неуправляемый</value>
+    </spec>
+    <spec>
+      <name>LAN порты 100/1000 Мбит, шт.</name>
+      <value>5/0</value>
+    </spec>
+    <spec>
+      <name>SFP порты, шт.</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Из них LAN порты с PoE, шт.</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Мощность РоЕ, на порт/суммарная, Вт.</name>
+      <value>15/60</value>
+    </spec>
+    <spec>
+      <name>Монтаж</name>
+      <value>Настольный</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>65</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>0…+40</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>105х27х83</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="500.23 КБ">https://www.tinko.ru/upload/exchange/public/documentation/F/7/F793050D11F69117A0E795053B8DF2B9.pdf</document>
+  </documents>
+</product>

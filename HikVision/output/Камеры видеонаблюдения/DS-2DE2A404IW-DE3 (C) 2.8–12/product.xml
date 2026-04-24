@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2DE2A404IW-DE3 (C) 2.8–12</name>
+  <model>DS-2DE2A404IW-DE3 (C) 2.8–12</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>21290</price>
+  <product_url>https://www.dssl.ru/products/ds-2de2a404iw-de3-c-2-8-12-povorotnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>–20 °C... +60 °C, IP66, IK10</paragraph>
+    <paragraph>Скорость поворота до 100 °/с</paragraph>
+    <paragraph>WDR 120 дБ, BLC, HLC, 3D DNR</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.005 лк (F/1.6, AGC вкл.), Ч/б: 0.001 лк (F/1.6, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>авто, ручн., ATW, в помещении, на улице, лампа дневного света, лампа накаливания</value>
+    </spec>
+    <spec>
+      <name>Насыщенность</name>
+      <value>авто, ручн.</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 ~ 1/30 000 с.</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Цифровой зум</name>
+      <value>16×</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>24 настраиваемых маски области</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручн.</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>2.8 ~ 12 мм</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>2 с.</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 96.7° ~ 31.6°вертикали: 51.1° ~ 17.7°диагонали: 115.1° ~ 36.3°</value>
+    </spec>
+    <spec>
+      <name>Расстояние до объекта</name>
+      <value>10 ~ 1500 мм</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6 ~ F/2.7</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>0° ~ 355°</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>0.1 °/с ~ 100 °/с, по предустановке: 100 °/с</value>
+    </spec>
+    <spec>
+      <name>Наклон</name>
+      <value>0° ~ 90°</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>0.1 °/с ~ 100 °/с, по предустановке: 100 °/с</value>
+    </spec>
+    <spec>
+      <name>Пропорциональное увеличение</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 ~ 16384 Кбит/с</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, саботажа, исключений</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>детекция лиц, вторжения, пересечения линии, входа и выхода из области, перемещения объекта, оставленного багажа, звуковых событий</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальная запись</name>
+      <value>ANR, Dual-VCA</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>основной поток, дополнительный поток и третий поток соответственно поддерживают четыре фиксированные области</value>
+    </spec>
+    <spec>
+      <name>Дальность ИК-подсветки</name>
+      <value>20 м</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (2560×1440, 2048×1536, 1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>3D DNR, EIS, экспозиция области, фокус на области</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/ CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Привязка тревог</name>
+      <value>действия по тревоге: запись видео на карту памяти, запись по тревоге, уведомление центра мониторинга, загрузка на FTP, карту памяти, NAS, отправка E-mail, т. д.</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, DHCP, PPPoE, Bonjour</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (Profile S, Profile G, Profile T), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя (ID и PW), аутентификация хоста (MAC-адрес), шифрование HTTPS, контроль доступа по стандарту IEEE 802.1x, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Central, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE 8-11, Chrome 31.0+, Firefox 30.0+, Edge 16.16299+</value>
+    </spec>
+    <spec>
+      <name>Аудиоинтерфейс</name>
+      <value>вход (вход микрофона, линейный), выход (линейный)встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ-45 10 M/100M Ethernet, PoE</value>
+    </spec>
+    <spec>
+      <name>Выход питания</name>
+      <value>DC 12 В, макс. 60 мA</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>32 языкаанглийский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский, португальский</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В, 1.5 А (макс. 9.9 Вт, включая макс. 4.2 Вт для ИК-подсветки)PoE (802.3 af), DC от 36 до 57 В, 0.35 А (макс. 11.2 Вт, включая макс. 4.2 Вт для ИК-подсветки)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>Температура: –20 °C... +60 °C, влажность: ≤ 90 %</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66, IK10, защита от перенапряжения, ± 2 кВ линия — земля, ± 1 кВ линия — линия, IEC 61000-4-5</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>алюминиевый сплав, ПК, ПК+АБС</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø130.7×101.7 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.53 кг</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 Мп–20 °C... +60 °C, IP66, IK10Скорость поворота до 100 °/сWDR 120 дБ, BLC, HLC, 3D DNRH.265+, H.265, H.264+, H.264, MJPEGПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине21 290р.Узнать цену для партнеровУточнить наличие у менеджераВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/77b/140_140_1/DS_2DE2A204IW_DE3-_C0_-_S6-_-_C_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2de2a404iw-de3-c-2-8-12-povorotnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DE2A404IW-DE3 (C) 2.8–12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;21 290&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

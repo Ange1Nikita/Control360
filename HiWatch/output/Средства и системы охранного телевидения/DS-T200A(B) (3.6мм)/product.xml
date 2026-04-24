@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная цилиндрическая HiWatch DS-T200A(B) (3.6мм)</name>
+  <model>DS-T200A(B) (3.6мм)</model>
+  <article>327114</article>
+  <sku>327800708</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>2257.91</price>
+  <price_wholesale>2050.94</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/327114/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная уличная со встроенной гибридной подсветкой ИК/LED (механический ИК-фильтр) и встроенным микрофоном (AoC аудио по коаксиальному кабелю), ДЕНЬ/НОЧЬ; 1/2.7" CMOS, 2 МП (1920х1080); 0.01лк/0лк с вкл ИК; f=3.6мм ; S/N: более 62dB; Дальность  подсветки ИК до 30 м, LED до 20 м ; OSD, DWDR, BLC, DNR;  Smart ИК ; DC12В/300мА; –40°...+60°C; IP67; 138.8 × 60.9 × 57.9  мм ; Металл</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" CMOS 2МП</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>3.6</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>ИК 30/LED 20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>138.8х60.9х57.9</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="605.8 КБ">https://www.tinko.ru/upload/exchange/public/documentation/E/F/EF85E6635E436AA977D5ED78D96552B3.pdf</document>
+  </documents>
+</product>

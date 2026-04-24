@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDP15P-EG2-WE</name>
+  <model>DS-PDP15P-EG2-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdp15p-eg2-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>SEC (интеллектуальный контроль окружающей среды) — продвинутая цифровая обработка сигналов</paragraph>
+    <paragraph>и 3D-оптика</paragraph>
+    <paragraph>Удаленная настройка через приложение</paragraph>
+    <paragraph>Несколько способов регистрации, простота установки</paragraph>
+    <paragraph>Легко заменяемая батарея с защитой PCB</paragraph>
+    <paragraph>Скачкообразная смена частоты для предотвращения помех и надежной передачиИК-датчик беспроводной, защита от животных</paragraph>
+    <paragraph>ИК-датчик беспроводной с иммунитетом к животным до 30 кг; 868МГц двухсторонная связь с TRI-X технологией; зона обнаружения 15х15м, 85,9градусов; Дальность до 1600м;  защита от помех, температурная компенсация; срок службы батареи - 5 лет;  -10градусовC...+55градусовC; размер 103 66 49мм; Пластик. Высота установки от 1.8м до 2.4м;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SEC (интеллектуальный контроль окружающей среды) — продвинутая цифровая обработка сигналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>и 3D-оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Несколько способов регистрации, простота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Легко заменяемая батарея с защитой PCB</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скачкообразная смена частоты для предотвращения помех и надежной передачиИК-датчик беспроводной, защита от животных</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ИК-датчик беспроводной с иммунитетом к животным до 30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь с TRI-X технологией</value>
+    </spec>
+    <spec>
+      <name />
+      <value>зона обнаружения 15х15м, 85,9градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность до 1600м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>защита от помех, температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>срок службы батареи - 5 лет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 103 66 49мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик. Высота установки от 1.8м до 2.4м</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

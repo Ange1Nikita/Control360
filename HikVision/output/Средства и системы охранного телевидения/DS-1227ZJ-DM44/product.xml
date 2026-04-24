@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Кронштейн-адаптер Hikvision DS-1227ZJ-DM44</name>
+  <model>DS-1227ZJ-DM44</model>
+  <article>298675</article>
+  <sku>302702549</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Кронштейны</subcategory>
+  <functional_name>Кронштейн-адаптер</functional_name>
+  <nomenclature>Кронштейн</nomenclature>
+  <price>1910.64</price>
+  <price_wholesale>1735.5</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/298675/</product_url>
+  <description>
+    <paragraph>Кронштейн для крепления к потолку купольных камер, максимальная нагрузка 4.5кг, белый, ABS пластик/сталь, 256.1х75.9 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Габаритные размеры, мм</name>
+      <value>256.1х75.9</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="472.9 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/C/0CD769C0817E335ABD6291B7BC3D8C8B.pdf</document>
+  </documents>
+</product>

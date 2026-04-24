@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор TVI 4-канальный HiWatch DS-H204QA (C)</name>
+  <model>DS-H204QA (C)</model>
+  <article>354128</article>
+  <sku>300229267</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы TVI</subcategory>
+  <functional_name>Видеорегистратор TVI 4-канальный</functional_name>
+  <nomenclature>Видеорегистратор TVI</nomenclature>
+  <price>4338</price>
+  <price_wholesale>3940.35</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/354128/</product_url>
+  <description>
+    <paragraph>Видеорегистратор HD-TVI/AHD/CVI/CVBS 4 канала видео + 1 IP 6Мп (до 5 с замещением аналоговых в Enhanced IP mode)+ 1 аудио или до 4 каналов AoC (аудио по коаксиальному кабелю); Linux OS, H.265 Pro+/H.265 Pro/H.265/H.264+/H.264; Скорость записи TVI: 3Мпх15к/с (1 канал), TVI/CVI/AHD: 2Мпх15к/с, 720pх15к/с; аналоговые камеры: WD1х25к/с; IP: до 8Мп - входящий битрейт 96Мбит/с; Видеовыходы: 1 VGA, 1 HDMI до 1080Р ; 2 USB2.0 ; Протоколы сети TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF; сетевой (10M/100M Ethernet); 1х HDD SATA до 10Тб; DC12 В 1500 мА (адаптер питания в комплекте); -10°...+55°C; 200х200х45 мм; Motion detection 2.0, обнаружение движения, вторжения в область и пересечения линии c технологией AcuSense до 2х каналов</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Видеовход</name>
+      <value>4xTVI или 4х AHD или 4xCVI или 4х960H+1IP (до 6 IP каналов с замещением аналоговых)</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1 HDM 4K; 1 VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265 Pro/H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name>Формат сжатия аудио</name>
+      <value>G.711u</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение/скорость записи, пикс/кадр в сек.</name>
+      <value>15к/сек 1 канал 3МП; 15к/сек на канал (1920х1080 пикс.); 25к/сек на канал (1280х720 пикс.); 25 к/сек на канал (960х576 пикс.)</value>
+    </spec>
+    <spec>
+      <name>Режимы записи</name>
+      <value>Постоянный, по расписанию, обнаружение движения</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Linux</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>10/100 Ethernet</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP; PPPoE; DHCP; Hikconnect Cloud P2P; DNS; DDNS; NTP; SADP; SMTP; SNMP; NFS; iSCSI; UPnP™; HTTPS</value>
+    </spec>
+    <spec>
+      <name>Порты, доп. интерфейсы</name>
+      <value>2 USB</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC (адаптер питания в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="481.47 КБ">https://www.tinko.ru/upload/exchange/public/documentation/0/1/0152AF3C0F1063443BF4197B2981DD1B.pdf</document>
+  </documents>
+</product>

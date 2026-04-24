@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная купольная HiWatch DS-T503A(B) (2.8мм)</name>
+  <model>DS-T503A(B) (2.8мм)</model>
+  <article>322687</article>
+  <sku>327800719</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные купольные</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная купольная</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>2112</price>
+  <price_wholesale>1918.4</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/322687/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная купольная уличная со встроенной гибридной подсветкой ИК/LED (механический ИК-фильтр) и встроенным микрофоном (AoC аудио по коаксиальному кабелю), ДЕНЬ/НОЧЬ; 3К CMOS, TVI 5 МП(16:9)CVI/AHD 2592x1944 х20к/с, 4 МП 2560x1440/2 МП 1920x1080х25к/с; 0.01лк/0лк с вкл ИК; f=2.8мм ; S/N: более 62dB; Дальность  подсветки ИК до 30 м, LED до 20 м; OSD, DWDR, BLC, DNR;  Smart ИК ; DC12В/300мА; –40°...+60°C; IP67; 85.1 × 80мм, Металл</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>3K 5 МП(16:9) CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>2960х1665/2560х1440/1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>2.8</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>ИК 30/LED 20</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>85.1х80</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="558.35 КБ">https://www.tinko.ru/upload/exchange/public/documentation/B/9/B978C7756AC9BC3570A88E505E96848C.pdf</document>
+  </documents>
+</product>

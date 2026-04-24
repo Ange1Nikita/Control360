@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PD1-EB-PF</name>
+  <model>DS-PD1-EB-PF</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pd1-eb-pf</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Напольная установка</paragraph>
+    <paragraph>• Металл</paragraph>
+    <paragraph>• Сброс ключом (в комплекте)</paragraph>
+    <paragraph>• Нормально замкнутый / нормально разомкнутый режим соединенияТревожная кнопка</paragraph>
+    <paragraph>Контакты реле типа NO и NC, реле 220В/300мА; DC9-16В; -30градусовC...+70градусовC; размер 333 88 145мм; металл.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Напольная установка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Металл</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Сброс ключом (в комплекте)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Нормально замкнутый / нормально разомкнутый режим соединенияТревожная кнопка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Контакты реле типа NO и NC, реле 220В/300мА</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC9-16В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-30градусовC...+70градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 333 88 145мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>металл.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

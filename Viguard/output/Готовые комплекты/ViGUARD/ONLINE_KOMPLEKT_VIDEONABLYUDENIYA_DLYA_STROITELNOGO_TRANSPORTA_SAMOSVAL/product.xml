@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Online комплект видеонаблюдения для строительного транспорта Самосвал</name>
+  <article>ONLINE_KOMPLEKT_VIDEONABLYUDENIYA_DLYA_STROITELNOGO_TRANSPORTA_SAMOSVAL</article>
+  <brand>ViGUARD</brand>
+  <category>Готовые комплекты</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/864/450_450_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/864/120_120_0/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/864/500_500_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e0b/500_500_1/40947e790454257a2633f7357b205771.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/244/500_500_1/ea1c3960a1070f0f21bfd36aaa7c85f3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/6b1/500_500_1/33660ded38d037b232c5b507a180aea4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f49/500_500_1/1bd3219ce9d73a62334ac11143c2bb93.png</image>
+    <image>https://viguard.pro/upload/iblock/bbe/71f814735a26a0127ff603134d0d3eac.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/864/120_120_1/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e0b/120_120_1/40947e790454257a2633f7357b205771.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/244/120_120_1/ea1c3960a1070f0f21bfd36aaa7c85f3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/6b1/120_120_1/33660ded38d037b232c5b507a180aea4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f49/120_120_1/1bd3219ce9d73a62334ac11143c2bb93.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bbe/120_120_1/71f814735a26a0127ff603134d0d3eac.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/864/komplekt-videonablyudeniya-dlya-stroitelnogo-transporta-samosval-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>Online комплект видеонаблюдения для строительного транспорта Самосвал</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/spetsialnaya_tekhnika/online_komplekt_videonablyudeniya_dlya_stroitelnogo_transporta_samosval/</source_url>
+</product>

@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision iDS-2CD7146G0-IZHSY (D) 2.8–12</name>
+  <model>iDS-2CD7146G0-IZHSY (D) 2.8–12</model>
+  <sku>56145</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2cd7146g0-izhsy-d-2-8-12-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>ИК-подсветка 40 м</paragraph>
+    <paragraph>–50 °C... +60 °C, IP67, IK10</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+    <paragraph>WDR 140 дБ, BLC, HLC, 3D DNR</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8″ Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0005 лк, ч/б: 0.0002 лк, 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100,000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: 0 ~ 355°, наклон: 0 ~ 75°, вращение: 0 ~ 355°</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>2.8 ~ 12 мм, по горизонтали: 107.4 ~ 39.8°, по вертикали: 56.0 ~ 22.4°, по диагонали: 130.1 ~ 45.7°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручная</value>
+    </spec>
+    <spec>
+      <name>Тип диафрагмы</name>
+      <value>P-Iris</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.2</value>
+    </spec>
+    <spec>
+      <name>DORI</name>
+      <value>D: 149.0 м, O: 59.1 м, R: 29.8 м, I: 14.9 м</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК-подсветка</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки</name>
+      <value>40 м</value>
+    </spec>
+    <spec>
+      <name>Дополнительная интеллектуальная подсветка</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Инфракрасные волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Спецификации модели</name>
+      <value>до 4 моделей, тип модели: модель обнаружения, модель классификации, смешанная модель (модель обнаружения и модель классификации)</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>50 Гц: 25 к/с (2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>50 Гц: 25 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Четвертый поток</name>
+      <value>50 Гц: 25 к/с (704×480, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Пятый поток</name>
+      <value>50 Гц: 25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный, четвертый и пятый потоки: H.265, H.264, MJPEGтретий поток: H.265, H.264</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>Кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>4 фиксированные области для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Обрезка изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Битрейт</name>
+      <value>CBR, VBR</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 кбит/с (G.711 ulaw, G.711 alaw), 16 кбит/с (G.722.1), 16 кбит/с (G.726), 32 ~ 192 кбит/с (MP2L2), 8 ~ 320 кбит/с (MP3), 16 ~ 64 кбит/с (AAC-LC)</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM, MP3, AAC-LC</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Тип аудио</name>
+      <value>моно</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, SFTP, SRTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1x, QoS, IPv6, UDP, Bonjour, SSL, TLS</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (Profile S, Profile G, Profile T), ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей. 3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, настройки управления временем ожидания, журнал проверки безопасности, TLS 1.2</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB, CIFS), ANRподдержка карты памяти Hikvision, шифрования и диагностики карты памяти.</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE9+, Chrome с 41.0 по 44, Firefox с 30.0 по 51, Safari с 8.0 по 11не требуется плагин для просмотра в режиме реального времени: Chrome 45.0+, Firefox 52.0+</value>
+    </spec>
+    <spec>
+      <name>Переключатель параметров изображения</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость, баланс белого и AGC настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Переключение «День, ночь»</name>
+      <value>день, ночь, авто, по расписанию, по тревоге</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>140 дБ</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>≥ 52 дБ</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, антитуман, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>8 настраиваемых многоугольных масок области, настраиваемые цвета и расположение масок области</value>
+    </spec>
+    <spec>
+      <name>Наложение изображения</name>
+      <value>логотип в формате bmp 24 бит размером 128×128</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 В p-p композитный выход (75 Ом, CVBS), только для отладки</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>1 RJ45 auto 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>Встроенный слот для карты памяти, поддержка microSD, microSDHC, microSDXC до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>1 вход (линейный), 1 выход (линейный), разъем 3.5 мм</value>
+    </spec>
+    <spec>
+      <name>Тревожный интерфейс</name>
+      <value>2 входа, 2 выхода (макс. DC 24 В, 1 A)</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1 RS-485 (полудуплекс, HIKVISION, Pelco-P, Pelco-D, адаптивный)</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Встроенный микрофон</name>
+      <value>2 встроенных микрофона</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>максимальный уровень звукового давления: 98 дБ, диапазон динамика: 10 м</value>
+    </spec>
+    <spec>
+      <name>Выход питания</name>
+      <value>DC 12 В, макс. 100 мА</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, детектор саботажа, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя), диагностика качества видео, обнаружение вибрации</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, обнаружение вторжения, обнаружение входа, выхода из области, детекция звуковых событий, обнаружение изменения сцены, обнаружение расфокусировки</value>
+    </spec>
+    <spec>
+      <name>Привязка</name>
+      <value>загрузка на FTP, NAS, карту памяти, уведомление центра мониторинга, отправка email, тревожный сигнал, запись по тревоге, захват изображения, звуковое предупреждение</value>
+    </spec>
+    <spec>
+      <name>Обнаружение нескольких целей</name>
+      <value>одновременная детекция и захват изображения фигуры, лица человека, ТСполучение 7 характерных признаков лица, 13 характерных признаков фигуры человека и 2 характерных признаков ТС</value>
+    </spec>
+    <spec>
+      <name>Захват лиц</name>
+      <value>детекция до 60 лиц одновременноподдерживается поворот влево и вправо –60 ~ 60°, наклон вверх и вниз –30 ~ 30°загрузка изображений лиц с фоном и изображений лиц крупным планом</value>
+    </spec>
+    <spec>
+      <name>Сравнение лиц</name>
+      <value>до 10 библиотек изображений лиц, 30 000 изображений лиц в каждой библиотеке. всего 150 000 изображений лиц, шифрование библиотеки изображений</value>
+    </spec>
+    <spec>
+      <name>Метаданные</name>
+      <value>обнаружение вторжения, обнаружение пересечения линии, обнаружение входа, выхода из области, захват лиц</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 20 %, 0.97 А, макс. 11.43 Вт, двухъядерный терминальный блокAC 24 В ± 25 %, 0.73 A, макс. 10.67 ВтPoE: 802.3at, тип 2, класс 4, 42.5 ~ 57 В, 0.19 ~ 0.28 А, макс. 11.92 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø144.3×114.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>990 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–50 °C... +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Язык веб-клиента</name>
+      <value>английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, китайский (традиционный), тайский, вьетнамский, японский, латышский, литовский, бразильский португальский</value>
+    </spec>
+    <spec>
+      <name>Основные функции</name>
+      <value>Heartbeat, зеркалирование, защита паролем, маскирование области, водяные знаки, фильтрация IP-адресов, перезагрузка одной кнопкой, 5 потоков</value>
+    </spec>
+    <spec>
+      <name>Длина кабеля</name>
+      <value>0.25 м</value>
+    </spec>
+    <spec>
+      <name>Обогрев</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IK10 (IEC 62262:2002), IP67 (IEC 60529-2013), NEMA 4X (NEMA 250-2018)</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпИК-подсветка 40 м–50 °C... +60 °C, IP67, IK10H.265+, H.265, H.264+, H.264, MJPEGWDR 140 дБ, BLC, HLC, 3D DNRПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/c11/140_140_1/iDS_2CD7146G0_IZHSY-_D_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2cd7146g0-izhsy-d-2-8-12-ip-kamera/?utm_source=comebackletter"&gt;Hikvision iDS-2CD7146G0-IZHSY (D) 2.8–12&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

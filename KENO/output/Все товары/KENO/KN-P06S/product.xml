@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Проектные решения "Безопасный регион"/KN-P06С</name>
+  <article>KN-P06S</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a30/440_370_0/IMG_20181130_100220-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/dc6/440_370_0/IMG_20181130_100319-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3f6/440_370_0/IMG_20181130_100321-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b3f/440_370_0/IMG_20181130_105107-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/a30/38_24_2/IMG_20181130_100220-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/dc6/38_24_2/IMG_20181130_100319-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3f6/38_24_2/IMG_20181130_100321-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b3f/38_24_2/IMG_20181130_105107-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 Уличная Короткое описание Монтажная коробка KN-P06C для размещения кабеля.
+Защищает соединения кабеля от воздействия климатического воздействия, в соответствии стандарту IP66 (пыле/ влага защита).
+Исполнена в металлическом корпусе. Прекрасно подходит для камер: KN-CE203V2812BR, KN-CE204A2812BR, KN-CE204A5050BR, KN-DE55F36 Особенности IP видеокамеры Уличная Материалы и особенности ПО Размеры (0.021МБ) Не подлежат обязательной сертификации (0.327МБ) Информационное письмо KN-P06С сняты с поставок (0.968МБ)</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="KN-CE204A2812BR">2.0</spec>
+    <spec name="KN-CE204A5050BR">2.0</spec>
+    <spec name="KENO KN-PVN1BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-SDE204X23BR">2Мп</spec>
+    <spec name="KN-SDE204X33BR">2Мп</spec>
+    <spec name="KN-FRT7FBR">1920*1080</spec>
+    <spec name="KN-FRT5WBR">1920*1080</spec>
+    <spec name="KN-FRT5FBR">1920*1080</spec>
+    <spec name="KN-CE505A2812BR">5.0</spec>
+    <spec name="KN-DE505A2812BR">5.0</spec>
+    <spec name="KN-DE508F28BR">5.0</spec>
+    <spec name="KN-CE203A2812BR">2.0</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/proektnye-resheniya/kn-p06s/</source_url>
+</product>

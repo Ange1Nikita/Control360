@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T110 (2.8mm)</name>
+  <model>DS-T110</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t110-2-8-mm-</product_url>
+  <description>
+    <paragraph>Уличная цилиндрическая камера DS-T110 (2.8 мм) обеспечивает видеосъемку с разрешением 1 Мп, имеет объектив c углом поля зрения 92 градуса по горизонтали и переключаемый видеовыход HDTVI/CVBS. Мощная EXIR-подсветка – собственная разработка компании Hikvision – обеспечивает большую дальность (до 20 метров) и равномерность освещения, что гарантирует более четкое изображение по сравнению со стандартной ИК-подсветкой в ночное время.</paragraph>
+    <paragraph>В камере также присутствует широкий набор дополнительных функций для повышения качества изображения, в том числе: компенсация задней засветки, цифровое подавление шумов в условиях недостаточной освещенности, расширенный динамический диапазон на основе программных методов обработки кадра. Параметры и настройки камеры доступны через экранное OSD-меню.1Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 20м</paragraph>
+    <paragraph>1/4" CMOS матрица; объектив 2.8мм; угол обзора 92градусов;  механический ИК-фильтр; 0.01 Лк@F1.2; Smart ИК EXIR; OSD, BLC, DWDR, AGC, DNR; видеовыход: переключаемый HD-TVI/CVBS; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>1/4" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 92градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК EXIR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, BLC, DWDR, AGC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: переключаемый HD-TVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

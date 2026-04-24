@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор-IP TC-R324160 E/B/N/V4.0</name>
+  <model>TC-R324160 Spec:E/B/N/V4.0</model>
+  <sku>872</sku>
+  <brand>Tiandy</brand>
+  <category>IP-камеры</category>
+  <subcategory>Видеорегистраторы</subcategory>
+  <price>0</price>
+  <product_url>https://tiandy-russia.ru/ip-kamery-videonablyudeniya/ip-videoregistrator/videoregistrator-ip-tc-r324160-ebnv40-872/</product_url>
+  <description>
+    <paragraph>160-каналов, 800Mbps/400Mbps, поддержка разрешения до 16MP, Производительность декодирования 4*8MP, 16*1080p, 32*720p, видео выходы: 2 HDMI &amp; 1VGA неодновременного вывода, тревожный интерфейс I/O 8/4, USB интерфейс: 2xUSB 3.0 2xUSB 2.0, RAID: JBOD, RAID0/1/5/6/10, ANR, N+M</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>specification.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" original_url="https://drive.google.com/file/d/1quskZIjOg0lqlKzOhNqYiOmhnPI1qn70/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1quskZIjOg0lqlKzOhNqYiOmhnPI1qn70</document>
+    <document title="Спецификация" original_url="https://drive.google.com/file/d/1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=1Izdn2JjkXh2gVHrBQfO49ufOaCRsT7ir</document>
+    <document title="Программное обеспечение" original_url="https://drive.google.com/file/d/10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE/view?usp=drive_link">https://drive.google.com/uc?export=download&amp;id=10vW-a2cJJVIs93uKWxrzWl4JT62q7VOE</document>
+  </documents>
+</product>

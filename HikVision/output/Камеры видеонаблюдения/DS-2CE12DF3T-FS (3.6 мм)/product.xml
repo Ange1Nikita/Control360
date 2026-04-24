@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Мультиформатная камера Hikvision DS-2CE12DF3T-FS (3.6 мм)</name>
+  <model>DS-2CE12DF3T-FS (3.6 мм)</model>
+  <sku>77653</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>8190</price>
+  <product_url>https://www.dssl.ru/products/ds-2ce12df3t-fs-3-6-mm-analogovaya-kamera/</product_url>
+  <description>
+    <paragraph>HD-TVI, HD-CVI, AHD, CVBS</paragraph>
+    <paragraph>2 Мп, 0.0005 лк при F/1.0</paragraph>
+    <paragraph>Белая Smart-подсветка 40 м</paragraph>
+    <paragraph>Цветное видео круглосуточно</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, –40 °C… +60 °C</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>2 Мп CMOS-матрица</value>
+    </spec>
+    <spec>
+      <name>Стандарт передачи сигнала</name>
+      <value>PAL/NTSC</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>TVI: 1080p при 25 к/сCVI: 1080p при 25 к/сAHD: 1080p при 25 к/сCVBS: PAL/NTSC</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0005 лк при F/1.0, AGC вкл.0 лк с подсветкой белым светом</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/25 с. ~ 1/50 000 с.</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>3.6 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 77ºпо вертикали: 42ºпо диагонали: 91º</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>М12</value>
+    </spec>
+    <spec>
+      <name>Световой сигнал тревоги</name>
+      <value>немигающий световой сигнал (подсветка белым светом)</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>цветное изображение</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0° ~ 360°; наклон: 0° ~ 180°; вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Подсветка белым светом</name>
+      <value>автоматически, выкл.</value>
+    </spec>
+    <spec>
+      <name>Режим изображения</name>
+      <value>STD, High-Sat, High-Light</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>ATW/MWB</value>
+    </spec>
+    <spec>
+      <name>Маскирование</name>
+      <value>4 области</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 области</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>130 дБ</value>
+    </spec>
+    <spec>
+      <name>Режим экспозиции (автоматич.)</name>
+      <value>WDR, BLC, HLC, глобальн., HLS</value>
+    </spec>
+    <spec>
+      <name>Шумоподавление</name>
+      <value>3D DNR, 2D DNR</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>4 настраиваемых масок области</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 настраиваемые области</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>яркость, контрастность, зеркалирование, коррекция дефектных пикселей, резкость, функция Anti-Banding, интеллектуальная подсветка</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>переключение TVI, AHD, CVI, CVBS</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±25 %</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>4.4 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 ºС… +60 ºС, влажность не более 90 %</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Дальность действия подсветки белым светом</name>
+      <value>до 40 м</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>194.2×78×74.5 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>515 г</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>HD-TVI, HD-CVI, AHD, CVBS2 Мп, 0.0005 лк при F/1.0Белая Smart-подсветка 40 мЦветное видео круглосуточно⛅ ☔ ❄ IP67, –40 °C… +60 °CПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине8 190р.Узнать цену для партнеровУточнить наличие у менеджераВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/b85/140_140_1/DS_2CE12DF3T_FS-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ce12df3t-fs-3-6-mm-analogovaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CE12DF3T-FS (3.6 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;8 190&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

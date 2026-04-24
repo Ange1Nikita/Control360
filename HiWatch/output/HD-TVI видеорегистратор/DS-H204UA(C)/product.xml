@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H204UA(C)</name>
+  <model>DS-H204UA(C)</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h204ua-s-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>4 канала</paragraph>
+    <paragraph>H.265 Pro+/H.265 Pro/H.265</paragraph>
+    <paragraph>Запись HD-TVI камер c разрешением до 8MP</paragraph>
+    <paragraph>Запись IP-камер с разрешением до 8 Мп</paragraph>
+    <paragraph>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</paragraph>
+    <paragraph>1 SATA для HDD до 10 ТБ</paragraph>
+    <paragraph>Видео аналитика, Smart Search</paragraph>
+    <paragraph>4/1 тревожных входов/выходов</paragraph>
+    <paragraph>Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet</paragraph>
+    <paragraph>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения для всех аналоговых каналов</paragraph>
+    <paragraph>Детектор вторжения в область и пересечения линии c детектором MD2.04-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю) для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала (до 8 с замещением аналоговых в Enhanced IP mode)*</paragraph>
+    <paragraph>Видеовход: 4 канала BNC; Аудиовход: 4 канала RCA (в том числе AoC); Видеовыход: 1 VGA и 1 HDMI до 1080Р, 1 CVBS; Аудиовыход: 1 канал RCA; видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+; аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы),, вторжения в область и пересечения линии c c MD2.0 (4 аналоговых канала);</paragraph>
+    <paragraph>Разрешение записи на канал: TVI:  8Мп@8к/с (1 вход), 5Мп@12к/с, 4Мп@15к/с, 3Мп@18к/с, 1080p / 720p@25к/с; AHD и CVI: 1080p/720p@25к/с; аналоговые камеры: WD1@25к/с; IP: до 8Мп - входящий битрейт 96Мбит/с, 1 SATA для HDD до 10Тб; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0; 1 RS-485; Трев. вход/выход 4/1; -10градусовC до +55градусовC; 12В DC: 15Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265 Pro+/H.265 Pro/H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись HD-TVI камер c разрешением до 8MP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись IP-камер с разрешением до 8 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Запись аудио, в том числе AoC (передача по коаксиальному кабелю)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 10 ТБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео аналитика, Smart Search</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4/1 тревожных входов/выходов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс 1 RJ-45 10M/ 100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алгоритм обнаружения движения MD2.0 на основе глубокого обучения для всех аналоговых каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Детектор вторжения в область и пересечения линии c детектором MD2.04-х канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю) для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала (до 8 с замещением аналоговых в Enhanced IP mode)*</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 канала BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 4 канала RCA (в том числе AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080Р, 1 CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u., обнаружение движения MD 2.0 (все аналоговые каналы),, вторжения в область и пересечения линии c c MD2.0 (4 аналоговых канала)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI:  8Мп@8к/с (1 вход), 5Мп@12к/с, 4Мп@15к/с, 3Мп@18к/с, 1080p / 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AHD и CVI: 1080p/720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 8Мп - входящий битрейт 96Мбит/с, 1 SATA для HDD до 10Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RS-485</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Трев. вход/выход 4/1</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC: 15Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

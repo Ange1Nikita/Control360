@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеорегистратор NVR Tiandy TC-R3110 Spec:I/B/P8/Eu/L/S/V2.0</name>
+  <model>TC-R3110 Spec:I/B/P8/Eu/L/S/V2.0</model>
+  <article>352776</article>
+  <sku>1D.20030.020831</sku>
+  <brand>Tiandy</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеорегистраторы NVR (для IP)</subcategory>
+  <functional_name>Видеорегистратор NVR</functional_name>
+  <nomenclature>Видеорегистратор NVR</nomenclature>
+  <price>13290</price>
+  <price_wholesale>5302.71</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/352776/</product_url>
+  <description>
+    <paragraph>Видеорегистратор IP 10 канальный с PoE; 1xHDMI, 1xVGA до 1080Р; битрейт вход/выход- 40/60 Мбит/с; разрешение записи до 6 Мп 30 к/с; H.265/H.264; ONVIF; RTSP; 1 SATA до 6 Тб; 2×USB2.0; 1xRJ45 10/100 Мбит/с; 8хRJ45 10/100 Мбит/с PоE (af/at) бюджет 70 Вт; 2хUSB; DC 48В, 1.87А; 10Вт(без HDD); -10°C...+55°C; 200х200х43 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Количество видеоканалов</name>
+      <value>10</value>
+    </spec>
+    <spec>
+      <name>Видеовыходы</name>
+      <value>1HDMI/1VGA</value>
+    </spec>
+    <spec>
+      <name>Аудио входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Разрешение отображения, пикс</name>
+      <value>1920х1080; 1280х1024; 1280х720</value>
+    </spec>
+    <spec>
+      <name>Пропускная способность, Мбит/с</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.264/H.265</value>
+    </spec>
+    <spec>
+      <name>Кол-во, тип, максимальный объем HDD, шт</name>
+      <value>1 SATA х 6 Тб</value>
+    </spec>
+    <spec>
+      <name>Порты PoE</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>48 DC (адаптер в комплекте)</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>200х200х43</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

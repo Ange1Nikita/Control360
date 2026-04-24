@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Вандалостойкая IP-камера для транспорта Hikvision DS-2XM6122FWD-IM</name>
+  <model>DS-2XM6122FWD-IM</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6122fwd-im/</product_url>
+  <description>
+    <paragraph>Сетевая камера для транспорта, матрица 1/3" CMOS, видео H.265/H.264/MJPEG с разрешением 1920x1080 при 25 Fps, чувствительность 0.01 Люкс при F1.2, объектив 4 мм (6 мм, 8 мм опц.), режим «день/ночь» с ICR, Smart IR. WDR 120 дБ, 3D DNR, BLC, ROI, аппаратная аналитика, встроенный микрофон, трансляция 3 потоков, ИК-подсветка до 10 м, microSD до 128 ГБ, питание БП 12 В или PoE (M12), IK08, IP66.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 Лк @(F1.2, AGC вкл.), 0 Лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Режим «День/ночь»</name>
+      <value>Механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/25 с — 1/100,000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>4мм (6мм, 8мм опц.)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>90° (4мм), 53.9° (6мм), 37.9° (8мм)</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ WDR</value>
+    </spec>
+    <spec>
+      <name>Сжатие видео</name>
+      <value>H.264/H.265/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Тип H.264</name>
+      <value>Baseline/Main</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи</name>
+      <value>32 Кб/сек. — 8 Мб/сек.</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>64 кб/с (G.711); 16 кб/с (G.722.1); 32-128 кб/с (MP2L2)</value>
+    </spec>
+    <spec>
+      <name>Макс. разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704х576)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920х1080)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>Насыщенность, яркость, контрастность, оттенок, резкость</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>Поддерживается, зоны опциональны</value>
+    </spec>
+    <spec>
+      <name>ROI</name>
+      <value>Поддерживается, фиксированная зона на каждый поток</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>Обнаружение пересечения линии, вторжения в область</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение данных</name>
+      <value>NAS (поддержка NFS,SMB/CIFS)</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>Встроенный слот для microSD/SDHC/SDXC до 128 ГБ</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>Защита паролем, водяные знаки, зеркалирование, маскирование, подавление мерцания, сброс</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S, PROFILE G), PSIA, CGI, ISAPI</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 M12 10M/100M Ethernet порт</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 Vp-p композитный выход (75 Ω/BNC)</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>1 Встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>Есть</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-30 °C… +60 °C</value>
+    </spec>
+    <spec>
+      <name>Источник питания</name>
+      <value>12В DC±10%, PoE (802.3af)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>9 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК</name>
+      <value>до 10 м, Smart IR</value>
+    </spec>
+    <spec>
+      <name>Уровень защиты</name>
+      <value>IP66, IK08</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>99.3x96.7х52.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>420 г</value>
+    </spec>
+    <spec>
+      <name>Гарантия</name>
+      <value>3 года</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Сетевая камера для транспорта, матрица 1/3" CMOS, видео H.265/H.264/MJPEG с разрешением 1920x1080 при 25 Fps, чувствительность 0.01 Люкс при F1.2, объектив 4 мм (6 мм, 8 мм опц.), режим «день/ночь» с ICR, Smart IR. WDR 120 дБ, 3D DNR, BLC, ROI, аппаратная аналитика, встроенный микрофон, трансляция 3 потоков, ИК-подсветка до 10 м, microSD до 128 ГБ, питание БП 12 В или PoE (M12), IK08, IP66.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПроектная серия, по запросу.Получить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/733/140_140_1/73352abf0721592c858d426bc9c583f5.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6122fwd-im/?utm_source=comebackletter"&gt;Hikvision DS-2XM6122FWD-IM&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

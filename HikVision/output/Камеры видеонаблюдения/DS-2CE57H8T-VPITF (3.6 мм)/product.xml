@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Аналоговая камера Hikvision DS-2CE57H8T-VPITF (3.6 мм)</name>
+  <model>DS-2CE57H8T-VPITF (3.6 мм)</model>
+  <sku>55627</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>9370</price>
+  <product_url>https://www.dssl.ru/products/ds-2ce57h8t-vpitf-3-6-mm-analogovaya-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 5 Мп</paragraph>
+    <paragraph>Детекция движения</paragraph>
+    <paragraph>EXIR-подсветка до 30 м</paragraph>
+    <paragraph>WDR 130 дБ, BLC, DNR</paragraph>
+    <paragraph>IP67, IK10, –40 °C… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>5 Мп Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Система</name>
+      <value>PAL, NTSC</value>
+    </spec>
+    <spec>
+      <name>Количество эффективных пикселей</name>
+      <value>2560×1944</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.003 лк (F/1.2, AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>PAL: 1/25 ~ 1/50 000 сNTSC: 1/25 ~ 1/50 000 с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>3.6 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>78°</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0° ~ 340°; наклон: 0° ~ 75°; вращение: 0° ~ 355°</value>
+    </spec>
+    <spec>
+      <name>Синхронизация</name>
+      <value>Внутренняя</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>TVI: 2 Мп — 25 к/с, 4 Мп — 25 к/с, 5 Мп — 20 к/сAHD: 4 Мп — 25 к/с, 5 Мп — 20 к/сCVI: 4 Мп — 25 к/сCVBS: PAL</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>130 дБ</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Переключение «день/ночь»</name>
+      <value>авто, цвет, ч/б</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>ATW, MWB</value>
+    </spec>
+    <spec>
+      <name>Маска конфиденциальности</name>
+      <value>4 программируемые маски</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 программируемые области</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>DNR</name>
+      <value>3D DNR, уровни 1–9</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Особенности</name>
+      <value>яркость, резкость, зеркалирование, смарт-ИК</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>1 аналоговый HD-видеовыход</value>
+    </spec>
+    <spec>
+      <name>Кнопка переключения</name>
+      <value>TVI, AHD, CVI, CVBS</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>12 В DC ± 25 %</value>
+    </spec>
+    <spec>
+      <name>Связь</name>
+      <value>коаксиальный кабель, протокол HIKVISION-C (TVI выход)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>5.8 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C… +60 °C, влажность 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67, IK10</value>
+    </spec>
+    <spec>
+      <name>Дальность действия EXIR-подсветки</name>
+      <value>30 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>Ø111.0×82.4 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>500 г</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 5 МпДетекция движенияEXIR-подсветка до 30 мWDR 130 дБ, BLC, DNRIP67, IK10, –40 °C… +60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине9 370р.Узнать цену для партнеровВ наличиина складеДоставка по Москве 2-3 рабочих дняВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/86d/140_140_1/DS_2CE57H8T_VPITF-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ce57h8t-vpitf-3-6-mm-analogovaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CE57H8T-VPITF (3.6 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;9 370&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

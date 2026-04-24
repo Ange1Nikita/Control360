@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T520A (6mm)</name>
+  <model>DS-T520A</model>
+  <category>HD-TVI-оборудование</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-t520a-6mm-</product_url>
+  <description>
+    <paragraph>3К (5Мп 16:9) уличная цилиндрическая HD-TVI камера с гибридной подсветкой EXIR/LED до 30/20м и встроенным микрофоном (AoC)</paragraph>
+    <paragraph>3К CMOS матрица; объектив 6мм; угол обзора 53градусов; 3К@20к/с, 2560x1440/1920x1080@25к/с; механический ИК-фильтр; 0.01 Лк@F1.2; OSD, DWDR, BLC, DNR; Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS, аудио по коаксиальному кабелю (AoC), IP67; -40градусовС до +60градусовС; 12В DC+-25%, 4.8Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>3К (5Мп 16:9) уличная цилиндрическая HD-TVI камера с гибридной подсветкой EXIR/LED до 30/20м и встроенным микрофоном (AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3К CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 53градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3К@20к/с, 2560x1440/1920x1080@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS, аудио по коаксиальному кабелю (AoC), IP67</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-25%, 4.8Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

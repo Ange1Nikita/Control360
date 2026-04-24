@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ПОЛИСАНДР</name>
+  <article>POLISANDR</article>
+  <brand>FOX</brand>
+  <category>Домофоны рамки</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/583/440_370_0/POLISANDR_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7cb/440_370_0/POLISANDR_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/583/38_24_2/POLISANDR_1.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/7cb/38_24_2/POLISANDR_2.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/583/440_370_0/POLISANDR_1.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs />
+  <source_url>https://www.fox-cctv.ru/products/vd-dom/vd-ramki/ramki-iz-dereva/polisandr/</source_url>
+</product>

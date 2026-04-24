@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Камера Hikvision DS-U102</name>
+  <model>DS-U102</model>
+  <sku>46687</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-u102-usb-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>Встроенный микрофон</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>2 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name>Стандарт передачи сигнала</name>
+      <value>PAL</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>до 25 к/с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.1 лк (F/1.2, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/25 ~ 1/50 000 с.</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>с переменным фокусным расстоянием 3.1 ~ 15.5 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 84.9° ~ 20.8°вертикали: 92.8° ~ 23.8°диагонали: 94.0° ~ 23.8°</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>≥ 120 дБ</value>
+    </spec>
+    <spec>
+      <name>Дальность приема</name>
+      <value>5 м</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>Поворот: –170° ~ +160°, наклон: –28° ~ +28°</value>
+    </spec>
+    <spec>
+      <name>Длина кабеля</name>
+      <value>4.5 м</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>48 кГц</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>USB 2.0</value>
+    </spec>
+    <spec>
+      <name>Аудиовход</name>
+      <value>встроенный микрофон</value>
+    </spec>
+    <spec>
+      <name>Операционная система</name>
+      <value>Windows XP, 7, 10, Android, Linux, Mac OS</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–10 °C... +50 °C; влажность: 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ± 10 %</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>5.7 Вт</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>145.3×145.6×145.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>925 г</value>
+    </spec>
+    <spec>
+      <name>Светодиодный индикатор</name>
+      <value>красный: режим ожиданиясиний: стандартный режиммигание синим: завершен процесс настройки предустановкимигание красным: восстановление заводских настроек</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>авто</value>
+    </spec>
+    <spec>
+      <name>Комплектация</name>
+      <value>пульт дистанционного управленияадаптер питаниякабелькронштейнвинтыкраткое руководство пользователя</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпВстроенный микрофонПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/cb5/140_140_1/DS_U102-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-u102-usb-kamera/?utm_source=comebackletter"&gt;Hikvision DS-U102&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

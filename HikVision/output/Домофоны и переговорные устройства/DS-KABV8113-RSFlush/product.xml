@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Настенный козырек Hikvision DS-KABV8113-RS/Flush</name>
+  <model>DS-KABV8113-RS/Flush</model>
+  <article>289289</article>
+  <sku>305700588</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Дополнительное оборудование</subcategory>
+  <functional_name>Настенный козырек</functional_name>
+  <nomenclature>Кронштейн</nomenclature>
+  <price>925.34</price>
+  <price_wholesale>840.52</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289289/</product_url>
+  <description>
+    <paragraph>Козырек для врезного монтажа вызывной панели серии DS-KV8x13 серии. Материал: металл, SECC; -40℃ до 60℃, влажность с 10% до 95%; 186 x 97 x 31мм; врезной монтаж.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>186х97х31</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="875.87 КБ">https://www.tinko.ru/upload/exchange/public/documentation/D/7/D7A67C5BDC6AE5794E85CDA4BEACBAA2.pdf</document>
+  </documents>
+</product>

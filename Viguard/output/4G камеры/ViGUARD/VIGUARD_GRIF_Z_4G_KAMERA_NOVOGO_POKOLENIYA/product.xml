@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD GRIF Z 4G камера нового поколения</name>
+  <article>VIGUARD_GRIF_Z_4G_KAMERA_NOVOGO_POKOLENIYA</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/17b/450_450_1/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/17b/120_120_0/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/17b/500_500_1/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a48/500_500_1/a4854790c73b25c1017c83d54c9419ff.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/781/500_500_1/78101a01c414e9cea4544c0784fecd94.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/871/500_500_1/871d621958964ed6d117c85c709c7e53.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/17b/120_120_1/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a48/120_120_1/a4854790c73b25c1017c83d54c9419ff.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/781/120_120_1/78101a01c414e9cea4544c0784fecd94.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/871/120_120_1/871d621958964ed6d117c85c709c7e53.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/medialibrary/d76/d768c2dbdacc31164d10a73ca7ffe8bb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/72c/72cd8157155096b03a4f3e2906ff5bcb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/8c7/8c738d116ec399a15394d0face8b261b.png</image>
+    <image>https://viguard.pro/upload/medialibrary/2d2/2d20d151b317b242b42931a621c2be96.png</image>
+    <image>https://viguard.pro/upload/iblock/17b/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>ViGUARD GRIF Z 4G камера нового поколения</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/kamery_dlya_ulitsy/viguard_grif_z_4g_kamera_novogo_pokoleniya/</source_url>
+</product>

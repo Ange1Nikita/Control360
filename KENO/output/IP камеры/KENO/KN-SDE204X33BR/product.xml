@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/Проектные решения "Безопасный регион"/KN-SDE204X33BR</name>
+  <article>KN-SDE204X33BR</article>
+  <brand>KENO</brand>
+  <category>IP камеры</category>
+  <price>149990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2eb/440_370_0/kn_sde205x20.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2eb/38_24_2/kn_sde205x20.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink apple.png</image>
+    <image>https://keno-cctv.ru/upload/FSLink андроид.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 2Мп 3.9 ~ 130мм 180 Ваша цена: 149 990 руб. Короткое описание Сетевая скоростная поворотная IP видеокамера профессионального уровня KN-SDE204X33BR , во всепогодном исполнении, предназначена для использования  с целью охранного видеонаблюдения. Камера оснащена матрицей Sony Starvis IMX 327 которая обладает ультравысокой чувствительностью, изображение получается очень качественным с исключительной четкостью и резкостью при любом перепаде уровней освещённости. Поворотная камера позволяет заменить несколько стандартных IP видеокамер за счет того, что может вращаться на 360°, имеет объектив с переменным фокусным расстоянием 3.9 ~ 130 мм и 33х кратным оптическим зумом. Спектр применения данной камеры крайне широк, а наличие мощной ИК подсветки делает ее эффективной в любое время суток. KENO ПРОЕКТ : Оптимизация потоков для работы с системами СКОУ и ЕЦХД. Встроенный процессор I/O команд для обработки Meta данных. Особенности IP видеокамеры Все технические параметры Модель KN-SDE204X33BR Система Тип матрицы 1/2,8” 2,13 SONY STARVIS IMX327 (SNR1s 0,18Lux) Эффективные    пиксели 1945(H)    × 1109(V) Размер пикселя 2.9 x 2.9 Электронный    затвор Auto/    1/5s-1/10000s Мин.    Освещенность Цвет: 0.005lux/F1.6, Ч/Б: 0.0005lux/F1.2. 0.18Лк (ИК вкл.) Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Электромеханический ИК-фильтр ИК подсветка ИК прожектор OSRAM IR LED III (850нм) до 180м, SMART IR
+Автоматически в зависимости от кратности зума Компенсация    засветки HLC / BLC / TWDR (140 Дб) / Накопление заряда / Антитуман Баланс белого Авто Усиление Авто/Ручной Шумоподавление 2DNR (1 - 100%) / 3DNR (6 уровней) Приватные зоны До    4-х зон Угол поворота Поворот: 360°, Наклон: -15 -90° (автопереворот). Скорость поворота Вручную: 0.1-180°/сек., По пресету: 230°/сек. Режимы PTZ Предустановки 256 точек / 4 шаблона / 8 обходов Детектор движения Есть Оптика Объектив 3.9 ~ 130 мм (33х кратный оптический зум) UHD Canon Lens Светосила F1.2 (Wide) - F4.4 (Tele) Угол обзора H:    65</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” 2,13 SONY STARVIS IMX327 (SNR1s 0,18Lux)</spec>
+    <spec name="Эффективные    пиксели">1945(H)    × 1109(V) Размер пикселя 2.9 x 2.9</spec>
+    <spec name="Электронный    затвор">Auto/    1/5s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.005lux/F1.6, Ч/Б: 0.0005lux/F1.2. 0.18Лк (ИК вкл.)</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">ИК прожектор OSRAM IR LED III (850нм) до 180м, SMART IR
+Автоматически в зависимости от кратности зума</spec>
+    <spec name="Компенсация    засветки">HLC / BLC / TWDR (140 Дб) / Накопление заряда / Антитуман</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">2DNR (1 - 100%) / 3DNR (6 уровней)</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Угол поворота">Поворот: 360°, Наклон: -15 -90° (автопереворот).</spec>
+    <spec name="Скорость поворота">Вручную: 0.1-180°/сек., По пресету: 230°/сек.</spec>
+    <spec name="Режимы PTZ">Предустановки 256 точек / 4 шаблона / 8 обходов</spec>
+    <spec name="Детектор движения">Есть</spec>
+    <spec name="Объектив">3.9 ~ 130 мм (33х кратный оптический зум) UHD Canon Lens</spec>
+    <spec name="Светосила">F1.2 (Wide) - F4.4 (Tele)</spec>
+    <spec name="Угол обзора">H:    65° F1.6 (Широкий) - 2.0° F4.4 (Узкий)</spec>
+    <spec name="Видео режим">ROI / “Коридор” / Стабилизация изображения</spec>
+    <spec name="Формат    кодирования">H.265 / H.264  (H/M/B) / Mjpeg</spec>
+    <spec name="Основной поток">1080P/960P/720Р (1 ~ 25 к/с)</spec>
+    <spec name="Второстепенный    поток">D1/VGA/Q720P/CIF (1 ~ 25 к/с)</spec>
+    <spec name="Третий    поток">1080P/960P/720Р (1 ~ 25 к/с)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">Onvif 2.6 Profile-S/G/Т  (PTZ, Пресет, Движение, Тревога, Metadata)</spec>
+    <spec name="Открытый API интерфейс">API методом JSON,Открытый текст или Token/Digest аутентификация</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iOS,Android</spec>
+    <spec name="Аналитика">Распознавание лиц: одновременно до 30 лиц в кадре; до 10 лиц в
+движении. База до 10000 лиц; Черный / Белый список; Антиспуфинг.
+Аудио анализ: Взрыв, Хлопок, Крики о помощи, Спец сигнал и т.д.
+Детектор объектов: Человек / Автомобиль / Мотоцикл, Велосипед</spec>
+    <spec name="Аудио">Внешний 1 Вх. / 1 Вых. Аудио, G.711 (a-law, μ-law)</spec>
+    <spec name="Тревога">2    Вх. / 1 Вых.</spec>
+    <spec name="ePTZ">-</spec>
+    <spec name="Видеовыход">1 BNC(1.0Vp-p, 75 )</spec>
+    <spec name="Карта памяти">Микро SD, Макс 128GB; Поддержка ANR.</spec>
+    <spec name="Питание">DC24V 1.5А ±15%, PoE (802.3af/at)</spec>
+    <spec name="Потребление">Не более 14Вт (ИК выкл.), не более 30Вт (ИК вкл.)</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C, 10% ... 90%, Холодный старт при -40°C с
+ предварительным прогревом системы</spec>
+    <spec name="Степень защиты">IP66/67, IK8, грозозащита до TVS8000В</spec>
+    <spec name="Габариты">Ø 216 х 298мм(В) камера, 315 х 380мм (общий размер)</spec>
+    <spec name="Вес">4кг (камера), 3кг (кронштейн)</spec>
+    <spec name="KN-CE204A2812BR">2.0</spec>
+    <spec name="KN-CE204A5050BR">2.0</spec>
+    <spec name="KENO KN-PVN1BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-SDE204X23BR">2Мп</spec>
+    <spec name="KN-SDE204X33BR">2Мп</spec>
+    <spec name="KN-FRT7FBR">1920*1080</spec>
+    <spec name="KN-FRT5WBR">1920*1080</spec>
+    <spec name="KN-FRT5FBR">1920*1080</spec>
+    <spec name="KN-CE505A2812BR">5.0</spec>
+    <spec name="KN-DE505A2812BR">5.0</spec>
+    <spec name="KN-DE508F28BR">5.0</spec>
+    <spec name="KN-CE203A2812BR">2.0</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/proektnye-resheniya/kn-sde204x33br/</source_url>
+</product>

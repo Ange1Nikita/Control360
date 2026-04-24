@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Видеокамеры купольные/KN-DM205F28</name>
+  <article>KN-DM205F28</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>6490</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9eb/440_370_0/dm205.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9eb/38_24_2/dm205.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/exit.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/size.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/lens.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-kamery.detail/templates/.default/images/box.png</image>
+    <image>https://keno-cctv.ru/upload/fseye_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/fseye_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 Уличная 2.0 2.8 15 Ваша цена: 6 490 руб. Короткое описание Бюджетная IP видеокамера KN-DM205F28, предназначенная для охранного видеонаблюдения как внутри, так и вне помещений. Исполнение видеокамеры позволяет монтировать ее на улице, без применения дополнительных гермокожухов и устройств подогрева. Особенности IP видеокамеры Все технические параметры Модель KN-DM205F28 Система Тип матрицы 1/2,8” SONY EXMOR IMX322 (2.43Mega) Эффективные    пиксели 2000(H)    × 1241(V) Электронный    затвор Auto/    1/25s-1/10000s Мин.    Освещенность Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл. Сигнал / шум ≥50db(AGC    OFF) Камера ИК фильтр Авто    ICR ИК подсветка до 15 м Компенсация    засветки BLC    / HLC / DWDR Баланс белого Авто Усиление Авто/Ручной Шумоподавление 3DNR Приватные зоны До    4-х зон Оптика Объектив 5-и Мегапиксельная оптика 2,8мм с ИК коррекцией Светосила F1.4 Угол обзора H: 114° Видео Формат    кодирования H.264 Основной поток 1080P/720P/D1(1    ~ 25) Второстепенный    поток D1/CIF(1    ~ 25) Поток 32K    ~ 8192Kbps, Авто Сеть Порт RJ-45    (10/100Base-T) Протокол CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP ONVIF Onvif Profile-S/G (Motion, Alarm, MetaData) Кол-во    пользователей До    10 пользователей Мобильные    устройства iPhone,    iPad, Android, Windows Дополнительно Аудио - Тревога - ePTZ - Видеовыход - Memory Slot - Технические параметры Питание DC12В; Passive POE 15V DC Потребление &lt;5Вт Рабочая    температура -40°C ... +50°C,    10% ... 90% Степень защиты IP66,  грозозащита до 4000В Габариты 93(Ш) x 83(Д) x 83(В) Вес 0.3кг Уличная 2.0 2.8 15 Поддержка стандарта Onvif Profile S/G Разрешение 2.43 Мpx Активный ИК-фильтр для корректной цветопередачи Высокая чувствительность: Цвет: 0.01lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл. Грозозащита до 4000В Водонепроницаемая камера с классом защиты IP66 Питание aPOE 15V DC Дюралюминиевый корпус Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPX</spec>
+    <spec name="Тип матрицы">1/2,8” SONY EXMOR IMX322 (2.43Mega)</spec>
+    <spec name="Эффективные    пиксели">2000(H)    × 1241(V)</spec>
+    <spec name="Электронный    затвор">Auto/    1/25s-1/10000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 lux/F1.2, Ч/Б: 0.001 lux, 0lux ИК вкл.</spec>
+    <spec name="Сигнал / шум">≥50db(AGC    OFF)</spec>
+    <spec name="ИК фильтр">Авто    ICR</spec>
+    <spec name="ИК подсветка">до 15 м</spec>
+    <spec name="Компенсация    засветки">BLC    / HLC / DWDR</spec>
+    <spec name="Баланс белого">Авто</spec>
+    <spec name="Усиление">Авто/Ручной</spec>
+    <spec name="Шумоподавление">3DNR</spec>
+    <spec name="Приватные зоны">До    4-х зон</spec>
+    <spec name="Объектив">5-и Мегапиксельная оптика 2,8мм с ИК коррекцией</spec>
+    <spec name="Светосила">F1.4</spec>
+    <spec name="Угол обзора">H: 114°</spec>
+    <spec name="Формат    кодирования">H.264</spec>
+    <spec name="Основной поток">1080P/720P/D1(1    ~ 25)</spec>
+    <spec name="Второстепенный    поток">D1/CIF(1    ~ 25)</spec>
+    <spec name="Поток">32K    ~ 8192Kbps, Авто</spec>
+    <spec name="Порт">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">CP/IP,    UDP, DHCP, UPNP,DNS,PPPOE, DDNS, FTP, SMTP,NTP,RTSP</spec>
+    <spec name="ONVIF">Onvif Profile-S/G (Motion, Alarm, MetaData)</spec>
+    <spec name="Кол-во    пользователей">До    10 пользователей</spec>
+    <spec name="Мобильные    устройства">iPhone,    iPad, Android, Windows</spec>
+    <spec name="Аудио">-</spec>
+    <spec name="Тревога">-</spec>
+    <spec name="ePTZ">-</spec>
+    <spec name="Видеовыход">-</spec>
+    <spec name="Memory Slot">-</spec>
+    <spec name="Питание">DC12В; Passive POE 15V DC</spec>
+    <spec name="Потребление">&lt;5Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +50°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66,  грозозащита до 4000В</spec>
+    <spec name="Габариты">93(Ш) x 83(Д) x 83(В)</spec>
+    <spec name="Вес">0.3кг</spec>
+    <spec name="KN-DE406F28 v.2">4.1</spec>
+    <spec name="KN-DE208F28BR">2.0</spec>
+    <spec name="KN-DE205A2812BR">2.0</spec>
+    <spec name="KN-DE206F36">2.0</spec>
+    <spec name="KN-DE506A2812">5.0</spec>
+    <spec name="KN-GX3T">3Мп</spec>
+    <spec name="KN-GX4D">4Мп</spec>
+    <spec name="KN-GX3D">3Мп</spec>
+    <spec name="KN-DS880F28-DK">8 Мп</spec>
+    <spec name="KN-DS560F28-AI">5Мп</spec>
+    <spec name="KN-DS560A2713-AI">5Мп</spec>
+    <spec name="KN-DS880A2713-DK">8 Мп</spec>
+    <spec name="KN-DX530F28-DL">5Мп</spec>
+    <spec name="KN-DX530A2713-DL">5Мп</spec>
+    <spec name="KN-DN840F36-P180">8 Мп</spec>
+    <spec name="KN-DS884A2712P-ULTRA">8 Мп</spec>
+    <spec name="KN-GX4T">4Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-kamery-kupolnye/kn-dm205f28/</source_url>
+</product>

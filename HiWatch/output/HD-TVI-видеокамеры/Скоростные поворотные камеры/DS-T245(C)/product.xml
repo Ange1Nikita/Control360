@@ -1,0 +1,493 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Скоростная поворотная HD-TVI-видеокамера Hiwatch DS-T245(C)</name>
+  <model>DS-T245(C)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Скоростные поворотные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t245-c-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Разрешение 2Мп</paragraph>
+    <paragraph>• Оптическое увеличение 23х</paragraph>
+    <paragraph>• DWDR</paragraph>
+    <paragraph>• Встроенный слот для microSD / SDHC / SDXC: нет</paragraph>
+    <paragraph>• Встроенный микрофон: нет</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/3 Progressive Scan CMOS</paragraph>
+    <paragraph>Разрешение</paragraph>
+    <paragraph>1920  1080</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>0.05 лк @ (F1.6, AGC вкл.), 0.01 лк @ (F1.6, AGC вкл.), 0 лк с ИК-подсветкой</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>От 1 до 1/10000 с</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>25 к/с (1920  1080)</paragraph>
+    <paragraph>Режим «День / ночь»</paragraph>
+    <paragraph>Механический ИК-фильтр</paragraph>
+    <paragraph>Отношение сигнал / шум</paragraph>
+    <paragraph>50 дБ</paragraph>
+    <paragraph>Фокусное расстояние</paragraph>
+    <paragraph>От 4 до 92 мм, 23x</paragraph>
+    <paragraph>Скорость зумирования</paragraph>
+    <paragraph>3.0 с (оптич. Wide-Tele)</paragraph>
+    <paragraph>Угол обзора</paragraph>
+    <paragraph>От 49 до 2.2°</paragraph>
+    <paragraph>Минимальное рабочее расстояние фокусировки</paragraph>
+    <paragraph>От 10 до 1000 мм (Wide-Tele)</paragraph>
+    <paragraph>Диафрагма</paragraph>
+    <paragraph>От F1.6 до F3.7</paragraph>
+    <paragraph>Фокусировка</paragraph>
+    <paragraph>Автоматич. / ручн.</paragraph>
+    <paragraph>Цифровой зум</paragraph>
+    <paragraph>16х</paragraph>
+    <paragraph>Диапазон поворота</paragraph>
+    <paragraph>360°</paragraph>
+    <paragraph>Скорость вращения</paragraph>
+    <paragraph>Вручную: от 0.1 до 160 °/с, по предустановке: 160 °/с</paragraph>
+    <paragraph>Диапазон наклона</paragraph>
+    <paragraph>От 0 до 90° (автопереворот)</paragraph>
+    <paragraph>Скорость наклона</paragraph>
+    <paragraph>Вручную: от 0.1 до 120 °/с, по предустановке: 120 °/с</paragraph>
+    <paragraph>AGC</paragraph>
+    <paragraph>Автоматич. / ручн.</paragraph>
+    <paragraph>Баланс белого</paragraph>
+    <paragraph>Автоматич. / ручн. / ATW / в помещении / на улице</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>BLC, 3D DNR, EIS</paragraph>
+    <paragraph>Маскирование</paragraph>
+    <paragraph>8 областей</paragraph>
+    <paragraph>HD-TVI видеовыход</paragraph>
+    <paragraph>1 выход 720p/ 1080p, BNC</paragraph>
+    <paragraph>CVBS видеовыход</paragraph>
+    <paragraph>1 В p-p композитный выход (75 Ом / BNC)</paragraph>
+    <paragraph>Тревожные вход / выход</paragraph>
+    <paragraph>2 входа / 1 выход</paragraph>
+    <paragraph>RS-485</paragraph>
+    <paragraph>Полудуплекс. Протоколы: HIKVISION, Pelco-P, Pelco-D</paragraph>
+    <paragraph>UTC</paragraph>
+    <paragraph>HIKVISION_C</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>AC 24 В</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>Макс. 12 Вт</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>От -20 до +45 °С, влажность не более 90 %</paragraph>
+    <paragraph>Материал корпуса</paragraph>
+    <paragraph>Металл / пластик</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>184  330 мм</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>2 кг</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Разрешение 2Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Оптическое увеличение 23х</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• DWDR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный слот для microSD / SDHC / SDXC: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Встроенный микрофон: нет</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/3 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Чувствительность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.05 лк @ (F1.6, AGC вкл.), 0.01 лк @ (F1.6, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость электронного затвора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1 до 1/10000 с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Основной поток</value>
+    </spec>
+    <spec>
+      <name />
+      <value>25 к/с (1920  1080)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День / ночь»</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Отношение сигнал / шум</value>
+    </spec>
+    <spec>
+      <name />
+      <value>50 дБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусное расстояние</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 4 до 92 мм, 23x</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость зумирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3.0 с (оптич. Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 49 до 2.2°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Минимальное рабочее расстояние фокусировки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 1000 мм (Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диафрагма</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От F1.6 до F3.7</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фокусировка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / ручн.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровой зум</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диапазон поворота</value>
+    </spec>
+    <spec>
+      <name />
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость вращения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вручную: от 0.1 до 160 °/с, по предустановке: 160 °/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диапазон наклона</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 0 до 90° (автопереворот)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скорость наклона</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вручную: от 0.1 до 120 °/с, по предустановке: 120 °/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / ручн.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Баланс белого</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматич. / ручн. / ATW / в помещении / на улице</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Улучшение изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>BLC, 3D DNR, EIS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Маскирование</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 областей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HD-TVI видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 выход 720p/ 1080p, BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CVBS видеовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 В p-p композитный выход (75 Ом / BNC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тревожные вход / выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 входа / 1 выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>RS-485</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полудуплекс. Протоколы: HIKVISION, Pelco-P, Pelco-D</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HIKVISION_C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AC 24 В</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Макс. 12 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочие условия</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -20 до +45 °С, влажность не более 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал корпуса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Металл / пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>184  330 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 кг</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3 Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920  1080</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.05 лк @ (F1.6, AGC вкл.), 0.01 лк @ (F1.6, AGC вкл.), 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>От 1 до 1/10000 с</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (1920  1080)</value>
+    </spec>
+    <spec>
+      <name>Режим «День / ночь»</name>
+      <value>Механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Отношение сигнал / шум</name>
+      <value>50 дБ</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>От 4 до 92 мм, 23x</value>
+    </spec>
+    <spec>
+      <name>Скорость зумирования</name>
+      <value>3.0 с (оптич. Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>От 49 до 2.2°</value>
+    </spec>
+    <spec>
+      <name>Минимальное рабочее расстояние фокусировки</name>
+      <value>От 10 до 1000 мм (Wide-Tele)</value>
+    </spec>
+    <spec>
+      <name>Диафрагма</name>
+      <value>От F1.6 до F3.7</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>Автоматич. / ручн.</value>
+    </spec>
+    <spec>
+      <name>Цифровой зум</name>
+      <value>16х</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Скорость вращения</name>
+      <value>Вручную: от 0.1 до 160 °/с, по предустановке: 160 °/с</value>
+    </spec>
+    <spec>
+      <name>Диапазон наклона</name>
+      <value>От 0 до 90° (автопереворот)</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>Вручную: от 0.1 до 120 °/с, по предустановке: 120 °/с</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>Автоматич. / ручн.</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>Автоматич. / ручн. / ATW / в помещении / на улице</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, 3D DNR, EIS</value>
+    </spec>
+    <spec>
+      <name>Маскирование</name>
+      <value>8 областей</value>
+    </spec>
+    <spec>
+      <name>HD-TVI видеовыход</name>
+      <value>1 выход 720p/ 1080p, BNC</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1 В p-p композитный выход (75 Ом / BNC)</value>
+    </spec>
+    <spec>
+      <name>Тревожные вход / выход</name>
+      <value>2 входа / 1 выход</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>Полудуплекс. Протоколы: HIKVISION, Pelco-P, Pelco-D</value>
+    </spec>
+    <spec>
+      <name>UTC</name>
+      <value>HIKVISION_C</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>Макс. 12 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>От -20 до +45 °С, влажность не более 90 %</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Металл / пластик</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>184  330 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>2 кг</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP Вызывные панели/KN-PA2000M</name>
+  <article>KN-PA2000M</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9d9/440_370_0/IMG_20180522_160508_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2c9/440_370_0/IMG_20180522_160515_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b4d/440_370_0/IMG_20180522_160640_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/517/440_370_0/IMG_20180522_160626_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9b6/440_370_0/IMG_20180523_170257-768_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/947/440_370_0/IMG_20180522_160856_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/23f/440_370_0/IMG_20180522_160828_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9d9/38_24_2/IMG_20180522_160508_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/2c9/38_24_2/IMG_20180522_160515_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/b4d/38_24_2/IMG_20180522_160640_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/517/38_24_2/IMG_20180522_160626_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/9b6/38_24_2/IMG_20180523_170257-768_.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/947/38_24_2/IMG_20180522_160856_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/23f/38_24_2/IMG_20180522_160828_HDR-768.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/users.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/users.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/res.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/res.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/ip.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/vyzyvnye-paneli.detail/templates/.default/images/ip.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 5 6 7 1 1.3 Да Короткое описание IP видео панель KN-PA2000M предназначена для подключения к IP видеодомофонам KENO и сетевым видеорегистраторам. Работа по сети TCP/IP. Удаленное управление открыванием замка с помощью мобильного телефона. Особенности вызывной панели Все технические параметры Модель KN-PA2000M Система Процессор TEXAS    TiDavinci Система LINUX    OC Видео Сжатие H.264 Разрешение CMOS    сенсор 1,3 Mpx (1280х960) Подсветка Видимая,    до 10 м Аудио Вход Встроенный    микрофон Выход Встроенные    динамики Разговор Поддерживается    двусторонняя связь с устройствами Функции Вход Кнопка    вызова Контроль --- Тревога Защита Вандалозащитный  металлический корпус Тревожный вход До    2 внешних датчиков, управление замком NC/NO Сеть Сеть 10/100    Mbps Протокол TCP/IP,SNMP,MDI/MDI-X    Self-adaptive Основные Архив 128    Мб Питание Постоянное  10~15 В Потребление В    ожидании ≤1 Вт，при работе ≤10 Вт Рабочая температура -30℃~+50℃ 10 ~ 90% RH Стандарт IP65 Размер 140.0 мм*129.9 мм*32.2 мм（В*Ш*Г） Вес 0.8 Кг 1 1.3 Да Матрица HD CMOS    1,3 Mpx (1280x960) Вандалозащитный    металлический корпус, возможность накладного и врезного монтажа Открытие замка с мобильного устройства Управление замком NC/NO Возможность одновременного вызова на 10 мониторов одновременно Материалы и особенности ПО</description>
+  <specs>
+    <spec name="Модель">Кол-во абонентов</spec>
+    <spec name="Система">LINUX    OC</spec>
+    <spec name="Видео">Сжатие</spec>
+    <spec name="Разрешение">CMOS    сенсор 1,3 Mpx (1280х960)</spec>
+    <spec name="Подсветка">Видимая,    до 10 м</spec>
+    <spec name="Аудио">Вход</spec>
+    <spec name="Выход">Встроенные    динамики</spec>
+    <spec name="Разговор">Поддерживается    двусторонняя связь с устройствами</spec>
+    <spec name="Функции">Вход</spec>
+    <spec name="Контроль">---</spec>
+    <spec name="Тревога">Защита</spec>
+    <spec name="Тревожный вход">До    2 внешних датчиков, управление замком NC/NO</spec>
+    <spec name="Сеть">Сеть</spec>
+    <spec name="Протокол">TCP/IP,SNMP,MDI/MDI-X    Self-adaptive</spec>
+    <spec name="Основные">Архив</spec>
+    <spec name="Питание">Постоянное  10~15 В</spec>
+    <spec name="Потребление">В    ожидании ≤1 Вт，при работе ≤10 Вт</spec>
+    <spec name="Рабочая температура">-30℃~+50℃</spec>
+    <spec name="Стандарт">IP65</spec>
+    <spec name="Размер">140.0 мм*129.9 мм*32.2 мм（В*Ш*Г）</spec>
+    <spec name="Вес">0.8 Кг</spec>
+    <spec name="KN-PA130G">1</spec>
+    <spec name="KN-PA130P">1</spec>
+    <spec name="KN-PA130M">1</spec>
+    <spec name="KN-PA130M-X">9999</spec>
+    <spec name="KN-PA130G-X">9999</spec>
+    <spec name="KN-PA2000M">1</spec>
+    <spec name="KN-PA2000M-X">9999</spec>
+    <spec name="KENO KN-B86 монтажная коробка">1</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/vyzyvnye-paneli/kn-pa2000m/</source_url>
+</product>

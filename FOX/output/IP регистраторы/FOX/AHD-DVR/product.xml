@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>TVI видеорегистраторы</name>
+  <article>AHD-DVR</article>
+  <brand>FOX</brand>
+  <category>IP регистраторы</category>
+  <price />
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/ab4/FX_4GTA_-FX_4QTA_-FX_8GTA_-FX_8QTA-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/85a/FX_4GTA_-FX_4QTA_-FX_8GTA_-FX_8QTA-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/c0f/FX_16GTA_FX_16QTA_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/587/FX_4GTA_FX_4QTA_FX_8GTA_FX_8QTA_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3a4/FX_4GTA_FX_4QTA_FX_8GTA_FX_8QTA_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/727/FX_16GTA_FX_16QTA_360.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="FX-4GTA">4 BNC + 1 IP</spec>
+    <spec name="FX-8GTA">8 BNC + 2 IP</spec>
+    <spec name="FX-16GTA AI">16 BNC + 2 IP</spec>
+    <spec name="FX-4QTA AI">4 BNC + 1 IP</spec>
+    <spec name="FX-8QTA AI">8 BNC + 2 IP</spec>
+    <spec name="FX-16QTA AI">16 BNC + 2 IP</spec>
+    <spec name="1">1/16IP</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/cctv/ahd-dvr/</source_url>
+</product>

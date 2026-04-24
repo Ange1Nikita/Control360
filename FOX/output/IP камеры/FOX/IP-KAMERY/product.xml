@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP видеокамеры</name>
+  <article>IP-KAMERY</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110004790</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/584/xdp8j76y0m3fi7b81zegftci785h109f/250_s_mikrofonom.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d1d/250-s-mikrofonom-2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/7d4/FX_IPC_HXD_WIR-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/e6a/FX_IPC_HXC_WIR-II-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/58a/FX_IPC_HXD_WIR-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/643/FX_IPC_HXC_WIR-II-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/874/FX_IPC_C2FP_IR-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9f2/FX_IPC_C20-40-FP-AI-MIC-250_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/334/FX_IPC_D2FP_IR-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/742/FX_IPC_D20_40_FP_WIR_360_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/29d/IMG_4474-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/64e/IMG_4474-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/143/FX_IPC_D20_40_FP_WIR_360_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/981/FX_IPC_C40_FP_AI_MIC_250_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3ab/FX_IPC_C40_FP_AI_MIC_250_.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/2dc/FX_IPC_D20-40-FP_WIR-360_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/f84/FX_IPC_D40AP_IR_2022_360-2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/f83/FX_IPC_C40AP_IR_2022_360-2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/5f3/FX_IPC_D20_40_FP_WIR_360_2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/113/FX_IPC_C40AP_IR_2022_360_2.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Разрешение, MPx</spec>
+    <spec name="FX-IPEYE/2Q">2Мп</spec>
+    <spec name="FX-IPC-E20WP-IR">2Мп</spec>
+    <spec name="FX-IPC-H4D-WIR">4Мп</spec>
+    <spec name="FX-IPC-H4C-WIR">4Мп</spec>
+    <spec name="FX-IPC-H2D-WIR">2Мп</spec>
+    <spec name="FX-IPC-H2C-WIR">2Мп</spec>
+    <spec name="FX-IPC-C2FP-IR AI">Уличная</spec>
+    <spec name="FX-IPC-C20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-D2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-D20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-T40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-T20FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-D40FP-WIR">Уличная</spec>
+    <spec name="FX-IPC-C40FP-WIR">Уличная</spec>
+    <spec name="FX-IPC-C40FP-IR AI">Уличная</spec>
+    <spec name="FX-IPC-D40FP-IR AI">Уличная</spec>
+    <spec name="FX-IPC-D40AP-IR AI">Уличная</spec>
+    <spec name="FX-IPC-C40AP-IR AI">Уличная</spec>
+    <spec name="FX-IPC-D450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-C450FP-OC AI">4Мп</spec>
+    <spec name="1">1000</spec>
+    <spec name="4 790">руб.</spec>
+    <spec name="купить">FX-IPC-C450FP-OC AI</spec>
+    <spec name="Внутренняя">2Мп</spec>
+    <spec name="2.8 mm">20</spec>
+    <spec name="4 990">руб.</spec>
+    <spec name="Уличная">4Мп</spec>
+    <spec name="2 990">руб.</spec>
+    <spec name="2Мп">2.8 mm</spec>
+    <spec name="3 990">руб.</spec>
+    <spec name="3 390">руб.</spec>
+    <spec name="5 990">руб.</spec>
+    <spec name="4Мп">2.8 - 12 mm</spec>
+    <spec name="9 990">руб.</spec>
+    <spec name="4.0 mm">15</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/cctv/ip-kamery/</source_url>
+</product>

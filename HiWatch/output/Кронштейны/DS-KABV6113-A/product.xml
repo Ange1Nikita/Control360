@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-KABV6113-A</name>
+  <model>DS-KABV6113-A</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-kabv6113-a</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Материал: поликарбонат + 10 % стекловолокно.</paragraph>
+    <paragraph>• Кронштейн для установки на стену вызывной панели серии KV6 с возможностью регулировки угла установки на 30градусов.</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -40 до +70 °C</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>133.1  60.1  35.2 мм</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Поликарбонат + 10 % стекловолокно</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Материал: поликарбонат + 10 % стекловолокно.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Кронштейн для установки на стену вызывной панели серии KV6 с возможностью регулировки угла установки на 30градусов.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -40 до +70 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>133.1  60.1  35.2 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поликарбонат + 10 % стекловолокно</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -40 до +70 °C</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>133.1  60.1  35.2 мм</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Поликарбонат + 10 % стекловолокно</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

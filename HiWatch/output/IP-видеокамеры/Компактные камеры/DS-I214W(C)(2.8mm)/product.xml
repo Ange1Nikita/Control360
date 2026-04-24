@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Компактная IP-видеокамера Hiwatch DS-I214W(C)(2.8mm)</name>
+  <model>DS-I214W(C)(2.8mm)</model>
+  <category>IP-видеокамеры</category>
+  <subcategory>Компактные камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-i214w-s--2-8-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>H.265+/H.265/MP2L2</paragraph>
+    <paragraph>EXIR-подсветка до 10 м</paragraph>
+    <paragraph>Встроенные микрофон, динамик, PIR-датчик</paragraph>
+    <paragraph>Слот для карты памяти до 256 Гб</paragraph>
+    <paragraph>Wi-Fi 2,4ГГц2Мп внутренняя IP-камера c EXIR-подсветкой до 10м и WiFi</paragraph>
+    <paragraph>1/2.7'' CMOS матрица; объектив 2.8мм; угол обзора 107градусов; механический ИК-фильтр; 0.028 лк @F2.0; H.265+/H.265/H.264+/H.264/MJPEG, DWDR, 3D DNR, HLC, BLC; встроенный микрофон/ динамик; PIR-датчик; встроенный слот для microSD карты до 256Гб; G.711/G.722.1/G.726/MP2L2/PCM, видеобитрейт 32кбит/с -8Мбит/с; -10градусовC ...+40градусовC; 12В +-25%/PoE (802.3af); 6,5Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/MP2L2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EXIR-подсветка до 10 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенные микрофон, динамик, PIR-датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Слот для карты памяти до 256 Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Wi-Fi 2,4ГГц2Мп внутренняя IP-камера c EXIR-подсветкой до 10м и WiFi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7'' CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 2.8мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 107градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.028 лк @F2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265+/H.265/H.264+/H.264/MJPEG, DWDR, 3D DNR, HLC, BLC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный микрофон/ динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIR-датчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>встроенный слот для microSD карты до 256Гб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711/G.722.1/G.726/MP2L2/PCM, видеобитрейт 32кбит/с -8Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC ...+40градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В +-25%/PoE (802.3af)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6,5Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

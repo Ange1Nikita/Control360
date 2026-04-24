@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2CD5A46G0-IZ/UH (2.8-12 мм)</name>
+  <model>DS-2CD5A46G0-IZ/UH (2.8-12 мм)</model>
+  <sku>54395</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2cd5a46g0-iz-uh-2-8-12-mm-ip-kamera/</product_url>
+  <description>
+    <paragraph>4 Мп, motor-zoom</paragraph>
+    <paragraph>ИК-подсветка до 50 м</paragraph>
+    <paragraph>10-потоковая передача</paragraph>
+    <paragraph>Расширенная видеоаналитика</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, –60 °C… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0036 лк при F/1.6, AGC вкл.0 лк с вкл. ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 с. ~ 1/100 000 с., поддержка медленного затвора</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>Кронштейн, поворот: от 0° до 355°, наклон: от 0° до 90°, вращение: от 0° до 360°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>2.8 ~ 12 мм, моторизированный объектив</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>Ø14</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>по горизонтали: 109.2° ~ 38.9°по вертикали: 56.2° ~ 21.9°по диагонали: 134.5° ~ 45°</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>полуавтоматическая</value>
+    </spec>
+    <spec>
+      <name>ИК-подсветка</name>
+      <value>до 50 м</value>
+    </spec>
+    <spec>
+      <name>Длина волны</name>
+      <value>850 нм</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Видеопотоки</name>
+      <value>5 предустановленных потоков и 5 пользовательских</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (2560×1440, 1920×1080, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Четвертый поток</name>
+      <value>25 к/с (1920×1080, 1280×720, 704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Пятый поток</name>
+      <value>25 к/с (704×576, 640×480)</value>
+    </spec>
+    <spec>
+      <name>Пользовательский поток</name>
+      <value>25 к/с (1920×1080, 1280×720, 704×576, 640×480</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток, третий поток, четвертый поток, пятый поток, пользовательский поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>кодирование H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Смарт-события</name>
+      <value>пересечение линии (до 4 настраиваемых линий)вторжение (до 4 областей)вход-выход из области (до 4 областей)оставленный багаж (до 4 областей)перемещение объекта (до 4 областей)обнаружение лиц, изменение сцены, расфокусировка</value>
+    </spec>
+    <spec>
+      <name>Обычные события</name>
+      <value>Обнаружение движения, детектор саботажа, исключения (разрыв сети, конфликт IP-адресов, несанкционированный вход, переполнение накопителя, ошибка накопителя)</value>
+    </spec>
+    <spec>
+      <name>Статистика</name>
+      <value>подсчет</value>
+    </spec>
+    <spec>
+      <name>Метод привязки</name>
+      <value>загрузка на FTP/NAS/карту памяти, уведомление центра наблюдения, отправка email, запись по тревоге, захват изображения</value>
+    </spec>
+    <spec>
+      <name>Область исследования</name>
+      <value>основной поток, дополнительный поток, третий поток, четвертый поток, пятый поток: 4 фиксированных области для каждого потока и динамическое отслеживание лиц</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 120 дБ, 3D DNR, BLC, HLC, EIS, антитуман, коррекция искажений</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>режим коридора, насыщенность, яркость, контраст, резкость, AGC и баланс белого настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Обрезка изображения</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Переключение день/ночь</name>
+      <value>автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Наложение картинки</name>
+      <value>логотип в формате bmp 24 бит, 128×128</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>microSD/SDHC/SDXC (256 Гбайт), местное хранение и NAS (NFS, SMB/CIFS), ANRподдержка карты памяти Hikvision, шифрование и диагностика карты памяти</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ONVIF (Profile S, Profile G), ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour, SSL/TLS</value>
+    </spec>
+    <spec>
+      <name>Плавная потоковая передача</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяной знак, фильтр IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для ONVIF, RTP/RTSP через HTTPS, управление настройками тайм-аута, лог аудита безопасности, TLS 1.2, TLS1.0, TLS1.1</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор, пользователь</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, Hik-Connect, Hik-Central</value>
+    </spec>
+    <spec>
+      <name>Веб-браузер</name>
+      <value>требуется плагин для просмотра в режиме реального времени: IE8+, Chrome 41.0-44, Mozilla Firefox30.0-51, Safari8.0-11не требуется плагин для просмотра в режиме реального времени: Chrome 45+, Mozilla Firefox52+</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>RJ-45 10M/100M/1000M Ethernet</value>
+    </spec>
+    <spec>
+      <name>CVBS видеовыход</name>
+      <value>1 Vp-p композитный (75 Ω/BNC), только для настройки</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>встроенный слот для microSD/SDHC/SDXC до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Версия прошивки</name>
+      <value>5.5.92</value>
+    </spec>
+    <spec>
+      <name>Язык клиента</name>
+      <value>32 языка: английский, русский, эстонский, болгарский, венгерский, греческий, немецкий, итальянский, чешский, словацкий, французский, польский, голландский, португальский, испанский, румынский, датский, шведский, норвежский, финский, хорватский, словенский, сербский, турецкий, корейский, традиционный китайский, тайский, вьетнамский, японский, латышский, литовский, португальский (Бразилия)</value>
+    </spec>
+    <spec>
+      <name>Встроенная открытая платформа</name>
+      <value>есть, камера поддерживает установку и запуск до 4 дополнительных приложений</value>
+    </spec>
+    <spec>
+      <name>Общие функции</name>
+      <value>Anti-Flicker, 5 установленных потоков и до 5 настраиваемых потоков, Heartbeat, зеркалирование, защита паролем, маскирование области, изменение пароля по e-mail, подсчет пикселей, настройки управления временем ожидания</value>
+    </spec>
+    <spec>
+      <name>Перезагрузка</name>
+      <value>перезагрузка при помощи кнопки сброса настроек (Reset) на корпусе камеры, веб-браузера и клиентского ПО</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–60 °C…+60 °С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Условия хранения</name>
+      <value>–30 °C…+60 °С, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Обогреватель</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±10 %, трехъядерный блок контактов, защита от переполюсовки</value>
+    </spec>
+    <spec>
+      <name>Энергопотребление и ток</name>
+      <value>с дополнительной нагрузкой: 12 В DC, 1.33 А, макс. 15.9 Вт, PoE (802.3at, 42.5 ~ 57 В), 0.5 ~ 0.37 А, 21.2 Втбез дополнительной нагрузки: 12 В DC, 1.13 А, макс. 13.5 Вт, PoE (802.3at, 42.5 ~ 57 В), 0.42 ~ 0.32 А, 18 Вт* дополнительная нагрузка — подключенное дополнительное устройство, получающее питание от камеры</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>камера: Ø140×368 ммкоробка: 405×190×180 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>нетто: 1.9 кгбрутто: 2.45 кг</value>
+    </spec>
+    <spec>
+      <name>EMC</name>
+      <value>47 CFR Part 15, Subpart B; EN 55032: 2015, EN 61000-3-2: 2014, EN 61000-3-3: 2013, EN 50130-4: 2011 +A1: 2014</value>
+    </spec>
+    <spec>
+      <name>Стандарты по безопасности</name>
+      <value>EN 60950-1:2005 + Am 1:2009 + Am 2:2013</value>
+    </spec>
+    <spec>
+      <name>Химические стандарты</name>
+      <value>2011/65/EU, 2012/19/EU, Regulation (EC) No 1907/2006</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>защита от попадания влаги и пыли: IP67 (IEC 60529-2013)</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>4 Мп, motor-zoomИК-подсветка до 50 м10-потоковая передачаРасширенная видеоаналитика⛅ ☔ ❄ IP67, –60 °C… +60 ºСПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/96a/140_140_1/DS_2CD5A26G1_IZHS-_8_32-mm_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2cd5a46g0-iz-uh-2-8-12-mm-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CD5A46G0-IZ/UH (2.8-12 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

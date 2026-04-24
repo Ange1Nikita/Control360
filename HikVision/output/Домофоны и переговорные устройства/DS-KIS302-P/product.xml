@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Комплект IP видеодомофона Hikvision DS-KIS302-P</name>
+  <model>DS-KIS302-P</model>
+  <article>318077</article>
+  <sku>305303486</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Комплекты оборудования</subcategory>
+  <functional_name>Комплект IP видеодомофона</functional_name>
+  <nomenclature>Комплект IP-видеодомофона</nomenclature>
+  <price>9297.5</price>
+  <price_wholesale>8445.23</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/318077/</product_url>
+  <description>
+    <paragraph>Комплект гибридного IP-видеодомофона в составе:&lt;br /&gt;</paragraph>
+    <paragraph>-  DS-KH6320-WTDE1.   Монитор IP-видеодомофона с Wi-Fi (2.4 ГГц);  7″ цветной емкостный сенсорный TFT LCD экран (1024×600);  ОС Linux;  до 2х аналоговых вызывных панелей;  до 15 IP-домофонов;  до 16 IP-камер;  TCP/IP, SIP, RTSP;  RS-485;  8 тревожных входов;  10/100M Ethernet (RJ-45);  Wi-Fi (802.11 b/g/n);  слот под TF-карту до 128 ГБ (для сохранения изображений и тревог);  PoE (IEEE802.3af)/DC 12В (в комплекте);  ≤ 10Вт;  -10...+55°C (эксплуатация внутри помещения).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей/камер</name>
+      <value>15|2|</value>
+    </spec>
+    <spec>
+      <name>Количество дополнительных видеокамер</name>
+      <value>до 16 IP камер</value>
+    </spec>
+    <spec>
+      <name>Стандарт видеосигнала</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>4-х проводная|IP|Wi-Fi|</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>SD карта</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры монитора, мм</name>
+      <value>200×140×23,6</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Угол обзора, град</name>
+      <value>66.2°</value>
+    </spec>
+    <spec>
+      <name>Разрешение видео</name>
+      <value>-</value>
+    </spec>
+    <spec>
+      <name>Линия связи с абонентским устройством</name>
+      <value>4-х проводная|IP|WI-FI|</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры вызывной панели, мм</name>
+      <value>135×50×42</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>manual.pdf</passport>
+  </files>
+  <documents>
+    <document title="Руководство пользователя" size="937.64 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/0/10893ADE7E3F4D6F79D45CD3FE9831B1.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Radar Detectors</name>
+  <article>RADAR_DETECTORS</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b2f/450_450_1/b2fc26aa6c7dd3e5ff80ab7f5ccd07e3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a21/450_450_1/a21530a665d83c4e7eec5b02f3220aaa.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/890/450_450_1/890b2aa40f8d17075aac83bc32bc107c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/456/450_450_1/456cf81d2ba6e8ad2c0fb53d3d7db27e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1bd/450_450_1/1bd3219ce9d73a62334ac11143c2bb93.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bbb/450_450_1/bbb4adb698ea3d477b9b0e2a88b122f3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/648/450_450_1/6482a6136186462b6a17c47d066652e2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/7b7/450_450_1/7b73defc0fb8204759368420ed50cd47.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/radar_detectors/</source_url>
+</product>

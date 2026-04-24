@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Мультиформатная камера Hikvision DS-2AE5225TI-A (E)</name>
+  <model>DS-2AE5225TI-A (E)</model>
+  <sku>54762</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>67110</price>
+  <product_url>https://www.dssl.ru/products/ds-2ae5225ti-a-e-povorotnaya-analogovaya-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>25-кратная оптика</paragraph>
+    <paragraph>WDR 120 дБ</paragraph>
+    <paragraph>Smart ИК-подсветка до 150 м</paragraph>
+    <paragraph>IP66, –40 ºС… +65 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>25 к/с (1920×1080)</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.005 лк при F/1.6, AGC вкл.ч/б: 0.001 лк при F/1.6, AGC вкл., 0 лк с вкл. ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 с. ~ 1/10 000 с.</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>авто, ручной, полуавтоматический, ATW, в помещении, на улице</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>ручная, автоматическая</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Цифровой зум</name>
+      <value>16×</value>
+    </spec>
+    <spec>
+      <name>BLC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ WDR</value>
+    </spec>
+    <spec>
+      <name>HLC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>3D DNR</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>EIS</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Маскирование областей</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Фокус на области</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>автоматическая, полуавтоматическая, ручная</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>4.8 мм ~ 120 мм, 25×</value>
+    </spec>
+    <spec>
+      <name>Скорость зумирования</name>
+      <value>3.6 с.</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>горизонтальный: 57.6° ~ 2.5°вертикальный: 34.4° ~ 1.4°диагональный: 64.5° ~ 2.9°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.6 ~ F/3.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Диапазон наклона</name>
+      <value>-15° ~ +90° (автопереворот)</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>вручную: 0.1 ~ 120 °/с, по предустановке: 120 °/с</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>вручную: 0. ~ 80 °/с, по предустановке: 80 °/с</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>256</value>
+    </spec>
+    <spec>
+      <name>Патрули</name>
+      <value>10 патрулей, до 32 предустановок в каждом</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>5 шаблонов, с общим временем записи не менее 10 минут</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, патруль, шаблон, поворотное сканирование, вертикальное сканирование, панорамное сканирование, режим «день», режим «ночь», отсутствует</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ позиции</name>
+      <value>вкл./выкл</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр при переходе на предустановку</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Задачи по расписанию</name>
+      <value>предустановка, патруль, шаблон, поворотное сканирование, вертикальное сканирование, панорамное сканирование, режим «день», режим «ночь», калибровка нуля, отсутствует</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 150 м</value>
+    </spec>
+    <spec>
+      <name>Интенсивность ИК-подсветки</name>
+      <value>регулируется автоматически в зависимости от масштаба</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>переключение видеовыходов TVI/AHD/CVI/CVBS, (композит NTSC или PAL, BNC)</value>
+    </spec>
+    <spec>
+      <name>Тревожный интерфейс</name>
+      <value>2 тревожных входа/1 тревожный выход</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>полудуплексный режимадаптивные протоколы HIKVISION, Pelco-P, Pelco-D</value>
+    </spec>
+    <spec>
+      <name>Функция UTC</name>
+      <value>протокол UTC (или протокол HIKVISION-C в предыдущем DVR)</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 30 Вт (ИК-подсветка: 10 Вт)</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C…+60 °C, влажность менее 90 %</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>стандарт IP66 (купольная камера, установка снаружи помещений) TVS 4,000 В грозозащита, защита от импульсных и переходных перенапряжений</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø208×305 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>3.3 кг</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 Мп25-кратная оптикаWDR 120 дБSmart ИК-подсветка до 150 мIP66, –40 ºС… +65 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине67 110р.Узнать цену для партнеровУточнить наличие у менеджераВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/c6c/140_140_1/DS_2AE5225TI_A-_E_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ae5225ti-a-e-povorotnaya-analogovaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2AE5225TI-A (E)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;67 110&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

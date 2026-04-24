@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-KAB6-W1</name>
+  <model>DS-KAB6-W1</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-kab6-w1</product_url>
+  <description>
+    <paragraph>Кронштейн</paragraph>
+    <paragraph>Удобный тип подключения</paragraph>
+    <paragraph>Регулировка угла установки: +- 45градусов (слева направо), +- 15градусов (сверху вниз)</paragraph>
+    <paragraph>Используется с сериями DS-K1T320, DS-K1A340, DS-K1T343, DS-K1T342, DS-K1T341C, DS-K1T642, DS-K1T671, DS-K1T672, DS-K1T673, DS-K1T680, DS-K1T681, DS-K1T690, DS-K1T981 и моделями DS-K1TA70MI-T и DS-K1T671TM-3XF.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Кронштейн</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удобный тип подключения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Регулировка угла установки: +- 45градусов (слева направо), +- 15градусов (сверху вниз)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Используется с сериями DS-K1T320, DS-K1A340, DS-K1T343, DS-K1T342, DS-K1T341C, DS-K1T642, DS-K1T671, DS-K1T672, DS-K1T673, DS-K1T680, DS-K1T681, DS-K1T690, DS-K1T981 и моделями DS-K1TA70MI-T и DS-K1T671TM-3XF.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

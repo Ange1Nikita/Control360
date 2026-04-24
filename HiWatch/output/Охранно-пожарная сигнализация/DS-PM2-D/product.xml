@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM2-D</name>
+  <model>DS-PM2-D</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm2-d</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Плата питания DS-PM2-D является печатной платой, на которой смонтированы стабилизаторы напряжения для электропитания, и предназначена для подключения охранной панели AX PRO к низковольтным источникам питания от 8 до 24 В. Подходит для применения в условиях отсутствия или нестабильного питания. Удобная установка и подключение к портативному зарядному устройству.</paragraph>
+    <paragraph>• Совместимость с охранной панелью AX PRO.</paragraph>
+    <paragraph>• Удобная и простая установка.</paragraph>
+    <paragraph>• Широкий диапазон потребляемой мощности: DC от 4 до 16 В.Блок питания панели AXPRO от 12В постоянного тока</paragraph>
+    <paragraph>Блок питания панели AXPRO от внешнего источника питания на 12 В, входное рабочее напряжения  - 5~16В , Выходной ток до 2А; индикатор состояния; Рабочая температура -10градусовC...+55градусовC; размер 80 90 15мм; Вес 35г; Установка в панель AXPRO.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Совместимость с охранной панелью AX PRO.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Удобная и простая установка.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Широкий диапазон потребляемой мощности: DC от 4 до 16 В.Блок питания панели AXPRO от 12В постоянного тока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Блок питания панели AXPRO от внешнего источника питания на 12 В, входное рабочее напряжения  - 5~16В , Выходной ток до 2А</value>
+    </spec>
+    <spec>
+      <name />
+      <value>индикатор состояния</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура -10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 80 90 15мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес 35г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка в панель AXPRO.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

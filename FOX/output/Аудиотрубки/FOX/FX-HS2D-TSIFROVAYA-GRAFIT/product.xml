@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-HS2D Цифровая Графит</name>
+  <article>FX-HS2D-TSIFROVAYA-GRAFIT</article>
+  <brand>FOX</brand>
+  <category>Аудиотрубки</category>
+  <price>52601200</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b91/440_370_0/IMG_6544-900-gr.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ffe/440_370_0/IMG_6544_gr_zad_D.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/188/440_370_0/IMG_6549-korob-tsifra.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/b91/38_24_2/IMG_6544-900-gr.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/ffe/38_24_2/IMG_6544_gr_zad_D.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/188/38_24_2/IMG_6549-korob-tsifra.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/b91/440_370_0/IMG_6544-900-gr.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Аудиотрубка Цифровая">FX-HS2D</spec>
+    <spec name="Технические параметры">Кнопка открытия двери</spec>
+    <spec name="Наличие регулятора громкости">Есть</spec>
+    <spec name="Световой индикатор вызова">LED</spec>
+    <spec name="Перемычка выбора номера квартиры">Бинарный метод</spec>
+    <spec name="Подключение">Шлейф</spec>
+    <spec name="Разъем подключения линии">L+ (десятки) L- (единицы)</spec>
+    <spec name="Питание">От панели</spec>
+    <spec name="Степень защиты">IP 54</spec>
+    <spec name="Рабочая температура">+5°C … +45°C</spec>
+    <spec name="Влажность">Относительная влажность воздуха при +25°C, не более 93%</spec>
+    <spec name="Габаритные размеры (мм)">198(В) х 84(Ш) х 35(Г)</spec>
+    <spec name="Вес">210гр</spec>
+    <spec name="Особенности аудиотрубки">Все технические параметры</spec>
+    <spec name="Есть">Световой индикатор вызова</spec>
+    <spec name="LED">Перемычка выбора номера квартиры</spec>
+    <spec name="Бинарный метод">Подключение</spec>
+    <spec name="Шлейф">Разъем подключения линии</spec>
+    <spec name="L+ (десятки) L- (единицы)">Питание</spec>
+    <spec name="От панели">Степень защиты</spec>
+    <spec name="IP 54">Рабочая температура</spec>
+    <spec name="+5°C … +45°C">Влажность</spec>
+    <spec name="Относительная влажность воздуха при +25°C, не более 93%">Габаритные размеры (мм)</spec>
+    <spec name="198(В) х 84(Ш) х 35(Г)">Вес</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(8.683МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/audiotrubki/fx-hs2d-tsifrovaya-grafit/</source_url>
+</product>

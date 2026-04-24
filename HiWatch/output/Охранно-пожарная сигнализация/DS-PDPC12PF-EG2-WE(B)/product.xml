@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDPC12PF-EG2-WE(B) black</name>
+  <model>DS-PDPC12PF-EG2-WE(B)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-pdpc12pf-eg2-we-b-black</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Дальность обнаружения: 12 м / 85,9 градусов</paragraph>
+    <paragraph>Иммунитет домашних животных весом до 30 кг</paragraph>
+    <paragraph>SEC (интеллектуальный контроль окружающей среды) - усовершенствованная цифровая обработка сигналов и 3D-оптика</paragraph>
+    <paragraph>цветная визуализация 24/7</paragraph>
+    <paragraph>Большой встроенный буфер памяти для хранения изображений</paragraph>
+    <paragraph>Полностью удаленная настройка через приложение</paragraph>
+    <paragraph>Множественный метод регистрации и простая конструкция установки</paragraph>
+    <paragraph>Легко заменяемый аккумулятор с защитой печатной платы</paragraph>
+    <paragraph>Дальность обнаружения</paragraph>
+    <paragraph>12 м</paragraph>
+    <paragraph>Угол детекции</paragraph>
+    <paragraph>90°</paragraph>
+    <paragraph>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</paragraph>
+    <paragraph>30 кг</paragraph>
+    <paragraph>Цифровая температурная компенсация</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Тампер</paragraph>
+    <paragraph>Защита передней и задней панели</paragraph>
+    <paragraph>Индикатор температуры окружающей среды</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Тип изображения</paragraph>
+    <paragraph>JPEG (640 х 480, 320 х 240, 160 х 120)</paragraph>
+    <paragraph>Технология передачи</paragraph>
+    <paragraph>Беспроводная технология CAM-X</paragraph>
+    <paragraph>LED-индикатор</paragraph>
+    <paragraph>Синий (тревога)</paragraph>
+    <paragraph>Частота передачи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Дальность передачи данных (открытое пространство)</paragraph>
+    <paragraph>800 м</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>CR123A  3</paragraph>
+    <paragraph>Стандартный срок службы батареи</paragraph>
+    <paragraph>До 6 лет (в режиме ожидания)</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>72.2  120.5  56.7 мм</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>220 г</paragraph>
+    <paragraph>Высота установки</paragraph>
+    <paragraph>От 1.8 до 2.4 м</paragraph>
+    <paragraph>Кронштейн</paragraph>
+    <paragraph>Кронштейн для установки на стену и потолок (опционально)</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения: 12 м / 85,9 градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Иммунитет домашних животных весом до 30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>SEC (интеллектуальный контроль окружающей среды) - усовершенствованная цифровая обработка сигналов и 3D-оптика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>цветная визуализация 24/7</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Большой встроенный буфер памяти для хранения изображений</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полностью удаленная настройка через приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Множественный метод регистрации и простая конструкция установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Легко заменяемый аккумулятор с защитой печатной платы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность обнаружения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол детекции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>30 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цифровая температурная компенсация</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тампер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Индикатор температуры окружающей среды</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип изображения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>JPEG (640 х 480, 320 х 240, 160 х 120)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Технология передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная технология CAM-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синий (тревога)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность передачи данных (открытое пространство)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>800 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CR123A  3</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандартный срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 6 лет (в режиме ожидания)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>72.2  120.5  56.7 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>220 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Высота установки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 1.8 до 2.4 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кронштейн</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Кронштейн для установки на стену и потолок (опционально)</value>
+    </spec>
+    <spec>
+      <name>Дальность обнаружения</name>
+      <value>12 м</value>
+    </spec>
+    <spec>
+      <name>Угол детекции</name>
+      <value>90°</value>
+    </spec>
+    <spec>
+      <name>Фильтрация срабатываний на домашних животных (вес, до: Х кг)</name>
+      <value>30 кг</value>
+    </spec>
+    <spec>
+      <name>Цифровая температурная компенсация</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тампер</name>
+      <value>Защита передней и задней панели</value>
+    </spec>
+    <spec>
+      <name>Индикатор температуры окружающей среды</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тип изображения</name>
+      <value>JPEG (640 х 480, 320 х 240, 160 х 120)</value>
+    </spec>
+    <spec>
+      <name>Технология передачи</name>
+      <value>Беспроводная технология CAM-X</value>
+    </spec>
+    <spec>
+      <name>LED-индикатор</name>
+      <value>Синий (тревога)</value>
+    </spec>
+    <spec>
+      <name>Частота передачи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Дальность передачи данных (открытое пространство)</name>
+      <value>800 м</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>CR123A  3</value>
+    </spec>
+    <spec>
+      <name>Стандартный срок службы батареи</name>
+      <value>До 6 лет (в режиме ожидания)</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>72.2  120.5  56.7 мм</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>220 г</value>
+    </spec>
+    <spec>
+      <name>Высота установки</name>
+      <value>От 1.8 до 2.4 м</value>
+    </spec>
+    <spec>
+      <name>Кронштейн</name>
+      <value>Кронштейн для установки на стену и потолок (опционально)</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

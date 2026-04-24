@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Operativnaya Sluzhba</name>
+  <article>OPERATIVNAYA_SLUZHBA</article>
+  <brand>ViGUARD</brand>
+  <category>4G камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d90/450_450_1/komplekt-videonablyudeniya-dlya-operativnykh-sluzhb-grupp-bystrogo-reagirovaniya-taksi-ot-proizvodit.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d1d/450_450_1/komplekt-videonablyudeniya-dlya-avtomobiley-inkassatsii-ot-proizvoditelya.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/operativnaya_sluzhba/</source_url>
+</product>

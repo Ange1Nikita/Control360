@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2DF6C431-CX (T5/316L)</name>
+  <model>DS-2DF6C431-CX (T5/316L)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2df6c431-cx-t5-316l-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>Взрывозащита</paragraph>
+    <paragraph>Нержавеющая сталь</paragraph>
+    <paragraph>⛅ ☔ ❄ IP68, –40 °C… +60 ºС</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.005 лк (F/1.5, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 ~ 1/30 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокус</name>
+      <value>авто, полуавто, вручную</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>5.9 ~ 182.9 мм</value>
+    </spec>
+    <spec>
+      <name>Скорость увеличения</name>
+      <value>5.6 с</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>горизонтальный: 60.2° ~ 2.5°вертикальный: 35.2° ~ 1.3°диагональный: 67.4° ~ 2.7°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.5</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Смарт-события</name>
+      <value>обнаружение движения, вторжения, пересечения линии, входа и выхода из области, оставленных и пропавших предметов, захват лиц, сравнение лиц</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Фреймрейт</name>
+      <value>25 к/с</value>
+    </spec>
+    <spec>
+      <name>Потоки</name>
+      <value>3</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>WDR 120 дБ, 3D DNR, BLC, HLC, EIS</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (Поддержка NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, QoS, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF, ISAPI, SDK</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в реальном времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня: администратор, оператор, пользователь</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>RJ-45, RS-485</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход, выход</value>
+    </spec>
+    <spec>
+      <name>Тревожные</name>
+      <value>7 входов, 2 выхода</value>
+    </spec>
+    <spec>
+      <name>Локальное хранилище</name>
+      <value>слот для microSD, SDHC, SDXC до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 100 ~ 240 V</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>макс. 60 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 °C… +60 °C, влажность 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP68, грозозащита TVS 4000 V, NEMA 4X</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>нержавеющая сталь 316L</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø255×405 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>13.2 кг</value>
+    </spec>
+    <spec>
+      <name>Маркировка взрывозащиты</name>
+      <value>1Ex d IIC T6 Gb Х и Ex tb IIIC T 80 °C Db X</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпВзрывозащитаНержавеющая сталь⛅ ☔ ❄ IP68, –40 °C… +60 ºСПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/ee0/140_140_1/DS_2DF6C431_CX_T5_316L_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2df6c431-cx-t5-316l-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DF6C431-CX (T5/316L)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+    <passport>passport_4.pdf</passport>
+  </files>
+</product>

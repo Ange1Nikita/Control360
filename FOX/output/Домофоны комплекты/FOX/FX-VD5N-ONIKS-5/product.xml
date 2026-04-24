@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-VD5N-KIT (ОНИКС 5)</name>
+  <article>FX-VD5N-ONIKS-5</article>
+  <brand>FOX</brand>
+  <category>Домофоны комплекты</category>
+  <price>11110009990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d31/440_370_0/ONIX_F3_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/83e/440_370_0/ONIX_F3_3-bok-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/26b/440_370_0/ONIX-768-knopki.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/fca/440_370_0/ONIX_F3_2-ad-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/225/440_370_0/Vyzyvnaya-panel-FX_CP8-_960H_-Front_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0be/440_370_0/Vyzyvnaya-panel-FX_CP8-_960H_-Back-R_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/5e4/440_370_0/Vyzyvnaya-panel-FX_CP8-_960H_-Krepyezh_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/965/440_370_0/ONIX_BOX-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d31/38_24_2/ONIX_F3_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/83e/38_24_2/ONIX_F3_3-bok-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/26b/38_24_2/ONIX-768-knopki.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/fca/38_24_2/ONIX_F3_2-ad-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/225/38_24_2/Vyzyvnaya-panel-FX_CP8-_960H_-Front_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/0be/38_24_2/Vyzyvnaya-panel-FX_CP8-_960H_-Back-R_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/5e4/38_24_2/Vyzyvnaya-panel-FX_CP8-_960H_-Krepyezh_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/965/38_24_2/ONIX_BOX-768.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/d31/440_370_0/ONIX_F3_1-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-VD5N</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Разрешение">480 X 272</spec>
+    <spec name="Стандарт видео">CVBS (PAL / NTSC)</spec>
+    <spec name="Интерфейс">2 панели</spec>
+    <spec name="Аудио">Звуковая система</spec>
+    <spec name="Интерком">Есть</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Нет</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">Панель</spec>
+    <spec name="Тип замка">электромагнитный/</spec>
+    <spec name="Детектор движения">Нет</spec>
+    <spec name="Режим «Монитор»">Есть</spec>
+    <spec name="Часы/Дата">Есть</spec>
+    <spec name="Автоответчик">Нет</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">4-х проводное</spec>
+    <spec name="Питание">100…240В AC</spec>
+    <spec name="Рабочая температура">-10°C … +60°C</spec>
+    <spec name="Габаритные размеры (мм)">122(Ш) х 170(В) х 21,5(Г)</spec>
+    <spec name="Вызывная панель">FX-CP7</spec>
+    <spec name="Видео">Тип матрицы</spec>
+    <spec name="Объектив">3.7 мм</spec>
+    <spec name="Угол обзора">75°</spec>
+    <spec name="Дополнительные функции">Управление замком</spec>
+    <spec name="Степень защиты">IP 54</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-VD5N-KIT (ОНИКС 5)">4.3”</spec>
+    <spec name="FX-VD7-KIT">7”</spec>
+    <spec name="FX-VD7N-KIT (ЯНТАРЬ 7W)">7”</spec>
+    <spec name="FX-VD7S Серый">7”</spec>
+    <spec name="FX-VD7S Белый">7”</spec>
+    <spec name="FX-VD7S Золотой">7”</spec>
+    <spec name="FX-VD7N-KIT (ЯНТАРЬ 7B)">7”</spec>
+    <spec name="FX-VD5S-KIT (АГАТ 5B)">5”</spec>
+    <spec name="FX-VD5S-KIT (АГАТ 5W)">4.3”</spec>
+    <spec name="FX-VD5E-KIT (Сапфир 5)">5”</spec>
+    <spec name="FX-VD7L-KIT (Ель 7W)">7”</spec>
+    <spec name="FX-VD7P-KIT КОРАЛЛ 7W">7”</spec>
+    <spec name="FX-VD7M-KIT МОРИОН 7W">7”</spec>
+    <spec name="FX-VD7P-KIT КОРАЛЛ 7A">7”</spec>
+    <spec name="FX-VD5SL-KIT (АГАТ 5W)">4.3”</spec>
+    <spec name="FX-VD5SL-KIT (АГАТ 5B)">4.3”</spec>
+    <spec name="4.3”">нет</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик/Акрил">Видео</spec>
+    <spec name="Размер экрана">4.3”  IPS LCD</spec>
+    <spec name="Hands Free">Интерком</spec>
+    <spec name="Есть">Автоответчик</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Формат изображений">Функции</spec>
+    <spec name="Кнопки управления">Механические</spec>
+    <spec name="электромеханический">Детектор движения</spec>
+    <spec name="Нет">Технические параметры</spec>
+    <spec name="Монтаж">Накладной</spec>
+    <spec name="1/3&quot; F37">Разрешение</spec>
+    <spec name="CVBS 720x480">Объектив</spec>
+    <spec name="3.7 мм">Угол обзора</spec>
+    <spec name="75°">Аудио</spec>
+    <spec name="Регулировка громкости">Механическая</spec>
+    <spec name="НО/НЗ (с врем.открытия)">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="4-х проводное">Питание</spec>
+    <spec name="DC 12 В (от монитора)">Степень защиты</spec>
+    <spec name="IP 54">Рабочая температура</spec>
+    <spec name="-40°C … +50°C">Габаритные размеры (мм)</spec>
+    <spec name="Материалы и особенности ПО">Инструкция на видеомонитор</spec>
+    <spec name="(66.019МБ)">Инструкция на видеопанель</spec>
+    <spec name="Инструкция на видеомонитор">(66.019МБ)</spec>
+    <spec name="Инструкция на видеопанель">(10.642МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-komplekty/fx-vd5n-oniks-5/</source_url>
+</product>

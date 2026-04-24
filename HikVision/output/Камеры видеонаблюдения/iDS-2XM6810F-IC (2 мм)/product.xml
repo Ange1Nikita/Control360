@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Dual-Lens Hikvision iDS-2XM6810F-I/C (2 мм) с подсчетом людей, ИК-подсветкой</name>
+  <model>iDS-2XM6810F-I/C (2 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ids-2xm6810f-i-c-2-mm-ulichnaya-ip-kamera-panoramnaya-s-ptz/</product_url>
+  <description>
+    <paragraph>⛅ ☔ ❄ IP-камера, матрица 1/3" CMOS, 640×960, ч/б изображение, 2 объектива 2 мм, F/2.2, H.264, 25 Fps, битрейт 8 Мбит/с, режим переключения «день/ночь», 3D DNR, антисаботаж, подсчет людей, ИК-подсветка до 3 м, RJ-45, RS-485, тревожный вход/выход (2/1), устойчивость к вибрации, питание DC 12 В, PoE, макс. 7 Вт.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/3" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>ч/б изображение</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/25с ~ 1/10,000с</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2 мм при F/2.2</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>фиксированный, 1.9 мм</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>105° (горизонтальный), 89° (вертикальный)</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>наклон: 0° ~ 45°</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.264</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 8 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>640×960</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25к/с (640×480)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25к/с (640×480)</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>Переключение «день/ночь»</name>
+      <value>автоматическое, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Smart видеоаналитика</name>
+      <value>антисаботаж (заслон объектива), подсчет людей</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6, UDP, Bonjour</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователяводяные знакифильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>CGI, ISAPI, RS-485, HTTP</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>саботаж, разрыв сети, конфликт IP-адресов, ошибки авторизации, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 RJ45 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Тревожные интерфейсы</name>
+      <value>2 входа, 1 выход (до DC 24 В 1 A, или AC 110 В 500 мA)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В (диапазон: 8 -36 В), клеммаPoE (802.3af, class 3)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>DC 12 В: 7 Вт макс. 0.6APoE (802.3af, 36 - 57 В): 7 Вт макс. 0.2A - 0.13A</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-30 °C…+60 °C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Устойчивость к вибрации</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК-подсветки</name>
+      <value>до 3 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл, пластик</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>216×87×57 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>0.85 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>⛅ ☔ ❄ IP-камера, матрица 1/3" CMOS, 640×960, ч/б изображение, 2 объектива 2 мм, F/2.2, H.264, 25 Fps, битрейт 8 Мбит/с, режим переключения «день/ночь», 3D DNR, антисаботаж, подсчет людей, ИК-подсветка до 3 м, RJ-45, RS-485, тревожный вход/выход (2/1), устойчивость к вибрации, питание DC 12 В, PoE, макс. 7 Вт.ПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/dda/140_140_1/iDS_2XM6810F_IC-_2mm_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ids-2xm6810f-i-c-2-mm-ulichnaya-ip-kamera-panoramnaya-s-ptz/?utm_source=comebackletter"&gt;Hikvision iDS-2XM6810F-I/C (2 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Кнопка выхода Hikvision DS-K7P03</name>
+  <model>DS-K7P03</model>
+  <article>266459</article>
+  <sku />
+  <brand>Hikvision</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Кнопки выхода «Hikvision»</subcategory>
+  <functional_name>Кнопка выхода</functional_name>
+  <nomenclature>Кнопка</nomenclature>
+  <price>1362.31</price>
+  <price_wholesale>1237.43</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/266459/</product_url>
+  <description>
+    <paragraph>Бесконтактная кнопка выхода, врезная, НЗ/НР контакты, 1A/DC30В; размер 86х86х25.7мм; алюминий.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип установки</name>
+      <value>Врезной</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Алюминий</value>
+    </spec>
+    <spec>
+      <name>Индикация</name>
+      <value>Да</value>
+    </spec>
+    <spec>
+      <name>Тип контактов</name>
+      <value>НЗ/НР</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>86х86х26</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="517.24 КБ">https://www.tinko.ru/upload/exchange/public/documentation/A/9/A9DC282D90F62818C0D767099C27F587.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Страница не найдена404</name>
+  <article>KN-SWB-L08P-HR%28A%29</article>
+  <brand>KENO</brand>
+  <category>Узлы коммутации</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>КомпанияНовостиВакансииСтать партнеромГде купитьКонтактыПроектные решения: ПродуктыIP видеорегистраторыIP видеокамерыIP ДомофоныIP Вызывные панелиКоммутаторыTVI видеокамерыTVI видеорегистраторыПоддержкаПО, Прошивки, Сертификаты, Инструкции и другие материалы для загрузкиFAQЗадать вопрос</description>
+  <specs>
+    <spec name="КомпанияНовостиВакансииСтать партнеромГде купитьКонтактыПроектные решения">ПродуктыIP видеорегистраторыIP видеокамерыIP ДомофоныIP Вызывные панелиКоммутаторыTVI видеокамерыTVI видеорегистраторыПоддержкаПО, Прошивки, Сертификаты, Инструкции и другие материалы для загрузкиFAQЗадать вопрос</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/uzly-kommutatsii/KN-SWB-L08P-HR%28A%29/</source_url>
+</product>

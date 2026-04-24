@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch DS-N304W(B)</name>
+  <model>DS-N304W(B)</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n304w-b-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Видеосжатие H.265+/H.265/H.264+/H.264</paragraph>
+    <paragraph>Входная пропускная способность до 50 Мбит/с, выходная пропускная способность до 40 Мбит/с</paragraph>
+    <paragraph>Сетевое подключение-видеовходы: до 4/ 8 каналов</paragraph>
+    <paragraph>Возможность декодирования до 4 каналов, @ 4 Мп</paragraph>
+    <paragraph>Одновременный вывод HDMI/VGA</paragraph>
+    <paragraph>Стабильное Wi-Fi-соединение4-х канальный WiFi 2.4ГГц IP-регистратор                                                                                                         Видеовход: 4 IP@4Мп; видеовыход: 1 VGA и 1 HDMI до 4К; аудиовыход; 1 канал RCA;  Видеосжатие H.265+/H.265/H.264+/H.264; Входящий поток 50 Мбит/с; Исходящий поток 40 Мбит/с. Разрешение записи: до 4Мп. Синхр.воспр. 4 канала@4Мп (12,5 fps), 4 канала@1080P (25 fps); 1 SATA для HDD до 6Тб, 2х2 MIMO антенны,1 10M/100M Ethernet интерфейс; 2 х USB 2.0; -10градусовC до +55градусовC;  12В DC; 10Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входная пропускная способность до 50 Мбит/с, выходная пропускная способность до 40 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевое подключение-видеовходы: до 4/ 8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Возможность декодирования до 4 каналов, @ 4 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Одновременный вывод HDMI/VGA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стабильное Wi-Fi-соединение4-х канальный WiFi 2.4ГГц IP-регистратор                                                                                                         Видеовход: 4 IP@4Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 VGA и 1 HDMI до 4К</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входящий поток 50 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Исходящий поток 40 Мбит/с. Разрешение записи: до 4Мп. Синхр.воспр. 4 канала@4Мп (12,5 fps), 4 канала@1080P (25 fps)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 SATA для HDD до 6Тб, 2х2 MIMO антенны,1 10M/100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 х USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

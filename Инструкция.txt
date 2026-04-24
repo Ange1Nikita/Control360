@@ -1,0 +1,364 @@
+You are a senior full-stack architect, senior React developer, and backend engineer.
+
+Your task is to design and partially implement a production-ready B2B/B2C web platform for selling video surveillance and security equipment.
+
+IMPORTANT:
+This is NOT a demo project.
+This must be designed as a real коммерческий продукт (real-world production system).
+
+Do NOT simplify.
+Do NOT skip backend.
+Do NOT skip admin panel.
+Do NOT skip import systems.
+Do NOT skip user roles.
+Do NOT give generic explanations.
+
+========================
+PROJECT GOAL
+========================
+
+Build a modern, high-performance platform similar in logic to n-23.ru but with:
+
+- better UX/UI
+- faster performance
+- scalable architecture
+- strong admin system
+- automated imports (XML, prices, images)
+- personal accounts with commercial proposal (quote) generation
+
+========================
+CORE FEATURES
+========================
+
+1. Catalog system (products, categories, brands)
+2. Personal account (client dashboard)
+3. Admin panel
+4. Registration with admin approval
+5. Quote (commercial proposal) generation in 2 clicks
+6. Import system:
+   - XML (products)
+   - Images (bulk upload)
+   - Price lists (xlsx/csv/xml)
+7. Automatic product matching (SKU/model-based)
+8. PDF generation for quotes
+9. Role-based access control
+
+========================
+TECH STACK (MANDATORY)
+========================
+
+Frontend:
+- Next.js (App Router)
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+
+Backend:
+- Next.js API OR NestJS (justify choice)
+- PostgreSQL
+- Prisma ORM
+- JWT auth (access + refresh)
+
+Storage:
+- S3-compatible storage
+
+Search:
+- PostgreSQL full-text OR Meilisearch (justify)
+
+========================
+USER ROLES
+========================
+
+Guest:
+- view catalog
+
+Client:
+- login
+- create quotes
+- view prices
+- download PDF
+- favorites
+
+Manager:
+- manage quotes
+- manage clients
+
+Admin:
+- approve registrations
+- import data
+- manage catalog
+- manage users
+- view logs
+
+========================
+REGISTRATION FLOW
+========================
+
+- User registers
+- Status = "pending"
+- Cannot access full system
+- Admin approves manually
+- After approval → full access
+
+========================
+QUOTE SYSTEM (CRITICAL)
+========================
+
+Must work in 2 clicks:
+
+1. Add products to quote
+2. Click "Generate Quote"
+
+Quote must include:
+- company logo
+- client data
+- product list
+- images
+- prices
+- quantities
+- totals
+- date + ID
+
+Features:
+- export to PDF
+- save history
+- manager can edit
+
+========================
+IMPORT SYSTEM (VERY IMPORTANT)
+========================
+
+Design a robust system with 3 independent pipelines:
+
+1. PRODUCT DATA (XML/CSV)
+- parse:
+  - name
+  - model
+  - SKU
+  - description
+  - attributes
+  - category
+  - brand
+
+- support mapping UI
+- preview before import
+
+2. IMAGES
+- bulk upload
+- auto-match by:
+  - SKU
+  - model
+  - filename
+
+- fallback manual matching UI
+
+3. PRICE IMPORT
+- formats: xlsx, csv, xml
+
+- mapping:
+  - model
+  - SKU
+  - price
+  - stock
+
+Matching priority:
+1. SKU
+2. exact model
+3. normalized model
+4. fuzzy match
+
+After import:
+- update prices
+- update stock
+- log changes
+- unmatched items list
+
+========================
+DATABASE DESIGN
+========================
+
+Design Prisma schema for:
+
+- User
+- Role
+- RegistrationRequest
+- Product
+- ProductImage
+- Category
+- Brand
+- Attributes
+- ProductPrice
+- Stock
+- Quote
+- QuoteItem
+- ImportLogs
+- Favorites
+- AuditLog
+
+========================
+ADMIN PANEL
+========================
+
+Sections:
+- Dashboard
+- Users
+- Registration approvals
+- Products
+- Categories
+- Brands
+- Imports:
+  - XML
+  - Prices
+  - Images
+- Unmatched products
+- Quotes
+- Logs
+
+========================
+PERFORMANCE & SEO
+========================
+
+- SSR/ISR for catalog
+- SEO metadata
+- sitemap
+- lazy loading
+- image optimization
+- caching
+
+========================
+OUTPUT FORMAT (STRICT)
+========================
+
+You MUST respond in this order:
+
+1. System architecture (high-level)
+2. Tech decisions (why)
+3. Folder structure
+4. Database schema (Prisma)
+5. API structure
+6. Import system design (detailed)
+7. Matching algorithm logic
+8. Quote generation logic
+9. Registration approval logic
+10. Key code examples:
+   - product model
+   - import parser
+   - matching logic
+   - quote generator
+11. MVP launch plan
+12. Scaling strategy
+
+========================
+CRITICAL RULES
+========================
+
+- Do NOT simplify architecture
+- Do NOT skip backend logic
+- Do NOT ignore import system
+- Do NOT give generic answers
+- Think like building a real SaaS platform
+
+Start now.
+
+
+
+
+
+========================
+UI ANIMATION REQUIREMENTS
+========================
+
+Add modern premium animations, but WITHOUT visual cheapness, overload, or "template-like" effects.
+
+Animation style must feel:
+- premium
+- restrained
+- smooth
+- expensive
+- technical
+- modern B2B
+- confident
+- minimalistic
+
+ABSOLUTELY AVOID:
+- cheap glowing effects everywhere
+- excessive parallax
+- aggressive motion
+- overloaded hover effects
+- random bouncing
+- flashy gradients
+- childish transitions
+- too many simultaneous animations
+- "landing page for crypto scam" style
+- visual noise
+- laggy animations hurting performance
+
+USE ONLY tasteful, premium interactions:
+- subtle fade-in on scroll
+- soft stagger reveal for cards and sections
+- smooth hover elevation
+- clean underline or border transitions
+- elegant image zoom on hover
+- tab and accordion transitions
+- smooth modal appearance
+- polished drawer/cart/quote panel transitions
+- premium page transitions where appropriate
+- refined microinteractions for buttons, filters, cards, dropdowns
+- skeleton loaders with smooth appearance
+- animated counters ONLY if they fit naturally
+- smooth sticky header behavior
+- subtle active-state transitions in catalog and dashboard UI
+
+FOR THE DESIGN SYSTEM:
+- animation must support premium B2B catalog UX
+- all transitions must feel fast, lightweight, and professional
+- prioritize usability over spectacle
+- motion should guide attention, not distract
+- animation timing must be consistent across the system
+
+TECHNICAL ANIMATION RULES:
+- use Framer Motion where justified
+- use CSS transitions where simpler and better
+- avoid animation-heavy rendering on large catalog grids
+- ensure animations do not degrade Lighthouse performance
+- keep animations GPU-friendly
+- respect prefers-reduced-motion
+- do not animate everything; animate only meaningful UI moments
+
+SPECIFICALLY IMPLEMENT:
+- hero section entrance animation
+- category card reveal
+- product card hover states
+- filter panel open/close transitions
+- quote side panel slide-in
+- modal transitions
+- dashboard card appearance
+- table row state transitions
+- form validation feedback animations
+- notification/toast transitions
+- dropdown and mobile menu transitions
+
+DESIGN REFERENCE FOR MOTION:
+Think "premium tech interface", not "marketing circus".
+Motion language should feel similar to high-end SaaS, Apple-like restraint, modern enterprise UI, and expensive product catalog platforms.
+
+When generating code:
+- explain where animation is appropriate
+- explain where animation should NOT be used
+- keep code modular and reusable
+- create reusable motion presets for consistency
+
+
+
+Animation must increase perceived product quality, not distract from content.
+If an animation looks decorative but does not improve UX, remove it.
+Prefer subtle motion over impressive motion.
+
+
+
+Also include a premium motion system:
+the website must have modern, expensive-looking animations and microinteractions, but without cheap visual effects, overload, or performance issues.
+Use restrained, elegant motion language suitable for a serious B2B security equipment platform.
+All animations must feel smooth, minimal, premium, and functional.
+Avoid flashy effects, excessive glow, aggressive parallax, random motion, and anything that looks like a low-quality template.

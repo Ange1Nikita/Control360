@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PM1-O1L-WE</name>
+  <model>DS-PM1-O1L-WE</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pm1-o1l-we</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Модуль реле DS-PM1-O1L-WE является настенным модулем реле 868 МГц</paragraph>
+    <paragraph>Шифрование AES-128</paragraph>
+    <paragraph>Мощность передатчика 10 дБм</paragraph>
+    <paragraph>LED-дисплей отображает состояние устройства и включение/выключение</paragraph>
+    <paragraph>Небольшой корпус: незаметное размещение и маскировка</paragraph>
+    <paragraph>Автоматический режим, включение / выключение одной кнопкой из приложения / при помощи брелока/ клавиатуры</paragraph>
+    <paragraph>Настройка сценариев для разных событий</paragraph>
+    <paragraph>Имеет один вход тампера, может использоваться как 1 тревожный вход (включая зоны)Беспроводное слаботочное реле дистанционного управления</paragraph>
+    <paragraph>Релейный выход 1, тревожный вход 1; 868МГц двухсторонная связь; Рабочая температура -10градусовC...+55градусовC; размер 38 25 18мм; Вес 28.5г; Установка на стену; пластик;</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Модуль реле DS-PM1-O1L-WE является настенным модулем реле 868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шифрование AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Мощность передатчика 10 дБм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-дисплей отображает состояние устройства и включение/выключение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Небольшой корпус: незаметное размещение и маскировка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Автоматический режим, включение / выключение одной кнопкой из приложения / при помощи брелока/ клавиатуры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настройка сценариев для разных событий</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Имеет один вход тампера, может использоваться как 1 тревожный вход (включая зоны)Беспроводное слаботочное реле дистанционного управления</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Релейный выход 1, тревожный вход 1</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868МГц двухсторонная связь</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура -10градусовC...+55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>размер 38 25 18мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Вес 28.5г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установка на стену</value>
+    </spec>
+    <spec>
+      <name />
+      <value>пластик</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

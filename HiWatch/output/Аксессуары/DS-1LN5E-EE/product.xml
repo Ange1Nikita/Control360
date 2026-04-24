@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1LN5E-E/E</name>
+  <model>DS-1LN5E-E/E</model>
+  <category>Аксессуары</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1ln5e-e-e</product_url>
+  <description>
+    <paragraph>Кабель UTP для внутренней прокладки 8 жил/4 пары 24AWG CAT5e, бухта 305м</paragraph>
+    <paragraph>Неэкранированная витая пара; материал проводника: медь диаметром 0,45 мм; материал оболочки: ПВХ (PVC); изоляция проводников: полиэтилен высокой плотности HDPE; внешняя оболочка диаметром 5мм, серый цвет кабеля.</paragraph>
+    <paragraph>Гарантированный стабильный линк и поддержка функции PoE на расстояния до 250 метров при использовании соответствующих сетевых коммутаторов Hikvision.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Кабель UTP для внутренней прокладки 8 жил/4 пары 24AWG CAT5e, бухта 305м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Неэкранированная витая пара</value>
+    </spec>
+    <spec>
+      <name />
+      <value>материал проводника: медь диаметром 0,45 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>материал оболочки: ПВХ (PVC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>изоляция проводников: полиэтилен высокой плотности HDPE</value>
+    </spec>
+    <spec>
+      <name />
+      <value>внешняя оболочка диаметром 5мм, серый цвет кабеля.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Гарантированный стабильный линк и поддержка функции PoE на расстояния до 250 метров при использовании соответствующих сетевых коммутаторов Hikvision.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

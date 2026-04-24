@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DVR-104P-G</name>
+  <model>DVR-104P-G</model>
+  <category>HiWatch Ecoline</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/dvr-104p-g</product_url>
+  <description>
+    <paragraph>4-х канальный гибридный HD-TVI регистратор для аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал@1080p</paragraph>
+    <paragraph>Видеовход: 4 канала BNC; Аудиовход: 1 канал RCA;  Видеовыход: 1 VGA и 1 HDMI до 1080p; Аудиовыход: 1 канал RCA; видеосжатие H.264/H.264+; аудиосжатие G.711u.</paragraph>
+    <paragraph>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с; аналоговые камеры: WD1@25к/с; IP: до 1080p. 1 SATA для HDD до 6Тб; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0;  -10градусовC до +55градусовC;12В DC; 8Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>4-х канальный гибридный HD-TVI регистратор для аналоговых, HD-TVI, AHD и CVI камер + 1 IP-канал@1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 4 канала BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080p</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход: 1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI, AHD и CVI: 1080p Lite/ 720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры: WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 1080p. 1 SATA для HDD до 6Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

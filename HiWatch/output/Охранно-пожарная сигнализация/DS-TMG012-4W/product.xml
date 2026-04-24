@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-TMG012-4W</name>
+  <model>DS-TMG012-4W</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-tmg012-4w</product_url>
+  <description>
+    <paragraph>Беспроводной трёхкнопочный пульт.</paragraph>
+    <paragraph>76.94  42.27  15.3мм, 70г.</paragraph>
+    <paragraph>(только для шлагбаума серии DS-TMG4B)</paragraph>
+    <paragraph>Шлагбаумы серии TMG4B поддерживают подключения до 50 пультов</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Беспроводной трёхкнопочный пульт.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>76.94  42.27  15.3мм, 70г.</value>
+    </spec>
+    <spec>
+      <name />
+      <value>(только для шлагбаума серии DS-TMG4B)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Шлагбаумы серии TMG4B поддерживают подключения до 50 пультов</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

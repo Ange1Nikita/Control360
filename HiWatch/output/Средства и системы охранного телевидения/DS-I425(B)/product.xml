@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I425(B)</name>
+  <article>312712</article>
+  <sku>327000697</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP поворотные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера поворотная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>22800</price>
+  <price_wholesale>20710</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/312712/</product_url>
+  <description>
+    <paragraph>Бюджетная IP-видеокамера 4 Мп поворотная; 1/2.8’’ Progressive Scan CMOS; 2560х1440- 25 к/с; 4.8 - 120 мм, 25-x; ИК-фильтр; 0.005 лк; ИК подсветка EXIR 100 м; H.265+/H.265/H.264+/H.264; WDR 120, 3D DNR, BLC, HLC, EIS, ROI, антитуман, ROI; Аудио вход/выход - 1/1; Тревожный вход/выход-1/1; MicroSD до 256 Гб; Видеоаналитика: обнаружение движения, вторжения в область и пересечения линии c технологией AcuSense; захват изображения лица, аудиодетектор; DC 12В/PoE+; 24Вт макс.; -40°C...+60°C; IP66; грозозащита TVS 4000B; 164.5х290 мм. Настенный кронштейн и блок питания в комплекте.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560х1440</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>4.8-120</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.005</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>24</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>164.5х290</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Модуль информации Hikvision DS-KD-INFO</name>
+  <model>DS-KD-INFO</model>
+  <article>289280</article>
+  <sku>305301852</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Вызывные панели</subcategory>
+  <functional_name>Модуль информации</functional_name>
+  <nomenclature>Модуль информации</nomenclature>
+  <price>2679.34</price>
+  <price_wholesale>2433.73</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289280/</product_url>
+  <description>
+    <paragraph>Модуль информации с подсветкой 1 слот для положения фото или бумаги информации, Программно управляемая подсветка,  -20℃ до 60℃; размер модуля 98.42x94.4x33.8мм, Пластик.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>1.5</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-20…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>98.42х94.4х33.8</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1.07 МБ">https://www.tinko.ru/upload/exchange/public/documentation/E/7/E7180A6FB77893078A084E42E6273DF3.pdf</document>
+  </documents>
+</product>

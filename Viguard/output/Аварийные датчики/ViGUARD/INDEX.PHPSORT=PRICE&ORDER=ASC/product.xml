@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=price&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=PRICE&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Аварийные датчики</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3fe/450_450_1/viguard-door-f-rev-2-magnitokontaktnyy-datchik-besprovodnoy-ot-proizvoditelya-otlichnoe-kachestvo-po.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/22e/450_450_1/viguard-water-f-datchik-obnaruzheniya-protechki-vody-besprovodnoy-ot-proizvoditelya-otlichnoe-kaches.png</image>
+    <image>https://viguard.pro/upload/iblock/9bc/9bcc3180ec9b373bcfdac523d048fd6c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/809/450_450_1/8098d0a61726e5e1c3e223f19396b4cb.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ddf/450_450_1/viguard-veil-f-ik-datchik-dvizheniya-tipa-shtora-besprovodnoy-5-ot-proizvoditelya-otlichnoe-kachestv.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/da0/450_450_1/viguard-plafond-f-potolochnyy-ik-datchik-dvizheniya-360-besprovodnoy-ot-proizvoditelya-otlichnoe-kach.jpg</image>
+    <image>https://viguard.pro/upload/iblock/db2/db288ee537f44102cf349bd52c6e87ae.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/02b/450_450_1/smoke_f_avtonomnyy_dymovoy_datchik_besprovodnoy.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b3e/450_450_1/b3e320cb8483a94730e78f2d5907badd.png</image>
+    <image>https://viguard.pro/upload/iblock/2ef/2ef8648ea0bf3c52a0b857ee8115fb88.png</image>
+    <image>https://viguard.pro/upload/iblock/d9d/d9ddddfd5a68f83f77cb3d4b68b4301e.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/avariynye_datchiki/index.php?sort=price&amp;order=asc</source_url>
+</product>

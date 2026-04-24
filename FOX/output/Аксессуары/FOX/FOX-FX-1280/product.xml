@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FOX FX-1280</name>
+  <article>FOX-FX-1280</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>11110001790</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d86/440_370_0/Image_20240918090923.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/211/440_370_0/IMG_5121.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/d86/38_24_2/Image_20240918090923.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/211/38_24_2/IMG_5121.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/d86/440_370_0/Image_20240918090923.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Наименование">FOX FX-1280</spec>
+    <spec name="Способ монтажа">Накладной</spec>
+    <spec name="Степень защиты по ГОСТ 14254">IP</spec>
+    <spec name="Материал">Алюминий</spec>
+    <spec name="Температура окружающей среды">°С</spec>
+    <spec name="Размер">100х45 мм</spec>
+    <spec name="Срок службы">не менее 10 лет</spec>
+    <spec name="Особенности аксессуара">Все технические параметры</spec>
+    <spec name="Масса">Срок службы</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/montazhnye-korobki/fox-fx-1280/</source_url>
+</product>

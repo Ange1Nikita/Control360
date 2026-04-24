@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера поворотная HiWatch PTZ-N2204I-D3/W(B)</name>
+  <model>PTZ-N2204I-D3/W(B)</model>
+  <article>306463</article>
+  <sku>327000724</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP поворотные</subcategory>
+  <functional_name>Профессиональная IP-видеокамера поворотная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>15942.23</price>
+  <price_wholesale>14480.86</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/306463/</product_url>
+  <description>
+    <paragraph>Профессиональная видеокамера IP 2 Мп скоростная поворотная с WIFI; 1/2.8" Progressive Scan CMOS; 1920×1080 - 25 к/с; 2.8-12мм; ZOOM 4X; 0.05/0,005 лк; ИК подсветка EXIR 20 м; вращение 350°; H.265+/H.265/H.264+/H.264/MJPEG; WDR 120Дб, 3D DNR, HLC, BLC, ROI; P2P Hik-Connect; ONVIF; microSD 256Гб; Микрофон+Динамик, Аудиовход/выход 1/1; Тревожный вход/выход 1/1; 12 DC/PoE(802.3af); 14Вт; -10 °C...+50 °C;  125×137 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 2.8-12</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>20</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.05</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1; микрофон+динамик</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>14</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>125х137</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="978.31 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/5/155A0160BEC19A98A3D58D64219AEDF7.pdf</document>
+  </documents>
+</product>

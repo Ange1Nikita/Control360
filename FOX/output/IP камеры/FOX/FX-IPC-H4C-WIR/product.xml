@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-IPC-H4C-WIR</name>
+  <article>FX-IPC-H4C-WIR</article>
+  <brand>FOX</brand>
+  <category>IP камеры</category>
+  <price>11110004990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bf6/440_370_0/FX_IPC_HXC_WIR-II-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/bf6/38_24_2/FX_IPC_HXC_WIR-II-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/iP EYE.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/bf6/440_370_0/FX_IPC_HXC_WIR-II-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">FX-IPC-H4C-WIR</spec>
+    <spec name="Система">GOKI GK7201V200 / ROM: 16Мб / RAM: 64Мб</spec>
+    <spec name="Мощность AI">Из ресурсов GPU</spec>
+    <spec name="Тип матрицы">1/3” GalaxyCore GC4653 (4.0 Мегапикселя)</spec>
+    <spec name="Эффективные    пиксели">2688(Г) × 1520(В)</spec>
+    <spec name="Размер пикселя">2.0 μm x 2.0 μm</spec>
+    <spec name="Электронный    затвор">Auto/ 1/25s-1/100000s</spec>
+    <spec name="Мин.    Освещенность">Цвет: 0.01 Лк / F2.0, Ч/Б: 0.001 Лк</spec>
+    <spec name="Сигнал / шум">≥ 56 Дб (AGC выкл.)</spec>
+    <spec name="Переключение день/ночь">Электромеханический ИК-фильтр</spec>
+    <spec name="ИК подсветка">Умный ИК / WLED прожектор 
+ИК (850нм) до 30м / Белый теплый до 20м</spec>
+    <spec name="Компенсация засветки">BLC / DWDR / Антитуман</spec>
+    <spec name="Шумоподавление">3DNR</spec>
+    <spec name="Объектив">YT 2.8мм (4.0MP) F2.0 с ИК коррекцией</spec>
+    <spec name="DORI">Д: 63.6м, О: 25.4м, Р: 12.7м, И: 6.4м</spec>
+    <spec name="Светосила">F2.0</spec>
+    <spec name="Угол обзора">Г: 107° (Широкий)</spec>
+    <spec name="Формат    кодирования">H.265 / H.264+ / H.264 (H/M/B)</spec>
+    <spec name="Основной поток">4МП (2560x1440) (1 ~ 20 к/с)</spec>
+    <spec name="Второстепенный    поток">640x360 (1 ~ 20 к/с)</spec>
+    <spec name="Поток">1536K ~ 4096Kbps, Авто</spec>
+    <spec name="Сетевой интерфейс">RJ-45    (10/100Base-T)</spec>
+    <spec name="Протокол">TCP/IP, IPv4/v6, HTTP, HTTPS, FTP, DNS, DHCP, PPPoE, RTP, RTSP, SNMP v.1/v.2, SSL, QoS, UDP, NTP, IGMP, ICMP</spec>
+    <spec name="ONVIF">ONVIF 2.6 (19.06) Onvif Profile-S/T (Движение) CGI / API</spec>
+    <spec name="P2P / CMS">KENO LINK / KENO SVMS</spec>
+    <spec name="Подключение">До 10 пользователей / Исходящий поток до 24М</spec>
+    <spec name="Memory Slot">Нет</spec>
+    <spec name="Тревога">Нет</spec>
+    <spec name="Аналитика">Детектор движения</spec>
+    <spec name="Аудио">Микрофон с АРУ и ШП, G.711a; G.711Mu; G.726; PCM; AAC (32Kbps)</spec>
+    <spec name="Язык интерфейса">Русский / Английский</spec>
+    <spec name="Сброс">Нет</spec>
+    <spec name="Питание">DC 12 В ±30%, PoE (802.3af)</spec>
+    <spec name="Потребление">Без ИК/WLED не более 2.0Вт, Макс потребление не более 3.0Вт</spec>
+    <spec name="Рабочая    температура">-40°C ... +60°C,    10% ... 90%</spec>
+    <spec name="Степень защиты">IP66, Грозозащита до TVS4000В (Земля – Корпус)</spec>
+    <spec name="Материал корпуса">Пластик</spec>
+    <spec name="Габариты">184(Д)*73(В)*71.5(Ш) мм</spec>
+    <spec name="Вес">0.25 кг</spec>
+    <spec name="FX-IPC-E20WP-IR">2Мп</spec>
+    <spec name="FX-IPC-C20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-C40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-C40AP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-D20FP-IR WIR">2Мп</spec>
+    <spec name="FX-IPC-D40FP-WIR">4Мп</spec>
+    <spec name="FX-IPC-C2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-D2FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-C450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-D450FP-OC AI">4Мп</spec>
+    <spec name="FX-IPC-T20FP-IR AI">2Мп</spec>
+    <spec name="FX-IPC-T40FP-IR AI">4Мп</spec>
+    <spec name="FX-IPC-H2C-WIR">2Мп</spec>
+    <spec name="FX-IPC-H2D-WIR">2Мп</spec>
+    <spec name="FX-IPC-H4C-WIR">4Мп</spec>
+    <spec name="FX-IPC-H4D-WIR">4Мп</spec>
+    <spec name="FX-IPEYE/2Q">2Мп</spec>
+    <spec name="Уличная">4Мп</spec>
+    <spec name="2.8 mm">20</spec>
+    <spec name="Особенности цифровой видеокамеры">Все технические параметры</spec>
+    <spec name="КАМЕРА">Система</spec>
+    <spec name="GOKI GK7201V200 / ROM: 16Мб / RAM: 64Мб">Мощность AI</spec>
+    <spec name="Из ресурсов GPU">Тип матрицы</spec>
+    <spec name="1/3” GalaxyCore GC4653 (4.0 Мегапикселя)">Эффективные    пиксели</spec>
+    <spec name="2688(Г) × 1520(В)">Размер пикселя</spec>
+    <spec name="2.0 μm x 2.0 μm">Электронный    затвор</spec>
+    <spec name="Auto/ 1/25s-1/100000s">Мин.    Освещенность</spec>
+    <spec name="Цвет: 0.01 Лк / F2.0, Ч/Б: 0.001 Лк">Сигнал / шум</spec>
+    <spec name="≥ 56 Дб (AGC выкл.)">Переключение день/ночь</spec>
+    <spec name="Электромеханический ИК-фильтр">ИК подсветка</spec>
+    <spec name="Умный ИК / WLED прожектор &#13;&#10;ИК (850нм) до 30м / Белый теплый до 20м">Компенсация засветки</spec>
+    <spec name="BLC / DWDR / Антитуман">Шумоподавление</spec>
+    <spec name="3DNR">ОПТИКА</spec>
+    <spec name="В: 56° (Широкий)">Д: 127° (Широкий)</spec>
+    <spec name="ВИДЕО">Формат    кодирования</spec>
+    <spec name="H.265 / H.264+ / H.264 (H/M/B)">Основной поток</spec>
+    <spec name="4МП (2560x1440) (1 ~ 20 к/с)">Второстепенный    поток</spec>
+    <spec name="640x360 (1 ~ 20 к/с)">Поток</spec>
+    <spec name="1536K ~ 4096Kbps, Авто">СЕТЬ</spec>
+    <spec name="ДОПОЛНИТЕЛЬНО">Memory Slot</spec>
+    <spec name="Нет">ТЕХНИЧЕСКИЕ ПАРАМЕТРЫ</spec>
+    <spec name="Детектор движения">Аудио</spec>
+    <spec name="Микрофон с АРУ и ШП, G.711a; G.711Mu; G.726; PCM; AAC (32Kbps)">Язык интерфейса</spec>
+    <spec name="Русский / Английский">Сброс</spec>
+    <spec name="Материалы и особенности ПО">Паспорт</spec>
+    <spec name="Паспорт">(0.222МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/ip-kamery/fx-ipc-h4c-wir/</source_url>
+</product>

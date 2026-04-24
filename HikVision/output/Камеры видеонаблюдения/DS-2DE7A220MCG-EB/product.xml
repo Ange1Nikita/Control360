@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2DE7A220MCG-EB</name>
+  <model>DS-2DE7A220MCG-EB</model>
+  <sku>23290</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>97300</price>
+  <product_url>https://www.dssl.ru/products/ds-2de7a220mcg-eb-povorotnaya-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>Подсветка до 150 м</paragraph>
+    <paragraph>WDR 120 дБ, 3D DNR, BLC</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264</paragraph>
+    <paragraph>–30 °C… +65 °C, IP66, IK10, TVS 6000 V</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1920×1080</value>
+    </spec>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0005 лк (F/1.2, AGC вкл.), ч/б: 0.0001 лк (F/1.2, AGC вкл.), 0 лк с подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 ~ 1/30 000 с</value>
+    </spec>
+    <spec>
+      <name>Поддержка медленного затвора</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние</name>
+      <value>6.7 ~ 134.0 мм</value>
+    </spec>
+    <spec>
+      <name>Скорость зумирования</name>
+      <value>7 с</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 53.0° ~ 4.9°по вертикали: 31.3° ~ 2.7°по диагонали: 59.6° ~ 5.6°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.2</value>
+    </spec>
+    <spec>
+      <name>Фокусировка</name>
+      <value>авто, полуавто, ручн.</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>гибридная (ИК-подсветка, подсветка белым светом)</value>
+    </spec>
+    <spec>
+      <name>Диапазон</name>
+      <value>подсветка белым светом: 100 мИК-подсветка: 150 м</value>
+    </spec>
+    <spec>
+      <name>Диапазон поворота</name>
+      <value>360°</value>
+    </spec>
+    <spec>
+      <name>Наклон</name>
+      <value>–15° ~ +90° (автоповорот)</value>
+    </spec>
+    <spec>
+      <name>Скорость поворота</name>
+      <value>0.1 ~ 160 °/с, по предустановке: 240 °/с</value>
+    </spec>
+    <spec>
+      <name>Скорость наклона</name>
+      <value>0.1 ~ 120 °/с, по предустановке: 200 °/с</value>
+    </spec>
+    <spec>
+      <name>Пропорциональное увеличение</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Предустановки</name>
+      <value>300</value>
+    </spec>
+    <spec>
+      <name>Патрули</name>
+      <value>8 патрулей, до 32 предустановок в каждом</value>
+    </spec>
+    <spec>
+      <name>Шаблоны</name>
+      <value>4 шаблона</value>
+    </spec>
+    <spec>
+      <name>Память позиции при выключении</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Действия при простое</name>
+      <value>предустановка, шаблоны, патрулирование, автоматическое сканирование, вертикальное сканирование, случайное сканирование, сканирование кадра, панорамное сканирование</value>
+    </spec>
+    <spec>
+      <name>3D-позиционирование</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Отображение PTZ-позиции</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Стоп-кадр при переходе на предустановку</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Задачи по расписанию</name>
+      <value>предустановка, шаблоны, патрулирование, автоматическое, вертикальное, случайное сканирование, сканирование кадра, панорамное сканирование, перезагрузка, инициализация, вывод на дополнительный экран</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1920×1080, 1280×960, 1280×720, 704×576, 640×480, 352×288)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>основной поток: H.265+, H.265, H.264+, H.264дополнительный поток: H.265, H.264, MJPEGтретий поток: H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 ~ 16384 Кбит/с</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile, Main Profile, High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>H.264 и H.265</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>8 фиксированных областей для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711a, G.711u, G.722.1, G.726, MP2L2, PCM, AAC-L</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), 32 ~ 192 Кбит/с (MP2L2), 16 ~ 64 Кбит/с (AAC-LC)</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB/CIFS), ANR</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, 802.1x, Qos, FTP, SMTP, UPnP, SNMP, DNS, DDNS, NTP, RTSP, RTCP, RTP, TCP/IP, UDP, IGMP, ICMP, DHCP, PPPoE, Bonjour, ISUP</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>открытый сетевой видеоинтерфейс (версия 19.12, Profile S, Profile G, Profile T), ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>Пользователь/хост</name>
+      <value>до 32 пользователей, 3 уровня пользователей: администратор, оператор, пользователь</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>защита паролем, сложный пароль, шифрование HTTPS, аутентификация 802.1X (EAP-TLS, EAP-LEAP, EAP-MD5), водяные знаки, фильтрация IP-адресов, базовая и дайджест-аутентификация для HTTP/HTTPS, WSSE и дайджест-аутентификация для HTTP/HTTPS, RTP/RTSP через HTTPS, настройки управления временем ожидания, журнал проверки безопасности, TLS 1.2, TLS 1.3, аутентификация хоста (MAC-адрес)</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200, HikCentral Pro, Hik-Connect</value>
+    </spec>
+    <spec>
+      <name>Веб-интерфейс</name>
+      <value>IE10-11, Chrome 57+, Firefox 52+, Safari 12+</value>
+    </spec>
+    <spec>
+      <name>Переключение режима день/ночь</name>
+      <value>день, ночь, авто, по расписанию</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>BLC, HLC, 3D DNR</value>
+    </spec>
+    <spec>
+      <name>Широкий динамический диапазон (WDR)</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Антитуман</name>
+      <value>цифровой</value>
+    </spec>
+    <spec>
+      <name>Стабилизация изображения</name>
+      <value>EIS</value>
+    </spec>
+    <spec>
+      <name>Экспозиция области</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Фокус на области</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контрастность, резкость и баланс белого настраиваются через клиентское ПО или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>24 настраиваемые многоугольные маски области, настраиваемые цвета и расположение масок области</value>
+    </spec>
+    <spec>
+      <name>SNR</name>
+      <value>&gt;52 дБ</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>RJ-45 auto 10/100M порт Ethernet</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карт micro SD, SDHC, SDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Тревога</name>
+      <value>2 входа, выход</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход (линейный), макс. амплитуда входного сигнала: 2- 2.4 В p-p, входное сопротивление: 1 кОм ± 10 %; выход (линейный), выходное сопротивление: 600 Ом</value>
+    </spec>
+    <spec>
+      <name>Сброс настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>встроенный динамик, дальность 30 м</value>
+    </spec>
+    <spec>
+      <name>Основные события</name>
+      <value>обнаружение движения, саботажа, тревожный вход и выход</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальные события</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из области, оставленного багажа, перемещения объекта, звуковых событий</value>
+    </spec>
+    <spec>
+      <name>Интеллектуальное слежение</name>
+      <value>слежение вручную, автоматическое слежение</value>
+    </spec>
+    <spec>
+      <name>Привязка тревог</name>
+      <value>предустановка, патрулирование, шаблон, запись по тревоге, тревожный выход, уведомление центра мониторинга, звуковое предупреждение, подсветка белым светом, загрузка на FTP, карту памяти, NAS, отправка E-mail</value>
+    </spec>
+    <spec>
+      <name>Захват лиц</name>
+      <value>одновременная детекция до 5 лиц, поддержка детекции, захвата, оценки, отбора лиц в движении и вывода наиболее качественного изображения лица</value>
+    </spec>
+    <spec>
+      <name>Защита периметра</name>
+      <value>обнаружение пересечения линии, вторжения, входа и выхода из областисрабатывание тревоги по различным типам объектов (человек, ТС)</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>AC 24 В, макс. 42 Вт (включая макс. 12 Вт для ИК-подсветки и макс. 2 Вт для обогрева), PoE</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –30 °C... +65 °C, влажность: 90 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита от запотевания</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>ADC12</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø220.0×357.3 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>5.5 кг</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защиты</name>
+      <value>IP66 (IEC 60529-2013), IK10 (кроме стеклянных деталей), грозозащита TVS 6000 В, защита от импульсных и переходных перенапряжений</value>
+    </spec>
+    <spec>
+      <name>ПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 2 МпПодсветка до 150 мWDR 120 дБ, 3D DNR, BLCH.265+, H.265, H.264+, H.264–30 °C… +65 °C, IP66, IK10, TVS 6000 VПодробнееЛицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVЦена в интернет-магазине97 300р.Узнать цену для партнеровУточнить наличие у менеджераВ корзинуВ корзинеКупить в 1 кликДоставка интернет-магазинаБесплатная доставка по Москвевнутри МКАД от 50 000 руб.Бесплатный самовывоз со складову м. Бауманская и в МытищахПодробнее о доставкеПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/cc3/140_140_1/DS_2DE7A220MCG_EB-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2de7a220mcg-eb-povorotnaya-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DE7A220MCG-EB&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;span class='price_value'&gt;97 300&lt;/span&gt;&lt;span class='price_currency'&gt; р.&lt;/span&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-KM9503</name>
+  <article>341936</article>
+  <sku>305302400</sku>
+  <brand>Hikvision</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Вызывные панели</subcategory>
+  <functional_name>Пульт консьержа</functional_name>
+  <nomenclature>Пульт диспетчерской связи</nomenclature>
+  <price>53348.4</price>
+  <price_wholesale>48458.13</price_wholesale>
+  <availability>до 3 дней</availability>
+  <product_url>https://www.tinko.ru/catalog/product/341936/</product_url>
+  <description>
+    <paragraph>Пульт консьержа. Сенсорный экран. Дисплей 10.1", IPS. ОС: Android 7.1. Разрешение: 1280х800 пикс. Подключение до 10 000 вызывных панелей и мониторов домофона, до 128 IP камер. Ethernet. Камера: 2 МР, угол обзора: 64.1°. Интерфейс: Ethernet, USB, RS485, микрофон на гибкой шее. Поддержка карты памяти до 128 Гб. Функции: прием тревожных сообщений, ожидание вызова, вызов между зданиями, переадресация вызова, многосторонняя внутренняя связь. Управление: HIK-Central/iVMS/3 сенсорные кнопки/механическая кнопка. Протокол: TCP/IP/RTSP/SIP. 12 В DC 12 Вт/PoE; -10°C...+50°C; 292х166х31 мм; 1.28кг. Цвет: Черный</paragraph>
+  </description>
+  <specifications />
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="632.71 КБ">https://www.tinko.ru/upload/exchange/public/documentation/C/E/CEE28A5EC0DC8C37E0D70085F38ED0D9.pdf</document>
+  </documents>
+</product>

@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>1.3 Мп IP-камера Hikvision DS-2XM6512WD-IM (12 мм) для транспорта</name>
+  <model>DS-2XM6512WD-IM (12 мм)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2xm6512wd-im-12-mm-ip-kamera-dlya-transporta/</product_url>
+  <description>
+    <paragraph>Hikvision DS-2XM6512WD-IM (12 мм)</paragraph>
+    <paragraph>Камера</paragraph>
+    <paragraph>Матрица</paragraph>
+    <paragraph>1/2.7’’ Progressive Scan CMOS</paragraph>
+    <paragraph>Чувствительность</paragraph>
+    <paragraph>0.01 лк (F1/2,AGC вкл.), 0 лк с ИК</paragraph>
+    <paragraph>Скорость электронного затвора</paragraph>
+    <paragraph>1/3 с — 1/100 000 с, поддержка автоматического электронного затвора</paragraph>
+    <paragraph>Объектив</paragraph>
+    <paragraph>12 мм</paragraph>
+    <paragraph>Крепление объектива</paragraph>
+    <paragraph>M12</paragraph>
+    <paragraph>Угол обзора объектива</paragraph>
+    <paragraph>24.3°</paragraph>
+    <paragraph>Регулировка диафрагмы</paragraph>
+    <paragraph>авто</paragraph>
+    <paragraph>Режим «день/ночь»</paragraph>
+    <paragraph>механический ИК-фильтр с автопереключением</paragraph>
+    <paragraph>Регулировка угла установки</paragraph>
+    <paragraph>поворот: -15° — 15°; наклон: 0° — 30°; вращение: -90° — 90°</paragraph>
+    <paragraph>Сжатие</paragraph>
+    <paragraph>Видеосжатие</paragraph>
+    <paragraph>основной поток: H.265/H.264</paragraph>
+    <paragraph>дополнительный поток: H.265/H.264/MJPEG</paragraph>
+    <paragraph>третий поток: H.265/H.264</paragraph>
+    <paragraph>Профиль H.264</paragraph>
+    <paragraph>Baseline Profile / Main Profile / High Profile</paragraph>
+    <paragraph>Профиль H.265</paragraph>
+    <paragraph>Main Profile</paragraph>
+    <paragraph>Скорость передачи</paragraph>
+    <paragraph>32 Кбит/с — 16 Мбит/с</paragraph>
+    <paragraph>Изображение</paragraph>
+    <paragraph>Макс. разрешение</paragraph>
+    <paragraph>1280×960</paragraph>
+    <paragraph>Основной поток</paragraph>
+    <paragraph>25 к/с (1280×960, 1280×720)</paragraph>
+    <paragraph>Дополнительный поток</paragraph>
+    <paragraph>25 к/с (704×576, 640×480, 352×288, 320×240)</paragraph>
+    <paragraph>Третий поток</paragraph>
+    <paragraph>25 к/с (1280×960, 1280×720, 704×576, 640×480, 352×288, 320×240)</paragraph>
+    <paragraph>SVC</paragraph>
+    <paragraph>есть</paragraph>
+    <paragraph>Настройки изображения</paragraph>
+    <paragraph>насыщенность, яркость, контраст, резкость, режим коридора, зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</paragraph>
+    <paragraph>Улучшение изображения</paragraph>
+    <paragraph>аппаратный WDR 120 дБ, 3D DNR, BLC, HLC, EIS, антитуман, ROI</paragraph>
+    <paragraph>Переключение день - ночь</paragraph>
+    <paragraph>авто/ по расписанию/ по тревоге</paragraph>
+    <paragraph>Smart видеоаналитика</paragraph>
+    <paragraph>Детекция движения</paragraph>
+    <paragraph>обнаружение пересечения линии, вторжения в область, оставленных/пропавших предметов</paragraph>
+    <paragraph>Антисаботаж</paragraph>
+    <paragraph>заслон объектива</paragraph>
+    <paragraph>Распознавание объектов</paragraph>
+    <paragraph>детекция лиц</paragraph>
+    <paragraph>Сеть</paragraph>
+    <paragraph>Сетевое хранение данных</paragraph>
+    <paragraph>NAS (NFS,SMB/CIFS)</paragraph>
+    <paragraph>Протоколы</paragraph>
+    <paragraph>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6</paragraph>
+    <paragraph>Безопасность</paragraph>
+    <paragraph>аутентификация пользователя, водяные знаки, фильтрация IP-адресов</paragraph>
+    <paragraph>Совместимость</paragraph>
+    <paragraph>ONVIF (PROFILE S, PROFILE G), PSIA</paragraph>
+    <paragraph>Срабатывание тревоги</paragraph>
+    <paragraph>smart-функции, детекция движения, саботаж, разрыв сети, конфликт IP-адресов, ошибки авторизации, ошибки хранилища</paragraph>
+    <paragraph>Действия по тревоге</paragraph>
+    <paragraph>уведомление клиента, отправка email, загрузка на FTP, активация канала записи</paragraph>
+    <paragraph>Интерфейсы</paragraph>
+    <paragraph>Сетевой интерфейс</paragraph>
+    <paragraph>1 M12 10M/100M Ethernet</paragraph>
+    <paragraph>Кнопка сброса настроек</paragraph>
+    <paragraph>есть</paragraph>
+    <paragraph>Основное</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 12 В /PoE (802.3af)</paragraph>
+    <paragraph>Потребляемая мощность</paragraph>
+    <paragraph>8.5 Вт макс.</paragraph>
+    <paragraph>Рабочие условия</paragraph>
+    <paragraph>-40 °C… +70 °C, влажность 95% или меньше (без конденсата)</paragraph>
+    <paragraph>Защита</paragraph>
+    <paragraph>IP68, IK10</paragraph>
+    <paragraph>Устойчивость к вибрации</paragraph>
+    <paragraph>есть</paragraph>
+    <paragraph>Дальность действия ИК</paragraph>
+    <paragraph>до 10 м</paragraph>
+    <paragraph>Материал корпуса</paragraph>
+    <paragraph>металл</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>163.7×122.6×65.1 мм</paragraph>
+    <paragraph>Вес (нетто)</paragraph>
+    <paragraph>0.96 кг</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.01 лк (F1/2,AGC вкл.), 0 лк с ИК</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/3 с — 1/100 000 с, поддержка автоматического электронного затвора</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>12 мм</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>M12</value>
+    </spec>
+    <spec>
+      <name>Угол обзора объектива</name>
+      <value>24.3°</value>
+    </spec>
+    <spec>
+      <name>Регулировка диафрагмы</name>
+      <value>авто</value>
+    </spec>
+    <spec>
+      <name>Режим «день/ночь»</name>
+      <value>механический ИК-фильтр с автопереключением</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: -15° — 15°; наклон: 0° — 30°; вращение: -90° — 90°</value>
+    </spec>
+    <spec>
+      <name>Профиль H.264</name>
+      <value>Baseline Profile / Main Profile / High Profile</value>
+    </spec>
+    <spec>
+      <name>Профиль H.265</name>
+      <value>Main Profile</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи</name>
+      <value>32 Кбит/с — 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Макс. разрешение</name>
+      <value>1280×960</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/с (1280×960, 1280×720)</value>
+    </spec>
+    <spec>
+      <name>Дополнительный поток</name>
+      <value>25 к/с (704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>Третий поток</name>
+      <value>25 к/с (1280×960, 1280×720, 704×576, 640×480, 352×288, 320×240)</value>
+    </spec>
+    <spec>
+      <name>SVC</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Настройки изображения</name>
+      <value>насыщенность, яркость, контраст, резкость, режим коридора, зеркалирование и маска приватности настраиваются через клиентское ПО или веб-браузер</value>
+    </spec>
+    <spec>
+      <name>Улучшение изображения</name>
+      <value>аппаратный WDR 120 дБ, 3D DNR, BLC, HLC, EIS, антитуман, ROI</value>
+    </spec>
+    <spec>
+      <name>Переключение день - ночь</name>
+      <value>авто/ по расписанию/ по тревоге</value>
+    </spec>
+    <spec>
+      <name>Детекция движения</name>
+      <value>обнаружение пересечения линии, вторжения в область, оставленных/пропавших предметов</value>
+    </spec>
+    <spec>
+      <name>Антисаботаж</name>
+      <value>заслон объектива</value>
+    </spec>
+    <spec>
+      <name>Распознавание объектов</name>
+      <value>детекция лиц</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение данных</name>
+      <value>NAS (NFS,SMB/CIFS)</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>TCP/IP, UDP, ICMP, HTTP, HTTPS, FTP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, PPPoE, NTP, UPnP, SMTP, SNMP, IGMP, 802.1X, QoS, IPv6</value>
+    </spec>
+    <spec>
+      <name>Безопасность</name>
+      <value>аутентификация пользователя, водяные знаки, фильтрация IP-адресов</value>
+    </spec>
+    <spec>
+      <name>Совместимость</name>
+      <value>ONVIF (PROFILE S, PROFILE G), PSIA</value>
+    </spec>
+    <spec>
+      <name>Срабатывание тревоги</name>
+      <value>smart-функции, детекция движения, саботаж, разрыв сети, конфликт IP-адресов, ошибки авторизации, ошибки хранилища</value>
+    </spec>
+    <spec>
+      <name>Действия по тревоге</name>
+      <value>уведомление клиента, отправка email, загрузка на FTP, активация канала записи</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1 M12 10M/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Кнопка сброса настроек</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В /PoE (802.3af)</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>8.5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>-40 °C… +70 °C, влажность 95% или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP68, IK10</value>
+    </spec>
+    <spec>
+      <name>Устойчивость к вибрации</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Дальность действия ИК</name>
+      <value>до 10 м</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>163.7×122.6×65.1 мм</value>
+    </spec>
+    <spec>
+      <name>Вес (нетто)</name>
+      <value>0.96 кг</value>
+    </spec>
+    <spec>
+      <name>Проектное оборудованиеПО TRASSIR в подарок!Скидки до 60% на Hikvision и UNV</name>
+      <value>Лицензия на подключение к ПО TRASSIR в подарок!Скидки до 60% на видеонаблюдение Hikvision и UNVПроектная цена (уточняйте)Узнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/e52/140_140_1/DS_2XM6512WD_IM-_1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2xm6512wd-im-12-mm-ip-kamera-dlya-transporta/?utm_source=comebackletter"&gt;Hikvision DS-2XM6512WD-IM (12 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.png</image>
+    <image>image_3.png</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

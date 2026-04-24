@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монтажные коробки</name>
+  <article>MONTAZHNYE-KOROBKI</article>
+  <brand>FOX</brand>
+  <category>Аксессуары</category>
+  <price>1111000200</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/33c/FX_BB3_250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/301/FX_BB1-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/082/FX_BB2_360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/e44/FX_1150-250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/74c/5v3vdfx57jjrlu56lpx9hzkajo8aw1yr/360-2.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/9c6/360-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/a31/korobka-plastik-krug360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/675/2025_05_20_09_13_16-250-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/d89/FX_WallMount-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/873/Fox_FX_60_120_STEEL-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/266/trubki1-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/67c/trubki1-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/501/trubki1-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/757/FX_POLE1-STEEL-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/14c/FX_BOX2-STEEL-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/b61/FX_POLE1-STEEL-360.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/185/FX_BOX2-STEEL-360.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="1">1000</spec>
+    <spec name="200">руб.</spec>
+    <spec name="купить">FX-BOX1 STEEL</spec>
+    <spec name="490">руб.</spec>
+    <spec name="2690">руб.</spec>
+    <spec name="1790">руб.</spec>
+    <spec name="1190">руб.</spec>
+    <spec name="1 590">руб.</spec>
+    <spec name="790">руб.</spec>
+    <spec name="4 690">руб.</spec>
+    <spec name="4 390">руб.</spec>
+    <spec name="3 590">руб.</spec>
+    <spec name="2 790">руб.</spec>
+    <spec name="890">руб.</spec>
+    <spec name="2 400">руб.</spec>
+    <spec name="1 090">руб.</spec>
+    <spec name="2 500">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/aksessuary/montazhnye-korobki/</source_url>
+</product>

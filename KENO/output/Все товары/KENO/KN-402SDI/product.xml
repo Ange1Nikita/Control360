@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/HD-SDI видеорегистраторы/KN-402SDI</name>
+  <article>KN-402SDI</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/35f/440_370_0/2.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/35f/38_24_2/2.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/hd-sdi-videoregistratory.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/hd-sdi-videoregistratory.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/hd-sdi-videoregistratory.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/hd-sdi-videoregistratory.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/hd-sdi-videoregistratory.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/hd-sdi-videoregistratory.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 4 2 1 Короткое описание Сетевой видеорегистратор с поддержкой одновременной записи до четырех видеокамер с разрешением 1080p в реальном времени. HDMI видеовыход. Запись видео на встроенный жесткий диск или на облачные хранилища стандарта NAS/FTP. Поддержка WiFi, 3G, P2P. Особенности HD-SDI видеорегистратора Все технические параметры Модель KN-402SDI Система Система Embedded    Linux OS Режим работы Пентаплекс Формат кодирования Main Profile H.264 Управление С    лицевой панели, мышкой и пультом ДУ, по сети Видео Видео вход 4    x BNC SDI выход 1xBNC,    1xVGA, 1xHDMI Дисплей 1/4/Zoom Отображение 1920    x 1080 в реальном времени Аудио Метод    кодирования 8кГц    × 16бит G.711 Аудио вход нет выход нет Двусторонняя связь вх/вых 1    / 1 BNC Сигнализация Тревожные     вх/вых 4    / 1 Запись Воспроизвдение по каналам 1080p    (1920 × 1080)  100 к/с 1080i (1920 × 1080)  200 к/с 720p (1280 × 720)  200 к/с Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Одновременное воспроизведение 1/4/Zoom Жесткий диск 2xHDD    (до 4Тб каждый) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, 3G, WiFi, P2P (доступ к устройству без IP адреса) Сетевой интерфейс RJ45    10M/100M/1000M Сетевые функции Отображение,    воспроизведение, архивирование, доступ с мобильного телефона    (Android/iPhone/WM/Symbian/BlackBarry) Оповещение Запись,    пересылка снимка на E_Mail пользователя с тревожной камеры, фокусировка PTZ    камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др. Удаленный доступ Префессиональный    VSC клиент, IE, с мобильного телефона, P2P Дополнительные функции Управление    PTZ RS-485,     Pelco-D И Pelco-P Резервное копирование USB    - флешка, HDD (переносной) Технические параметры Блок    питания DC12V/3A Потребляемая мощность 10    Вт Рабочая температура -20℃    ... +55℃ Диапазон влажности 1</description>
+  <specs>
+    <spec name="Система">Система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Формат кодирования">Main Profile H.264</spec>
+    <spec name="Управление">С    лицевой панели, мышкой и пультом ДУ, по сети</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">нет</spec>
+    <spec name="Дисплей">1/4/Zoom</spec>
+    <spec name="Отображение">1920    x 1080 в реальном времени</spec>
+    <spec name="Аудио">вход</spec>
+    <spec name="Двусторонняя связь вх/вых">1    / 1 BNC</spec>
+    <spec name="Сигнализация">Тревожные     вх/вых</spec>
+    <spec name="Запись">Воспроизвдение по каналам</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Одновременное воспроизведение">1/4/Zoom</spec>
+    <spec name="Жесткий диск">2xHDD    (до 4Тб каждый)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">RJ45    10M/100M/1000M</spec>
+    <spec name="Сетевые функции">Отображение,    воспроизведение, архивирование, доступ с мобильного телефона    (Android/iPhone/WM/Symbian/BlackBarry)</spec>
+    <spec name="Оповещение">Запись,    пересылка снимка на E_Mail пользователя с тревожной камеры, фокусировка PTZ    камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др.</spec>
+    <spec name="Удаленный доступ">Префессиональный    VSC клиент, IE, с мобильного телефона, P2P</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной)</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">10    Вт</spec>
+    <spec name="Рабочая температура">-20℃    ... +55℃</spec>
+    <spec name="Диапазон влажности">10%~90%</spec>
+    <spec name="Габариты (мм)">360x250x44мм,    1.5 Кг</spec>
+    <spec name="Модель">Кол-во каналов видео</spec>
+    <spec name="KN-402SDI">4</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/hd-sdi-videoregistratory/KN-402SDI/</source_url>
+</product>

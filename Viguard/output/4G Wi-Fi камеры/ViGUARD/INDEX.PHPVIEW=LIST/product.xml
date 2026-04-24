@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?view=list</name>
+  <article>INDEX.PHP?VIEW=LIST</article>
+  <brand>ViGUARD</brand>
+  <category>4G Wi-Fi камеры</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/c53/450_450_1/c539ae3d16fba1bcd19314d28d9316e2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bd8/450_450_1/bd87f665513f21b3948d9c85edec4fdc.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e24/450_450_1/e2400d796acd6b2fe0759faa47161707.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bbc/450_450_1/bbcc437eadc39a628b2028a32f4bb01f.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/17b/450_450_1/17b7d1ca5d053a0f5cd0fa71338d7b1e.png</image>
+    <image>https://viguard.pro/upload/iblock/fe7/fe7242d4fa970e8f584637d2735d525b.png</image>
+    <image>https://viguard.pro/upload/iblock/81d/81dee9ed9fac4be758ca7e2a693026e8.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/d76/d768c2dbdacc31164d10a73ca7ffe8bb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/72c/72cd8157155096b03a4f3e2906ff5bcb.png</image>
+    <image>https://viguard.pro/upload/medialibrary/826/826151d3cc56cab0415881862f73eb96.png</image>
+    <image>https://viguard.pro/upload/medialibrary/187/1874863533347d27eab4d23bffde2cc8.png</image>
+    <image>https://viguard.pro/upload/iblock/2d0/2d0eccfff73b7ea38284a1642ae0fd35.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/383/450_450_1/383cd87169ddf82aeb71a61a2b5b1aeb.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/491/450_450_1/4919d32a9ca287fb955a479fb0dfd9c1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/403/450_450_1/40361080e33cd1bf7782624d256b5174.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a08/450_450_1/a0803df3f5eb5038397e3cb83450a7f2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e80/450_450_1/e80dd40ba0a764134c30c5bfc49e2baa.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/4g_wi_fi_kamery/index.php?view=list</source_url>
+</product>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/TVI видеорегистраторы/KN-TVR16/2</name>
+  <article>KN-TVR16-2</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price>19990</price>
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/132/440_370_0/TVR16-2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/8a6/440_370_0/IMG_20180517_095745_TVR-16-_2-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/157/440_370_0/IMG_20180517_095833_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/fb2/440_370_0/IMG_20180517_100129_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/132/38_24_2/TVR16-2.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/8a6/38_24_2/IMG_20180517_095745_TVR-16-_2-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/157/38_24_2/IMG_20180517_095833_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/fb2/38_24_2/IMG_20180517_100129_HDR-768.png</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_i.jpg</image>
+    <image>https://keno-cctv.ru/upload/vss_mobile_g.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>1 2 3 4 16 1 1 Ваша цена: 19 990 руб. Короткое описание Гибридный видеорегистратор с поддержкой одновременной записи до 16-и TVI/AHD/CVI 2.0 видеокамер с разрешением 1080p и/или IP камер до 6Mpx. Данное устройство является ключевым, при построении системы видеонаблюдения с высоким качеством изображения. Особенности видеорегистратора Все технические параметры Модель KN-TVR16/2 Система Система Embedded    Linux OS Режим работы Пентаплекс Формат кодирования H.264 Управление Мышкой и по сети Видео Видео вход 16xBNC выход 1xBNC,    1xVGA, 1xHDMI Дисплей 1/4/9/16/Zoom Отображение 3840×2160 ,1920x1080, 1280x1024, 1280x720 Аудио Метод    кодирования 8кГц    × 16бит G.711 Аудио вход 1xBNC выход 1xBNC Двусторонняя связь вх/вых 1    / 1 BNC Запись Максимальный поток - Режимы работы TVI/AHD/CVI 2.0: 16х1080p (1920x1080) - 200 к/с TVI/AHD/CVI 1.0: 16х720p (1280x720) - 400 к/с Гибридный режим: TVI/AHD/CVI 1.0/2.0: 4х1080p/720p+IP: 12x6Mpx; TVI/AHD/CVI 1.0/2.0: 8х1080p/720p+IP: 8x6Mpx; TVI/AHD/CVI 1.0/2.0: 12х1080p/720p+IP: 4x6Mpx Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска Интеллектуальный поиск по заданной области / По    времени / По событию / По файлово Одновременное воспроизведение TVI/AHD/CVI/IP: 4x1080p или 16xD1 Жесткий диск 1xHDD    (до 8Тб) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, P2P, WiFi Сетевой интерфейс RJ45    10M/100M/1000M Сетевые функции Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры. Оповещение Запись, пересылка снимка на email пользователя, фокусировка PTZ камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др. Удаленный доступ KENO Smart IMS3 Дополнительные функции Управление    PTZ RS-485 Резервное копирование USB    - флешка, HDD (переносной) Технические параметры Блок    питания DC12V/3,3A Потребляемая мощность 15 Вт (без  HDD) Рабочая т</description>
+  <specs>
+    <spec name="Модель">Кол-во каналов видео</spec>
+    <spec name="Система">Система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Формат кодирования">H.264</spec>
+    <spec name="Управление">Мышкой и по сети</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1xBNC</spec>
+    <spec name="Дисплей">1/4/9/16/Zoom</spec>
+    <spec name="Отображение">3840×2160,1920x1080, 1280x1024, 1280x720</spec>
+    <spec name="Аудио">вход</spec>
+    <spec name="Двусторонняя связь вх/вых">1    / 1 BNC</spec>
+    <spec name="Запись">Максимальный поток</spec>
+    <spec name="Режимы работы">TVI/AHD/CVI 2.0: 16х1080p (1920x1080) - 200 к/с</spec>
+    <spec name="Режим поиска">Интеллектуальный поиск по заданной области/ По    времени / По событию / По файлово</spec>
+    <spec name="Одновременное воспроизведение">TVI/AHD/CVI/IP: 4x1080p или 16xD1</spec>
+    <spec name="Жесткий диск">1xHDD    (до 8Тб)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">RJ45    10M/100M/1000M</spec>
+    <spec name="Сетевые функции">Распределение камер по каналам, изменение IP адреса, потока, скорости отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">Запись, пересылка снимка на email пользователя, фокусировка PTZ камеры на объекте, патрулирование, тревога, запись на FTP, зуммер и др.</spec>
+    <spec name="Удаленный доступ">KENO Smart IMS3</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной)</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">15 Вт (без  HDD)</spec>
+    <spec name="Рабочая температура">-10℃...+50℃</spec>
+    <spec name="Диапазон влажности">10%~90%</spec>
+    <spec name="Габариты (мм)">320(Ш) x 244(Г) x 47(В), 1,5 Кг</spec>
+    <spec name="KN-801AHD">8</spec>
+    <spec name="KN-161AHD">16</spec>
+    <spec name="KN-2104AHD">4</spec>
+    <spec name="KN-2108AHD">8</spec>
+    <spec name="KN-TVR4/1">4</spec>
+    <spec name="KN-TVR8/1">8</spec>
+    <spec name="KN-TVR16/2">16</spec>
+    <spec name="KN-TVR4/1-5М">4</spec>
+    <spec name="KN-TVR8/1-5М">8</spec>
+    <spec name="KN-TVR16/2-5М">16</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/tvi-videoregistratory/kn-tvr16-2/</source_url>
+</product>

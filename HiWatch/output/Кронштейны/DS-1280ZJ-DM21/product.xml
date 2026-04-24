@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-1280ZJ-DM21</name>
+  <model>DS-1280ZJ-DM21</model>
+  <category>Кронштейны</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-1280zj-dm21</product_url>
+  <description>
+    <paragraph>Монтажная коробка, белая, для купольных камер, алюминий, 162 137 42мм</paragraph>
+    <paragraph>Характеристики</paragraph>
+    <paragraph>Настенное крепление для купольных камер</paragraph>
+    <paragraph>Материал</paragraph>
+    <paragraph>Алюминиевый сплав</paragraph>
+    <paragraph>Размер (мм)</paragraph>
+    <paragraph>Ф137х42</paragraph>
+    <paragraph>Вес</paragraph>
+    <paragraph>250г</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Монтажная коробка, белая, для купольных камер, алюминий, 162 137 42мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Характеристики</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Настенное крепление для купольных камер</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размер (мм)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Ф137х42</value>
+    </spec>
+    <spec>
+      <name />
+      <value>250г</value>
+    </spec>
+    <spec>
+      <name>Характеристики</name>
+      <value>Настенное крепление для купольных камер</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name>Размер (мм)</name>
+      <value>Ф137х42</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>250г</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

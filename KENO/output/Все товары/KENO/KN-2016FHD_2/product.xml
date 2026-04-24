@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/IP видеорегистраторы/KN-2016FHD/2</name>
+  <article>KN-2016FHD_2</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f12/440_370_0/2.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3d6/440_370_0/1.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0b8/440_370_0/3.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/ba7/440_370_0/4.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/f12/38_24_2/2.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/3d6/38_24_2/1.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/0b8/38_24_2/3.jpg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/ba7/38_24_2/4.jpg</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/video-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/hdd.png</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.svgz</image>
+    <image>https://keno-cctv.ru/bitrix/components/keno/ip-dvr.detail/templates/.default/images/audio-channel.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.jpg</local_image>
+    <local_image>photo_5.jpg</local_image>
+    <local_image>photo_6.jpg</local_image>
+    <local_image>photo_7.jpg</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.jpg</local_image>
+    <local_image>photo_10.jpg</local_image>
+  </images>
+  <description>1 2 3 4 20 2 20 Короткое описание Сетевой IP видеорегистратор с поддержкой одновременной записи до 20 потоков с разрешением (1280*720) или 16 потоков с разрешением  FullHD (1920*1080) - основа системы видеонаблюдения. Особенности IP видеорегистратора Все технические параметры Модель KN-2016FHD Система Операционная    система Embedded    Linux OS Режим работы Пентаплекс Сжатие H.264（High    Profile@Level4.2） Управление С    лицевой панели, мышкой и пультом ДУ, по сети Поддержка камер KENO    IP, KENO Pro, KENO Le, FE, RVI, Beward, Dahua, Hikvision, Arecont Vision,    AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, Любые    ONVIF IP камеры Видео Видео вход LAN выход 1xHDMI,    1xVGA, 1xBNC Дисплей 1/4/9/16/25/Zoom Отображение 1920x1080,    1280x1024, 1280x720 Аудио Кодирования    аудио 8кГц    × 16бит G.711 Двусторонняя связь вход 1xRCA выход 1xRCA Запись Максимальный    поток 64    Mbps (64 Мегабита в секунду) Воспроизвдение 3Mpx    (2048x1536)             100 к/с 1080p    (1920x1080)            400 к/с 720p    (1280x720)                500к/с Режим записи Ручной    / По расписанию  / По детекции движения    / Смешанный Режим поиска По    времени / По событию / По файлово Воспроизведение 1    / 4 / 9 / Zoom Жесткий диск 2xHDD    (до 8Тб) Сеть Сетевой    протокол HTTP,    TCP / IP, IPv4, UPNP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, PPPOE,    DDNS, FTP, Alarm Server, IP Search, P2P, 3G, WiFi Сетевой интерфейс 1xRJ45    10M/100M/1000M Сетевые функции Автоматическое    присвоение IP камерам KENO адресов, последующих за адресом регистратора,    распределение камер по каналам, изменение IP адреса, потока, скорости    отображения, управление настройками камеры. Оповещение Запись,    пересылка снимка на E_Mail пользователя, фокусировка PTZ камеры на объекте,    патрулирование, тревога, запись на FTP, зуммер и др. Удаленный доступ Префессиональный    CMS клиент, IE, с мобильного телефона Дополнительные функции Управление    PTZ RS-485,     Pelco-D И Pelco-P Резе</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="Система">Операционная    система</spec>
+    <spec name="Режим работы">Пентаплекс</spec>
+    <spec name="Сжатие">H.264（High    Profile@Level4.2）</spec>
+    <spec name="Управление">С    лицевой панели, мышкой и пультом ДУ, по сети</spec>
+    <spec name="Поддержка камер">KENO    IP, KENO Pro, KENO Le, FE, RVI, Beward, Dahua, Hikvision, Arecont Vision,    AXIS, Canon, Dynacolor, Panasonic, SAMSUNG, SANYO, SONY, Любые    ONVIF IP камеры</spec>
+    <spec name="Видео">Видео</spec>
+    <spec name="выход">1xRCA</spec>
+    <spec name="Дисплей">1/4/9/16/25/Zoom</spec>
+    <spec name="Отображение">1920x1080,    1280x1024, 1280x720</spec>
+    <spec name="Аудио">Кодирования    аудио</spec>
+    <spec name="Двусторонняя связь">вход</spec>
+    <spec name="Запись">Максимальный    поток</spec>
+    <spec name="Воспроизвдение">3Mpx    (2048x1536)             100 к/с</spec>
+    <spec name="Режим записи">Ручной    / По расписанию  / По детекции движения    / Смешанный</spec>
+    <spec name="Режим поиска">По    времени / По событию / По файлово</spec>
+    <spec name="Воспроизведение">1    / 4 / 9 / Zoom</spec>
+    <spec name="Жесткий диск">2xHDD    (до 8Тб)</spec>
+    <spec name="Сеть">Сетевой    протокол</spec>
+    <spec name="Сетевой интерфейс">1xRJ45    10M/100M/1000M</spec>
+    <spec name="Сетевые функции">Автоматическое    присвоение IP камерам KENO адресов, последующих за адресом регистратора,    распределение камер по каналам, изменение IP адреса, потока, скорости    отображения, управление настройками камеры.</spec>
+    <spec name="Оповещение">Запись,    пересылка снимка на E_Mail пользователя, фокусировка PTZ камеры на объекте,    патрулирование, тревога, запись на FTP, зуммер и др.</spec>
+    <spec name="Удаленный доступ">Префессиональный    CMS клиент, IE, с мобильного телефона</spec>
+    <spec name="Дополнительные функции">Управление    PTZ</spec>
+    <spec name="Резервное копирование">USB    - флешка, HDD (переносной)</spec>
+    <spec name="Технические параметры">Блок    питания</spec>
+    <spec name="Потребляемая мощность">20    ~ 25Вт (не включая жесткий диск)</spec>
+    <spec name="Рабочий диапазон температуры">-20℃~    +55℃</spec>
+    <spec name="Рабочий диапазон влажности">0%~90%</spec>
+    <spec name="Габариты (мм)">360x250x44мм,    2 Кг</spec>
+    <spec name="KN-0404FHD/1 aPOE4">4</spec>
+    <spec name="KN-RECORD64/8-4K-AI">64</spec>
+    <spec name="KN-WiFi 4/1">4</spec>
+    <spec name="KN-PRO16/2 - 8P- 4K">16</spec>
+    <spec name="KN-PRO32/2-16P -4K">32</spec>
+    <spec name="KN-PRO16/2-4K">16</spec>
+    <spec name="KN-PRO32/2-4K AI">32</spec>
+    <spec name="KN-CORE36/2-4K-AI">36</spec>
+    <spec name="KN-RECORD36/8-4K-AI">36</spec>
+    <spec name="KN-PRO8/1-4K">8</spec>
+    <spec name="KN-PRO8/1-4P-4K">8</spec>
+    <spec name="KN-PRO16/1-4K">16</spec>
+    <spec name="KN-PRO16/1-8P-4K">16</spec>
+    <spec name="KN-PRO16/2-16P-4K">16</spec>
+    <spec name="KN-PRO16/2-8P-4K">16</spec>
+    <spec name="KN-CORE64/4-4K-AI">64</spec>
+    <spec name="KN-PRO32/2-16P-4K-AI">32</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/ip-dvr/KN-2016FHD_2/</source_url>
+</product>

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеокамера поворотная HiWatch PTZ-Y3220I-D4</name>
+  <model>PTZ-Y3220I-D4</model>
+  <article>301057</article>
+  <sku>327000280</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP поворотные</subcategory>
+  <functional_name>Профессиональная IP-видеокамера поворотная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>45942.47</price>
+  <price_wholesale>41731.08</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/301057/</product_url>
+  <description>
+    <paragraph>Профессиональная IP-видеокамера 2 Мп уличная поворотная; 1/2.8’’ Progressive Scan CMOS; 1920х1080 - 25 к/с; zoom 4.7 - 94 мм, 20Х; ИК-фильтр; 0.05 лк; ИК подсветка 100 м; H.265+/H.265/H.264+/H.264; DWDR, 3D DNR, BLC; 360°; аудио вход/выход: 1/1, вход/выход тревоги 1/1, обнаружение движения, вторжения в область и пересечения линии; DC 12В/PoE; 19Вт макс.; -30 °C...+65 °C; IP66; грозозащита TVS 6000B; 367х122х242 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>1920х1080</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>ZOOM 4.7-94 20х</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>100</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.05</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>19</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-30…+65</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>367х122х242</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="820.87 КБ">https://www.tinko.ru/upload/exchange/public/documentation/D/3/D315D312EC592B76C070627C528B60ED.pdf</document>
+  </documents>
+</product>

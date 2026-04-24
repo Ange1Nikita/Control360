@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-T200(B) 6 mm</name>
+  <model>DS-T200(B)</model>
+  <category>HD-TVI-видеокамеры</category>
+  <subcategory>Цилиндрические камеры</subcategory>
+  <product_url>https://hiwatch.net/ds-t200-b--6-mm-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Разрешение 2 Мп</paragraph>
+    <paragraph>EXIR-подсветка до 20 м</paragraph>
+    <paragraph>IP66</paragraph>
+    <paragraph>Объективы 2.8 мм, 3.6 мм, 6 мм</paragraph>
+    <paragraph>Видеовыход 4-в-1 (TVI, AHD, CVI, CVBS)</paragraph>
+    <paragraph>Режим «День/ночь»2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 20м</paragraph>
+    <paragraph>1/2.7" CMOS матрица; объектив 6мм; угол обзора 54.4градусов; механический ИК-фильтр; 0.01 Лк@F1.2; OSD, DWDR, BLC, DNR; Smart ИК; видеовыход: 1 х HD-TVI/AHD/CVI/CVBS; IP66; -40градусовС до +60градусовС; 12В DC+-15%, 4Вт макс.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение 2 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>EXIR-подсветка до 20 м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Объективы 2.8 мм, 3.6 мм, 6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход 4-в-1 (TVI, AHD, CVI, CVBS)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим «День/ночь»2Мп уличная цилиндрическая HD-TVI камера с EXIR-подсветкой до 20м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" CMOS матрица</value>
+    </spec>
+    <spec>
+      <name />
+      <value>объектив 6мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>угол обзора 54.4градусов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>механический ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.01 Лк@F1.2</value>
+    </spec>
+    <spec>
+      <name />
+      <value>OSD, DWDR, BLC, DNR</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Smart ИК</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеовыход: 1 х HD-TVI/AHD/CVI/CVBS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP66</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-40градусовС до +60градусовС</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC+-15%, 4Вт макс.</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

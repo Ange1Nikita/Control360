@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>HD-TVI видеорегистратор Hiwatch DS-H208QA(C)</name>
+  <model>DS-H208QA(C)</model>
+  <category>HD-TVI видеорегистратор</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-h208qa-c-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• Алгоритм обнаружения движения 2.0 («Человек», «ТС») на основе глубокого обучения</paragraph>
+    <paragraph>• Защита периметра на основе Deep Learning</paragraph>
+    <paragraph>• Видеосжатие H.265 Pro+ / H.265 Pro / H.265</paragraph>
+    <paragraph>• Видеовходы HDTVI / AHD / CVI / CVBS / IP</paragraph>
+    <paragraph>• Аудио по коаксиальному кабелю</paragraph>
+    <paragraph>• IP-видеовходы: до 6 / 12 / 24 каналов (до 6 Мп)</paragraph>
+    <paragraph>• Возможность кодирования до 1080p @ 15 к/с8-ми канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала (до 12 с замещением аналоговых в Enhanced IP mode)*</paragraph>
+    <paragraph>Видеовход: 8 каналов BNC; Аудиовход: 1 канал RCA (до 8-и каналов AoC); Видеовыход: 1 VGA и 1 HDMI до 1080Р; Аудиовыход; 1 канал RCA; видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+; аудиосжатие G.711u. обнаружение движения MD 2.0 (все аналоговые каналы), вторжения в область и пересечения линии c MD2.0 (4 аналоговых канала).</paragraph>
+    <paragraph>Разрешение записи на канал: TVI: 3Мп@15к/с (первые 2 канала), 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с; AHD и CVI: 1080p@15к/с, 4Мп Lite, 1080p Lite /720p@25к/с; аналоговые камеры WD1@25к/с; IP: до 6Мп - входящий битрейт 96Мбит/с, 1 SATA для HDD до 10Тб; 1 RJ-45 10M/ 100M Ethernet интерфейс; 2 USB2.0;  -10 градусовC до +55градусовC; 12В DC; 18Вт макс (без HDD).</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Алгоритм обнаружения движения 2.0 («Человек», «ТС») на основе глубокого обучения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Защита периметра на основе Deep Learning</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Видеосжатие H.265 Pro+ / H.265 Pro / H.265</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Видеовходы HDTVI / AHD / CVI / CVBS / IP</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Аудио по коаксиальному кабелю</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• IP-видеовходы: до 6 / 12 / 24 каналов (до 6 Мп)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Возможность кодирования до 1080p @ 15 к/с8-ми канальный гибридный HD-TVI регистратор c технологией AoC (аудио по коаксиальному кабелю)  для  аналоговых, HD-TVI, AHD и CVI камер + 2 IP-канала (до 12 с замещением аналоговых в Enhanced IP mode)*</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовход: 8 каналов BNC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовход: 1 канал RCA (до 8-и каналов AoC)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеовыход: 1 VGA и 1 HDMI до 1080Р</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудиовыход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал RCA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>видеосжатие H.265 Pro/H.265/H.265+/H.264/H.264+</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аудиосжатие G.711u. обнаружение движения MD 2.0 (все аналоговые каналы), вторжения в область и пересечения линии c MD2.0 (4 аналоговых канала).</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение записи на канал: TVI: 3Мп@15к/с (первые 2 канала), 1080p@15к/с, 1080p Lite /720p Lite /720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>AHD и CVI: 1080p@15к/с, 4Мп Lite, 1080p Lite /720p@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>аналоговые камеры WD1@25к/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP: до 6Мп - входящий битрейт 96Мбит/с, 1 SATA для HDD до 10Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 RJ-45 10M/ 100M Ethernet интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>2 USB2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>-10 градусовC до +55градусовC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>12В DC</value>
+    </spec>
+    <spec>
+      <name />
+      <value>18Вт макс (без HDD).</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Микрофон активный миниатюрный Hikvision DS-2FP4021-B</name>
+  <model>DS-2FP4021-B</model>
+  <article>272038</article>
+  <sku>304900044</sku>
+  <brand>Hikvision</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Микрофоны</subcategory>
+  <functional_name>Микрофон активный миниатюрный</functional_name>
+  <nomenclature>Микрофон</nomenclature>
+  <price>12626.64</price>
+  <price_wholesale>11469.2</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/272038/</product_url>
+  <description>
+    <paragraph>Высокочувствительный активный микрофон. Корпус ПВХ, с регулировкой усиления; диапазон частот 100Гц-16кГц; питание 9…15 Вольт, потребление 45мА, габариты 64х20 мм. Кабель для подключения  КММ 4х0,35 мм; -25...+55 °С.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Акустическая дальность, м</name>
+      <value>60</value>
+    </spec>
+    <spec>
+      <name>Потребляемый ток, мА</name>
+      <value>45</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC</value>
+    </spec>
+    <spec>
+      <name>Отношение сигнал/шум, дБ</name>
+      <value>75</value>
+    </spec>
+    <spec>
+      <name>Длина линии, м</name>
+      <value>3000</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>64х20</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="1.66 МБ">https://www.tinko.ru/upload/exchange/public/documentation/F/E/FE919BCC373FE6241A33D5B1250193EF.pdf</document>
+  </documents>
+</product>

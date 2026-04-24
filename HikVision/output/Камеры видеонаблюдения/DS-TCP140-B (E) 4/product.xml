@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера HikVision DS-TCP140-B (E) 4</name>
+  <model>DS-TCP140-B (E) 4</model>
+  <sku>22941</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-tcp140-b-e-4-ip-kamera/</product_url>
+  <description>
+    <paragraph>BLC, 3D DNR</paragraph>
+    <paragraph>Разрешение 1.3 Мп</paragraph>
+    <paragraph>H.265, H.264, MJPEG</paragraph>
+    <paragraph>–20 ºC… +50 ºC, IP54</paragraph>
+    <paragraph>Распознавание номеров</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>1280×1024</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1 ~ 1/100 000 с</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0165 лк (F/2.0, AGC вкл.)</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла наблюдения</name>
+      <value>поворот: –30° ~ 30°, наклон: 0° ~ 30°</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/2.0</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>4 мм, по горизонтали: 86.2°, по вертикали: 46.7°, по диагонали: 103.0°</value>
+    </spec>
+    <spec>
+      <name>Основной поток</name>
+      <value>25 к/c (1280×1024)</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 кбит/с ~ 16 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Интерфейс</name>
+      <value>RJ45 auto 10/100М Ethernet</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 ~ 24 V, PoE, макс. 6.5 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø127.3×96.3 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>500 г</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>температура: –20 ºC… +50 ºC, влажность: 95 % или меньше (без конденсата)</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP54: IEC 60529-2013</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>BLC, 3D DNRРазрешение 1.3 МпH.265, H.264, MJPEG–20 ºC… +50 ºC, IP54Распознавание номеровПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/945/140_140_1/DS_TCP140_B_E_4_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-tcp140-b-e-4-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-TCP140-B (E) 4&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

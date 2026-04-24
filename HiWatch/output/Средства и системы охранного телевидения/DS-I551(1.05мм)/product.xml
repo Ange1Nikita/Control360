@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-I551(1.05мм)</name>
+  <article>355436</article>
+  <sku>311327376</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры IP купольные</subcategory>
+  <functional_name>Бюджетная IP-видеокамера купольная</functional_name>
+  <nomenclature>Видеокамера IP</nomenclature>
+  <price>14251.68</price>
+  <price_wholesale>12945.28</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/355436/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера IP 5 Мп купольная fisheye; 1/2.7" Progressive Scan CMOS; 2592х1944 - 25 к/с; H.264/H.265/H.264+/H.265+/MJPEG; fisheye объектив 1.05 мм; ИК подсветка до 8 м; 0.017 лк; аудиовход/выход 1/1, тревожный вход/выход- 1/1; Micro SD до 256ГБ; 1xRS485; WDR 120 дБ, 3D DNR, HLC, BLC; RTSP, ONVIF (S/T/G); iVMS-4200, Hik-Connect; DC 12В/PoE, 6 Вт; IP67; -10...+50°C; 41х120 мм.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.7" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2592х1944</value>
+    </spec>
+    <spec>
+      <name>Кодек сжатия видео</name>
+      <value>H.265/H.265+/H.264/H.264+/MJPEG</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>1.05</value>
+    </spec>
+    <spec>
+      <name>Тип подсветки</name>
+      <value>ИК</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>8</value>
+    </spec>
+    <spec>
+      <name>Скорость передачи макс. к/сек</name>
+      <value>25</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.015</value>
+    </spec>
+    <spec>
+      <name>Аудиовход/выход</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Тревожные входы/выходы</name>
+      <value>1/1</value>
+    </spec>
+    <spec>
+      <name>Слот для карты памяти</name>
+      <value>MicroSD 256 Гб</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12 DC/PoE</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность, Вт</name>
+      <value>6</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+50</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>41х120</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+  </files>
+  <documents />
+</product>

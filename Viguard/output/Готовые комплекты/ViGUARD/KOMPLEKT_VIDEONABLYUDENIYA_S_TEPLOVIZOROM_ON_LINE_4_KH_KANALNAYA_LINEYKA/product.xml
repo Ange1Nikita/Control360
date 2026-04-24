@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Комплект видеонаблюдения с тепловизором online 4-х канальная линейка</name>
+  <article>KOMPLEKT_VIDEONABLYUDENIYA_S_TEPLOVIZOROM_ON_LINE_4_KH_KANALNAYA_LINEYKA</article>
+  <brand>ViGUARD</brand>
+  <category>Готовые комплекты</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/223/450_450_1/komplekt-videonablyudeniya-s-teplovizorom-online-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/223/120_120_0/komplekt-videonablyudeniya-s-teplovizorom-online-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/223/500_500_1/komplekt-videonablyudeniya-s-teplovizorom-online-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/fa1/500_500_1/Дизайн без названия (18).png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/223/120_120_1/komplekt-videonablyudeniya-s-teplovizorom-online-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/fa1/120_120_1/Дизайн без названия (18).png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/223/komplekt-videonablyudeniya-s-teplovizorom-online-4-kh-kanalnaya-lineyka-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Комплект видеонаблюдения с тепловизором online 4-х канальная линейка</description>
+  <specs>
+    <spec name="online">шт.</spec>
+    <spec name="MDVR F4">1</spec>
+    <spec name="MONITOR 9">1</spec>
+    <spec name="N-DRIVER384">1</spec>
+    <spec name="CAM TYPE С1">1</spec>
+    <spec name="CAM TYPE С2">1</spec>
+    <spec name="CAM 1080 TYPE 2">1</spec>
+    <spec name="CORD A3">1</spec>
+    <spec name="CORD A5">3</spec>
+    <spec name="CORD A10">1</spec>
+    <spec name="Кабельная сборка(кабель питания)">1</spec>
+  </specs>
+  <source_url>https://viguard.pro/catalog/gotovye_komplekty/komplekt_videonablyudeniya_s_teplovizorom_on_line_4_kh_kanalnaya_lineyka/</source_url>
+</product>

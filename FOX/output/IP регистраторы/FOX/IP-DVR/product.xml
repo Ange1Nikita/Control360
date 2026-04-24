@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP видеорегистраторы</name>
+  <article>IP-DVR</article>
+  <brand>FOX</brand>
+  <category>IP регистраторы</category>
+  <price>11120004990</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/iblock/a56/FOX-NVR-NEO2_1-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/225/FOX-NVR-NEO2_1-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/631/FOX-NVR-NEO2_1-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/3c0/FOX-NVR-NEO2_1-250.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/cb1/250-NVR-1.png</image>
+    <image>https://www.fox-cctv.ru/upload/iblock/62d/250-NVR-1.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Модель">Кол-во потоков видео</spec>
+    <spec name="FX-NEO8/1">8</spec>
+    <spec name="FX-NEO8/1-4P">8</spec>
+    <spec name="FX-NEO16/1">16</spec>
+    <spec name="FX-NEO16/1-8P">16</spec>
+    <spec name="FX-NVR8/1-4K">8</spec>
+    <spec name="FX-NVR16/1-4K">16</spec>
+    <spec name="1">2000</spec>
+    <spec name="4 990">руб.</spec>
+    <spec name="купить">FX-NVR16/1-4K</spec>
+    <spec name="8">1 до 14Тб</spec>
+    <spec name="6 590">руб.</spec>
+    <spec name="16">1 до 8Тб</spec>
+    <spec name="10 990">руб.</spec>
+    <spec name="7 990">руб.</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/cctv/ip-dvr/</source_url>
+</product>

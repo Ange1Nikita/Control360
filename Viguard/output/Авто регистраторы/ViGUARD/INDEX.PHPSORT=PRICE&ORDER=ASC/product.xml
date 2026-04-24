@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Index.php?sort=price&amp;order=asc</name>
+  <article>INDEX.PHP?SORT=PRICE&amp;ORDER=ASC</article>
+  <brand>ViGUARD</brand>
+  <category>Авто регистраторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e03/450_450_1/viguard-mdvr-4-kh-kanalnyy-avtomobilnyy-registrator-ot-proizvoditelya.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/648/450_450_1/6482a6136186462b6a17c47d066652e2.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/7b7/450_450_1/7b73defc0fb8204759368420ed50cd47.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/336/450_450_1/33660ded38d037b232c5b507a180aea4.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/ebc/450_450_1/ebc5eb6674d8135ea5fe3d29535005d1.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d571774ac51ff1b2ab8fa7d6c1212193.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/9fa/450_450_1/9fac35dcedbe20c3086cecdb473cbeed.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/8a4/450_450_1/8a44298e7309f0860a536448b0abe3bc.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/072/450_450_1/072a5069486813da7e22a4e474fa7e56.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/516/450_450_1/51695c65bb5d8cf4d17d95c1f5ec7984.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/b2f/450_450_1/b2fc26aa6c7dd3e5ff80ab7f5ccd07e3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bbb/450_450_1/bbb4adb698ea3d477b9b0e2a88b122f3.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/890/450_450_1/890b2aa40f8d17075aac83bc32bc107c.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1bd/450_450_1/1bd3219ce9d73a62334ac11143c2bb93.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a21/450_450_1/a21530a665d83c4e7eec5b02f3220aaa.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/456/450_450_1/456cf81d2ba6e8ad2c0fb53d3d7db27e.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/bad/450_450_1/badd6d0a1f16bec3de8033f4d38bda61.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/409/450_450_1/40947e790454257a2633f7357b205771.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/f9a/450_450_1/f9a864bc2f3718298da7774a3b9410e7.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/acb/450_450_1/acb2ad57a3703ae40d0011dd6b1c5b53.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/e14/450_450_1/e14eb8673595b73694f119a8a3fd2ddf.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/3df/450_450_1/3df487c33bde92bca6cbfa2ee6c4d8ec.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/1d0/450_450_1/1d04201b0e5912de4910e95e947761fb.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/a74/450_450_1/a741bcb00ced4b0351071f321b446da6.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/639/450_450_1/6393b25f884d8f1e50c5ee868318ac17.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/084/450_450_1/0845a417daa9050a7c53bb833dd1589c.jpg</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/cf8/450_450_1/cf8e458c980490736ca07a5d35514188.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/715/450_450_1/7155bd3edb63c990336bf6e6e9b1b4d8.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/939/450_450_1/94ee71c57c77c2f8034165c88b0ce11c.jpg</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.jpg</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description />
+  <specs />
+  <source_url>https://viguard.pro/catalog/avto_registratory/index.php?sort=price&amp;order=asc</source_url>
+</product>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>FX-VD5S-KIT (АГАТ 5W)</name>
+  <article>FX-VD5S-KIT-AGAT-5W</article>
+  <brand>FOX</brand>
+  <category>Домофоны комплекты</category>
+  <price>111100011490</price>
+  <images>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/f35/440_370_0/AGAT-_-FX_VD5S-_Agat-5W_-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/335/440_370_0/AGAT-Model-_-FX_VD5S-_Agat-5W_-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/976/440_370_0/AGAT-bok_-FX_VD5S-_Agat-5W_-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/244/440_370_0/FX_CP7_8_45-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/5f1/440_370_0/FX_CP7_8-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/5ee/440_370_0/Vyzyvnaya-panel-FX_CP8-_960H_-Front_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/17b/440_370_0/Vyzyvnaya-panel-FX_CP8-_960H_-Back-R_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/769/440_370_0/Vyzyvnaya-panel-FX_CP8-_960H_-Krepyezh_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/f35/38_24_2/AGAT-_-FX_VD5S-_Agat-5W_-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/335/38_24_2/AGAT-Model-_-FX_VD5S-_Agat-5W_-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/976/38_24_2/AGAT-bok_-FX_VD5S-_Agat-5W_-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/244/38_24_2/FX_CP7_8_45-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/5f1/38_24_2/FX_CP7_8-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/5ee/38_24_2/Vyzyvnaya-panel-FX_CP8-_960H_-Front_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/17b/38_24_2/Vyzyvnaya-panel-FX_CP8-_960H_-Back-R_1-768.png</image>
+    <image>https://www.fox-cctv.ru/upload/resize_cache/iblock/769/38_24_2/Vyzyvnaya-panel-FX_CP8-_960H_-Krepyezh_1-768.png</image>
+    <image>https://fox-cctv.ru//upload/resize_cache/iblock/f35/440_370_0/AGAT-_-FX_VD5S-_Agat-5W_-768.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+    <local_image>photo_8.png</local_image>
+    <local_image>photo_9.png</local_image>
+    <local_image>photo_10.png</local_image>
+  </images>
+  <description>Полные Фамилия Имя и Отчество могут потребоваться при получении заказа</description>
+  <specs>
+    <spec name="Видеодомофон">FX-VD5S (АГАТ 5W)</spec>
+    <spec name="Корпус">Материал</spec>
+    <spec name="Разрешение">CVBS 960x480</spec>
+    <spec name="Стандарт видео">CVBS (PAL / NTSC) до 900Твл</spec>
+    <spec name="Интерфейс">2 панели / 2 камеры</spec>
+    <spec name="Аудио">Регулировка громкости</spec>
+    <spec name="Интерком">Есть</spec>
+    <spec name="Запись">Встроенная память</spec>
+    <spec name="Поддержка MicroSD">Нет</spec>
+    <spec name="Формат изображений">Нет</spec>
+    <spec name="Функции">Кнопки управления</spec>
+    <spec name="Управление замком">НО/НЗ (с врем.открытия)</spec>
+    <spec name="Тип замка">электромагнитный/</spec>
+    <spec name="Детектор движения">Нет</spec>
+    <spec name="Режим «Монитор»">Нет</spec>
+    <spec name="Часы/Фоторамка">Нет</spec>
+    <spec name="Автоответчик">Нет</spec>
+    <spec name="Технические параметры">Монтаж</spec>
+    <spec name="Подключение">4-х проводное</spec>
+    <spec name="Питание">DC 12 В (от монитора)</spec>
+    <spec name="Рабочая температура">-40°C … +50°C</spec>
+    <spec name="Габаритные размеры (мм)">122(В) х 41(Ш) х 23(Г)</spec>
+    <spec name="Вызывная панель">FX-CP8</spec>
+    <spec name="Видео">Тип матрицы</spec>
+    <spec name="Объектив">3.7 мм</spec>
+    <spec name="Угол обзора">85°</spec>
+    <spec name="Дополнительные функции">Управление замком</spec>
+    <spec name="Степень защиты">IP 54</spec>
+    <spec name="Модель">Дисплей</spec>
+    <spec name="FX-VD5N-KIT (ОНИКС 5)">4.3”</spec>
+    <spec name="FX-VD7-KIT">7”</spec>
+    <spec name="FX-VD7N-KIT (ЯНТАРЬ 7W)">7”</spec>
+    <spec name="FX-VD7S Серый">7”</spec>
+    <spec name="FX-VD7S Белый">7”</spec>
+    <spec name="FX-VD7S Золотой">7”</spec>
+    <spec name="FX-VD7N-KIT (ЯНТАРЬ 7B)">7”</spec>
+    <spec name="FX-VD5S-KIT (АГАТ 5B)">5”</spec>
+    <spec name="FX-VD5S-KIT (АГАТ 5W)">4.3”</spec>
+    <spec name="FX-VD5E-KIT (Сапфир 5)">5”</spec>
+    <spec name="FX-VD7L-KIT (Ель 7W)">7”</spec>
+    <spec name="FX-VD7P-KIT КОРАЛЛ 7W">7”</spec>
+    <spec name="FX-VD7M-KIT МОРИОН 7W">7”</spec>
+    <spec name="FX-VD7P-KIT КОРАЛЛ 7A">7”</spec>
+    <spec name="FX-VD5SL-KIT (АГАТ 5W)">4.3”</spec>
+    <spec name="FX-VD5SL-KIT (АГАТ 5B)">4.3”</spec>
+    <spec name="4.3”">нет</spec>
+    <spec name="Особенности видеодомофона">Все технические параметры</spec>
+    <spec name="Пластик/Акрил">Видео</spec>
+    <spec name="Размер экрана">4"3" TFT LCD</spec>
+    <spec name="Hands Free">Интерком</spec>
+    <spec name="Есть">Запись</spec>
+    <spec name="Встроенная память">Нет</spec>
+    <spec name="Сенсорные">Управление замком</spec>
+    <spec name="Панель">Тип замка</spec>
+    <spec name="электромагнитный/">электромеханический</spec>
+    <spec name="Накладной">Подключение</spec>
+    <spec name="4-х проводное">Питание</spec>
+    <spec name="100…240В AC">Рабочая температура</spec>
+    <spec name="-10°C … +60°C">Габаритные размеры (мм)</spec>
+    <spec name="122(Ш) х 170(В) х 21,5(Г)">Вызывная панель</spec>
+    <spec name="FX-CP8">Видео</spec>
+    <spec name="Тип матрицы">1/3" PIXELPLUS PC1099K</spec>
+    <spec name="Механическая">Дополнительные функции</spec>
+    <spec name="электромеханический">Технические параметры</spec>
+    <spec name="Монтаж">Накладной</spec>
+    <spec name="Материалы и особенности ПО">Инструкция на домофоны Агат</spec>
+    <spec name="(2.345МБ)">Инструкция на панель</spec>
+    <spec name="Инструкция на домофоны Агат">(2.345МБ)</spec>
+    <spec name="Инструкция на панель">(10.642МБ)</spec>
+  </specs>
+  <source_url>https://www.fox-cctv.ru/products/vd-komplekty/fx-vd5s-kit-agat-5w/</source_url>
+</product>

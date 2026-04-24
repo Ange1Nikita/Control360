@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Каталог/TVI видеокамеры/KN-DE91V2812</name>
+  <article>KN-DE91V2812</article>
+  <brand>KENO</brand>
+  <category>Все товары</category>
+  <price />
+  <images>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/product-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/solutions-mini.svg</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/support-mini.svg</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4d0/440_370_0/kn_de91v2812b_l.png</image>
+    <image>https://keno-cctv.ru/upload/resize_cache/iblock/4d0/38_24_2/kn_de91v2812b_l.png</image>
+    <image>https://keno-cctv.ru/bitrix/templates/keno/images/footer-line.png</image>
+    <local_image>photo_1.jpg</local_image>
+    <local_image>photo_2.jpg</local_image>
+    <local_image>photo_3.jpg</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+  </images>
+  <description>1 2 Внутренняя 720p 2.8-12 15 Короткое описание Видеокамера KN-DE91V2812 предназначена для использования внутри помещений с целью охранного видеонаблюдения. Исполнение видеокамеры позволяет монтировать ее на подвесном потолке. Особенности камеры Все технические параметры Наименование KN-DE91V2812 Тип матрицы 1/3’’ Sony IMX238 DSP NXP2341H Разрешение,    пикс 1305 x 1049 Разрешение,    твл Аналог 800–1200 ТВЛ (944x576) ; AHD 1 280x720 (720p) Объектив,    мм 2,8 - 12 мм Тип    синхронизации Внутренняя ИК-диоды,    шт 18x5мм Дальность    подсветки, м 10-15 м Соотношение    "сигнал/шум", дБ &gt;50 дБ Минимальная    чувствительность, люкс цвет 0,1 лк / F1.2;     ч/б 0,01 лк / F1.2; 0 лк (ИК вкл) Сигнал    видеовыхода 1Vp-p    композитный (75Ω) Режим    "День/Ночь" Авто Электронный    затвор, сек от 1/50 до 1/100 000 Компенсация    встречной засветки Авто АРУ Авто Баланс    белого Авто Источник питания,    B DC 12В ±5% Энергопотребление    с ИК 4 Вт Степень    защиты - Рабочая    температура, °C -10C … +50C Дополнительные    параметры OSD меню Внутренняя 720p 2.8-12 15 Вариофокальный объектив Разрешение 1200 ТВЛ (720p) Активный ИК-фильтр ИК подсветка Чувствительность:  цвет 0,1 лк / F1.2;  ч/б 0,01 лк / F1.2; 0 лк (ИК вкл) Легкий высококачественный пластиковый  корпус Материалы и особенности ПО Краткое руководство KN-DE91V2812 (0.987МБ)</description>
+  <specs>
+    <spec name="Наименование">KN-DE91V2812</spec>
+    <spec name="Тип матрицы">1/3’’ Sony IMX238</spec>
+    <spec name="DSP">NXP2341H</spec>
+    <spec name="Разрешение,    пикс">1305 x 1049</spec>
+    <spec name="Разрешение,    твл">Аналог 800–1200 ТВЛ (944x576) ; AHD 1 280x720 (720p)</spec>
+    <spec name="Объектив,    мм">2,8 - 12 мм</spec>
+    <spec name="Тип    синхронизации">Внутренняя</spec>
+    <spec name="ИК-диоды,    шт">18x5мм</spec>
+    <spec name="Дальность    подсветки, м">10-15 м</spec>
+    <spec name="Соотношение    &quot;сигнал/шум&quot;, дБ">&gt;50 дБ</spec>
+    <spec name="Минимальная    чувствительность, люкс">цвет 0,1 лк / F1.2;     ч/б 0,01 лк / F1.2; 0 лк (ИК вкл)</spec>
+    <spec name="Сигнал    видеовыхода">1Vp-p    композитный (75Ω)</spec>
+    <spec name="Режим    &quot;День/Ночь&quot;">Авто</spec>
+    <spec name="Электронный    затвор, сек">от 1/50 до 1/100 000</spec>
+    <spec name="Компенсация    встречной засветки">Авто</spec>
+    <spec name="АРУ">Авто</spec>
+    <spec name="Баланс    белого">Авто</spec>
+    <spec name="Источник питания,    B">DC 12В ±5%</spec>
+    <spec name="Энергопотребление    с ИК">4 Вт</spec>
+    <spec name="Степень    защиты">-</spec>
+    <spec name="Рабочая    температура, °C">-10C … +50C</spec>
+    <spec name="Дополнительные    параметры">OSD меню</spec>
+    <spec name="Модель">Разрешение, ТВЛ</spec>
+    <spec name="KN-CE25F36">1080p</spec>
+    <spec name="KN-DE21F36">1080p</spec>
+    <spec name="KN-DE25F36">1080p</spec>
+    <spec name="KN-DE23V2812">1080p</spec>
+    <spec name="KN-CE23V2812">1080p</spec>
+    <spec name="KN-CE24V2812">1080p</spec>
+    <spec name="KN-CE94V6022">720p</spec>
+    <spec name="KN-CE95F36">720p</spec>
+    <spec name="KN-DE95F36">720p</spec>
+    <spec name="KN-DE91V2812">720p</spec>
+    <spec name="KN-DE93V2812">720p</spec>
+    <spec name="KN-CE93V2812">720p</spec>
+    <spec name="KN-CE94V2812">720p</spec>
+    <spec name="KN-CE26V2812">1080p</spec>
+    <spec name="KN-CE26F36">1080p</spec>
+    <spec name="KN-DE26V2812">1080p</spec>
+    <spec name="KN-DE26F36">1080p</spec>
+    <spec name="KN-CE55F36">5 Мп</spec>
+    <spec name="KN-DE55F36">5 Мп</spec>
+    <spec name="KN-DE53V2812">5 Мп</spec>
+    <spec name="KN-CE53V2812">5 Мп</spec>
+  </specs>
+  <source_url>https://keno-cctv.ru/products/tvi-kamery/KN-DE91V2812/</source_url>
+</product>

@@ -1,0 +1,188 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-камера Hikvision DS-2DF3C400SCG-D/WL15 (F1)</name>
+  <model>DS-2DF3C400SCG-D/WL15 (F1)</model>
+  <sku />
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2df3c400scg-d-wl15-f1-ip-kamera/</product_url>
+  <description>
+    <paragraph>Разрешение 4 Мп</paragraph>
+    <paragraph>Дальность действия 15 м</paragraph>
+    <paragraph>Точность измерения ±1 м</paragraph>
+    <paragraph>–30 °C… +70 °C, IP67, грозозащита</paragraph>
+    <paragraph>H.265+, H.265, H.264+, H.264, MJPEG</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>1/1.8" Progressive Scan CMOS</value>
+    </spec>
+    <spec>
+      <name>Максимальное разрешение</name>
+      <value>2560×1440</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>цвет: 0.0005 лк, ч/б: 0 лк с ИК-подсветкой</value>
+    </spec>
+    <spec>
+      <name>Скорость электронного затвора</name>
+      <value>1/1 ~ 1/30 000 с</value>
+    </spec>
+    <spec>
+      <name>Режим «день,ночь»</name>
+      <value>ИК-фильтр</value>
+    </spec>
+    <spec>
+      <name>Тип объектива</name>
+      <value>фиксированный</value>
+    </spec>
+    <spec>
+      <name>Фокусное расстояние и угол обзора</name>
+      <value>4 мм, по горизонтали: 67°, по вертикали: 41°, по диагонали: 75°</value>
+    </spec>
+    <spec>
+      <name>Апертура</name>
+      <value>F/1.0</value>
+    </spec>
+    <spec>
+      <name>Подсветка</name>
+      <value>LED, 30 м</value>
+    </spec>
+    <spec>
+      <name>Фреймрейт</name>
+      <value>25 к/с</value>
+    </spec>
+    <spec>
+      <name>Потоки</name>
+      <value>3</value>
+    </spec>
+    <spec>
+      <name>Видеосжатие</name>
+      <value>H.265, H.264, H.264+, H.265+, MJPEG</value>
+    </spec>
+    <spec>
+      <name>Битрейт видео</name>
+      <value>32 Кбит/с ~ 160 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Область интереса (ROI)</name>
+      <value>по 8 фиксированных областей для каждого потока</value>
+    </spec>
+    <spec>
+      <name>Аудиосжатие</name>
+      <value>G.711, G.722.1, G.726, MP2L2, PCM, MP3</value>
+    </spec>
+    <spec>
+      <name>Битрейт аудио</name>
+      <value>64 Кбит/с (G.711 ulaw, G.711 alaw), 16 Кбит/с (G.722.1), 16 Кбит/с (G.726), от 32 до 192 Кбит/с (MP2L2) , от 8 до 320 Кбит/с (MP3)</value>
+    </spec>
+    <spec>
+      <name>Частота дискретизации</name>
+      <value>8 кГц, 16 кГц, 32 кГц, 44.1 кГц, 48 кГц</value>
+    </spec>
+    <spec>
+      <name>Фильтрация шумов окружающей среды</name>
+      <value>+</value>
+    </spec>
+    <spec>
+      <name>Протоколы</name>
+      <value>IPv4/IPv6, HTTP, HTTPS, QoS, FTP, TCP/IP, ICMP, DHCP, DNS, DDNS, RTP, RTSP, RTCP, UPnP, SMTP, SNMP, IGMP, UDP, Bonjour, NTP, ISUP</value>
+    </spec>
+    <spec>
+      <name>Одновременный просмотр в режиме реального времени</name>
+      <value>до 20 каналов</value>
+    </spec>
+    <spec>
+      <name>API</name>
+      <value>ISAPI, SDK, ISUP</value>
+    </spec>
+    <spec>
+      <name>Пользователь, хост</name>
+      <value>до 32 пользователей3 уровня пользователей: администратор, оператор и пользователь</value>
+    </spec>
+    <spec>
+      <name>Сетевое хранение</name>
+      <value>NAS (NFS, SMB, CIFS)</value>
+    </spec>
+    <spec>
+      <name>Клиент</name>
+      <value>iVMS-4200</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>120 дБ</value>
+    </spec>
+    <spec>
+      <name>Интерфейс Ethernet</name>
+      <value>RJ-45</value>
+    </spec>
+    <spec>
+      <name>Локальное хранение</name>
+      <value>встроенный слот для карты microSD, SDHC, SDXC, до 256 Гбайт</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>вход, выход</value>
+    </spec>
+    <spec>
+      <name>Тревожные</name>
+      <value>2 входа, выход</value>
+    </spec>
+    <spec>
+      <name>RS-485</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 V, PoE, макс. 21 Вт</value>
+    </spec>
+    <spec>
+      <name>Материал</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>Ø189.9×217.8 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>1.8 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>–30 °C… +70 °C</value>
+    </spec>
+    <spec>
+      <name>Стандарты по защите</name>
+      <value>IP67, грозозащита 6 кВ</value>
+    </spec>
+    <spec>
+      <name>Дополнительно</name>
+      <value>обогреватель</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>Разрешение 4 МпДальность действия 15 мТочность измерения ±1 м–30 °C… +70 °C, IP67, грозозащитаH.265+, H.265, H.264+, H.264, MJPEGПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVСпрашивать у менеджеровУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/f16/140_140_1/DS_2DF3C400SCG_D_WL15_F1_1.jpg" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2df3c400scg-d-wl15-f1-ip-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2DF3C400SCG-D/WL15 (F1)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <image>image_2.jpg</image>
+    <image>image_3.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+  </files>
+</product>

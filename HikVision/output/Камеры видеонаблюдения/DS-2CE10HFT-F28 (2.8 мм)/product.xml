@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Мультиформатная камера Hikvision DS-2CE10HFT-F28 (2.8 мм)</name>
+  <model>DS-2CE10HFT-F28 (2.8 мм)</model>
+  <sku>61002</sku>
+  <brand>HikVision</brand>
+  <category>Камеры видеонаблюдения</category>
+  <subcategory />
+  <price>0</price>
+  <product_url>https://www.dssl.ru/products/ds-2ce10hft-f28-2-8-mm-analogovaya-kamera/</product_url>
+  <description>
+    <paragraph>HD-TVI, HD-CVI, AHD, CVBS</paragraph>
+    <paragraph>5 Мп, 0.0005 лк при F/1.0</paragraph>
+    <paragraph>Белая Smart-подсветка 20 м</paragraph>
+    <paragraph>Цветное видео круглосуточно</paragraph>
+    <paragraph>⛅ ☔ ❄ IP67, –40 °C… +60 °C</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Матрица</name>
+      <value>5 Мп CMOS</value>
+    </spec>
+    <spec>
+      <name>Стандарт передачи сигнала</name>
+      <value>PAL/NTSC</value>
+    </spec>
+    <spec>
+      <name>Разрешение</name>
+      <value>2560×1944</value>
+    </spec>
+    <spec>
+      <name>Частота кадров</name>
+      <value>TVI: 5 Мп при 20 к/с, 4 Мп при 30 к/с, 4 Мп при 25 к/с, 1080p при 30 к/с, 1080P при 25 к/сCVI: 4 Мп при 30 к/с, 4 Мп при 25 к/сAHD: 5 Мп при 20 к/с, 4 Мп при 30 к/с, 4 Мп при 25 к/сCVBS: PAL/NTSC</value>
+    </spec>
+    <spec>
+      <name>Чувствительность</name>
+      <value>0.0005 лк при F/1.0, AGC вкл.0 лк с подсветкой белым светом</value>
+    </spec>
+    <spec>
+      <name>Электронный затвор</name>
+      <value>1/25 с. ~ 1/50 000 с.</value>
+    </spec>
+    <spec>
+      <name>Объектив</name>
+      <value>2.8 мм</value>
+    </spec>
+    <spec>
+      <name>Угол обзора</name>
+      <value>по горизонтали: 99.7ºпо вертикали: 72ºпо диагонали: 139.8º</value>
+    </spec>
+    <spec>
+      <name>Крепление объектива</name>
+      <value>М12</value>
+    </spec>
+    <spec>
+      <name>Тревожная стробоскопическая подсветка</name>
+      <value>есть</value>
+    </spec>
+    <spec>
+      <name>Режим день/ночь</name>
+      <value>цветное изображение</value>
+    </spec>
+    <spec>
+      <name>Регулировка угла установки</name>
+      <value>поворот: 0° ~ 360°; наклон: 0° ~ 90°; вращение: 0° ~ 360°</value>
+    </spec>
+    <spec>
+      <name>Подсветка белым светом</name>
+      <value>автоматически, выкл.</value>
+    </spec>
+    <spec>
+      <name>Режим изображения</name>
+      <value>STD, High-Sat</value>
+    </spec>
+    <spec>
+      <name>AGC</name>
+      <value>поддерживается</value>
+    </spec>
+    <spec>
+      <name>Баланс белого</name>
+      <value>ATW/MWB</value>
+    </spec>
+    <spec>
+      <name>Маскирование</name>
+      <value>4 области</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 области</value>
+    </spec>
+    <spec>
+      <name>WDR</name>
+      <value>130 дБ</value>
+    </spec>
+    <spec>
+      <name>Режим экспозиции (автоматич.)</name>
+      <value>WDR, BLC, HLC, глобальн., HLS, Anti-banding</value>
+    </spec>
+    <spec>
+      <name>Шумоподавление</name>
+      <value>3D DNR</value>
+    </spec>
+    <spec>
+      <name>Маскирование области</name>
+      <value>4 настраиваемых масок области</value>
+    </spec>
+    <spec>
+      <name>Обнаружение движения</name>
+      <value>4 настраиваемые области</value>
+    </spec>
+    <spec>
+      <name>Язык</name>
+      <value>английский</value>
+    </spec>
+    <spec>
+      <name>Функции</name>
+      <value>яркость, резкость, зеркалирование, интеллектуальная подсветка</value>
+    </spec>
+    <spec>
+      <name>Видеовыход</name>
+      <value>переключение TVI, AHD, CVI, CVBS</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 12 В ±25 %</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность</name>
+      <value>3.5 Вт макс.</value>
+    </spec>
+    <spec>
+      <name>Рабочие условия</name>
+      <value>–40 ºС… +60 ºС, влажность не более 90 %</value>
+    </spec>
+    <spec>
+      <name>Защита</name>
+      <value>IP67</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>металл</value>
+    </spec>
+    <spec>
+      <name>Дальность действия подсветки белым светом</name>
+      <value>до 20 м</value>
+    </spec>
+    <spec>
+      <name>Связь</name>
+      <value>Hikvision-C</value>
+    </spec>
+    <spec>
+      <name>Размер</name>
+      <value>68×70×168.2 мм</value>
+    </spec>
+    <spec>
+      <name>Вес</name>
+      <value>350 г</value>
+    </spec>
+    <spec>
+      <name>Скидки до 60% на Hikvision и UNV</name>
+      <value>HD-TVI, HD-CVI, AHD, CVBS5 Мп, 0.0005 лк при F/1.0Белая Smart-подсветка 20 мЦветное видео круглосуточно⛅ ☔ ❄ IP67, –40 °C… +60 °CПодробнееСкидки до 60% на видеонаблюдение Hikvision и UNVУзнать цену для партнеровУточнить наличие у менеджераПолучить
+                        на email ссылку на товарПоделиться в социальных сетяхОтправить товар на emailВаше имяВаш E-mail*Сообщение&lt;table&gt;
+        &lt;tbody&gt;
+          &lt;tr&gt;
+            &lt;td style="padding:20px"&gt;&lt;img src="/upload/resize_cache/iblock/975/140_140_1/DS_2CE10HFT_F28-_2.8-mm_-1.png" /&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;a href="https://www.dssl.ru/products/ds-2ce10hft-f28-2-8-mm-analogovaya-kamera/?utm_source=comebackletter"&gt;Hikvision DS-2CE10HFT-F28 (2.8 мм)&lt;/a&gt;&lt;/td&gt;
+            &lt;td style="padding:20px"&gt;&lt;/td&gt;
+          &lt;/tr&gt;
+        &lt;/tbody&gt;
+      &lt;/table&gt;*XПисьмо отправленоX</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>passport_2.pdf</passport>
+    <passport>passport_3.pdf</passport>
+  </files>
+</product>

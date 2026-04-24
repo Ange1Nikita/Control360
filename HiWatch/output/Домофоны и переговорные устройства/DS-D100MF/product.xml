@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Монитор домофона цветной HiWatch DS-D100MF</name>
+  <model>DS-D100MF</model>
+  <article>284900</article>
+  <sku>305301676</sku>
+  <brand>HiWatch</brand>
+  <category>Домофоны и переговорные устройства</category>
+  <subcategory>Мониторы видеодомофонов</subcategory>
+  <functional_name>Монитор домофона цветной</functional_name>
+  <nomenclature>Монитор домофона</nomenclature>
+  <price>4575.6</price>
+  <price_wholesale>4156.17</price_wholesale>
+  <availability>В наличии</availability>
+  <product_url>https://www.tinko.ru/catalog/product/284900/</product_url>
+  <description>
+    <paragraph>7" цветной TFT монитор 800х480, 4-х проводная схема, подключение 2-х вызывных панелей и 1 дополнительной камеры,  до 3-х мониторов в параллель, память до 200 снимков, 12 В DC, 5 Вт макс., адаптер в комплекте, 196×133x18 мм.&lt;br /&gt;</paragraph>
+    <paragraph>Интерком между мониторами отсутствует!</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип экрана</name>
+      <value>7 цветной TFT LCD; сенсорный</value>
+    </spec>
+    <spec>
+      <name>Количество вызывных панелей/камер</name>
+      <value>2</value>
+    </spec>
+    <spec>
+      <name>Количество дополнительных видеокамер</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Количество подключаемых мониторов</name>
+      <value>до 3-х мониторов</value>
+    </spec>
+    <spec>
+      <name>Формат видеосигнала</name>
+      <value>CVBS</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Схема подключения</name>
+      <value>4-х проводная</value>
+    </spec>
+    <spec>
+      <name>Память</name>
+      <value>200 кадров</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>196х133х18</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>instruction.pdf</passport>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Инструкция" size="1.51 МБ">https://www.tinko.ru/upload/exchange/public/documentation/7/9/7983B52FAF92A21AF864E1A3FAFCD514.pdf</document>
+    <document title="Паспорт" size="771.68 КБ">https://www.tinko.ru/upload/exchange/public/documentation/3/C/3C7CF3B6E83E0760B80234AA80F3B2BF.pdf</document>
+  </documents>
+</product>

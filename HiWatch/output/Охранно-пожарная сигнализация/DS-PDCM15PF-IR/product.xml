@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PDCM15PF-IR</name>
+  <model>DS-PDCM15PF-IR</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/-ds-pdcm15pf-ir</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>1/2.7" КМОП с прогрессивной разверткой</paragraph>
+    <paragraph>фиксированный объектив 2,0 мм</paragraph>
+    <paragraph>3D Цифровое Шумоподавление</paragraph>
+    <paragraph>Простая Установка</paragraph>
+    <paragraph>Направление угла можно отрегулировать в соответствии с углом наклона детектора TT</paragraph>
+    <paragraph>Уровень защиты IP66Видеомодуль для датчика типа TT</paragraph>
+    <paragraph>Матрица: CMOS: Автоматическое переключение "День/Ночь"; Угол обзора: 137градусов по горизонтали, 80градусов по вертикали; Дальность ИК до 15м; Тип изображения: JPEG, 160*120, 320*240, 640*480;</paragraph>
+    <paragraph>Поляризационный фильтр ИК-объектива для равн</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1/2.7" КМОП с прогрессивной разверткой</value>
+    </spec>
+    <spec>
+      <name />
+      <value>фиксированный объектив 2,0 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3D Цифровое Шумоподавление</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Простая Установка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Направление угла можно отрегулировать в соответствии с углом наклона детектора TT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Уровень защиты IP66Видеомодуль для датчика типа TT</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Матрица: CMOS: Автоматическое переключение "День/Ночь"</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Угол обзора: 137градусов по горизонтали, 80градусов по вертикали</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Дальность ИК до 15м</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип изображения: JPEG, 160*120, 320*240, 640*480</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поляризационный фильтр ИК-объектива для равн</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

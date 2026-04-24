@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ViGUARD провод подключения CORD A20</name>
+  <article>VIGUARD_PROVOD_PODKLYUCHENIYA_CORD_A20</article>
+  <brand>ViGUARD</brand>
+  <category>Авто регистраторы</category>
+  <price />
+  <images>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/450_450_1/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/medialibrary/659/6594887527f5c82806994975c5d12b55.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/120_120_0/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/d57/500_500_1/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/resize_cache/iblock/2e0/200_60_1/2e039cb5020ab432dec0a6a44ffaab31.png</image>
+    <image>https://viguard.pro/upload/iblock/d57/d576b68e4b337125cc989709197f90ed.png</image>
+    <image>https://viguard.pro/upload/medialibrary/4f0/4f063372ad57816ac9074ab169679b1e.png</image>
+    <local_image>photo_1.png</local_image>
+    <local_image>photo_2.png</local_image>
+    <local_image>photo_3.png</local_image>
+    <local_image>photo_4.png</local_image>
+    <local_image>photo_5.png</local_image>
+    <local_image>photo_6.png</local_image>
+    <local_image>photo_7.png</local_image>
+  </images>
+  <description>ViGUARD провод подключения CORD A20</description>
+  <specs />
+  <source_url>https://viguard.pro/catalog/soedinitelnye_kabeli/viguard_provod_podklyucheniya_cord_a20/</source_url>
+</product>

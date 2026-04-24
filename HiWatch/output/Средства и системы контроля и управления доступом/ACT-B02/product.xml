@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>ACT-B02</name>
+  <article>309854</article>
+  <sku>302918582</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы контроля и управления доступом</category>
+  <subcategory>Кнопки выхода различных производителей</subcategory>
+  <functional_name>Кнопка выхода</functional_name>
+  <nomenclature>Кнопка</nomenclature>
+  <price>678.95</price>
+  <price_wholesale>616.72</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/309854/</product_url>
+  <description>
+    <paragraph>Механическая кнопка выхода;  НО/НЗ;  ток коммутации макс. 3A (DC 36В);  -10…+55°C;  размеры 90×35×28.9мм;  панель: алюминиевый сплав, кнопка: металл.</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Тип установки</name>
+      <value>Врезной</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Алюминиевый сплав</value>
+    </spec>
+    <spec>
+      <name>Индикация</name>
+      <value>Нет</value>
+    </spec>
+    <spec>
+      <name>Тип контактов</name>
+      <value>НЗ/НР</value>
+    </spec>
+    <spec>
+      <name>Коммутируемое напряжение, В</name>
+      <value>36В (макс.)</value>
+    </spec>
+    <spec>
+      <name>Коммутируемый ток, А, не более</name>
+      <value>3</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-10…+55</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>90х35х28.9</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="732.53 КБ">https://www.tinko.ru/upload/exchange/public/documentation/1/F/1F315C11147A4CC5CBE9F116D169CCD5.pdf</document>
+  </documents>
+</product>

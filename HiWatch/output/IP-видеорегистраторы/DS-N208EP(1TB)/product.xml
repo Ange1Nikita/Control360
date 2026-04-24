@@ -1,0 +1,406 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>IP-видеорегистратор HiWatch DS-N208EP(1TB)</name>
+  <model>DS-N208EP(1TB)</model>
+  <category>IP-видеорегистраторы</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-n208ep-1tb-</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>Видеосжатие H.265+/H.265/H.264+/H.264</paragraph>
+    <paragraph>Входная пропускная способность до 60 Мбит/с, выходная пропускная способность до 60 Мбит/с</paragraph>
+    <paragraph>Сетевое подключение-видеовходы: до 8 каналов</paragraph>
+    <paragraph>Возможность записи до 4Мп</paragraph>
+    <paragraph>Встроенный eSSD накопитель емкостью 1Тб</paragraph>
+    <paragraph>IP-видеовход</paragraph>
+    <paragraph>8 каналов, Разрешение до 4 Мп</paragraph>
+    <paragraph>Входная пропускная способность</paragraph>
+    <paragraph>60 Мбит/с</paragraph>
+    <paragraph>Выходная пропускная способность</paragraph>
+    <paragraph>60 Мбит/с</paragraph>
+    <paragraph>HDMI-выход</paragraph>
+    <paragraph>1 канал, 1920  1080p/60 Гц, 1280  1024/60 Гц, 1280  720/60 Гц, 1024  768/60 Гц</paragraph>
+    <paragraph>Видео</paragraph>
+    <paragraph>H.265, Smart 265, H.264, Smart 264</paragraph>
+    <paragraph>Аудио</paragraph>
+    <paragraph>G.711ulaw / G.711alaw / G.722 / G.726</paragraph>
+    <paragraph>Разрешение при записи</paragraph>
+    <paragraph>4 Мп/3 Мп/1080p/UXGA /720p/VGA/4CIF/DCIF/ 2CIF/CIF/QCIF</paragraph>
+    <paragraph>Синхронное воспроизведение</paragraph>
+    <paragraph>4 канала</paragraph>
+    <paragraph>Возможности воспроизведения</paragraph>
+    <paragraph>4 канала, @ 1080p (25 к/с)</paragraph>
+    <paragraph>Тип потока</paragraph>
+    <paragraph>Видео, видео и аудио</paragraph>
+    <paragraph>Удаленное подключение</paragraph>
+    <paragraph>128 каналов</paragraph>
+    <paragraph>Сетевой протокол</paragraph>
+    <paragraph>TCP / IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, NFS, iSCSI, ISUP,UPnP™, HTTP, HTTPS</paragraph>
+    <paragraph>Сетевой интерфейс</paragraph>
+    <paragraph>1, RJ45 auto 10/100M Ethernet</paragraph>
+    <paragraph>Интерфейсы</paragraph>
+    <paragraph>8, RJ45 auto 10/100M Ethernet</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>58 Вт</paragraph>
+    <paragraph>Поддерживаемый стандарт</paragraph>
+    <paragraph>IEEE 802.3 af/at</paragraph>
+    <paragraph>Диск</paragraph>
+    <paragraph>1 встроенный SSD</paragraph>
+    <paragraph>Емкость</paragraph>
+    <paragraph>1 ТБ</paragraph>
+    <paragraph>USB</paragraph>
+    <paragraph>Задняя панель: 2  USB 2.0</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>DC 48 В, 1.36 A</paragraph>
+    <paragraph>Потребляемая мощность (c SSD)</paragraph>
+    <paragraph>10 Вт</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C</paragraph>
+    <paragraph>Масса (без накопителя)</paragraph>
+    <paragraph>0.5 кг</paragraph>
+    <paragraph>Рабочая влажность</paragraph>
+    <paragraph>От 10 до 90 %</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>225  122  27 мм (8.9  4.8  1.1)</paragraph>
+    <paragraph>Сертификаты</paragraph>
+    <paragraph>CE	EN 55032: 2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4, EN 55035: 2017</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видеосжатие H.265+/H.265/H.264+/H.264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входная пропускная способность до 60 Мбит/с, выходная пропускная способность до 60 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевое подключение-видеовходы: до 8 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Возможность записи до 4Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный eSSD накопитель емкостью 1Тб</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IP-видеовход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 каналов, Разрешение до 4 Мп</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Входная пропускная способность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>60 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выходная пропускная способность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>60 Мбит/с</value>
+    </spec>
+    <spec>
+      <name />
+      <value>HDMI-выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 канал, 1920  1080p/60 Гц, 1280  1024/60 Гц, 1280  720/60 Гц, 1024  768/60 Гц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>H.265, Smart 265, H.264, Smart 264</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>G.711ulaw / G.711alaw / G.722 / G.726</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Разрешение при записи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 Мп/3 Мп/1080p/UXGA /720p/VGA/4CIF/DCIF/ 2CIF/CIF/QCIF</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Синхронное воспроизведение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Возможности воспроизведения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>4 канала, @ 1080p (25 к/с)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип потока</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Видео, видео и аудио</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Удаленное подключение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>128 каналов</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой протокол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>TCP / IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, NFS, iSCSI, ISUP,UPnP™, HTTP, HTTPS</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сетевой интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1, RJ45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Интерфейсы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8, RJ45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>58 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживаемый стандарт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>IEEE 802.3 af/at</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диск</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 встроенный SSD</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Емкость</value>
+    </spec>
+    <spec>
+      <name />
+      <value>1 ТБ</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Задняя панель: 2  USB 2.0</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>DC 48 В, 1.36 A</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Потребляемая мощность (c SSD)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>10 Вт</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса (без накопителя)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>0.5 кг</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая влажность</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>225  122  27 мм (8.9  4.8  1.1)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Сертификаты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>CE	EN 55032: 2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4, EN 55035: 2017</value>
+    </spec>
+    <spec>
+      <name>IP-видеовход</name>
+      <value>8 каналов, Разрешение до 4 Мп</value>
+    </spec>
+    <spec>
+      <name>Входная пропускная способность</name>
+      <value>60 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>Выходная пропускная способность</name>
+      <value>60 Мбит/с</value>
+    </spec>
+    <spec>
+      <name>HDMI-выход</name>
+      <value>1 канал, 1920  1080p/60 Гц, 1280  1024/60 Гц, 1280  720/60 Гц, 1024  768/60 Гц</value>
+    </spec>
+    <spec>
+      <name>Видео</name>
+      <value>H.265, Smart 265, H.264, Smart 264</value>
+    </spec>
+    <spec>
+      <name>Аудио</name>
+      <value>G.711ulaw / G.711alaw / G.722 / G.726</value>
+    </spec>
+    <spec>
+      <name>Разрешение при записи</name>
+      <value>4 Мп/3 Мп/1080p/UXGA /720p/VGA/4CIF/DCIF/ 2CIF/CIF/QCIF</value>
+    </spec>
+    <spec>
+      <name>Синхронное воспроизведение</name>
+      <value>4 канала</value>
+    </spec>
+    <spec>
+      <name>Возможности воспроизведения</name>
+      <value>4 канала, @ 1080p (25 к/с)</value>
+    </spec>
+    <spec>
+      <name>Тип потока</name>
+      <value>Видео, видео и аудио</value>
+    </spec>
+    <spec>
+      <name>Удаленное подключение</name>
+      <value>128 каналов</value>
+    </spec>
+    <spec>
+      <name>Сетевой протокол</name>
+      <value>TCP / IP, DHCP, IPv4, IPv6, DNS, DDNS, NTP, RTSP, SADP, SMTP, NFS, iSCSI, ISUP,UPnP™, HTTP, HTTPS</value>
+    </spec>
+    <spec>
+      <name>Сетевой интерфейс</name>
+      <value>1, RJ45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Интерфейсы</name>
+      <value>8, RJ45 auto 10/100M Ethernet</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>58 Вт</value>
+    </spec>
+    <spec>
+      <name>Поддерживаемый стандарт</name>
+      <value>IEEE 802.3 af/at</value>
+    </spec>
+    <spec>
+      <name>Диск</name>
+      <value>1 встроенный SSD</value>
+    </spec>
+    <spec>
+      <name>Емкость</name>
+      <value>1 ТБ</value>
+    </spec>
+    <spec>
+      <name>USB</name>
+      <value>Задняя панель: 2  USB 2.0</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>DC 48 В, 1.36 A</value>
+    </spec>
+    <spec>
+      <name>Потребляемая мощность (c SSD)</name>
+      <value>10 Вт</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C</value>
+    </spec>
+    <spec>
+      <name>Масса (без накопителя)</name>
+      <value>0.5 кг</value>
+    </spec>
+    <spec>
+      <name>Рабочая влажность</name>
+      <value>От 10 до 90 %</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>225  122  27 мм (8.9  4.8  1.1)</value>
+    </spec>
+    <spec>
+      <name>Сертификаты</name>
+      <value>CE	EN 55032: 2015, EN 61000-3-2, EN 61000-3-3, EN 50130-4, EN 55035: 2017</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>

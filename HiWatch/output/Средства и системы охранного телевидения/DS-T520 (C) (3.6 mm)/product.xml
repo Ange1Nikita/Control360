@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>Видеокамера мультиформатная цилиндрическая HiWatch DS-T520 (C) (3.6 mm)</name>
+  <model>DS-T520 (C) (3.6 mm)</model>
+  <article>289328</article>
+  <sku>300512703</sku>
+  <brand>HiWatch</brand>
+  <category>Средства и системы охранного телевидения</category>
+  <subcategory>Видеокамеры мультиформатные цилиндрические</subcategory>
+  <functional_name>Бюджетная видеокамера мультиформатная цилиндрическая</functional_name>
+  <nomenclature>Видеокамера мультиформатная</nomenclature>
+  <price>3100.02</price>
+  <price_wholesale>2815.86</price_wholesale>
+  <availability>Под заказ</availability>
+  <product_url>https://www.tinko.ru/catalog/product/289328/</product_url>
+  <description>
+    <paragraph>Бюджетная видеокамера 4х форматная (CVI/TVI/AHD/CVBS) Mix-HD цветная уличная со встроенной ИК подсветкой (механический ИК-фильтр), ДЕНЬ/НОЧЬ; 1/25" CMOS, 5 МП 2592х1944-20к/с, 4 МП 2560x1440/1920x1080-25к/с; 0.01 лк  (F1.2, AGC вкл.)/0лк с вкл ИК; f=3.6мм ; S/N: более 62dB; OSD, DWDR, BLC, DNR; EXIR Smart ИК; Дальность ИК подсветки до 40 м; Видеовыход: HD-TVI ;  DC12В/ 420мА; -40°...+60°C; IP67; 78.9 × 75.4 × 184.9мм.; Переключаемые TVI/AHD/CVI/CVBS</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name>Чувствительный элемент</name>
+      <value>1/2.5" 5 МП CMOS</value>
+    </spec>
+    <spec>
+      <name>Разрешающая способность, пикс</name>
+      <value>2592х1520/2560х1440/1920х1080/960х576</value>
+    </spec>
+    <spec>
+      <name>Чувствительность, лк</name>
+      <value>0.01/0</value>
+    </spec>
+    <spec>
+      <name>Объектив, мм</name>
+      <value>3.6</value>
+    </spec>
+    <spec>
+      <name>Дальность подсветки, м</name>
+      <value>40</value>
+    </spec>
+    <spec>
+      <name>Режим "День/Ночь"</name>
+      <value>да</value>
+    </spec>
+    <spec>
+      <name>Напряжение питания DC, В</name>
+      <value>12</value>
+    </spec>
+    <spec>
+      <name>Диапазон рабочих температур, °С</name>
+      <value>-40…+60</value>
+    </spec>
+    <spec>
+      <name>Габаритные размеры мм</name>
+      <value>78.9х75.4х184.9</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+    <passport>document_2.pdf</passport>
+  </files>
+  <documents>
+    <document title="Паспорт" size="646.52 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/2/222418E5B9ECBE7CE29D103D0B4BDF2A.pdf</document>
+    <document title="Дополнение к руководству" size="64.17 КБ">https://www.tinko.ru/upload/exchange/public/documentation/2/7/27FF9DB92E6D8A9AA417E54629017C55.jpg</document>
+  </documents>
+</product>

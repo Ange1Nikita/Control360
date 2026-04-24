@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<product>
+  <name>DS-PWA96-M-WE(RU) black</name>
+  <model>DS-PWA96-M-WE(RU)</model>
+  <category>Охранно-пожарная сигнализация</category>
+  <subcategory />
+  <product_url>https://hiwatch.net/ds-pwa96-m-we-ru-black</product_url>
+  <description>
+    <paragraph>Особенности:</paragraph>
+    <paragraph>• TCP / IP, Wi-Fi и сеть 2G</paragraph>
+    <paragraph>• Беспроводной протокол нового поколения: Tri-X / Cam-X</paragraph>
+    <paragraph>• Передача радиосигнала на дальние дистанции</paragraph>
+    <paragraph>• Двусторонняя связь с шифрованием AES-128</paragraph>
+    <paragraph>• Подключение до 96 беспроводных зон / выходов (включая 48 PIR-датчиков со встроенной камерой), 48 беспроводных брелоков, 4 повторителей, 6 звуковых оповещателей, 8 считывателей карт (брелоков) и клавиатур</paragraph>
+    <paragraph>• Поддержка до 48 пользователей сети, включая 1 установщика, 1 администратора и 46 обычных пользователей</paragraph>
+    <paragraph>• Голосовые предупреждения</paragraph>
+    <paragraph>• Настройка через веб-клиент, мобильный клиент и Convergence Cloud</paragraph>
+    <paragraph>• Конфигурация Hik-Connect и Hik-Partner Pro зависит от уровня доступа пользователя</paragraph>
+    <paragraph>• Тревожные уведомления в сообщения или через телефонные звонки</paragraph>
+    <paragraph>• Просмотр видео в режиме реального времени в Hik-Connect</paragraph>
+    <paragraph>• Отправка видео тревожных событий по электронной почте и в приложение</paragraph>
+    <paragraph>• LED-индикатор для индикации состояния системы</paragraph>
+    <paragraph>• Резервная литиевая батарея 4520 мА ч</paragraph>
+    <paragraph>• Протокол SIA-DC09, поддержка Contact ID и формата данных SIA</paragraph>
+    <paragraph>• Использование Hik-IP Receiver и Hik-IP Receiver Pro для подключения к ЧОП / ПЦН</paragraph>
+    <paragraph>Диагностика через приложение или веб-интерфейс</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Установщик</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Приложение для работы установщика</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Короткие видео</paragraph>
+    <paragraph>4</paragraph>
+    <paragraph>Стандарт Wi-Fi</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Веб-сервер для обслуживания (автономная настройка)</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Режим охраны</paragraph>
+    <paragraph>Полная охрана / охрана с обходом зон</paragraph>
+    <paragraph>Обновление прошивки</paragraph>
+    <paragraph>Приложение / веб-интерфейс</paragraph>
+    <paragraph>Администратор</paragraph>
+    <paragraph>1</paragraph>
+    <paragraph>Проводная сеть</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Инструменты программирования</paragraph>
+    <paragraph>Hik-Connect / Hik-Partner Pro / веб-интерфейс / IVMS4200 / Convergence Cloud</paragraph>
+    <paragraph>Форсировать постановку на охрану открытых зон</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Журнал памяти</paragraph>
+    <paragraph>5000</paragraph>
+    <paragraph>Пользователи</paragraph>
+    <paragraph>46</paragraph>
+    <paragraph>Приложение для работы пользователя</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Голосовые предупреждения</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Область</paragraph>
+    <paragraph>32</paragraph>
+    <paragraph>Таймер автоматической постановки на охрану / снятия с охраны</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Выход</paragraph>
+    <paragraph>RS-232</paragraph>
+    <paragraph>Слот SIM-карты</paragraph>
+    <paragraph>Два</paragraph>
+    <paragraph>3 / 4G</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Встроенный считыватель карт (брелоков)</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Встроенный динамик</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Тип батареи</paragraph>
+    <paragraph>Встроенная литиевая батарея</paragraph>
+    <paragraph>Питание</paragraph>
+    <paragraph>Встроенный источник питания</paragraph>
+    <paragraph>Рабочая температура</paragraph>
+    <paragraph>От -10 до +55 °C (Батарею нельзя заряжать при температуре ниже 10 °C. Убедитесь, что адаптер подключен.)</paragraph>
+    <paragraph>Срок службы батареи</paragraph>
+    <paragraph>До 12 часов при нормальной температуре (время работы батареи может быть значительно сокращено при эксплуатации в условиях низких температур)</paragraph>
+    <paragraph>Частота радиосвязи</paragraph>
+    <paragraph>868 МГц</paragraph>
+    <paragraph>Метод радиочастотной передачи</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Беспроводная охранная система</paragraph>
+    <paragraph>Скачкообразная смена частоты, шифрование 128 AES</paragraph>
+    <paragraph>LED-индикатор	Постановка на охрану / снятие с охраны, тампер, сбой, облачный сервис, питание</paragraph>
+    <paragraph>Размеры</paragraph>
+    <paragraph>170.0  170.0  38.6 мм</paragraph>
+    <paragraph>Материал корпуса</paragraph>
+    <paragraph>Пластик</paragraph>
+    <paragraph>Цветопередача</paragraph>
+    <paragraph>Белый</paragraph>
+    <paragraph>Масса</paragraph>
+    <paragraph>557.5 г</paragraph>
+    <paragraph>Метка</paragraph>
+    <paragraph>48</paragraph>
+    <paragraph>PIRCAM</paragraph>
+    <paragraph>Поддерживается</paragraph>
+    <paragraph>Зоны</paragraph>
+    <paragraph>96 (до 48 внутренних извещателей)</paragraph>
+    <paragraph>Клавиатура</paragraph>
+    <paragraph>8 (включая считыватель меток)</paragraph>
+    <paragraph>Беспроводной звуковой оповещатель</paragraph>
+    <paragraph>6 (3 внутри помещений + 3 снаружи помещений)</paragraph>
+    <paragraph>Беспроводной повторитель</paragraph>
+    <paragraph>4</paragraph>
+    <paragraph>Брелок</paragraph>
+    <paragraph>48</paragraph>
+    <paragraph>Многофункциональный передатчик</paragraph>
+    <paragraph>6</paragraph>
+    <paragraph>Протокол</paragraph>
+    <paragraph>ARC	SIA DC09 (уровень SIA 2, Contact ID), ISUP, ISAPI (SDK) Hik-IP Receiver и Hik-IP Receiver Pro (Sur-Gard и Ademco 685) Поддерживает верификацию видео и удаленное управление</paragraph>
+  </description>
+  <specifications>
+    <spec>
+      <name />
+      <value>Особенности:</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• TCP / IP, Wi-Fi и сеть 2G</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Беспроводной протокол нового поколения: Tri-X / Cam-X</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Передача радиосигнала на дальние дистанции</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Двусторонняя связь с шифрованием AES-128</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Подключение до 96 беспроводных зон / выходов (включая 48 PIR-датчиков со встроенной камерой), 48 беспроводных брелоков, 4 повторителей, 6 звуковых оповещателей, 8 считывателей карт (брелоков) и клавиатур</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Поддержка до 48 пользователей сети, включая 1 установщика, 1 администратора и 46 обычных пользователей</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Голосовые предупреждения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Настройка через веб-клиент, мобильный клиент и Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Конфигурация Hik-Connect и Hik-Partner Pro зависит от уровня доступа пользователя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Тревожные уведомления в сообщения или через телефонные звонки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Просмотр видео в режиме реального времени в Hik-Connect</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Отправка видео тревожных событий по электронной почте и в приложение</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• LED-индикатор для индикации состояния системы</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Резервная литиевая батарея 4520 мА ч</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Протокол SIA-DC09, поддержка Contact ID и формата данных SIA</value>
+    </spec>
+    <spec>
+      <name />
+      <value>• Использование Hik-IP Receiver и Hik-IP Receiver Pro для подключения к ЧОП / ПЦН</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Диагностика через приложение или веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Установщик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для работы установщика</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Короткие видео</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Стандарт Wi-Fi</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Веб-сервер для обслуживания (автономная настройка)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Режим охраны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Полная охрана / охрана с обходом зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Обновление прошивки</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение / веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Администратор</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Проводная сеть</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Инструменты программирования</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Hik-Connect / Hik-Partner Pro / веб-интерфейс / IVMS4200 / Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Форсировать постановку на охрану открытых зон</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Журнал памяти</value>
+    </spec>
+    <spec>
+      <name />
+      <value>5000</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пользователи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Приложение для работы пользователя</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Голосовые предупреждения</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Область</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Таймер автоматической постановки на охрану / снятия с охраны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Выход</value>
+    </spec>
+    <spec>
+      <name />
+      <value>RS-232</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Слот SIM-карты</value>
+    </spec>
+    <spec>
+      <name />
+      <value>3 / 4G</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный считыватель карт (брелоков)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный динамик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Тип батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Встроенный источник питания</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Рабочая температура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>От -10 до +55 °C (Батарею нельзя заряжать при температуре ниже 10 °C. Убедитесь, что адаптер подключен.)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Срок службы батареи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>До 12 часов при нормальной температуре (время работы батареи может быть значительно сокращено при эксплуатации в условиях низких температур)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Частота радиосвязи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метод радиочастотной передачи</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводная охранная система</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Скачкообразная смена частоты, шифрование 128 AES</value>
+    </spec>
+    <spec>
+      <name />
+      <value>LED-индикатор	Постановка на охрану / снятие с охраны, тампер, сбой, облачный сервис, питание</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Размеры</value>
+    </spec>
+    <spec>
+      <name />
+      <value>170.0  170.0  38.6 мм</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Материал корпуса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Цветопередача</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Белый</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Масса</value>
+    </spec>
+    <spec>
+      <name />
+      <value>557.5 г</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Метка</value>
+    </spec>
+    <spec>
+      <name />
+      <value>PIRCAM</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Зоны</value>
+    </spec>
+    <spec>
+      <name />
+      <value>96 (до 48 внутренних извещателей)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Клавиатура</value>
+    </spec>
+    <spec>
+      <name />
+      <value>8 (включая считыватель меток)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной звуковой оповещатель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>6 (3 внутри помещений + 3 снаружи помещений)</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Беспроводной повторитель</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Брелок</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Многофункциональный передатчик</value>
+    </spec>
+    <spec>
+      <name />
+      <value>Протокол</value>
+    </spec>
+    <spec>
+      <name />
+      <value>ARC	SIA DC09 (уровень SIA 2, Contact ID), ISUP, ISAPI (SDK) Hik-IP Receiver и Hik-IP Receiver Pro (Sur-Gard и Ademco 685) Поддерживает верификацию видео и удаленное управление</value>
+    </spec>
+    <spec>
+      <name>Диагностика через приложение или веб-интерфейс</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Установщик</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Приложение для работы установщика</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Короткие видео</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Стандарт Wi-Fi</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Веб-сервер для обслуживания (автономная настройка)</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Режим охраны</name>
+      <value>Полная охрана / охрана с обходом зон</value>
+    </spec>
+    <spec>
+      <name>Обновление прошивки</name>
+      <value>Приложение / веб-интерфейс</value>
+    </spec>
+    <spec>
+      <name>Администратор</name>
+      <value>1</value>
+    </spec>
+    <spec>
+      <name>Проводная сеть</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Инструменты программирования</name>
+      <value>Hik-Connect / Hik-Partner Pro / веб-интерфейс / IVMS4200 / Convergence Cloud</value>
+    </spec>
+    <spec>
+      <name>Форсировать постановку на охрану открытых зон</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Журнал памяти</name>
+      <value>5000</value>
+    </spec>
+    <spec>
+      <name>Пользователи</name>
+      <value>46</value>
+    </spec>
+    <spec>
+      <name>Приложение для работы пользователя</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Голосовые предупреждения</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Область</name>
+      <value>32</value>
+    </spec>
+    <spec>
+      <name>Таймер автоматической постановки на охрану / снятия с охраны</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Выход</name>
+      <value>RS-232</value>
+    </spec>
+    <spec>
+      <name>Слот SIM-карты</name>
+      <value>Два</value>
+    </spec>
+    <spec>
+      <name>3 / 4G</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Встроенный считыватель карт (брелоков)</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Встроенный динамик</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Тип батареи</name>
+      <value>Встроенная литиевая батарея</value>
+    </spec>
+    <spec>
+      <name>Питание</name>
+      <value>Встроенный источник питания</value>
+    </spec>
+    <spec>
+      <name>Рабочая температура</name>
+      <value>От -10 до +55 °C (Батарею нельзя заряжать при температуре ниже 10 °C. Убедитесь, что адаптер подключен.)</value>
+    </spec>
+    <spec>
+      <name>Срок службы батареи</name>
+      <value>До 12 часов при нормальной температуре (время работы батареи может быть значительно сокращено при эксплуатации в условиях низких температур)</value>
+    </spec>
+    <spec>
+      <name>Частота радиосвязи</name>
+      <value>868 МГц</value>
+    </spec>
+    <spec>
+      <name>Метод радиочастотной передачи</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Беспроводная охранная система</name>
+      <value>Скачкообразная смена частоты, шифрование 128 AES</value>
+    </spec>
+    <spec>
+      <name>Размеры</name>
+      <value>170.0  170.0  38.6 мм</value>
+    </spec>
+    <spec>
+      <name>Материал корпуса</name>
+      <value>Пластик</value>
+    </spec>
+    <spec>
+      <name>Цветопередача</name>
+      <value>Белый</value>
+    </spec>
+    <spec>
+      <name>Масса</name>
+      <value>557.5 г</value>
+    </spec>
+    <spec>
+      <name>Метка</name>
+      <value>48</value>
+    </spec>
+    <spec>
+      <name>PIRCAM</name>
+      <value>Поддерживается</value>
+    </spec>
+    <spec>
+      <name>Зоны</name>
+      <value>96 (до 48 внутренних извещателей)</value>
+    </spec>
+    <spec>
+      <name>Клавиатура</name>
+      <value>8 (включая считыватель меток)</value>
+    </spec>
+    <spec>
+      <name>Беспроводной звуковой оповещатель</name>
+      <value>6 (3 внутри помещений + 3 снаружи помещений)</value>
+    </spec>
+    <spec>
+      <name>Беспроводной повторитель</name>
+      <value>4</value>
+    </spec>
+    <spec>
+      <name>Брелок</name>
+      <value>48</value>
+    </spec>
+    <spec>
+      <name>Многофункциональный передатчик</name>
+      <value>6</value>
+    </spec>
+    <spec>
+      <name>Протокол</name>
+      <value>ARC	SIA DC09 (уровень SIA 2, Contact ID), ISUP, ISAPI (SDK) Hik-IP Receiver и Hik-IP Receiver Pro (Sur-Gard и Ademco 685) Поддерживает верификацию видео и удаленное управление</value>
+    </spec>
+  </specifications>
+  <files>
+    <image>image.jpg</image>
+    <passport>passport.pdf</passport>
+  </files>
+</product>
