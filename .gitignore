@@ -49,3 +49,6 @@ venv/
 *.pem
 coverage/
 .vercel
+
+# embedded legacy repo inside app/ (we treat app/ as plain folder of root repo)
+app/.git/
