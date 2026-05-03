@@ -1,0 +1,378 @@
+@import "tailwindcss";
+
+:root {
+  --brand: #009B76;
+  --brand-light: #14c296;
+  --brand-pale: #7fd4bc;
+  --brand-bg: #e6f7f2;
+  --bg: #f4f6fa;
+  --surface: #ffffff;
+  --text: #0f172a;
+  --text-2: #475569;
+  --text-3: #94a3b8;
+  --border: #e2e8f0;
+}
+
+@theme inline {
+  --color-background: var(--bg);
+  --color-foreground: var(--text);
+  --color-brand: var(--brand);
+  --color-brand-light: var(--brand-light);
+  --color-brand-pale: var(--brand-pale);
+  --color-brand-bg: var(--brand-bg);
+  --font-sans: var(--font-inter);
+}
+
+* { -webkit-font-smoothing: antialiased; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+/* ==== StaggeredMenu (bundled styles) ==== */
+.staggered-menu-wrapper {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  z-index: 40;
+  pointer-events: none;
+}
+/* Бургер-меню — только для мобильных/планшетов. На десктопе (lg+) есть полноценная nav. */
+@media (min-width: 1024px) {
+  .staggered-menu-wrapper { display: none !important; }
+}
+.staggered-menu-wrapper.fixed-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 60; /* выше sticky-header (z-50) */
+  overflow: hidden;
+}
+.staggered-menu-header {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* Опускаем header кнопки в уровень синей nav-полосы, по ширине совпадаем с контейнером сайта */
+  padding: 42px 20px 0;
+  background: transparent;
+  pointer-events: none;
+  z-index: 20;
+}
+@media (min-width: 640px) {
+  .staggered-menu-header { padding: 46px 20px 0; }
+}
+@media (min-width: 1024px) {
+  .staggered-menu-header { padding: 55px 32px 0; }
+}
+.staggered-menu-header > * { pointer-events: auto; }
+.sm-logo { display: none; } /* у нас свой лого в шапке */
+.sm-toggle {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  background: rgba(255,255,255,0.1);
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  color: #fff;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 1;
+  overflow: visible;
+  padding: 9px 11px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+.sm-toggle:hover { background: rgba(255,255,255,0.18); }
+.sm-toggle:active { transform: scale(0.96); }
+.staggered-menu-wrapper[data-open] .sm-toggle { background: rgba(255,255,255,0.16); color: #fff; }
+/* Текст "Menu/Close" убираем всегда — только иконка-бургер */
+.sm-toggle-textWrap { display: none !important; }
+.sm-toggle { gap: 0 !important; }
+@media (max-width: 639px) {
+  .sm-toggle { padding: 8px 10px; }
+}
+.sm-toggle:focus-visible {
+  outline: 2px solid #ffffffaa;
+  outline-offset: 4px;
+  border-radius: 4px;
+}
+.sm-toggle-textWrap {
+  position: relative;
+  display: inline-block;
+  height: 1em;
+  overflow: hidden;
+  white-space: nowrap;
+  width: var(--sm-toggle-width, auto);
+  min-width: var(--sm-toggle-width, auto);
+}
+.sm-toggle-textInner { display: flex; flex-direction: column; line-height: 1; }
+.sm-toggle-line { display: block; height: 1em; line-height: 1; }
+.sm-icon {
+  position: relative;
+  width: 22px;
+  height: 16px;
+  flex: 0 0 22px;
+  display: inline-block;
+}
+.sm-icon-line {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background: currentColor;
+  border-radius: 2px;
+  will-change: transform, opacity;
+}
+.sm-icon-line-top { top: 0; }
+.sm-icon-line-middle { top: 50%; margin-top: -1px; }
+.sm-icon-line-bottom { bottom: 0; }
+.sm-line { display: none !important; }
+.sm-panel-itemWrap { position: relative; overflow: hidden; line-height: 1; }
+.staggered-menu-panel {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: clamp(280px, 38vw, 440px);
+  height: 100%;
+  /* Премиальный синий — с глубиной и мягкими свечениями */
+  background-color: #1E40AF;
+  background-image:
+    radial-gradient(circle at 18% 18%, rgba(96,165,250,0.38), transparent 55%),
+    radial-gradient(circle at 90% 85%, rgba(20,194,150,0.24), transparent 60%),
+    radial-gradient(circle at 50% 50%, rgba(147,197,253,0.12), transparent 70%),
+    linear-gradient(160deg, #2549c2 0%, #1E40AF 45%, #0F1C55 100%);
+  box-shadow:
+    -20px 0 60px -20px rgba(0,0,0,0.6),
+    inset 1px 0 0 rgba(96,165,250,0.25);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  display: flex;
+  flex-direction: column;
+  padding: 6em 2em 2em 2em;
+  overflow-y: auto;
+  z-index: 10;
+  pointer-events: auto;
+  opacity: 0;
+}
+/* Деликатный «grid»-оверлей поверх панели для премиальной текстуры */
+.staggered-menu-panel::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  opacity: 0.05;
+  background-image:
+    linear-gradient(rgba(255,255,255,1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,1) 1px, transparent 1px);
+  background-size: 48px 48px;
+  mask-image: linear-gradient(to bottom, black 0%, transparent 85%);
+  -webkit-mask-image: linear-gradient(to bottom, black 0%, transparent 85%);
+}
+[data-position='left'] .staggered-menu-panel { right: auto; left: 0; }
+.sm-prelayers {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: clamp(280px, 38vw, 440px);
+  pointer-events: none;
+  z-index: 5;
+  opacity: 0;
+}
+[data-position='left'] .sm-prelayers { right: auto; left: 0; }
+.sm-prelayer {
+  position: absolute;
+  top: 0; right: 0;
+  height: 100%;
+  width: 100%;
+  transform: translateX(0);
+  opacity: 0;
+}
+.sm-panel-inner { flex: 1; display: flex; flex-direction: column; gap: 1.25rem; }
+.sm-panel-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.sm-panel-item {
+  position: relative;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 2rem;
+  cursor: pointer;
+  line-height: 1;
+  letter-spacing: -0.8px;
+  text-transform: uppercase;
+  transition: color 0.25s, text-shadow 0.25s;
+  display: block;
+  text-decoration: none;
+  padding-right: 2.4em;
+  white-space: nowrap;
+}
+@media (min-width: 640px) {
+  .sm-panel-item { font-size: 2.5rem; letter-spacing: -1px; }
+}
+@media (min-width: 1024px) {
+  .sm-panel-item { font-size: 3rem; letter-spacing: -1.5px; }
+}
+.sm-panel-itemLabel {
+  display: inline-block;
+  will-change: transform;
+  transform-origin: 50% 100%;
+}
+.sm-panel-item:hover {
+  color: var(--sm-accent, #14c296);
+  text-shadow: 0 0 24px rgba(20,194,150,0.45);
+}
+.sm-panel-list[data-numbering] { counter-reset: smItem; }
+.sm-panel-list[data-numbering] .sm-panel-item::after {
+  counter-increment: smItem;
+  content: counter(smItem, decimal-leading-zero);
+  position: absolute;
+  top: 0.15em;
+  right: 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: var(--sm-accent, #14c296);
+  letter-spacing: 0;
+  pointer-events: none;
+  user-select: none;
+  opacity: var(--sm-num-opacity, 0);
+  text-shadow: 0 0 18px rgba(20,194,150,0.55);
+}
+.sm-socials {
+  margin-top: auto;
+  padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.sm-socials-title {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--sm-accent, #14c296);
+}
+.sm-socials-list {
+  list-style: none;
+  margin: 0; padding: 0;
+  display: flex; flex-direction: row; align-items: center; gap: 1rem; flex-wrap: wrap;
+}
+.sm-socials-link {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #ffffff;
+  text-decoration: none;
+  position: relative;
+  padding: 2px 0;
+  display: inline-block;
+  transition: color 0.3s ease, opacity 0.3s ease;
+}
+.sm-socials-link:hover { color: var(--sm-accent, #14c296); }
+@media (max-width: 1024px) {
+  .staggered-menu-panel { width: 100%; left: 0; right: 0; }
+}
+
+/* ==== ShinyText ==== */
+.shiny-text { display: inline-block; }
+
+/* ==== TypedText — мигающий курсор ==== */
+.typed-cursor {
+  display: inline-block;
+  width: 2px;
+  height: 0.9em;
+  margin-left: 4px;
+  vertical-align: -0.05em;
+  background: currentColor;
+  border-radius: 1px;
+  animation: typedBlink 0.9s steps(1, end) infinite;
+  box-shadow: 0 0 8px currentColor;
+}
+@keyframes typedBlink {
+  0%, 50% { opacity: 1; }
+  50.01%, 100% { opacity: 0; }
+}
+
+/* ==== ElectricBorder (bundled styles) ==== */
+.electric-border {
+  --electric-light-color: oklch(from var(--electric-border-color) l c h);
+  position: relative;
+  border-radius: inherit;
+  overflow: visible;
+  isolation: isolate;
+}
+.eb-canvas-container {
+  position: absolute;
+  top: 50%; left: 50%;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  z-index: 2;
+}
+.eb-canvas { display: block; }
+.eb-content { position: relative; border-radius: inherit; z-index: 1; }
+.eb-layers {
+  position: absolute; inset: 0; border-radius: inherit;
+  pointer-events: none; z-index: 0;
+}
+.eb-glow-1, .eb-glow-2, .eb-background-glow {
+  position: absolute; inset: 0; border-radius: inherit;
+  pointer-events: none; box-sizing: border-box;
+}
+.eb-glow-1 {
+  border: 2px solid oklch(from var(--electric-border-color) l c h / 0.6);
+  filter: blur(1px);
+}
+.eb-glow-2 {
+  border: 2px solid var(--electric-light-color);
+  filter: blur(4px);
+}
+.eb-background-glow {
+  z-index: -1;
+  transform: scale(1.1);
+  filter: blur(32px);
+  opacity: 0.3;
+  background: linear-gradient(-30deg, var(--electric-light-color), transparent, var(--electric-border-color));
+}
+
+.depth-card {
+  background: rgba(255,255,255,0.65);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255,255,255,0.8);
+  border-radius: 1rem;
+  box-shadow: 0 1px 8px rgba(55,126,250,0.03), 0 1px 2px rgba(0,0,0,0.02);
+  transition: all 0.3s ease;
+}
+.depth-card:hover {
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 8px 30px rgba(55,126,250,0.07), 0 1px 3px rgba(0,0,0,0.03);
+  transform: translateY(-1px);
+}
+
+::selection {
+  background: var(--brand-pale);
+  color: var(--text);
+}
+
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--brand-pale); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--brand-light); }
